@@ -17925,8 +17925,8 @@
     "playerId": "player556",
     "name": "Daniel Kitts",
     "url": "../players/player556.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster8",
+    "teamLabel": "Charlotte",
     "pos": "PG",
     "age": "25",
     "ht": "6-1",
@@ -17934,12 +17934,18 @@
     "experience": "3 years",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 25000000.0,
+    "currentSalaryText": "$25,000,000",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Charlotte with pick #10 of round 1 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C+",
     "Jps": "A",
     "Fts": "B+",
@@ -17962,8 +17968,8 @@
     "playForWinner": "",
     "loyalty": "",
     "happiness": "",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "lastTeamId": "roster8",
+    "lastTeam": "Charlotte",
     "potentials": {
       "Ins": "B",
       "Jps": "A",
@@ -17980,27 +17986,26 @@
     },
     "potentialCurrentColor": "#0052C3",
     "potentialFutureColor": "#0052C3",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 25000000.0,
+        "salaryText": "$25,000,000"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 25000000.0,
+        "salaryText": "$25,000,000"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 25000000.0,
+        "salaryText": "$25,000,000"
       },
       {
         "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 25000000.0,
+        "salaryText": "$25,000,000"
       },
       {
         "year": "2014",
@@ -19166,8 +19171,8 @@
     "playerId": "player63",
     "name": "Daryl Parker",
     "url": "../players/player63.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster7",
+    "teamLabel": "New Jersey",
     "pos": "C",
     "age": "23",
     "ht": "7-1",
@@ -19175,12 +19180,18 @@
     "experience": "1 year",
     "birdYears": 1,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 25000000.0,
+    "currentSalaryText": "$25,000,000",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by New Jersey with pick #7 of round 1 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C",
     "Jps": "C",
     "Fts": "A-",
@@ -19203,8 +19214,8 @@
     "playForWinner": "",
     "loyalty": "",
     "happiness": "",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "lastTeamId": "roster7",
+    "lastTeam": "New Jersey",
     "potentials": {
       "Ins": "C",
       "Jps": "C",
@@ -19221,27 +19232,26 @@
     },
     "potentialCurrentColor": "#0052C3",
     "potentialFutureColor": "#0052C3",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 25000000.0,
+        "salaryText": "$25,000,000"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 25000000.0,
+        "salaryText": "$25,000,000"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 25000000.0,
+        "salaryText": "$25,000,000"
       },
       {
         "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 25000000.0,
+        "salaryText": "$25,000,000"
       },
       {
         "year": "2014",
@@ -30506,8 +30516,8 @@
     "playerId": "player355",
     "name": "Harley Adler",
     "url": "../players/player355.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster26",
+    "teamLabel": "St. John's",
     "pos": "SF",
     "age": "23",
     "ht": "6-8",
@@ -30515,12 +30525,18 @@
     "experience": "Rookie",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 25000000.0,
+    "currentSalaryText": "$25,000,000",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by St. John's with pick #9 of round 1 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "D",
     "Jps": "B",
     "Fts": "A-",
@@ -30543,8 +30559,8 @@
     "playForWinner": "",
     "loyalty": "",
     "happiness": "",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "lastTeamId": "roster26",
+    "lastTeam": "St. John's",
     "potentials": {
       "Ins": "D",
       "Jps": "A",
@@ -30561,27 +30577,26 @@
     },
     "potentialCurrentColor": "#0052C3",
     "potentialFutureColor": "#0052C3",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 25000000.0,
+        "salaryText": "$25,000,000"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 25000000.0,
+        "salaryText": "$25,000,000"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 25000000.0,
+        "salaryText": "$25,000,000"
       },
       {
         "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 25000000.0,
+        "salaryText": "$25,000,000"
       },
       {
         "year": "2014",
@@ -65541,8 +65556,8 @@
     "playerId": "player134",
     "name": "Travis Thompson",
     "url": "../players/player134.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster29",
+    "teamLabel": "Portland",
     "pos": "C",
     "age": "30",
     "ht": "6-11",
@@ -65550,12 +65565,18 @@
     "experience": "8 years",
     "birdYears": 1,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 30000000.0,
+    "currentSalaryText": "$30,000,000",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Portland with pick #8 of round 1 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "A",
     "Jps": "C+",
     "Fts": "B-",
@@ -65578,8 +65599,8 @@
     "playForWinner": "",
     "loyalty": "",
     "happiness": "",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "lastTeamId": "roster29",
+    "lastTeam": "Portland",
     "potentials": {
       "Ins": "A",
       "Jps": "B",
@@ -65596,27 +65617,26 @@
     },
     "potentialCurrentColor": "#0052C3",
     "potentialFutureColor": "#0052C3",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 30000000.0,
+        "salaryText": "$30,000,000"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 30000000.0,
+        "salaryText": "$30,000,000"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 35000000.0,
+        "salaryText": "$35,000,000"
       },
       {
         "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 35000000.0,
+        "salaryText": "$35,000,000"
       },
       {
         "year": "2014",

@@ -1,7 +1,7 @@
 window.LeagueSiteConfig = {
   "schemaVersion": 3,
   "projectId": "swba-leauge",
-  "publicSiteUrl": "",
+  "publicSiteUrl": "https://www.saltwaterbasketball.ca/index/",
   "league": {
     "name": "Salt Water Basketball Association",
     "shortName": "SWBA",
