@@ -1,0 +1,11 @@
+{
+  "source": "boxes/*.htm",
+  "gameCount": 0,
+  "games": [],
+  "validation": {
+    "referencedGameCount": 0,
+    "parsedGameCount": 0,
+    "warningCount": 0,
+    "warnings": []
+  }
+}

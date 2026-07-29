@@ -1,0 +1,662 @@
+<!doctype html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.7, maximum-scale=5.0, user-scalable=yes">
+  <title>Trade Tool</title>
+  <link rel="icon" type="image/png" href="../../00-build/database/favicon.png">
+  <script src="../js/theme-preload.js"></script>
+  <link rel="stylesheet" href="../css/styles.css">
+  <script src="../js/site-config.js"></script>
+  <script src="../js/core.js" defer></script>
+  <script src="../js/settings.js" defer></script>
+  <script src="../js/menu.js" defer></script>
+  <script src="../js/trade-tool.js" defer></script>
+  <style type="text/css">
+    body {
+      margin: 0;
+      padding: 14px;
+      background: #edf1f5 !important;
+      color: #142033;
+      font-family: Inter, Tahoma, Arial, sans-serif;
+    }
+
+    .trade-shell {
+      display: grid;
+      gap: 10px;
+    }
+
+    .trade-panel,
+    .trade-team-card {
+      border-radius: 12px;
+      background: #ffffff;
+      box-shadow: 0 1px 4px rgba(15, 23, 42, 0.1);
+    }
+
+    .trade-panel {
+      overflow: hidden;
+    }
+
+    .trade-team-card {
+      overflow: visible;
+    }
+
+    .trade-toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      justify-content: flex-end;
+    }
+
+    .trade-btn,
+    .trade-select,
+    .trade-input,
+    .trade-textarea {
+      font: 600 9pt/1.25 Inter, Tahoma, Arial, sans-serif;
+    }
+
+    .trade-btn {
+      height: 32px;
+      padding: 0 11px;
+      border: 1px solid #cbd5e1;
+      border-radius: 8px;
+      background: #ffffff;
+      color: #142033;
+      cursor: pointer;
+    }
+
+    .trade-btn:hover {
+      background: #f8fafc;
+    }
+
+    .trade-btn--dark {
+      background: #142033;
+      border-color: #142033;
+      color: #ffffff;
+    }
+
+    .trade-btn--dark:hover {
+      background: #1f2e4d;
+    }
+
+    .trade-btn--warn {
+      background: #fff7ed;
+      border-color: #fdba74;
+      color: #9a3412;
+    }
+
+    .trade-btn--danger {
+      background: #fef2f2;
+      border-color: #fca5a5;
+      color: #991b1b;
+    }
+
+    .trade-statusbar {
+      display: grid;
+      gap: 10px;
+      grid-template-columns: 1fr;
+    }
+
+    .trade-panel__head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      padding: 8px 10px;
+      background: #111b36;
+      color: #ffffff;
+      font-size: 7.5pt;
+      font-weight: 800;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    .trade-panel__body {
+      padding: 8px 10px 10px;
+      background: #f8fafc;
+    }
+
+    .trade-verdict {
+      display: grid;
+      gap: 6px;
+    }
+
+    .trade-status-top {
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+      margin-bottom: 4px;
+    }
+
+    .trade-status-row {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 10px;
+      margin-bottom: 2px;
+    }
+
+    .trade-pill {
+      display: inline-flex;
+      align-items: center;
+      width: fit-content;
+      min-height: 24px;
+      padding: 2px 9px;
+      border-radius: 999px;
+      background: #e2e8f0;
+      color: #334155;
+      font-size: 7.5pt;
+      font-weight: 800;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+    }
+
+    .trade-pill--good {
+      background: #dcfce7;
+      color: #166534;
+    }
+
+    .trade-pill--warn {
+      background: #fef3c7;
+      color: #92400e;
+    }
+
+    .trade-pill--bad {
+      background: #fee2e2;
+      color: #991b1b;
+    }
+
+    .trade-help {
+      margin: 0;
+      font-size: 8.5pt;
+      color: #475569;
+      line-height: 1.4;
+    }
+
+    .trade-lists {
+      display: grid;
+      gap: 10px;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .trade-list {
+      margin: 0;
+      padding-left: 18px;
+      font-size: 8.5pt;
+      color: #334155;
+      line-height: 1.45;
+    }
+
+    .trade-grid-wrap {
+      overflow-x: auto;
+      padding-bottom: 4px;
+    }
+
+    .trade-grid {
+      display: grid;
+      gap: 10px;
+      min-width: 0;
+    }
+
+    .trade-team-card {
+      min-width: 330px;
+      display: grid;
+      grid-template-rows: auto auto auto minmax(210px, 1fr) auto auto;
+    }
+
+    .trade-team-card--drop-target {
+      box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.18), 0 1px 4px rgba(15, 23, 42, 0.1);
+      transform: translateY(-1px);
+    }
+
+    .trade-team-card__head {
+      display: grid;
+      gap: 6px;
+      padding: 8px 10px;
+      background: #111b36;
+      color: #ffffff;
+      position: sticky;
+      top: 0;
+      z-index: 3;
+      border-radius: 12px 12px 0 0;
+    }
+
+    .trade-team-card__toolbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+    }
+
+    .trade-team-card__title {
+      margin: 0;
+      font-size: 11.5pt;
+      font-weight: 800;
+      line-height: 1;
+    }
+
+    .trade-team-card__meta {
+      font-size: 7.2pt;
+      color: currentColor;
+      opacity: 0.82;
+      line-height: 1.2;
+    }
+
+    .trade-header-stats {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 6px;
+    }
+
+    .trade-header-stat {
+      display: grid;
+      gap: 1px;
+      padding: 5px 6px;
+      border-radius: 8px;
+      background: rgba(255,255,255,0.12);
+      backdrop-filter: blur(1px);
+    }
+
+    .trade-header-stat__label {
+      font-size: 6.1pt;
+      font-weight: 800;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      opacity: 0.82;
+    }
+
+    .trade-header-stat__value {
+      font-size: 8.2pt;
+      font-weight: 800;
+      line-height: 1.05;
+    }
+
+    .trade-header-stat__note {
+      font-size: 6.5pt;
+      opacity: 0.78;
+      line-height: 1.1;
+    }
+
+    .trade-select,
+    .trade-input,
+    .trade-textarea {
+      width: 100%;
+      border: 1px solid #cbd5e1;
+      border-radius: 7px;
+      background: #ffffff;
+      color: #142033;
+    }
+
+    .trade-select,
+    .trade-input {
+      height: 27px;
+      padding: 0 7px;
+    }
+
+    .trade-textarea {
+      min-height: 180px;
+      padding: 10px;
+      resize: vertical;
+      line-height: 1.4;
+    }
+
+    .trade-select:focus,
+    .trade-input:focus,
+    .trade-textarea:focus {
+      outline: none;
+      border-color: #2563eb;
+      box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.12);
+    }
+
+    .trade-card-section {
+      padding: 8px;
+      border-bottom: 1px solid #e2e8f0;
+      background: #ffffff;
+    }
+
+    .trade-card-section:last-child {
+      border-bottom: 0;
+    }
+
+    .trade-card-label {
+      margin: 0 0 5px;
+      font-size: 6.7pt;
+      color: #475569;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+
+    .trade-search-row {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 6px;
+      margin-bottom: 6px;
+    }
+
+    .trade-asset-list,
+    .trade-cut-list,
+    .trade-outgoing-list,
+    .trade-incoming-list,
+    .trade-override-list {
+      display: grid;
+      gap: 6px;
+      max-height: 300px;
+      overflow: auto;
+      padding-right: 2px;
+    }
+
+    .trade-asset-row,
+    .trade-cut-row,
+    .trade-flow-row,
+    .trade-override-row {
+      display: grid;
+      gap: 6px;
+      padding: 8px;
+      border: 1px solid #dbe3ef;
+      border-radius: 10px;
+      background: #f8fafc;
+    }
+
+    .trade-asset-row[data-draggable-asset],
+    .trade-flow-row[data-draggable-asset] {
+      cursor: grab;
+    }
+
+    .trade-asset-row[data-draggable-asset]:active,
+    .trade-flow-row[data-draggable-asset]:active {
+      cursor: grabbing;
+    }
+
+    .trade-asset-row.trade-dragging,
+    .trade-flow-row.trade-dragging {
+      opacity: 0.72;
+    }
+
+    .trade-asset-row--selected {
+      border-color: #60a5fa;
+      background: #eff6ff;
+    }
+
+    .trade-asset-main,
+    .trade-flow-main,
+    .trade-cut-main,
+    .trade-override-main {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+    }
+
+    .trade-asset-title,
+    .trade-flow-title,
+    .trade-cut-title {
+      font-size: 8.8pt;
+      font-weight: 800;
+      color: #142033;
+      line-height: 1.2;
+    }
+
+    .trade-asset-meta,
+    .trade-flow-meta,
+    .trade-cut-meta,
+    .trade-override-meta {
+      font-size: 7.8pt;
+      color: #64748b;
+      line-height: 1.35;
+    }
+
+    .trade-money {
+      white-space: nowrap;
+      font-size: 8.4pt;
+      color: #0f172a;
+      font-weight: 800;
+    }
+
+    .trade-tag {
+      display: inline-flex;
+      align-items: center;
+      min-height: 18px;
+      padding: 0 7px;
+      border-radius: 999px;
+      background: #e2e8f0;
+      color: #334155;
+      font-size: 6.8pt;
+      font-weight: 800;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+    }
+
+    .trade-tag--rights {
+      background: #fef3c7;
+      color: #92400e;
+    }
+
+    .trade-inline-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      align-items: center;
+    }
+
+    .trade-drag-handle {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 24px;
+      height: 24px;
+      border: 1px solid #cbd5e1;
+      border-radius: 7px;
+      background: #ffffff;
+      color: #64748b;
+      cursor: grab;
+      font: 800 11px/1 Inter, Tahoma, Arial, sans-serif;
+      user-select: none;
+    }
+
+    .trade-drag-handle:active {
+      cursor: grabbing;
+    }
+
+    .trade-mini-btn {
+      height: 26px;
+      padding: 0 8px;
+      border: 1px solid #cbd5e1;
+      border-radius: 7px;
+      background: #ffffff;
+      color: #142033;
+      cursor: pointer;
+      font: 700 7.8pt/1 Inter, Tahoma, Arial, sans-serif;
+    }
+
+    .trade-mini-btn:hover {
+      background: #f8fafc;
+    }
+
+    .trade-mini-btn--remove {
+      color: #991b1b;
+      border-color: #fecaca;
+      background: #fff5f5;
+    }
+
+    .trade-flow-fields,
+    .trade-override-fields {
+      display: grid;
+      gap: 6px;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .trade-field {
+      display: grid;
+      gap: 4px;
+    }
+
+    .trade-field-label {
+      font-size: 6.9pt;
+      color: #64748b;
+      font-weight: 800;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+    }
+
+    .trade-checkboxes {
+      display: grid;
+      gap: 5px;
+    }
+
+    .trade-checkbox {
+      display: flex;
+      align-items: flex-start;
+      gap: 6px;
+      font-size: 7.8pt;
+      color: #334155;
+      line-height: 1.3;
+    }
+
+    .trade-checkbox input {
+      margin-top: 1px;
+    }
+
+    .trade-empty {
+      padding: 12px 10px;
+      border: 1px dashed #cbd5e1;
+      border-radius: 10px;
+      background: #f8fafc;
+      color: #64748b;
+      font-size: 8.2pt;
+      text-align: center;
+    }
+
+    .trade-footer-grid {
+      display: grid;
+      gap: 10px;
+      grid-template-columns: minmax(320px, 0.95fr) minmax(360px, 1.05fr);
+      align-items: start;
+    }
+
+    .trade-note {
+      margin: 0;
+      font-size: 8pt;
+      color: #475569;
+      line-height: 1.4;
+    }
+
+    @media (max-width: 1280px) {
+      .trade-statusbar,
+      .trade-footer-grid,
+      .trade-lists {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    @media (max-width: 760px) {
+      body {
+        padding: 10px;
+      }
+
+      .trade-toolbar {
+        justify-content: flex-start;
+      }
+
+      .trade-status-top {
+        grid-template-columns: 1fr;
+      }
+
+      .trade-team-card {
+        min-width: 292px;
+      }
+
+      .trade-header-stats {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="trade-shell">
+    <section class="trade-statusbar">
+      <article class="trade-panel">
+        <div class="trade-panel__head">
+          <span>Trade Status</span>
+          <span id="tradeOverrideStatus">Official Site Data</span>
+        </div>
+        <div class="trade-panel__body">
+          <div style="margin-top:0;">
+            <div class="trade-status-row">
+              <p class="trade-card-label" style="margin:0;">Blocking Errors</p>
+                <div class="trade-toolbar">
+                  <button class="trade-btn trade-btn--dark" id="tradeAddTeamBtn" type="button">Add Team</button>
+                  <button class="trade-btn" id="tradeApplyTradeToOverridesBtn" type="button">Add Trade To Overrides</button>
+                  <button class="trade-btn" id="tradeClearBtn" type="button">Clear Trade</button>
+                  <button class="trade-btn trade-btn--warn" id="tradeResetOverridesBtn" type="button">Reset Overrides</button>
+                  <button class="trade-btn" id="tradeCopyBtn" type="button">Copy Summary</button>
+                </div>
+            </div>
+            <div class="trade-verdict" style="margin-bottom:6px;">
+              <span class="trade-pill" id="tradeVerdictPill">Loading</span>
+            </div>
+            <div>
+              <ul class="trade-list" id="tradeErrorsList"></ul>
+              <div class="trade-note" id="tradeIssueCounts" style="margin-top:4px; margin-left:22px;">0 blockers / 0 review notes</div>
+            </div>
+          </div>
+        </div>
+      </article>
+    </section>
+
+    <section class="trade-grid-wrap">
+      <div class="trade-grid" id="tradeGrid"></div>
+    </section>
+
+    <section class="trade-footer-grid">
+      <article class="trade-panel">
+        <div class="trade-panel__head">
+          <span>Roster Override Mode</span>
+          <span>Session Only</span>
+        </div>
+        <div class="trade-panel__body">
+          <div class="trade-override-fields">
+            <div class="trade-field">
+              <label class="trade-field-label" for="tradePlayerOverrideInput">Player</label>
+              <input class="trade-input" id="tradePlayerOverrideInput" list="tradeAllPlayersList" placeholder="Search player name">
+            </div>
+            <div class="trade-field">
+              <label class="trade-field-label" for="tradePlayerOverrideTeam">Assign To</label>
+              <select class="trade-select" id="tradePlayerOverrideTeam"></select>
+            </div>
+            <div class="trade-field">
+              <label class="trade-field-label" for="tradeRightsOverrideInput">Youth Rights</label>
+              <input class="trade-input" id="tradeRightsOverrideInput" list="tradeAllRightsList" placeholder="Search prospect name">
+            </div>
+            <div class="trade-field">
+              <label class="trade-field-label" for="tradeRightsOverrideTeam">Rights To</label>
+              <select class="trade-select" id="tradeRightsOverrideTeam"></select>
+            </div>
+          </div>
+          <div class="trade-toolbar" style="justify-content:flex-start; margin-top:10px;">
+            <button class="trade-btn" id="tradeApplyPlayerOverrideBtn" type="button">Apply Player Override</button>
+            <button class="trade-btn trade-btn--warn" id="tradeRemovePlayerOverrideBtn" type="button">Remove Player From Rosters</button>
+            <button class="trade-btn" id="tradeApplyRightsOverrideBtn" type="button">Apply Rights Override</button>
+            <button class="trade-btn trade-btn--warn" id="tradeRemoveRightsOverrideBtn" type="button">Remove Rights Owner</button>
+          </div>
+          <p class="trade-note" style="margin-top:10px;">Use overrides when the index has not caught up to a completed move yet. Overrides stay in this browser session only and all trade calculations use the edited local state.</p>
+          <div class="trade-override-list" id="tradeOverridesList" style="margin-top:10px;"></div>
+        </div>
+      </article>
+
+      <article class="trade-panel">
+        <div class="trade-panel__head">
+          <span>Copyable Summary</span>
+          <span id="tradeSummaryTitleHint">Discord Ready</span>
+        </div>
+        <div class="trade-panel__body">
+          <textarea class="trade-textarea" id="tradeSummaryOutput" spellcheck="false" readonly></textarea>
+          <p class="trade-note" style="margin-top:8px;">Inter-tier labels are added automatically. Youth assets are listed as <strong>RIGHTS TO [Player Name]</strong>. Cut-related rules that depend on future signings stay in the review notes rather than the summary body.</p>
+        </div>
+      </article>
+    </section>
+  </main>
+
+  <datalist id="tradeAllPlayersList"></datalist>
+  <datalist id="tradeAllRightsList"></datalist>
+</body>
+</html>

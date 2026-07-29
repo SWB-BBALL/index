@@ -1,0 +1,15 @@
+{
+  "source": "ESL player database compact feeds",
+  "currentSnapshot": "current",
+  "latestCompletedSnapshot": "",
+  "latestCompletedLabel": "",
+  "currentHasStats": false,
+  "snapshots": [
+    {
+      "id": "current",
+      "label": "Current",
+      "path": "current.json",
+      "statYear": null
+    }
+  ]
+}
