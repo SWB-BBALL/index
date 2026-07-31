@@ -1,9 +1,9 @@
 window.LeagueSiteConfig = {
   "schemaVersion": 3,
-  "projectId": "swba-leauge",
-  "publicSiteUrl": "https://www.saltwaterbasketball.ca/index/",
+  "projectId": "swba-project",
+  "publicSiteUrl": "",
   "league": {
-    "name": "Salt Water Basketball Association",
+    "name": "Saltwater Basketball Association",
     "shortName": "SWBA",
     "logo": "00-assets/branding/league-logo.png",
     "favicon": "00-assets/branding/favicon.png"
@@ -767,8 +767,8 @@ window.LeagueSiteConfig = {
     "finance": {
       "visible": true,
       "publicDescription": "",
-      "softCapEnabled": true,
-      "hardCapEnforced": true,
+      "softCapEnabled": false,
+      "hardCapEnforced": false,
       "floorEnforced": false,
       "relegationGraceOffseasons": 1
     },
@@ -779,10 +779,10 @@ window.LeagueSiteConfig = {
       "birdMaxYears": 5,
       "birdEligibilityYears": 3,
       "maxAnnualIncreasePercent": 5.0,
-      "birdMaxAnnualIncreasePercent": 8.0,
+      "birdMaxAnnualIncreasePercent": 7.5,
       "increaseStepPercent": 0.5,
-      "minimumSalary": 760000,
-      "oneYearMaxSalary": 12000000,
+      "minimumSalary": 750000,
+      "oneYearMaxSalary": 15000000,
       "birdOneYearMaxSalary": 20000000,
       "multiYearMaxStartingSalary": 25000000
     },
