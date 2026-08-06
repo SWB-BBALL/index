@@ -317,9 +317,9 @@ window.LeagueSiteConfig = {
     }
   },
   "theme": {
-    "primary": "#12355B",
+    "primary": "#003865",
     "secondary": "#061A2F",
-    "accent": "#F5C542",
+    "accent": "#FFA400",
     "background": "#F4F7FB",
     "surface": "#FFFFFF",
     "text": "#172033",

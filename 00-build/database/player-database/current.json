@@ -2055,9 +2055,9 @@
       "id": "player494",
       "historyKey": "",
       "name": "Alfred Saunders",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Memphis",
+      "teamAbbr": "Memphis",
+      "status": "rostered",
       "pos": "PG",
       "age": 32,
       "href": "./unified-player.htm?id=player494",
@@ -2065,8 +2065,21 @@
       "potential": 111,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 15972698,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 15972698
+        },
+        {
+          "year": "2011",
+          "salary": 15972698
+        },
+        {
+          "year": "2012",
+          "salary": 15972698
+        }
+      ],
       "attributes": {
         "Ins": "C",
         "Jps": "B-",
@@ -2895,9 +2908,9 @@
       "id": "player42",
       "historyKey": "",
       "name": "Andrew Galloway",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Legia",
+      "teamAbbr": "Legia",
+      "status": "rostered",
       "pos": "C",
       "age": 26,
       "href": "./unified-player.htm?id=player42",
@@ -2905,8 +2918,17 @@
       "potential": 106,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 7241149,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 7241149
+        },
+        {
+          "year": "2011",
+          "salary": 7241149
+        }
+      ],
       "attributes": {
         "Ins": "C",
         "Jps": "C",
@@ -3651,9 +3673,9 @@
       "id": "player233",
       "historyKey": "",
       "name": "Antonia Lund",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "New York",
+      "teamAbbr": "New York",
+      "status": "rostered",
       "pos": "PF",
       "age": 25,
       "href": "./unified-player.htm?id=player233",
@@ -3661,8 +3683,17 @@
       "potential": 108,
       "overallColor": "#EDBE30",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 7395367,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 7395367
+        },
+        {
+          "year": "2011",
+          "salary": 7395367
+        }
+      ],
       "attributes": {
         "Ins": "D+",
         "Jps": "D+",
@@ -3735,9 +3766,9 @@
       "id": "player463",
       "historyKey": "",
       "name": "Antonio Smith",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Toronto",
+      "teamAbbr": "Toronto",
+      "status": "rostered",
       "pos": "PG",
       "age": 31,
       "href": "./unified-player.htm?id=player463",
@@ -3745,8 +3776,21 @@
       "potential": 103,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 12762154,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 12762154
+        },
+        {
+          "year": "2011",
+          "salary": 12762154
+        },
+        {
+          "year": "2012",
+          "salary": 12762154
+        }
+      ],
       "attributes": {
         "Ins": "C+",
         "Jps": "C+",
@@ -3819,9 +3863,9 @@
       "id": "player336",
       "historyKey": "",
       "name": "Antwan Pierce",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "New Jersey",
+      "teamAbbr": "New Jersey",
+      "status": "rostered",
       "pos": "SF",
       "age": 22,
       "href": "./unified-player.htm?id=player336",
@@ -3829,8 +3873,21 @@
       "potential": 114,
       "overallColor": "#EDBE30",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 11900213,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 11900213
+        },
+        {
+          "year": "2011",
+          "salary": 11900213
+        },
+        {
+          "year": "2012",
+          "salary": 11900213
+        }
+      ],
       "attributes": {
         "Ins": "C-",
         "Jps": "D+",
@@ -4827,9 +4884,9 @@
       "id": "player48",
       "historyKey": "",
       "name": "Augustas Kemzis",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Phoenix",
+      "teamAbbr": "Phoenix",
+      "status": "rostered",
       "pos": "C",
       "age": 30,
       "href": "./unified-player.htm?id=player48",
@@ -4837,8 +4894,17 @@
       "potential": 109,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 10209073,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 10209073
+        },
+        {
+          "year": "2011",
+          "salary": 10209073
+        }
+      ],
       "attributes": {
         "Ins": "D+",
         "Jps": "B-",
@@ -5163,9 +5229,9 @@
       "id": "player104",
       "historyKey": "",
       "name": "Barrett Solis",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Charlotte",
+      "teamAbbr": "Charlotte",
+      "status": "rostered",
       "pos": "C",
       "age": 21,
       "href": "./unified-player.htm?id=player104",
@@ -5173,8 +5239,21 @@
       "potential": 107,
       "overallColor": "#F2662A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 11652054,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 11652054
+        },
+        {
+          "year": "2011",
+          "salary": 11652054
+        },
+        {
+          "year": "2012",
+          "salary": 11652054
+        }
+      ],
       "attributes": {
         "Ins": "D+",
         "Jps": "C-",
@@ -5247,9 +5326,9 @@
       "id": "player111",
       "historyKey": "",
       "name": "Barry Jennette",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Los Angeles (LAL)",
+      "teamAbbr": "Los Angeles (LAL)",
+      "status": "rostered",
       "pos": "C",
       "age": 28,
       "href": "./unified-player.htm?id=player111",
@@ -5257,8 +5336,21 @@
       "potential": 102,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 11489496,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 11489496
+        },
+        {
+          "year": "2011",
+          "salary": 11489496
+        },
+        {
+          "year": "2012",
+          "salary": 13787396
+        }
+      ],
       "attributes": {
         "Ins": "C-",
         "Jps": "C-",
@@ -8154,9 +8246,9 @@
       "id": "player271",
       "historyKey": "",
       "name": "Bruce Burnt",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Detroit",
+      "teamAbbr": "Detroit",
+      "status": "rostered",
       "pos": "PF",
       "age": 19,
       "href": "./unified-player.htm?id=player271",
@@ -8164,8 +8256,21 @@
       "potential": 107,
       "overallColor": "#F2662A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 11570490,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 11570490
+        },
+        {
+          "year": "2011",
+          "salary": 11570490
+        },
+        {
+          "year": "2012",
+          "salary": 11570490
+        }
+      ],
       "attributes": {
         "Ins": "C",
         "Jps": "F+",
@@ -8238,9 +8343,9 @@
       "id": "player243",
       "historyKey": "",
       "name": "Bryan Davis",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Portland",
+      "teamAbbr": "Portland",
+      "status": "rostered",
       "pos": "PF",
       "age": 32,
       "href": "./unified-player.htm?id=player243",
@@ -8248,8 +8353,21 @@
       "potential": 112,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 20419446,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 20419446
+        },
+        {
+          "year": "2011",
+          "salary": 23822687
+        },
+        {
+          "year": "2012",
+          "salary": 23822687
+        }
+      ],
       "attributes": {
         "Ins": "D-",
         "Jps": "C",
@@ -8658,9 +8776,9 @@
       "id": "player50",
       "historyKey": "",
       "name": "Cameron Johnson",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "San Antonio",
+      "teamAbbr": "San Antonio",
+      "status": "rostered",
       "pos": "C",
       "age": 32,
       "href": "./unified-player.htm?id=player50",
@@ -8668,8 +8786,21 @@
       "potential": 128,
       "overallColor": "#0052C3",
       "potentialColor": "#0052C3",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 25000000,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 25000000
+        },
+        {
+          "year": "2011",
+          "salary": 25000000
+        },
+        {
+          "year": "2012",
+          "salary": 25000000
+        }
+      ],
       "attributes": {
         "Ins": "B",
         "Jps": "C+",
@@ -12132,9 +12263,9 @@
       "id": "player348",
       "historyKey": "",
       "name": "Chung Jones",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Atlanta",
+      "teamAbbr": "Atlanta",
+      "status": "rostered",
       "pos": "SF",
       "age": 28,
       "href": "./unified-player.htm?id=player348",
@@ -12142,8 +12273,21 @@
       "potential": 109,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 13311546,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 13311546
+        },
+        {
+          "year": "2011",
+          "salary": 15530137
+        },
+        {
+          "year": "2012",
+          "salary": 15530137
+        }
+      ],
       "attributes": {
         "Ins": "C-",
         "Jps": "C",
@@ -12300,9 +12444,9 @@
       "id": "player560",
       "historyKey": "",
       "name": "Clarence Williams",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Chicago",
+      "teamAbbr": "Chicago",
+      "status": "rostered",
       "pos": "PG",
       "age": 33,
       "href": "./unified-player.htm?id=player560",
@@ -12310,8 +12454,21 @@
       "potential": 132,
       "overallColor": "#0052C3",
       "potentialColor": "#0052C3",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 25000000,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 25000000
+        },
+        {
+          "year": "2011",
+          "salary": 25000000
+        },
+        {
+          "year": "2012",
+          "salary": 25000000
+        }
+      ],
       "attributes": {
         "Ins": "C+",
         "Jps": "A-",
@@ -12720,9 +12877,9 @@
       "id": "player119",
       "historyKey": "",
       "name": "Cliff Henderson",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Philadelphia",
+      "teamAbbr": "Philadelphia",
+      "status": "rostered",
       "pos": "C",
       "age": 32,
       "href": "./unified-player.htm?id=player119",
@@ -12730,8 +12887,17 @@
       "potential": 109,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 9856723,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 9856723
+        },
+        {
+          "year": "2011",
+          "salary": 9856723
+        }
+      ],
       "attributes": {
         "Ins": "C-",
         "Jps": "D",
@@ -13241,9 +13407,9 @@
       "id": "player422",
       "historyKey": "",
       "name": "Conrad Mills",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "New Orleans",
+      "teamAbbr": "New Orleans",
+      "status": "rostered",
       "pos": "SG",
       "age": 28,
       "href": "./unified-player.htm?id=player422",
@@ -13251,8 +13417,17 @@
       "potential": 108,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 6991233,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 6991233
+        },
+        {
+          "year": "2011",
+          "salary": 6991233
+        }
+      ],
       "attributes": {
         "Ins": "D+",
         "Jps": "B+",
@@ -15644,9 +15819,9 @@
       "id": "player375",
       "historyKey": "",
       "name": "Daron Tillotson",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Chicago",
+      "teamAbbr": "Chicago",
+      "status": "rostered",
       "pos": "SG",
       "age": 27,
       "href": "./unified-player.htm?id=player375",
@@ -15654,8 +15829,17 @@
       "potential": 107,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 7140128,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 7140128
+        },
+        {
+          "year": "2011",
+          "salary": 7140128
+        }
+      ],
       "attributes": {
         "Ins": "C+",
         "Jps": "C",
@@ -17022,9 +17206,9 @@
       "id": "player478",
       "historyKey": "",
       "name": "David Wilson",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "San Antonio",
+      "teamAbbr": "San Antonio",
+      "status": "rostered",
       "pos": "PG",
       "age": 34,
       "href": "./unified-player.htm?id=player478",
@@ -17032,8 +17216,21 @@
       "potential": 112,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 15639614,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 15639614
+        },
+        {
+          "year": "2011",
+          "salary": 15639614
+        },
+        {
+          "year": "2012",
+          "salary": 15639614
+        }
+      ],
       "attributes": {
         "Ins": "C",
         "Jps": "C",
@@ -17274,9 +17471,9 @@
       "id": "player194",
       "historyKey": "",
       "name": "Dele Osagiobare",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Sacramento",
+      "teamAbbr": "Sacramento",
+      "status": "rostered",
       "pos": "PF",
       "age": 30,
       "href": "./unified-player.htm?id=player194",
@@ -17284,8 +17481,21 @@
       "potential": 109,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 12321688,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 12321688
+        },
+        {
+          "year": "2011",
+          "salary": 14375303
+        },
+        {
+          "year": "2012",
+          "salary": 14375303
+        }
+      ],
       "attributes": {
         "Ins": "C",
         "Jps": "C-",
@@ -17442,9 +17652,9 @@
       "id": "player369",
       "historyKey": "",
       "name": "Derek McCarty",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Los Angeles (LAC)",
+      "teamAbbr": "Los Angeles (LAC)",
+      "status": "rostered",
       "pos": "SG",
       "age": 29,
       "href": "./unified-player.htm?id=player369",
@@ -17452,8 +17662,21 @@
       "potential": 114,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 20134574,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 20134574
+        },
+        {
+          "year": "2011",
+          "salary": 20134574
+        },
+        {
+          "year": "2012",
+          "salary": 20134574
+        }
+      ],
       "attributes": {
         "Ins": "C+",
         "Jps": "B-",
@@ -18114,9 +18337,9 @@
       "id": "player59",
       "historyKey": "",
       "name": "Don Carter",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Milwaukee",
+      "teamAbbr": "Milwaukee",
+      "status": "rostered",
       "pos": "C",
       "age": 29,
       "href": "./unified-player.htm?id=player59",
@@ -18124,8 +18347,21 @@
       "potential": 106,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 10861629,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 10861629
+        },
+        {
+          "year": "2011",
+          "salary": 13033955
+        },
+        {
+          "year": "2012",
+          "salary": 13033955
+        }
+      ],
       "attributes": {
         "Ins": "F+",
         "Jps": "C+",
@@ -18198,9 +18434,9 @@
       "id": "player328",
       "historyKey": "",
       "name": "Don Montgomery",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "San Diego",
+      "teamAbbr": "San Diego",
+      "status": "rostered",
       "pos": "SF",
       "age": 30,
       "href": "./unified-player.htm?id=player328",
@@ -18208,8 +18444,21 @@
       "potential": 138,
       "overallColor": "#0052C3",
       "potentialColor": "#0052C3",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 19993632,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 19993632
+        },
+        {
+          "year": "2011",
+          "salary": 19993632
+        },
+        {
+          "year": "2012",
+          "salary": 23325904
+        }
+      ],
       "attributes": {
         "Ins": "C-",
         "Jps": "A+",
@@ -18450,9 +18699,9 @@
       "id": "player384",
       "historyKey": "",
       "name": "Donovan Boswell",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Oklahoma City",
+      "teamAbbr": "Oklahoma City",
+      "status": "rostered",
       "pos": "SG",
       "age": 32,
       "href": "./unified-player.htm?id=player384",
@@ -18460,8 +18709,21 @@
       "potential": 134,
       "overallColor": "#0052C3",
       "potentialColor": "#0052C3",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 25000000,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 25000000
+        },
+        {
+          "year": "2011",
+          "salary": 25000000
+        },
+        {
+          "year": "2012",
+          "salary": 25000000
+        }
+      ],
       "attributes": {
         "Ins": "C+",
         "Jps": "B",
@@ -18618,9 +18880,9 @@
       "id": "player84",
       "historyKey": "",
       "name": "Douglas Beach",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "New York",
+      "teamAbbr": "New York",
+      "status": "rostered",
       "pos": "C",
       "age": 26,
       "href": "./unified-player.htm?id=player84",
@@ -18628,8 +18890,21 @@
       "potential": 107,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 10196197,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 10196197
+        },
+        {
+          "year": "2011",
+          "salary": 10196197
+        },
+        {
+          "year": "2012",
+          "salary": 10196197
+        }
+      ],
       "attributes": {
         "Ins": "C",
         "Jps": "C",
@@ -19223,9 +19498,9 @@
       "id": "player544",
       "historyKey": "",
       "name": "Dwayne Frampton",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Portland",
+      "teamAbbr": "Portland",
+      "status": "rostered",
       "pos": "PG",
       "age": 26,
       "href": "./unified-player.htm?id=player544",
@@ -19233,8 +19508,21 @@
       "potential": 110,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 14180294,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 14180294
+        },
+        {
+          "year": "2011",
+          "salary": 14180294
+        },
+        {
+          "year": "2012",
+          "salary": 14180294
+        }
+      ],
       "attributes": {
         "Ins": "C",
         "Jps": "C+",
@@ -19727,9 +20015,9 @@
       "id": "player202",
       "historyKey": "",
       "name": "Edmundo Sotomayor",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Toronto",
+      "teamAbbr": "Toronto",
+      "status": "rostered",
       "pos": "PF",
       "age": 31,
       "href": "./unified-player.htm?id=player202",
@@ -19737,8 +20025,17 @@
       "potential": 102,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 9926206,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 9926206
+        },
+        {
+          "year": "2011",
+          "salary": 9926206
+        }
+      ],
       "attributes": {
         "Ins": "D-",
         "Jps": "C",
@@ -21189,9 +21486,9 @@
       "id": "player366",
       "historyKey": "",
       "name": "Emrah Aydogdu",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Denver",
+      "teamAbbr": "Denver",
+      "status": "rostered",
       "pos": "SG",
       "age": 29,
       "href": "./unified-player.htm?id=player366",
@@ -21199,8 +21496,21 @@
       "potential": 111,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 12325612,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 12325612
+        },
+        {
+          "year": "2011",
+          "salary": 12325612
+        },
+        {
+          "year": "2012",
+          "salary": 14790735
+        }
+      ],
       "attributes": {
         "Ins": "C",
         "Jps": "C+",
@@ -21273,9 +21583,9 @@
       "id": "player223",
       "historyKey": "",
       "name": "Enoch Morgan",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Chicago",
+      "teamAbbr": "Chicago",
+      "status": "rostered",
       "pos": "PF",
       "age": 23,
       "href": "./unified-player.htm?id=player223",
@@ -21283,8 +21593,21 @@
       "potential": 110,
       "overallColor": "#EDBE30",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 10560682,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 10560682
+        },
+        {
+          "year": "2011",
+          "salary": 10560682
+        },
+        {
+          "year": "2012",
+          "salary": 10560682
+        }
+      ],
       "attributes": {
         "Ins": "C-",
         "Jps": "D+",
@@ -21441,9 +21764,9 @@
       "id": "player92",
       "historyKey": "",
       "name": "Eric Vargas",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Cleveland",
+      "teamAbbr": "Cleveland",
+      "status": "rostered",
       "pos": "C",
       "age": 35,
       "href": "./unified-player.htm?id=player92",
@@ -21451,8 +21774,21 @@
       "potential": 114,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 17135066,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 17135066
+        },
+        {
+          "year": "2011",
+          "salary": 17135066
+        },
+        {
+          "year": "2012",
+          "salary": 17135066
+        }
+      ],
       "attributes": {
         "Ins": "C+",
         "Jps": "C",
@@ -22197,9 +22533,9 @@
       "id": "player146",
       "historyKey": "",
       "name": "Felton Bayles",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Legia",
+      "teamAbbr": "Legia",
+      "status": "rostered",
       "pos": "PF",
       "age": 27,
       "href": "./unified-player.htm?id=player146",
@@ -22207,8 +22543,21 @@
       "potential": 109,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 10413350,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 10413350
+        },
+        {
+          "year": "2011",
+          "salary": 10413350
+        },
+        {
+          "year": "2012",
+          "salary": 12496020
+        }
+      ],
       "attributes": {
         "Ins": "C",
         "Jps": "C",
@@ -22869,9 +23218,9 @@
       "id": "player376",
       "historyKey": "",
       "name": "Frederick Simmons",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Cleveland",
+      "teamAbbr": "Cleveland",
+      "status": "rostered",
       "pos": "SF",
       "age": 25,
       "href": "./unified-player.htm?id=player376",
@@ -22879,8 +23228,21 @@
       "potential": 120,
       "overallColor": "#307B1A",
       "potentialColor": "#0052C3",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 16313915,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 16313915
+        },
+        {
+          "year": "2011",
+          "salary": 16313915
+        },
+        {
+          "year": "2012",
+          "salary": 16313915
+        }
+      ],
       "attributes": {
         "Ins": "C",
         "Jps": "A-",
@@ -23037,9 +23399,9 @@
       "id": "player493",
       "historyKey": "",
       "name": "Fritz Johnson",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Oklahoma City",
+      "teamAbbr": "Oklahoma City",
+      "status": "rostered",
       "pos": "PG",
       "age": 26,
       "href": "./unified-player.htm?id=player493",
@@ -23047,8 +23409,21 @@
       "potential": 109,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 11015304,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 11015304
+        },
+        {
+          "year": "2011",
+          "salary": 11015304
+        },
+        {
+          "year": "2012",
+          "salary": 11015304
+        }
+      ],
       "attributes": {
         "Ins": "D+",
         "Jps": "C+",
@@ -26667,9 +27042,9 @@
       "id": "player273",
       "historyKey": "",
       "name": "Inocencio Cascos",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "New Orleans",
+      "teamAbbr": "New Orleans",
+      "status": "rostered",
       "pos": "SF",
       "age": 30,
       "href": "./unified-player.htm?id=player273",
@@ -26677,8 +27052,21 @@
       "potential": 106,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 12942718,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 12942718
+        },
+        {
+          "year": "2011",
+          "salary": 12942718
+        },
+        {
+          "year": "2012",
+          "salary": 12942718
+        }
+      ],
       "attributes": {
         "Ins": "C-",
         "Jps": "B-",
@@ -27843,9 +28231,9 @@
       "id": "player502",
       "historyKey": "",
       "name": "Jake Brown",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Washington",
+      "teamAbbr": "Washington",
+      "status": "rostered",
       "pos": "PG",
       "age": 30,
       "href": "./unified-player.htm?id=player502",
@@ -27853,8 +28241,17 @@
       "potential": 111,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 7500000,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 7500000
+        },
+        {
+          "year": "2011",
+          "salary": 9000000
+        }
+      ],
       "attributes": {
         "Ins": "D+",
         "Jps": "A-",
@@ -28112,9 +28509,9 @@
       "id": "player55",
       "historyKey": "",
       "name": "James Drake",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "St. John's",
+      "teamAbbr": "St. John's",
+      "status": "rostered",
       "pos": "C",
       "age": 28,
       "href": "./unified-player.htm?id=player55",
@@ -28122,8 +28519,21 @@
       "potential": 114,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 11734194,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 11734194
+        },
+        {
+          "year": "2011",
+          "salary": 11734194
+        },
+        {
+          "year": "2012",
+          "salary": 11734194
+        }
+      ],
       "attributes": {
         "Ins": "D",
         "Jps": "C",
@@ -30061,9 +30471,9 @@
       "id": "player358",
       "historyKey": "",
       "name": "Jeremy Davis",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Minnesota",
+      "teamAbbr": "Minnesota",
+      "status": "rostered",
       "pos": "SG",
       "age": 24,
       "href": "./unified-player.htm?id=player358",
@@ -30071,8 +30481,21 @@
       "potential": 134,
       "overallColor": "#0052C3",
       "potentialColor": "#0052C3",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 19174564,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 19174564
+        },
+        {
+          "year": "2011",
+          "salary": 19174564
+        },
+        {
+          "year": "2012",
+          "salary": 19174564
+        }
+      ],
       "attributes": {
         "Ins": "C",
         "Jps": "C",
@@ -30649,9 +31072,9 @@
       "id": "player201",
       "historyKey": "",
       "name": "Jess Fletcher",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Memphis",
+      "teamAbbr": "Memphis",
+      "status": "rostered",
       "pos": "PF",
       "age": 29,
       "href": "./unified-player.htm?id=player201",
@@ -30659,8 +31082,21 @@
       "potential": 114,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 21149384,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 21149384
+        },
+        {
+          "year": "2011",
+          "salary": 24674281
+        },
+        {
+          "year": "2012",
+          "salary": 24674281
+        }
+      ],
       "attributes": {
         "Ins": "C",
         "Jps": "B",
@@ -31573,9 +32009,9 @@
       "id": "player413",
       "historyKey": "",
       "name": "John Ly",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Golden State",
+      "teamAbbr": "Golden State",
+      "status": "rostered",
       "pos": "SG",
       "age": 27,
       "href": "./unified-player.htm?id=player413",
@@ -31583,8 +32019,21 @@
       "potential": 113,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 19853677,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 19853677
+        },
+        {
+          "year": "2011",
+          "salary": 19853677
+        },
+        {
+          "year": "2012",
+          "salary": 19853677
+        }
+      ],
       "attributes": {
         "Ins": "C+",
         "Jps": "B+",
@@ -32346,9 +32795,9 @@
       "id": "player195",
       "historyKey": "",
       "name": "Jonathan Perez",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "New Orleans",
+      "teamAbbr": "New Orleans",
+      "status": "rostered",
       "pos": "PF",
       "age": 30,
       "href": "./unified-player.htm?id=player195",
@@ -32356,8 +32805,21 @@
       "potential": 129,
       "overallColor": "#0052C3",
       "potentialColor": "#0052C3",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 22371944,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 22371944
+        },
+        {
+          "year": "2011",
+          "salary": 22371944
+        },
+        {
+          "year": "2012",
+          "salary": 22371944
+        }
+      ],
       "attributes": {
         "Ins": "C+",
         "Jps": "B",
@@ -32430,9 +32892,9 @@
       "id": "player353",
       "historyKey": "",
       "name": "Jonathan Pitman",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Boston",
+      "teamAbbr": "Boston",
+      "status": "rostered",
       "pos": "SF",
       "age": 20,
       "href": "./unified-player.htm?id=player353",
@@ -32440,8 +32902,21 @@
       "potential": 114,
       "overallColor": "#F2662A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 12412500,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 12412500
+        },
+        {
+          "year": "2011",
+          "salary": 12412500
+        },
+        {
+          "year": "2012",
+          "salary": 12412500
+        }
+      ],
       "attributes": {
         "Ins": "D",
         "Jps": "D+",
@@ -33018,9 +33493,9 @@
       "id": "player186",
       "historyKey": "",
       "name": "Jose Smith",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Miami",
+      "teamAbbr": "Miami",
+      "status": "rostered",
       "pos": "PF",
       "age": 33,
       "href": "./unified-player.htm?id=player186",
@@ -33028,8 +33503,21 @@
       "potential": 114,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 13499882,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 13499882
+        },
+        {
+          "year": "2011",
+          "salary": 15749863
+        },
+        {
+          "year": "2012",
+          "salary": 15749863
+        }
+      ],
       "attributes": {
         "Ins": "B-",
         "Jps": "C",
@@ -33287,9 +33775,9 @@
       "id": "player216",
       "historyKey": "",
       "name": "Joseph Barry",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Minnesota",
+      "teamAbbr": "Minnesota",
+      "status": "rostered",
       "pos": "PF",
       "age": 19,
       "href": "./unified-player.htm?id=player216",
@@ -33297,8 +33785,17 @@
       "potential": 108,
       "overallColor": "#F2662A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 7190461,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 7190461
+        },
+        {
+          "year": "2011",
+          "salary": 7190461
+        }
+      ],
       "attributes": {
         "Ins": "D",
         "Jps": "D",
@@ -33371,9 +33868,9 @@
       "id": "player420",
       "historyKey": "",
       "name": "Joseph Bernardo",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "St. John's",
+      "teamAbbr": "St. John's",
+      "status": "rostered",
       "pos": "SG",
       "age": 34,
       "href": "./unified-player.htm?id=player420",
@@ -33381,8 +33878,21 @@
       "potential": 131,
       "overallColor": "#0052C3",
       "potentialColor": "#0052C3",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 23990621,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 23990621
+        },
+        {
+          "year": "2011",
+          "salary": 23990621
+        },
+        {
+          "year": "2012",
+          "salary": 23990621
+        }
+      ],
       "attributes": {
         "Ins": "C",
         "Jps": "A-",
@@ -33707,9 +34217,9 @@
       "id": "player508",
       "historyKey": "",
       "name": "Joseph Okeefe",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Phoenix",
+      "teamAbbr": "Phoenix",
+      "status": "rostered",
       "pos": "PG",
       "age": 34,
       "href": "./unified-player.htm?id=player508",
@@ -33717,8 +34227,21 @@
       "potential": 114,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 14476639,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 14476639
+        },
+        {
+          "year": "2011",
+          "salary": 14476639
+        },
+        {
+          "year": "2012",
+          "salary": 14476639
+        }
+      ],
       "attributes": {
         "Ins": "B-",
         "Jps": "C",
@@ -35051,9 +35574,9 @@
       "id": "player70",
       "historyKey": "",
       "name": "Kevin Shippy",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Los Angeles (LAC)",
+      "teamAbbr": "Los Angeles (LAC)",
+      "status": "rostered",
       "pos": "C",
       "age": 31,
       "href": "./unified-player.htm?id=player70",
@@ -35061,8 +35584,21 @@
       "potential": 110,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 14380923,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 14380923
+        },
+        {
+          "year": "2011",
+          "salary": 16777743
+        },
+        {
+          "year": "2012",
+          "salary": 16777743
+        }
+      ],
       "attributes": {
         "Ins": "C",
         "Jps": "B-",
@@ -35736,9 +36272,9 @@
       "id": "player557",
       "historyKey": "",
       "name": "Lane Hubbard",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Los Angeles (LAL)",
+      "teamAbbr": "Los Angeles (LAL)",
+      "status": "rostered",
       "pos": "PG",
       "age": 32,
       "href": "./unified-player.htm?id=player557",
@@ -35746,8 +36282,21 @@
       "potential": 113,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 24501561,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 24501561
+        },
+        {
+          "year": "2011",
+          "salary": 24501561
+        },
+        {
+          "year": "2012",
+          "salary": 24501561
+        }
+      ],
       "attributes": {
         "Ins": "B",
         "Jps": "B-",
@@ -35988,9 +36537,9 @@
       "id": "player497",
       "historyKey": "",
       "name": "Lawerence Mosier",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Golden State",
+      "teamAbbr": "Golden State",
+      "status": "rostered",
       "pos": "PG",
       "age": 26,
       "href": "./unified-player.htm?id=player497",
@@ -35998,8 +36547,21 @@
       "potential": 111,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 12153658,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 12153658
+        },
+        {
+          "year": "2011",
+          "salary": 12153658
+        },
+        {
+          "year": "2012",
+          "salary": 12153658
+        }
+      ],
       "attributes": {
         "Ins": "C",
         "Jps": "B",
@@ -36828,9 +37390,9 @@
       "id": "player438",
       "historyKey": "",
       "name": "Linwood Gonzalez",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Houston",
+      "teamAbbr": "Houston",
+      "status": "rostered",
       "pos": "SG",
       "age": 29,
       "href": "./unified-player.htm?id=player438",
@@ -36838,8 +37400,21 @@
       "potential": 113,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 13595048,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 13595048
+        },
+        {
+          "year": "2011",
+          "salary": 13595048
+        },
+        {
+          "year": "2012",
+          "salary": 13595048
+        }
+      ],
       "attributes": {
         "Ins": "D+",
         "Jps": "C+",
@@ -37248,9 +37823,9 @@
       "id": "player716",
       "historyKey": "",
       "name": "Louis NoBoat",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Detroit",
+      "teamAbbr": "Detroit",
+      "status": "rostered",
       "pos": "SG",
       "age": 18,
       "href": "./unified-player.htm?id=player716",
@@ -37258,8 +37833,21 @@
       "potential": 110,
       "overallColor": "#F2662A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 17378607,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 17378607
+        },
+        {
+          "year": "2011",
+          "salary": 17378607
+        },
+        {
+          "year": "2012",
+          "salary": 17378607
+        }
+      ],
       "attributes": {
         "Ins": "C+",
         "Jps": "D",
@@ -37332,9 +37920,9 @@
       "id": "player421",
       "historyKey": "",
       "name": "Luciano Alemany",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Milwaukee",
+      "teamAbbr": "Milwaukee",
+      "status": "rostered",
       "pos": "SG",
       "age": 23,
       "href": "./unified-player.htm?id=player421",
@@ -37342,8 +37930,21 @@
       "potential": 127,
       "overallColor": "#307B1A",
       "potentialColor": "#0052C3",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 18512784,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 18512784
+        },
+        {
+          "year": "2011",
+          "salary": 18512784
+        },
+        {
+          "year": "2012",
+          "salary": 18512784
+        }
+      ],
       "attributes": {
         "Ins": "C-",
         "Jps": "C+",
@@ -37836,9 +38437,9 @@
       "id": "player402",
       "historyKey": "",
       "name": "Lynn Chapman",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Indiana",
+      "teamAbbr": "Indiana",
+      "status": "rostered",
       "pos": "SG",
       "age": 30,
       "href": "./unified-player.htm?id=player402",
@@ -37846,8 +38447,21 @@
       "potential": 114,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 13125836,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 13125836
+        },
+        {
+          "year": "2011",
+          "salary": 13125836
+        },
+        {
+          "year": "2012",
+          "salary": 15313476
+        }
+      ],
       "attributes": {
         "Ins": "C-",
         "Jps": "C+",
@@ -38172,9 +38786,9 @@
       "id": "player363",
       "historyKey": "",
       "name": "Marcos Martinez",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "San Diego",
+      "teamAbbr": "San Diego",
+      "status": "rostered",
       "pos": "SG",
       "age": 35,
       "href": "./unified-player.htm?id=player363",
@@ -38182,8 +38796,21 @@
       "potential": 114,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 16896015,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 16896015
+        },
+        {
+          "year": "2011",
+          "salary": 16896015
+        },
+        {
+          "year": "2012",
+          "salary": 16896015
+        }
+      ],
       "attributes": {
         "Ins": "C+",
         "Jps": "C+",
@@ -38676,9 +39303,9 @@
       "id": "player78",
       "historyKey": "",
       "name": "Matthew Espinoza",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Washington",
+      "teamAbbr": "Washington",
+      "status": "rostered",
       "pos": "C",
       "age": 29,
       "href": "./unified-player.htm?id=player78",
@@ -38686,8 +39313,17 @@
       "potential": 110,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 8937000,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 8937000
+        },
+        {
+          "year": "2011",
+          "salary": 10426500
+        }
+      ],
       "attributes": {
         "Ins": "C+",
         "Jps": "C",
@@ -39449,9 +40085,9 @@
       "id": "player105",
       "historyKey": "",
       "name": "Michael Wallace",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Atlanta",
+      "teamAbbr": "Atlanta",
+      "status": "rostered",
       "pos": "C",
       "age": 34,
       "href": "./unified-player.htm?id=player105",
@@ -39459,8 +40095,21 @@
       "potential": 132,
       "overallColor": "#0052C3",
       "potentialColor": "#0052C3",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 25000000,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 25000000
+        },
+        {
+          "year": "2011",
+          "salary": 25000000
+        },
+        {
+          "year": "2012",
+          "salary": 25000000
+        }
+      ],
       "attributes": {
         "Ins": "C",
         "Jps": "B",
@@ -42137,9 +42786,9 @@
       "id": "player135",
       "historyKey": "",
       "name": "Nolan Cain",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Miami",
+      "teamAbbr": "Miami",
+      "status": "rostered",
       "pos": "C",
       "age": 28,
       "href": "./unified-player.htm?id=player135",
@@ -42147,8 +42796,21 @@
       "potential": 113,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 21448613,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 21448613
+        },
+        {
+          "year": "2011",
+          "salary": 21448613
+        },
+        {
+          "year": "2012",
+          "salary": 25023382
+        }
+      ],
       "attributes": {
         "Ins": "B-",
         "Jps": "C",
@@ -42557,9 +43219,9 @@
       "id": "player333",
       "historyKey": "",
       "name": "Octavio Robinson",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Houston",
+      "teamAbbr": "Houston",
+      "status": "rostered",
       "pos": "SF",
       "age": 25,
       "href": "./unified-player.htm?id=player333",
@@ -42567,8 +43229,21 @@
       "potential": 130,
       "overallColor": "#307B1A",
       "potentialColor": "#0052C3",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 17748727,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 17748727
+        },
+        {
+          "year": "2011",
+          "salary": 17748727
+        },
+        {
+          "year": "2012",
+          "salary": 17748727
+        }
+      ],
       "attributes": {
         "Ins": "C+",
         "Jps": "C",
@@ -44775,9 +45450,9 @@
       "id": "player127",
       "historyKey": "",
       "name": "Reginald Green",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Charlotte",
+      "teamAbbr": "Charlotte",
+      "status": "rostered",
       "pos": "C",
       "age": 24,
       "href": "./unified-player.htm?id=player127",
@@ -44785,8 +45460,21 @@
       "potential": 113,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 17256957,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 17256957
+        },
+        {
+          "year": "2011",
+          "salary": 17256957
+        },
+        {
+          "year": "2012",
+          "salary": 17256957
+        }
+      ],
       "attributes": {
         "Ins": "C",
         "Jps": "C-",
@@ -45699,9 +46387,9 @@
       "id": "player419",
       "historyKey": "",
       "name": "Richard Ruvalcaba",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Philadelphia",
+      "teamAbbr": "Philadelphia",
+      "status": "rostered",
       "pos": "SG",
       "age": 33,
       "href": "./unified-player.htm?id=player419",
@@ -45709,8 +46397,21 @@
       "potential": 147,
       "overallColor": "#0052C3",
       "potentialColor": "#0052C3",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 22529652,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 22529652
+        },
+        {
+          "year": "2011",
+          "salary": 26284594
+        },
+        {
+          "year": "2012",
+          "salary": 26284594
+        }
+      ],
       "attributes": {
         "Ins": "B+",
         "Jps": "B-",
@@ -47980,9 +48681,9 @@
       "id": "player52",
       "historyKey": "",
       "name": "Ryan Torrey",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Denver",
+      "teamAbbr": "Denver",
+      "status": "rostered",
       "pos": "C",
       "age": 30,
       "href": "./unified-player.htm?id=player52",
@@ -47990,8 +48691,21 @@
       "potential": 114,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 19714701,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 19714701
+        },
+        {
+          "year": "2011",
+          "salary": 19714701
+        },
+        {
+          "year": "2012",
+          "salary": 23000485
+        }
+      ],
       "attributes": {
         "Ins": "C-",
         "Jps": "B-",
@@ -49576,9 +50290,9 @@
       "id": "player504",
       "historyKey": "",
       "name": "Shaun Waldon",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "New Jersey",
+      "teamAbbr": "New Jersey",
+      "status": "rostered",
       "pos": "PG",
       "age": 26,
       "href": "./unified-player.htm?id=player504",
@@ -49586,8 +50300,21 @@
       "potential": 114,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 16897092,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 16897092
+        },
+        {
+          "year": "2011",
+          "salary": 16897092
+        },
+        {
+          "year": "2012",
+          "salary": 16897092
+        }
+      ],
       "attributes": {
         "Ins": "C",
         "Jps": "C+",
@@ -52785,9 +53512,9 @@
       "id": "player65",
       "historyKey": "",
       "name": "Timothy Hood",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Minnesota",
+      "teamAbbr": "Minnesota",
+      "status": "rostered",
       "pos": "C",
       "age": 34,
       "href": "./unified-player.htm?id=player65",
@@ -52795,8 +53522,21 @@
       "potential": 112,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 14681461,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 14681461
+        },
+        {
+          "year": "2011",
+          "salary": 14681461
+        },
+        {
+          "year": "2012",
+          "salary": 14681461
+        }
+      ],
       "attributes": {
         "Ins": "B+",
         "Jps": "C",
@@ -53121,9 +53861,9 @@
       "id": "player395",
       "historyKey": "",
       "name": "Tommie Laguna",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Sacramento",
+      "teamAbbr": "Sacramento",
+      "status": "rostered",
       "pos": "SG",
       "age": 35,
       "href": "./unified-player.htm?id=player395",
@@ -53131,8 +53871,17 @@
       "potential": 112,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 10281040,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 10281040
+        },
+        {
+          "year": "2011",
+          "salary": 10281040
+        }
+      ],
       "attributes": {
         "Ins": "C-",
         "Jps": "C",
@@ -53470,9 +54219,9 @@
       "id": "player460",
       "historyKey": "",
       "name": "Tony Lecompte",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Philadelphia",
+      "teamAbbr": "Philadelphia",
+      "status": "rostered",
       "pos": "SG",
       "age": 30,
       "href": "./unified-player.htm?id=player460",
@@ -53480,8 +54229,21 @@
       "potential": 113,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 12852119,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 12852119
+        },
+        {
+          "year": "2011",
+          "salary": 14994138
+        },
+        {
+          "year": "2012",
+          "salary": 14994138
+        }
+      ],
       "attributes": {
         "Ins": "C",
         "Jps": "C+",
@@ -56272,9 +57034,9 @@
       "id": "player505",
       "historyKey": "",
       "name": "Winfred Markus",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Indiana",
+      "teamAbbr": "Indiana",
+      "status": "rostered",
       "pos": "PG",
       "age": 28,
       "href": "./unified-player.htm?id=player505",
@@ -56282,8 +57044,21 @@
       "potential": 114,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 18383194,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 18383194
+        },
+        {
+          "year": "2011",
+          "salary": 22059833
+        },
+        {
+          "year": "2012",
+          "salary": 22059833
+        }
+      ],
       "attributes": {
         "Ins": "C-",
         "Jps": "A-",
@@ -56440,9 +57215,9 @@
       "id": "player308",
       "historyKey": "",
       "name": "Wojciech Broz",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Boston",
+      "teamAbbr": "Boston",
+      "status": "rostered",
       "pos": "SF",
       "age": 19,
       "href": "./unified-player.htm?id=player308",
@@ -56450,8 +57225,21 @@
       "potential": 109,
       "overallColor": "#F2662A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 12500000,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 12500000
+        },
+        {
+          "year": "2011",
+          "salary": 12500000
+        },
+        {
+          "year": "2012",
+          "salary": 12500000
+        }
+      ],
       "attributes": {
         "Ins": "D-",
         "Jps": "C-",
@@ -56692,9 +57480,9 @@
       "id": "player436",
       "historyKey": "",
       "name": "Yakubu Akpovi",
-      "team": "Draft",
-      "teamAbbr": "DRF",
-      "status": "draft",
+      "team": "Toronto",
+      "teamAbbr": "Toronto",
+      "status": "rostered",
       "pos": "SG",
       "age": 29,
       "href": "./unified-player.htm?id=player436",
@@ -56702,8 +57490,21 @@
       "potential": 132,
       "overallColor": "#0052C3",
       "potentialColor": "#0052C3",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 18907059,
+      "contracts": [
+        {
+          "year": "2010",
+          "salary": 18907059
+        },
+        {
+          "year": "2011",
+          "salary": 18907059
+        },
+        {
+          "year": "2012",
+          "salary": 22688471
+        }
+      ],
       "attributes": {
         "Ins": "A-",
         "Jps": "A",

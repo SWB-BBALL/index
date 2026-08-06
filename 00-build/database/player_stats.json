@@ -8645,8 +8645,8 @@
       "playerId": "player494",
       "name": "Alfred Saunders",
       "url": "../players/player494.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster19",
+      "teamLabel": "Memphis",
       "pos": "PG",
       "stats": {
         "season_averages": {
@@ -12245,8 +12245,8 @@
       "playerId": "player42",
       "name": "Andrew Galloway",
       "url": "../players/player42.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "Legia",
+      "teamLabel": "Legia",
       "pos": "C",
       "stats": {
         "season_averages": {
@@ -15485,8 +15485,8 @@
       "playerId": "player233",
       "name": "Antonia Lund",
       "url": "../players/player233.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster24",
+      "teamLabel": "New York",
       "pos": "PF",
       "stats": {
         "season_averages": {
@@ -15845,8 +15845,8 @@
       "playerId": "player463",
       "name": "Antonio Smith",
       "url": "../players/player463.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster32",
+      "teamLabel": "Toronto",
       "pos": "PG",
       "stats": {
         "season_averages": {
@@ -16205,8 +16205,8 @@
       "playerId": "player336",
       "name": "Antwan Pierce",
       "url": "../players/player336.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster7",
+      "teamLabel": "New Jersey",
       "pos": "SF",
       "stats": {
         "season_averages": {
@@ -20525,8 +20525,8 @@
       "playerId": "player48",
       "name": "Augustas Kemzis",
       "url": "../players/player48.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster28",
+      "teamLabel": "Phoenix",
       "pos": "C",
       "stats": {
         "season_averages": {
@@ -21965,8 +21965,8 @@
       "playerId": "player104",
       "name": "Barrett Solis",
       "url": "../players/player104.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster8",
+      "teamLabel": "Charlotte",
       "pos": "C",
       "stats": {
         "season_averages": {
@@ -22325,8 +22325,8 @@
       "playerId": "player111",
       "name": "Barry Jennette",
       "url": "../players/player111.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster18",
+      "teamLabel": "Los Angeles (LAL)",
       "pos": "C",
       "stats": {
         "season_averages": {
@@ -34565,8 +34565,8 @@
       "playerId": "player271",
       "name": "Bruce Burnt",
       "url": "../players/player271.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster13",
+      "teamLabel": "Detroit",
       "pos": "PF",
       "stats": {
         "season_averages": {
@@ -34925,8 +34925,8 @@
       "playerId": "player243",
       "name": "Bryan Davis",
       "url": "../players/player243.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster29",
+      "teamLabel": "Portland",
       "pos": "PF",
       "stats": {
         "season_averages": {
@@ -36725,8 +36725,8 @@
       "playerId": "player50",
       "name": "Cameron Johnson",
       "url": "../players/player50.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster31",
+      "teamLabel": "San Antonio",
       "pos": "C",
       "stats": {
         "season_averages": {
@@ -51485,8 +51485,8 @@
       "playerId": "player348",
       "name": "Chung Jones",
       "url": "../players/player348.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster5",
+      "teamLabel": "Atlanta",
       "pos": "SF",
       "stats": {
         "season_averages": {
@@ -52205,8 +52205,8 @@
       "playerId": "player560",
       "name": "Clarence Williams",
       "url": "../players/player560.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster9",
+      "teamLabel": "Chicago",
       "pos": "PG",
       "stats": {
         "season_averages": {
@@ -54005,8 +54005,8 @@
       "playerId": "player119",
       "name": "Cliff Henderson",
       "url": "../players/player119.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster27",
+      "teamLabel": "Philadelphia",
       "pos": "C",
       "stats": {
         "season_averages": {
@@ -56165,8 +56165,8 @@
       "playerId": "player422",
       "name": "Conrad Mills",
       "url": "../players/player422.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster23",
+      "teamLabel": "New Orleans",
       "pos": "SG",
       "stats": {
         "season_averages": {
@@ -66245,8 +66245,8 @@
       "playerId": "player375",
       "name": "Daron Tillotson",
       "url": "../players/player375.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster9",
+      "teamLabel": "Chicago",
       "pos": "SG",
       "stats": {
         "season_averages": {
@@ -72005,8 +72005,8 @@
       "playerId": "player478",
       "name": "David Wilson",
       "url": "../players/player478.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster31",
+      "teamLabel": "San Antonio",
       "pos": "PG",
       "stats": {
         "season_averages": {
@@ -73085,8 +73085,8 @@
       "playerId": "player194",
       "name": "Dele Osagiobare",
       "url": "../players/player194.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster30",
+      "teamLabel": "Sacramento",
       "pos": "PF",
       "stats": {
         "season_averages": {
@@ -73805,8 +73805,8 @@
       "playerId": "player369",
       "name": "Derek McCarty",
       "url": "../players/player369.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster17",
+      "teamLabel": "Los Angeles (LAC)",
       "pos": "SG",
       "stats": {
         "season_averages": {
@@ -76685,8 +76685,8 @@
       "playerId": "player59",
       "name": "Don Carter",
       "url": "../players/player59.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster21",
+      "teamLabel": "Milwaukee",
       "pos": "C",
       "stats": {
         "season_averages": {
@@ -77045,8 +77045,8 @@
       "playerId": "player328",
       "name": "Don Montgomery",
       "url": "../players/player328.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster11",
+      "teamLabel": "San Diego",
       "pos": "SF",
       "stats": {
         "season_averages": {
@@ -78125,8 +78125,8 @@
       "playerId": "player384",
       "name": "Donovan Boswell",
       "url": "../players/player384.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster25",
+      "teamLabel": "Oklahoma City",
       "pos": "SG",
       "stats": {
         "season_averages": {
@@ -78845,8 +78845,8 @@
       "playerId": "player84",
       "name": "Douglas Beach",
       "url": "../players/player84.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster24",
+      "teamLabel": "New York",
       "pos": "C",
       "stats": {
         "season_averages": {
@@ -81365,8 +81365,8 @@
       "playerId": "player544",
       "name": "Dwayne Frampton",
       "url": "../players/player544.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster29",
+      "teamLabel": "Portland",
       "pos": "PG",
       "stats": {
         "season_averages": {
@@ -83525,8 +83525,8 @@
       "playerId": "player202",
       "name": "Edmundo Sotomayor",
       "url": "../players/player202.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster32",
+      "teamLabel": "Toronto",
       "pos": "PF",
       "stats": {
         "season_averages": {
@@ -89645,8 +89645,8 @@
       "playerId": "player366",
       "name": "Emrah Aydogdu",
       "url": "../players/player366.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster12",
+      "teamLabel": "Denver",
       "pos": "SG",
       "stats": {
         "season_averages": {
@@ -90005,8 +90005,8 @@
       "playerId": "player223",
       "name": "Enoch Morgan",
       "url": "../players/player223.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster9",
+      "teamLabel": "Chicago",
       "pos": "PF",
       "stats": {
         "season_averages": {
@@ -90725,8 +90725,8 @@
       "playerId": "player92",
       "name": "Eric Vargas",
       "url": "../players/player92.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster10",
+      "teamLabel": "Cleveland",
       "pos": "C",
       "stats": {
         "season_averages": {
@@ -93965,8 +93965,8 @@
       "playerId": "player146",
       "name": "Felton Bayles",
       "url": "../players/player146.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "Legia",
+      "teamLabel": "Legia",
       "pos": "PF",
       "stats": {
         "season_averages": {
@@ -96845,8 +96845,8 @@
       "playerId": "player376",
       "name": "Frederick Simmons",
       "url": "../players/player376.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster10",
+      "teamLabel": "Cleveland",
       "pos": "SF",
       "stats": {
         "season_averages": {
@@ -97565,8 +97565,8 @@
       "playerId": "player493",
       "name": "Fritz Johnson",
       "url": "../players/player493.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster25",
+      "teamLabel": "Oklahoma City",
       "pos": "PG",
       "stats": {
         "season_averages": {
@@ -112685,8 +112685,8 @@
       "playerId": "player273",
       "name": "Inocencio Cascos",
       "url": "../players/player273.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster23",
+      "teamLabel": "New Orleans",
       "pos": "SF",
       "stats": {
         "season_averages": {
@@ -117725,8 +117725,8 @@
       "playerId": "player502",
       "name": "Jake Brown",
       "url": "../players/player502.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster34",
+      "teamLabel": "Washington",
       "pos": "PG",
       "stats": {
         "season_averages": {
@@ -118805,8 +118805,8 @@
       "playerId": "player55",
       "name": "James Drake",
       "url": "../players/player55.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster26",
+      "teamLabel": "St. John's",
       "pos": "C",
       "stats": {
         "season_averages": {
@@ -127085,8 +127085,8 @@
       "playerId": "player358",
       "name": "Jeremy Davis",
       "url": "../players/player358.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster22",
+      "teamLabel": "Minnesota",
       "pos": "SG",
       "stats": {
         "season_averages": {
@@ -129605,8 +129605,8 @@
       "playerId": "player201",
       "name": "Jess Fletcher",
       "url": "../players/player201.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster19",
+      "teamLabel": "Memphis",
       "pos": "PF",
       "stats": {
         "season_averages": {
@@ -133565,8 +133565,8 @@
       "playerId": "player413",
       "name": "John Ly",
       "url": "../players/player413.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster14",
+      "teamLabel": "Golden State",
       "pos": "SG",
       "stats": {
         "season_averages": {
@@ -136805,8 +136805,8 @@
       "playerId": "player195",
       "name": "Jonathan Perez",
       "url": "../players/player195.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster23",
+      "teamLabel": "New Orleans",
       "pos": "PF",
       "stats": {
         "season_averages": {
@@ -137165,8 +137165,8 @@
       "playerId": "player353",
       "name": "Jonathan Pitman",
       "url": "../players/player353.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster6",
+      "teamLabel": "Boston",
       "pos": "SF",
       "stats": {
         "season_averages": {
@@ -139685,8 +139685,8 @@
       "playerId": "player186",
       "name": "Jose Smith",
       "url": "../players/player186.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster20",
+      "teamLabel": "Miami",
       "pos": "PF",
       "stats": {
         "season_averages": {
@@ -140765,8 +140765,8 @@
       "playerId": "player216",
       "name": "Joseph Barry",
       "url": "../players/player216.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster22",
+      "teamLabel": "Minnesota",
       "pos": "PF",
       "stats": {
         "season_averages": {
@@ -141125,8 +141125,8 @@
       "playerId": "player420",
       "name": "Joseph Bernardo",
       "url": "../players/player420.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster26",
+      "teamLabel": "St. John's",
       "pos": "SG",
       "stats": {
         "season_averages": {
@@ -142565,8 +142565,8 @@
       "playerId": "player508",
       "name": "Joseph Okeefe",
       "url": "../players/player508.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster28",
+      "teamLabel": "Phoenix",
       "pos": "PG",
       "stats": {
         "season_averages": {
@@ -148325,8 +148325,8 @@
       "playerId": "player70",
       "name": "Kevin Shippy",
       "url": "../players/player70.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster17",
+      "teamLabel": "Los Angeles (LAC)",
       "pos": "C",
       "stats": {
         "season_averages": {
@@ -151205,8 +151205,8 @@
       "playerId": "player557",
       "name": "Lane Hubbard",
       "url": "../players/player557.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster18",
+      "teamLabel": "Los Angeles (LAL)",
       "pos": "PG",
       "stats": {
         "season_averages": {
@@ -152285,8 +152285,8 @@
       "playerId": "player497",
       "name": "Lawerence Mosier",
       "url": "../players/player497.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster14",
+      "teamLabel": "Golden State",
       "pos": "PG",
       "stats": {
         "season_averages": {
@@ -155885,8 +155885,8 @@
       "playerId": "player438",
       "name": "Linwood Gonzalez",
       "url": "../players/player438.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster15",
+      "teamLabel": "Houston",
       "pos": "SG",
       "stats": {
         "season_averages": {
@@ -157685,8 +157685,8 @@
       "playerId": "player716",
       "name": "Louis NoBoat",
       "url": "../players/player716.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster13",
+      "teamLabel": "Detroit",
       "pos": "SG",
       "stats": {
         "season_averages": {
@@ -158045,8 +158045,8 @@
       "playerId": "player421",
       "name": "Luciano Alemany",
       "url": "../players/player421.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster21",
+      "teamLabel": "Milwaukee",
       "pos": "SG",
       "stats": {
         "season_averages": {
@@ -160205,8 +160205,8 @@
       "playerId": "player402",
       "name": "Lynn Chapman",
       "url": "../players/player402.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster16",
+      "teamLabel": "Indiana",
       "pos": "SG",
       "stats": {
         "season_averages": {
@@ -161645,8 +161645,8 @@
       "playerId": "player363",
       "name": "Marcos Martinez",
       "url": "../players/player363.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster11",
+      "teamLabel": "San Diego",
       "pos": "SG",
       "stats": {
         "season_averages": {
@@ -163805,8 +163805,8 @@
       "playerId": "player78",
       "name": "Matthew Espinoza",
       "url": "../players/player78.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster34",
+      "teamLabel": "Washington",
       "pos": "C",
       "stats": {
         "season_averages": {
@@ -167045,8 +167045,8 @@
       "playerId": "player105",
       "name": "Michael Wallace",
       "url": "../players/player105.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster5",
+      "teamLabel": "Atlanta",
       "pos": "C",
       "stats": {
         "season_averages": {
@@ -178565,8 +178565,8 @@
       "playerId": "player135",
       "name": "Nolan Cain",
       "url": "../players/player135.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster20",
+      "teamLabel": "Miami",
       "pos": "C",
       "stats": {
         "season_averages": {
@@ -180365,8 +180365,8 @@
       "playerId": "player333",
       "name": "Octavio Robinson",
       "url": "../players/player333.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster15",
+      "teamLabel": "Houston",
       "pos": "SF",
       "stats": {
         "season_averages": {
@@ -189725,8 +189725,8 @@
       "playerId": "player127",
       "name": "Reginald Green",
       "url": "../players/player127.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster8",
+      "teamLabel": "Charlotte",
       "pos": "C",
       "stats": {
         "season_averages": {
@@ -193685,8 +193685,8 @@
       "playerId": "player419",
       "name": "Richard Ruvalcaba",
       "url": "../players/player419.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster27",
+      "teamLabel": "Philadelphia",
       "pos": "SG",
       "stats": {
         "season_averages": {
@@ -203405,8 +203405,8 @@
       "playerId": "player52",
       "name": "Ryan Torrey",
       "url": "../players/player52.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster12",
+      "teamLabel": "Denver",
       "pos": "C",
       "stats": {
         "season_averages": {
@@ -210245,8 +210245,8 @@
       "playerId": "player504",
       "name": "Shaun Waldon",
       "url": "../players/player504.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster7",
+      "teamLabel": "New Jersey",
       "pos": "PG",
       "stats": {
         "season_averages": {
@@ -223925,8 +223925,8 @@
       "playerId": "player65",
       "name": "Timothy Hood",
       "url": "../players/player65.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster22",
+      "teamLabel": "Minnesota",
       "pos": "C",
       "stats": {
         "season_averages": {
@@ -225365,8 +225365,8 @@
       "playerId": "player395",
       "name": "Tommie Laguna",
       "url": "../players/player395.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster30",
+      "teamLabel": "Sacramento",
       "pos": "SG",
       "stats": {
         "season_averages": {
@@ -226805,8 +226805,8 @@
       "playerId": "player460",
       "name": "Tony Lecompte",
       "url": "../players/player460.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster27",
+      "teamLabel": "Philadelphia",
       "pos": "SG",
       "stats": {
         "season_averages": {
@@ -238685,8 +238685,8 @@
       "playerId": "player505",
       "name": "Winfred Markus",
       "url": "../players/player505.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster16",
+      "teamLabel": "Indiana",
       "pos": "PG",
       "stats": {
         "season_averages": {
@@ -239405,8 +239405,8 @@
       "playerId": "player308",
       "name": "Wojciech Broz",
       "url": "../players/player308.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster6",
+      "teamLabel": "Boston",
       "pos": "SF",
       "stats": {
         "season_averages": {
@@ -240485,8 +240485,8 @@
       "playerId": "player436",
       "name": "Yakubu Akpovi",
       "url": "../players/player436.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
+      "team": "roster32",
+      "teamLabel": "Toronto",
       "pos": "SG",
       "stats": {
         "season_averages": {

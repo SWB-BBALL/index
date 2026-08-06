@@ -2485,8 +2485,8 @@
     "playerId": "player494",
     "name": "Alfred Saunders",
     "url": "../players/player494.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster19",
+    "teamLabel": "Memphis",
     "pos": "PG",
     "age": "32",
     "ht": "6-3",
@@ -2494,12 +2494,18 @@
     "experience": "10 years",
     "birdYears": 6,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 15972698.0,
+    "currentSalaryText": "$15,972,698",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Memphis with pick #13 of round 3 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C",
     "Jps": "B-",
     "Fts": "C+",
@@ -2521,9 +2527,9 @@
     "greed": "41",
     "playForWinner": "10",
     "loyalty": "35",
-    "happiness": "52",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster19",
+    "lastTeam": "Memphis",
     "potentials": {
       "Ins": "C",
       "Jps": "B",
@@ -2540,22 +2546,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 15972698.0,
+        "salaryText": "$15,972,698"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 15972698.0,
+        "salaryText": "$15,972,698"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 15972698.0,
+        "salaryText": "$15,972,698"
       },
       {
         "year": "2013",
@@ -3515,8 +3520,8 @@
     "playerId": "player42",
     "name": "Andrew Galloway",
     "url": "../players/player42.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "Legia",
+    "teamLabel": "Legia",
     "pos": "C",
     "age": "26",
     "ht": "6-11",
@@ -3524,12 +3529,18 @@
     "experience": "3 years",
     "birdYears": 3,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 7241149.0,
+    "currentSalaryText": "$7,241,149",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by the Legia with pick #5 of round 4 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C",
     "Jps": "C",
     "Fts": "C+",
@@ -3551,9 +3562,9 @@
     "greed": "68",
     "playForWinner": "29",
     "loyalty": "12",
-    "happiness": "78",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "Legia",
+    "lastTeam": "Legia",
     "potentials": {
       "Ins": "C",
       "Jps": "C",
@@ -3570,17 +3581,16 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 7241149.0,
+        "salaryText": "$7,241,149"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 7241149.0,
+        "salaryText": "$7,241,149"
       },
       {
         "year": "2012",
@@ -4442,8 +4452,8 @@
     "playerId": "player233",
     "name": "Antonia Lund",
     "url": "../players/player233.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster24",
+    "teamLabel": "New York",
     "pos": "PF",
     "age": "25",
     "ht": "6-8",
@@ -4451,12 +4461,18 @@
     "experience": "3 years",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 7395367.0,
+    "currentSalaryText": "$7,395,367",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by New York with pick #2 of round 4 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "D+",
     "Jps": "D+",
     "Fts": "C",
@@ -4478,9 +4494,9 @@
     "greed": "57",
     "playForWinner": "71",
     "loyalty": "4",
-    "happiness": "13",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster24",
+    "lastTeam": "New York",
     "potentials": {
       "Ins": "D",
       "Jps": "D",
@@ -4497,17 +4513,16 @@
     },
     "potentialCurrentColor": "#EDBE30",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 7395367.0,
+        "salaryText": "$7,395,367"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 7395367.0,
+        "salaryText": "$7,395,367"
       },
       {
         "year": "2012",
@@ -4545,8 +4560,8 @@
     "playerId": "player463",
     "name": "Antonio Smith",
     "url": "../players/player463.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster32",
+    "teamLabel": "Toronto",
     "pos": "PG",
     "age": "31",
     "ht": "5-11",
@@ -4554,12 +4569,18 @@
     "experience": "7 years",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 12762154.0,
+    "currentSalaryText": "$12,762,154",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Toronto with pick #23 of round 3 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C+",
     "Jps": "C+",
     "Fts": "B",
@@ -4581,9 +4602,9 @@
     "greed": "8",
     "playForWinner": "94",
     "loyalty": "42",
-    "happiness": "1",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster32",
+    "lastTeam": "Toronto",
     "potentials": {
       "Ins": "C",
       "Jps": "C",
@@ -4600,22 +4621,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 12762154.0,
+        "salaryText": "$12,762,154"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 12762154.0,
+        "salaryText": "$12,762,154"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 12762154.0,
+        "salaryText": "$12,762,154"
       },
       {
         "year": "2013",
@@ -4648,8 +4668,8 @@
     "playerId": "player336",
     "name": "Antwan Pierce",
     "url": "../players/player336.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster7",
+    "teamLabel": "New Jersey",
     "pos": "SF",
     "age": "22",
     "ht": "6-9",
@@ -4657,12 +4677,18 @@
     "experience": "Rookie",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 11900213.0,
+    "currentSalaryText": "$11,900,213",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by New Jersey with pick #7 of round 3 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C-",
     "Jps": "D+",
     "Fts": "C",
@@ -4684,9 +4710,9 @@
     "greed": "49",
     "playForWinner": "24",
     "loyalty": "52",
-    "happiness": "59",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster7",
+    "lastTeam": "New Jersey",
     "potentials": {
       "Ins": "C",
       "Jps": "D",
@@ -4703,22 +4729,21 @@
     },
     "potentialCurrentColor": "#EDBE30",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 11900213.0,
+        "salaryText": "$11,900,213"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 11900213.0,
+        "salaryText": "$11,900,213"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 11900213.0,
+        "salaryText": "$11,900,213"
       },
       {
         "year": "2013",
@@ -5884,8 +5909,8 @@
     "playerId": "player48",
     "name": "Augustas Kemzis",
     "url": "../players/player48.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster28",
+    "teamLabel": "Phoenix",
     "pos": "C",
     "age": "30",
     "ht": "6-11",
@@ -5893,12 +5918,18 @@
     "experience": "11 years",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 10209073.0,
+    "currentSalaryText": "$10,209,073",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Phoenix with pick #4 of round 4 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "D+",
     "Jps": "B-",
     "Fts": "C+",
@@ -5920,9 +5951,9 @@
     "greed": "31",
     "playForWinner": "95",
     "loyalty": "66",
-    "happiness": "2",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster28",
+    "lastTeam": "Phoenix",
     "potentials": {
       "Ins": "D",
       "Jps": "B",
@@ -5939,17 +5970,16 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 10209073.0,
+        "salaryText": "$10,209,073"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 10209073.0,
+        "salaryText": "$10,209,073"
       },
       {
         "year": "2012",
@@ -6296,8 +6326,8 @@
     "playerId": "player104",
     "name": "Barrett Solis",
     "url": "../players/player104.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster8",
+    "teamLabel": "Charlotte",
     "pos": "C",
     "age": "21",
     "ht": "7-7",
@@ -6305,12 +6335,18 @@
     "experience": "Rookie",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 11652054.0,
+    "currentSalaryText": "$11,652,054",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Charlotte with pick #10 of round 3 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "D+",
     "Jps": "C-",
     "Fts": "C+",
@@ -6332,9 +6368,9 @@
     "greed": "35",
     "playForWinner": "24",
     "loyalty": "14",
-    "happiness": "48",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster8",
+    "lastTeam": "Charlotte",
     "potentials": {
       "Ins": "D",
       "Jps": "C",
@@ -6351,22 +6387,21 @@
     },
     "potentialCurrentColor": "#F2662A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 11652054.0,
+        "salaryText": "$11,652,054"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 11652054.0,
+        "salaryText": "$11,652,054"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 11652054.0,
+        "salaryText": "$11,652,054"
       },
       {
         "year": "2013",
@@ -6399,8 +6434,8 @@
     "playerId": "player111",
     "name": "Barry Jennette",
     "url": "../players/player111.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster18",
+    "teamLabel": "Los Angeles (LAL)",
     "pos": "C",
     "age": "28",
     "ht": "6-11",
@@ -6408,12 +6443,18 @@
     "experience": "5 years",
     "birdYears": 2,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 11489496.0,
+    "currentSalaryText": "$11,489,496",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Los Angeles (LAL) with pick #12 of round 3 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C-",
     "Jps": "C-",
     "Fts": "D+",
@@ -6435,9 +6476,9 @@
     "greed": "41",
     "playForWinner": "63",
     "loyalty": "64",
-    "happiness": "80",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster18",
+    "lastTeam": "Los Angeles (LAL)",
     "potentials": {
       "Ins": "D",
       "Jps": "D",
@@ -6454,22 +6495,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 11489496.0,
+        "salaryText": "$11,489,496"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 11489496.0,
+        "salaryText": "$11,489,496"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 13787396.0,
+        "salaryText": "$13,787,396"
       },
       {
         "year": "2013",
@@ -9916,8 +9956,8 @@
     "playerId": "player271",
     "name": "Bruce Burnt",
     "url": "../players/player271.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster13",
+    "teamLabel": "Detroit",
     "pos": "PF",
     "age": "19",
     "ht": "6-9",
@@ -9925,12 +9965,18 @@
     "experience": "Rookie",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 11570490.0,
+    "currentSalaryText": "$11,570,490",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Detroit with pick #11 of round 3 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C",
     "Jps": "F+",
     "Fts": "C+",
@@ -9952,9 +9998,9 @@
     "greed": "89",
     "playForWinner": "41",
     "loyalty": "62",
-    "happiness": "32",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster13",
+    "lastTeam": "Detroit",
     "potentials": {
       "Ins": "B",
       "Jps": "D",
@@ -9971,22 +10017,21 @@
     },
     "potentialCurrentColor": "#F2662A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 11570490.0,
+        "salaryText": "$11,570,490"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 11570490.0,
+        "salaryText": "$11,570,490"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 11570490.0,
+        "salaryText": "$11,570,490"
       },
       {
         "year": "2013",
@@ -10019,8 +10064,8 @@
     "playerId": "player243",
     "name": "Bryan Davis",
     "url": "../players/player243.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster29",
+    "teamLabel": "Portland",
     "pos": "PF",
     "age": "32",
     "ht": "6-8",
@@ -10028,12 +10073,18 @@
     "experience": "9 years",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 20419446.0,
+    "currentSalaryText": "$20,419,446",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Portland with pick #23 of round 2 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "D-",
     "Jps": "C",
     "Fts": "C",
@@ -10055,9 +10106,9 @@
     "greed": "17",
     "playForWinner": "4",
     "loyalty": "6",
-    "happiness": "35",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster29",
+    "lastTeam": "Portland",
     "potentials": {
       "Ins": "F",
       "Jps": "C",
@@ -10074,22 +10125,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 20419446.0,
+        "salaryText": "$20,419,446"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 23822687.0,
+        "salaryText": "$23,822,687"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 23822687.0,
+        "salaryText": "$23,822,687"
       },
       {
         "year": "2013",
@@ -10534,8 +10584,8 @@
     "playerId": "player50",
     "name": "Cameron Johnson",
     "url": "../players/player50.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster31",
+    "teamLabel": "San Antonio",
     "pos": "C",
     "age": "32",
     "ht": "6-11",
@@ -10543,12 +10593,18 @@
     "experience": "12 years",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 25000000.0,
+    "currentSalaryText": "$25,000,000",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by San Antonio with pick #15 of round 2 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "B",
     "Jps": "C+",
     "Fts": "B-",
@@ -10570,9 +10626,9 @@
     "greed": "53",
     "playForWinner": "47",
     "loyalty": "73",
-    "happiness": "67",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster31",
+    "lastTeam": "San Antonio",
     "potentials": {
       "Ins": "B",
       "Jps": "C",
@@ -10589,22 +10645,21 @@
     },
     "potentialCurrentColor": "#0052C3",
     "potentialFutureColor": "#0052C3",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 25000000.0,
+        "salaryText": "$25,000,000"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 25000000.0,
+        "salaryText": "$25,000,000"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 25000000.0,
+        "salaryText": "$25,000,000"
       },
       {
         "year": "2013",
@@ -14767,8 +14822,8 @@
     "playerId": "player348",
     "name": "Chung Jones",
     "url": "../players/player348.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster5",
+    "teamLabel": "Atlanta",
     "pos": "SF",
     "age": "28",
     "ht": "6-9",
@@ -14776,12 +14831,18 @@
     "experience": "9 years",
     "birdYears": 2,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 13311546.0,
+    "currentSalaryText": "$13,311,546",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Atlanta with pick #17 of round 3 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C-",
     "Jps": "C",
     "Fts": "C",
@@ -14803,9 +14864,9 @@
     "greed": "60",
     "playForWinner": "26",
     "loyalty": "23",
-    "happiness": "32",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster5",
+    "lastTeam": "Atlanta",
     "potentials": {
       "Ins": "D",
       "Jps": "C",
@@ -14822,22 +14883,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 13311546.0,
+        "salaryText": "$13,311,546"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 15530137.0,
+        "salaryText": "$15,530,137"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 15530137.0,
+        "salaryText": "$15,530,137"
       },
       {
         "year": "2013",
@@ -14973,8 +15033,8 @@
     "playerId": "player560",
     "name": "Clarence Williams",
     "url": "../players/player560.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster9",
+    "teamLabel": "Chicago",
     "pos": "PG",
     "age": "33",
     "ht": "6-1",
@@ -14982,12 +15042,18 @@
     "experience": "12 years",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 25000000.0,
+    "currentSalaryText": "$25,000,000",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Chicago with pick #7 of round 2 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C+",
     "Jps": "A-",
     "Fts": "C",
@@ -15009,9 +15075,9 @@
     "greed": "17",
     "playForWinner": "60",
     "loyalty": "44",
-    "happiness": "16",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster9",
+    "lastTeam": "Chicago",
     "potentials": {
       "Ins": "C",
       "Jps": "A",
@@ -15028,22 +15094,21 @@
     },
     "potentialCurrentColor": "#0052C3",
     "potentialFutureColor": "#0052C3",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 25000000.0,
+        "salaryText": "$25,000,000"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 25000000.0,
+        "salaryText": "$25,000,000"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 25000000.0,
+        "salaryText": "$25,000,000"
       },
       {
         "year": "2013",
@@ -15488,8 +15553,8 @@
     "playerId": "player119",
     "name": "Cliff Henderson",
     "url": "../players/player119.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster27",
+    "teamLabel": "Philadelphia",
     "pos": "C",
     "age": "32",
     "ht": "7-0",
@@ -15497,12 +15562,18 @@
     "experience": "12 years",
     "birdYears": 4,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 9856723.0,
+    "currentSalaryText": "$9,856,723",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Philadelphia with pick #9 of round 4 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C-",
     "Jps": "D",
     "Fts": "C-",
@@ -15524,9 +15595,9 @@
     "greed": "0",
     "playForWinner": "14",
     "loyalty": "92",
-    "happiness": "78",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster27",
+    "lastTeam": "Philadelphia",
     "potentials": {
       "Ins": "D",
       "Jps": "D",
@@ -15543,17 +15614,16 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 9856723.0,
+        "salaryText": "$9,856,723"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 9856723.0,
+        "salaryText": "$9,856,723"
       },
       {
         "year": "2012",
@@ -16111,8 +16181,8 @@
     "playerId": "player422",
     "name": "Conrad Mills",
     "url": "../players/player422.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster23",
+    "teamLabel": "New Orleans",
     "pos": "SG",
     "age": "28",
     "ht": "6-5",
@@ -16120,12 +16190,18 @@
     "experience": "5 years",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 6991233.0,
+    "currentSalaryText": "$6,991,233",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by New Orleans with pick #10 of round 4 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "D+",
     "Jps": "B+",
     "Fts": "B",
@@ -16147,9 +16223,9 @@
     "greed": "44",
     "playForWinner": "3",
     "loyalty": "89",
-    "happiness": "59",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster23",
+    "lastTeam": "New Orleans",
     "potentials": {
       "Ins": "D",
       "Jps": "B",
@@ -16166,17 +16242,16 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 6991233.0,
+        "salaryText": "$6,991,233"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 6991233.0,
+        "salaryText": "$6,991,233"
       },
       {
         "year": "2012",
@@ -19010,8 +19085,8 @@
     "playerId": "player375",
     "name": "Daron Tillotson",
     "url": "../players/player375.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster9",
+    "teamLabel": "Chicago",
     "pos": "SG",
     "age": "27",
     "ht": "6-5",
@@ -19019,12 +19094,18 @@
     "experience": "4 years",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 7140128.0,
+    "currentSalaryText": "$7,140,128",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Chicago with pick #7 of round 4 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C+",
     "Jps": "C",
     "Fts": "C",
@@ -19046,9 +19127,9 @@
     "greed": "58",
     "playForWinner": "44",
     "loyalty": "17",
-    "happiness": "74",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster9",
+    "lastTeam": "Chicago",
     "potentials": {
       "Ins": "C",
       "Jps": "C",
@@ -19065,17 +19146,16 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 7140128.0,
+        "salaryText": "$7,140,128"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 7140128.0,
+        "salaryText": "$7,140,128"
       },
       {
         "year": "2012",
@@ -20668,8 +20748,8 @@
     "playerId": "player478",
     "name": "David Wilson",
     "url": "../players/player478.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster31",
+    "teamLabel": "San Antonio",
     "pos": "PG",
     "age": "34",
     "ht": "6-7",
@@ -20677,12 +20757,18 @@
     "experience": "11 years",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 15639614.0,
+    "currentSalaryText": "$15,639,614",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by San Antonio with pick #16 of round 3 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C",
     "Jps": "C",
     "Fts": "B+",
@@ -20704,9 +20790,9 @@
     "greed": "15",
     "playForWinner": "22",
     "loyalty": "22",
-    "happiness": "98",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster31",
+    "lastTeam": "San Antonio",
     "potentials": {
       "Ins": "C",
       "Jps": "C",
@@ -20723,22 +20809,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 15639614.0,
+        "salaryText": "$15,639,614"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 15639614.0,
+        "salaryText": "$15,639,614"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 15639614.0,
+        "salaryText": "$15,639,614"
       },
       {
         "year": "2013",
@@ -20977,8 +21062,8 @@
     "playerId": "player194",
     "name": "Dele Osagiobare",
     "url": "../players/player194.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster30",
+    "teamLabel": "Sacramento",
     "pos": "PF",
     "age": "30",
     "ht": "6-8",
@@ -20986,12 +21071,18 @@
     "experience": "9 years",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 12321688.0,
+    "currentSalaryText": "$12,321,688",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Sacramento with pick #28 of round 3 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C",
     "Jps": "C-",
     "Fts": "C",
@@ -21013,9 +21104,9 @@
     "greed": "18",
     "playForWinner": "75",
     "loyalty": "5",
-    "happiness": "18",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster30",
+    "lastTeam": "Sacramento",
     "potentials": {
       "Ins": "C",
       "Jps": "D",
@@ -21032,22 +21123,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 12321688.0,
+        "salaryText": "$12,321,688"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 14375303.0,
+        "salaryText": "$14,375,303"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 14375303.0,
+        "salaryText": "$14,375,303"
       },
       {
         "year": "2013",
@@ -21183,8 +21273,8 @@
     "playerId": "player369",
     "name": "Derek McCarty",
     "url": "../players/player369.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster17",
+    "teamLabel": "Los Angeles (LAC)",
     "pos": "SG",
     "age": "29",
     "ht": "6-5",
@@ -21192,12 +21282,18 @@
     "experience": "7 years",
     "birdYears": 3,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 20134574.0,
+    "currentSalaryText": "$20,134,574",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Los Angeles (LAC) with pick #25 of round 2 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C+",
     "Jps": "B-",
     "Fts": "B-",
@@ -21219,9 +21315,9 @@
     "greed": "76",
     "playForWinner": "73",
     "loyalty": "0",
-    "happiness": "88",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster17",
+    "lastTeam": "Los Angeles (LAC)",
     "potentials": {
       "Ins": "C",
       "Jps": "B",
@@ -21238,22 +21334,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 20134574.0,
+        "salaryText": "$20,134,574"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 20134574.0,
+        "salaryText": "$20,134,574"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 20134574.0,
+        "salaryText": "$20,134,574"
       },
       {
         "year": "2013",
@@ -22007,8 +22102,8 @@
     "playerId": "player59",
     "name": "Don Carter",
     "url": "../players/player59.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster21",
+    "teamLabel": "Milwaukee",
     "pos": "C",
     "age": "29",
     "ht": "6-11",
@@ -22016,12 +22111,18 @@
     "experience": "6 years",
     "birdYears": 4,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 10861629.0,
+    "currentSalaryText": "$10,861,629",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Milwaukee with pick #20 of round 3 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "F+",
     "Jps": "C+",
     "Fts": "C",
@@ -22043,9 +22144,9 @@
     "greed": "75",
     "playForWinner": "61",
     "loyalty": "18",
-    "happiness": "35",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster21",
+    "lastTeam": "Milwaukee",
     "potentials": {
       "Ins": "F",
       "Jps": "C",
@@ -22062,22 +22163,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 10861629.0,
+        "salaryText": "$10,861,629"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 13033955.0,
+        "salaryText": "$13,033,955"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 13033955.0,
+        "salaryText": "$13,033,955"
       },
       {
         "year": "2013",
@@ -22110,8 +22210,8 @@
     "playerId": "player328",
     "name": "Don Montgomery",
     "url": "../players/player328.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster11",
+    "teamLabel": "San Diego",
     "pos": "SF",
     "age": "30",
     "ht": "6-8",
@@ -22119,12 +22219,18 @@
     "experience": "8 years",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 19993632.0,
+    "currentSalaryText": "$19,993,632",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by San Diego with pick #26 of round 2 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C-",
     "Jps": "A+",
     "Fts": "B+",
@@ -22146,9 +22252,9 @@
     "greed": "6",
     "playForWinner": "99",
     "loyalty": "78",
-    "happiness": "22",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster11",
+    "lastTeam": "San Diego",
     "potentials": {
       "Ins": "C",
       "Jps": "A",
@@ -22165,22 +22271,21 @@
     },
     "potentialCurrentColor": "#0052C3",
     "potentialFutureColor": "#0052C3",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 19993632.0,
+        "salaryText": "$19,993,632"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 19993632.0,
+        "salaryText": "$19,993,632"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 23325904.0,
+        "salaryText": "$23,325,904"
       },
       {
         "year": "2013",
@@ -22419,8 +22524,8 @@
     "playerId": "player384",
     "name": "Donovan Boswell",
     "url": "../players/player384.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster25",
+    "teamLabel": "Oklahoma City",
     "pos": "SG",
     "age": "32",
     "ht": "6-7",
@@ -22428,12 +22533,18 @@
     "experience": "12 years",
     "birdYears": 1,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 25000000.0,
+    "currentSalaryText": "$25,000,000",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Oklahoma City with pick #13 of round 2 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C+",
     "Jps": "B",
     "Fts": "C",
@@ -22455,9 +22566,9 @@
     "greed": "99",
     "playForWinner": "2",
     "loyalty": "31",
-    "happiness": "78",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster25",
+    "lastTeam": "Oklahoma City",
     "potentials": {
       "Ins": "B",
       "Jps": "B",
@@ -22474,22 +22585,21 @@
     },
     "potentialCurrentColor": "#0052C3",
     "potentialFutureColor": "#0052C3",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 25000000.0,
+        "salaryText": "$25,000,000"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 25000000.0,
+        "salaryText": "$25,000,000"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 25000000.0,
+        "salaryText": "$25,000,000"
       },
       {
         "year": "2013",
@@ -22625,8 +22735,8 @@
     "playerId": "player84",
     "name": "Douglas Beach",
     "url": "../players/player84.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster24",
+    "teamLabel": "New York",
     "pos": "C",
     "age": "26",
     "ht": "7-1",
@@ -22634,12 +22744,18 @@
     "experience": "4 years",
     "birdYears": 4,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 10196197.0,
+    "currentSalaryText": "$10,196,197",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by New York with pick #29 of round 3 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C",
     "Jps": "C",
     "Fts": "C+",
@@ -22661,9 +22777,9 @@
     "greed": "40",
     "playForWinner": "0",
     "loyalty": "98",
-    "happiness": "58",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster24",
+    "lastTeam": "New York",
     "potentials": {
       "Ins": "C",
       "Jps": "C",
@@ -22680,22 +22796,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 10196197.0,
+        "salaryText": "$10,196,197"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 10196197.0,
+        "salaryText": "$10,196,197"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 10196197.0,
+        "salaryText": "$10,196,197"
       },
       {
         "year": "2013",
@@ -23351,8 +23466,8 @@
     "playerId": "player544",
     "name": "Dwayne Frampton",
     "url": "../players/player544.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster29",
+    "teamLabel": "Portland",
     "pos": "PG",
     "age": "26",
     "ht": "6-3",
@@ -23360,12 +23475,18 @@
     "experience": "7 years",
     "birdYears": 5,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 14180294.0,
+    "currentSalaryText": "$14,180,294",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Portland with pick #8 of round 3 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C",
     "Jps": "C+",
     "Fts": "C-",
@@ -23387,9 +23508,9 @@
     "greed": "90",
     "playForWinner": "21",
     "loyalty": "74",
-    "happiness": "73",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster29",
+    "lastTeam": "Portland",
     "potentials": {
       "Ins": "C",
       "Jps": "B",
@@ -23406,22 +23527,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 14180294.0,
+        "salaryText": "$14,180,294"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 14180294.0,
+        "salaryText": "$14,180,294"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 14180294.0,
+        "salaryText": "$14,180,294"
       },
       {
         "year": "2013",
@@ -23969,8 +24089,8 @@
     "playerId": "player202",
     "name": "Edmundo Sotomayor",
     "url": "../players/player202.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster32",
+    "teamLabel": "Toronto",
     "pos": "PF",
     "age": "31",
     "ht": "6-9",
@@ -23978,12 +24098,18 @@
     "experience": "11 years",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 9926206.0,
+    "currentSalaryText": "$9,926,206",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Toronto with pick #8 of round 4 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "D-",
     "Jps": "C",
     "Fts": "C",
@@ -24005,9 +24131,9 @@
     "greed": "82",
     "playForWinner": "76",
     "loyalty": "34",
-    "happiness": "97",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster32",
+    "lastTeam": "Toronto",
     "potentials": {
       "Ins": "F",
       "Jps": "C",
@@ -24024,17 +24150,16 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 9926206.0,
+        "salaryText": "$9,926,206"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 9926206.0,
+        "salaryText": "$9,926,206"
       },
       {
         "year": "2012",
@@ -25730,8 +25855,8 @@
     "playerId": "player366",
     "name": "Emrah Aydogdu",
     "url": "../players/player366.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster12",
+    "teamLabel": "Denver",
     "pos": "SG",
     "age": "29",
     "ht": "6-4",
@@ -25739,12 +25864,18 @@
     "experience": "5 years",
     "birdYears": 3,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 12325612.0,
+    "currentSalaryText": "$12,325,612",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Denver with pick #2 of round 3 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C",
     "Jps": "C+",
     "Fts": "C+",
@@ -25766,9 +25897,9 @@
     "greed": "76",
     "playForWinner": "41",
     "loyalty": "77",
-    "happiness": "88",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster12",
+    "lastTeam": "Denver",
     "potentials": {
       "Ins": "C",
       "Jps": "C",
@@ -25785,22 +25916,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 12325612.0,
+        "salaryText": "$12,325,612"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 12325612.0,
+        "salaryText": "$12,325,612"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 14790735.0,
+        "salaryText": "$14,790,735"
       },
       {
         "year": "2013",
@@ -25833,8 +25963,8 @@
     "playerId": "player223",
     "name": "Enoch Morgan",
     "url": "../players/player223.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster9",
+    "teamLabel": "Chicago",
     "pos": "PF",
     "age": "23",
     "ht": "6-9",
@@ -25842,12 +25972,18 @@
     "experience": "Rookie",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 10560682.0,
+    "currentSalaryText": "$10,560,682",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Chicago with pick #24 of round 3 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C-",
     "Jps": "D+",
     "Fts": "B",
@@ -25869,9 +26005,9 @@
     "greed": "28",
     "playForWinner": "73",
     "loyalty": "66",
-    "happiness": "9",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster9",
+    "lastTeam": "Chicago",
     "potentials": {
       "Ins": "C",
       "Jps": "D",
@@ -25888,22 +26024,21 @@
     },
     "potentialCurrentColor": "#EDBE30",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 10560682.0,
+        "salaryText": "$10,560,682"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 10560682.0,
+        "salaryText": "$10,560,682"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 10560682.0,
+        "salaryText": "$10,560,682"
       },
       {
         "year": "2013",
@@ -26039,8 +26174,8 @@
     "playerId": "player92",
     "name": "Eric Vargas",
     "url": "../players/player92.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster10",
+    "teamLabel": "Cleveland",
     "pos": "C",
     "age": "35",
     "ht": "7-0",
@@ -26048,12 +26183,18 @@
     "experience": "13 years",
     "birdYears": 1,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 17135066.0,
+    "currentSalaryText": "$17,135,066",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Cleveland with pick #3 of round 3 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C+",
     "Jps": "C",
     "Fts": "C",
@@ -26075,9 +26216,9 @@
     "greed": "62",
     "playForWinner": "2",
     "loyalty": "73",
-    "happiness": "23",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster10",
+    "lastTeam": "Cleveland",
     "potentials": {
       "Ins": "C",
       "Jps": "C",
@@ -26094,22 +26235,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 17135066.0,
+        "salaryText": "$17,135,066"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 17135066.0,
+        "salaryText": "$17,135,066"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 17135066.0,
+        "salaryText": "$17,135,066"
       },
       {
         "year": "2013",
@@ -26966,8 +27106,8 @@
     "playerId": "player146",
     "name": "Felton Bayles",
     "url": "../players/player146.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "Legia",
+    "teamLabel": "Legia",
     "pos": "PF",
     "age": "27",
     "ht": "6-7",
@@ -26975,12 +27115,18 @@
     "experience": "5 years",
     "birdYears": 1,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 10413350.0,
+    "currentSalaryText": "$10,413,350",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by the Legia with pick #26 of round 3 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C",
     "Jps": "C",
     "Fts": "D+",
@@ -27002,9 +27148,9 @@
     "greed": "48",
     "playForWinner": "35",
     "loyalty": "49",
-    "happiness": "53",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "Legia",
+    "lastTeam": "Legia",
     "potentials": {
       "Ins": "C",
       "Jps": "C",
@@ -27021,22 +27167,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 10413350.0,
+        "salaryText": "$10,413,350"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 10413350.0,
+        "salaryText": "$10,413,350"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 12496020.0,
+        "salaryText": "$12,496,020"
       },
       {
         "year": "2013",
@@ -27790,8 +27935,8 @@
     "playerId": "player376",
     "name": "Frederick Simmons",
     "url": "../players/player376.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster10",
+    "teamLabel": "Cleveland",
     "pos": "SF",
     "age": "25",
     "ht": "6-10",
@@ -27799,12 +27944,18 @@
     "experience": "4 years",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 16313915.0,
+    "currentSalaryText": "$16,313,915",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Denver with pick #29 of round 2 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C",
     "Jps": "A-",
     "Fts": "C+",
@@ -27826,9 +27977,9 @@
     "greed": "97",
     "playForWinner": "55",
     "loyalty": "49",
-    "happiness": "46",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster10",
+    "lastTeam": "Cleveland",
     "potentials": {
       "Ins": "C",
       "Jps": "A",
@@ -27845,22 +27996,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#0052C3",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 16313915.0,
+        "salaryText": "$16,313,915"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 16313915.0,
+        "salaryText": "$16,313,915"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 16313915.0,
+        "salaryText": "$16,313,915"
       },
       {
         "year": "2013",
@@ -27996,8 +28146,8 @@
     "playerId": "player493",
     "name": "Fritz Johnson",
     "url": "../players/player493.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster25",
+    "teamLabel": "Oklahoma City",
     "pos": "PG",
     "age": "26",
     "ht": "6-0",
@@ -28005,12 +28155,18 @@
     "experience": "4 years",
     "birdYears": 3,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 11015304.0,
+    "currentSalaryText": "$11,015,304",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Oklahoma City with pick #18 of round 3 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "D+",
     "Jps": "C+",
     "Fts": "A-",
@@ -28032,9 +28188,9 @@
     "greed": "51",
     "playForWinner": "69",
     "loyalty": "76",
-    "happiness": "57",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster25",
+    "lastTeam": "Oklahoma City",
     "potentials": {
       "Ins": "D",
       "Jps": "B",
@@ -28051,22 +28207,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 11015304.0,
+        "salaryText": "$11,015,304"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 11015304.0,
+        "salaryText": "$11,015,304"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 11015304.0,
+        "salaryText": "$11,015,304"
       },
       {
         "year": "2013",
@@ -32352,8 +32507,8 @@
     "playerId": "player273",
     "name": "Inocencio Cascos",
     "url": "../players/player273.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster23",
+    "teamLabel": "New Orleans",
     "pos": "SF",
     "age": "30",
     "ht": "6-7",
@@ -32361,12 +32516,18 @@
     "experience": "7 years",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 12942718.0,
+    "currentSalaryText": "$12,942,718",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by New Orleans with pick #21 of round 3 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C-",
     "Jps": "B-",
     "Fts": "B+",
@@ -32388,9 +32549,9 @@
     "greed": "58",
     "playForWinner": "21",
     "loyalty": "19",
-    "happiness": "24",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster23",
+    "lastTeam": "New Orleans",
     "potentials": {
       "Ins": "D",
       "Jps": "B",
@@ -32407,22 +32568,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 12942718.0,
+        "salaryText": "$12,942,718"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 12942718.0,
+        "salaryText": "$12,942,718"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 12942718.0,
+        "salaryText": "$12,942,718"
       },
       {
         "year": "2013",
@@ -33794,8 +33954,8 @@
     "playerId": "player502",
     "name": "Jake Brown",
     "url": "../players/player502.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster34",
+    "teamLabel": "Washington",
     "pos": "PG",
     "age": "30",
     "ht": "6-2",
@@ -33803,12 +33963,18 @@
     "experience": "6 years",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 7500000.0,
+    "currentSalaryText": "$7,500,000",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Washington with pick #30 of round 4 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "D+",
     "Jps": "A-",
     "Fts": "C+",
@@ -33830,9 +33996,9 @@
     "greed": "24",
     "playForWinner": "74",
     "loyalty": "8",
-    "happiness": "66",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster34",
+    "lastTeam": "Washington",
     "potentials": {
       "Ins": "D",
       "Jps": "B",
@@ -33849,17 +34015,16 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 7500000.0,
+        "salaryText": "$7,500,000"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 9000000.0,
+        "salaryText": "$9,000,000"
       },
       {
         "year": "2012",
@@ -34108,8 +34273,8 @@
     "playerId": "player55",
     "name": "James Drake",
     "url": "../players/player55.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster26",
+    "teamLabel": "St. John's",
     "pos": "C",
     "age": "28",
     "ht": "7-0",
@@ -34117,12 +34282,18 @@
     "experience": "4 years",
     "birdYears": 5,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 11734194.0,
+    "currentSalaryText": "$11,734,194",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by St. John's with pick #9 of round 3 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "D",
     "Jps": "C",
     "Fts": "D",
@@ -34144,9 +34315,9 @@
     "greed": "100",
     "playForWinner": "55",
     "loyalty": "70",
-    "happiness": "33",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster26",
+    "lastTeam": "St. John's",
     "potentials": {
       "Ins": "D",
       "Jps": "D",
@@ -34163,22 +34334,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 11734194.0,
+        "salaryText": "$11,734,194"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 11734194.0,
+        "salaryText": "$11,734,194"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 11734194.0,
+        "salaryText": "$11,734,194"
       },
       {
         "year": "2013",
@@ -36482,8 +36652,8 @@
     "playerId": "player358",
     "name": "Jeremy Davis",
     "url": "../players/player358.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster22",
+    "teamLabel": "Minnesota",
     "pos": "SG",
     "age": "24",
     "ht": "6-5",
@@ -36491,12 +36661,18 @@
     "experience": "2 years",
     "birdYears": 2,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 19174564.0,
+    "currentSalaryText": "$19,174,564",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Minnesota with pick #6 of round 2 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C",
     "Jps": "C",
     "Fts": "B-",
@@ -36518,9 +36694,9 @@
     "greed": "26",
     "playForWinner": "21",
     "loyalty": "30",
-    "happiness": "84",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster22",
+    "lastTeam": "Minnesota",
     "potentials": {
       "Ins": "C",
       "Jps": "B",
@@ -36537,22 +36713,21 @@
     },
     "potentialCurrentColor": "#0052C3",
     "potentialFutureColor": "#0052C3",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 19174564.0,
+        "salaryText": "$19,174,564"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 19174564.0,
+        "salaryText": "$19,174,564"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 19174564.0,
+        "salaryText": "$19,174,564"
       },
       {
         "year": "2013",
@@ -37203,8 +37378,8 @@
     "playerId": "player201",
     "name": "Jess Fletcher",
     "url": "../players/player201.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster19",
+    "teamLabel": "Memphis",
     "pos": "PF",
     "age": "29",
     "ht": "6-8",
@@ -37212,12 +37387,18 @@
     "experience": "9 years",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 21149384.0,
+    "currentSalaryText": "$21,149,384",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Memphis with pick #18 of round 2 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C",
     "Jps": "B",
     "Fts": "C",
@@ -37239,9 +37420,9 @@
     "greed": "86",
     "playForWinner": "63",
     "loyalty": "29",
-    "happiness": "35",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster19",
+    "lastTeam": "Memphis",
     "potentials": {
       "Ins": "C",
       "Jps": "B",
@@ -37258,22 +37439,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 21149384.0,
+        "salaryText": "$21,149,384"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 24674281.0,
+        "salaryText": "$24,674,281"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 24674281.0,
+        "salaryText": "$24,674,281"
       },
       {
         "year": "2013",
@@ -38336,8 +38516,8 @@
     "playerId": "player413",
     "name": "John Ly",
     "url": "../players/player413.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster14",
+    "teamLabel": "Golden State",
     "pos": "SG",
     "age": "27",
     "ht": "6-5",
@@ -38345,12 +38525,18 @@
     "experience": "7 years",
     "birdYears": 5,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 19853677.0,
+    "currentSalaryText": "$19,853,677",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Golden State with pick #27 of round 2 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C+",
     "Jps": "B+",
     "Fts": "B-",
@@ -38372,9 +38558,9 @@
     "greed": "38",
     "playForWinner": "59",
     "loyalty": "64",
-    "happiness": "20",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster14",
+    "lastTeam": "Golden State",
     "potentials": {
       "Ins": "C",
       "Jps": "B",
@@ -38391,22 +38577,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 19853677.0,
+        "salaryText": "$19,853,677"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 19853677.0,
+        "salaryText": "$19,853,677"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 19853677.0,
+        "salaryText": "$19,853,677"
       },
       {
         "year": "2013",
@@ -39268,8 +39453,8 @@
     "playerId": "player195",
     "name": "Jonathan Perez",
     "url": "../players/player195.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster23",
+    "teamLabel": "New Orleans",
     "pos": "PF",
     "age": "30",
     "ht": "6-9",
@@ -39277,12 +39462,18 @@
     "experience": "7 years",
     "birdYears": 1,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 22371944.0,
+    "currentSalaryText": "$22,371,944",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by New Orleans with pick #10 of round 2 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C+",
     "Jps": "B",
     "Fts": "B",
@@ -39304,9 +39495,9 @@
     "greed": "91",
     "playForWinner": "94",
     "loyalty": "30",
-    "happiness": "77",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster23",
+    "lastTeam": "New Orleans",
     "potentials": {
       "Ins": "C",
       "Jps": "B",
@@ -39323,22 +39514,21 @@
     },
     "potentialCurrentColor": "#0052C3",
     "potentialFutureColor": "#0052C3",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 22371944.0,
+        "salaryText": "$22,371,944"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 22371944.0,
+        "salaryText": "$22,371,944"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 22371944.0,
+        "salaryText": "$22,371,944"
       },
       {
         "year": "2013",
@@ -39371,8 +39561,8 @@
     "playerId": "player353",
     "name": "Jonathan Pitman",
     "url": "../players/player353.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster6",
+    "teamLabel": "Boston",
     "pos": "SF",
     "age": "20",
     "ht": "6-8",
@@ -39380,12 +39570,18 @@
     "experience": "Rookie",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 12412500.0,
+    "currentSalaryText": "$12,412,500",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Boston with pick #1 of round 3 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "D",
     "Jps": "D+",
     "Fts": "C",
@@ -39407,9 +39603,9 @@
     "greed": "16",
     "playForWinner": "86",
     "loyalty": "55",
-    "happiness": "17",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster6",
+    "lastTeam": "Boston",
     "potentials": {
       "Ins": "C",
       "Jps": "C",
@@ -39426,22 +39622,21 @@
     },
     "potentialCurrentColor": "#F2662A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 12412500.0,
+        "salaryText": "$12,412,500"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 12412500.0,
+        "salaryText": "$12,412,500"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 12412500.0,
+        "salaryText": "$12,412,500"
       },
       {
         "year": "2013",
@@ -40092,8 +40287,8 @@
     "playerId": "player186",
     "name": "Jose Smith",
     "url": "../players/player186.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster20",
+    "teamLabel": "Miami",
     "pos": "PF",
     "age": "33",
     "ht": "6-9",
@@ -40101,12 +40296,18 @@
     "experience": "9 years",
     "birdYears": 1,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 13499882.0,
+    "currentSalaryText": "$13,499,882",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Miami with pick #15 of round 3 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "B-",
     "Jps": "C",
     "Fts": "C-",
@@ -40128,9 +40329,9 @@
     "greed": "67",
     "playForWinner": "33",
     "loyalty": "12",
-    "happiness": "49",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster20",
+    "lastTeam": "Miami",
     "potentials": {
       "Ins": "B",
       "Jps": "C",
@@ -40147,22 +40348,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 13499882.0,
+        "salaryText": "$13,499,882"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 15749863.0,
+        "salaryText": "$15,749,863"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 15749863.0,
+        "salaryText": "$15,749,863"
       },
       {
         "year": "2013",
@@ -40406,8 +40606,8 @@
     "playerId": "player216",
     "name": "Joseph Barry",
     "url": "../players/player216.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster22",
+    "teamLabel": "Minnesota",
     "pos": "PF",
     "age": "19",
     "ht": "6-10",
@@ -40415,12 +40615,18 @@
     "experience": "Rookie",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 7190461.0,
+    "currentSalaryText": "$7,190,461",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Minnesota with pick #6 of round 4 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "D",
     "Jps": "D",
     "Fts": "C",
@@ -40442,9 +40648,9 @@
     "greed": "73",
     "playForWinner": "98",
     "loyalty": "12",
-    "happiness": "22",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster22",
+    "lastTeam": "Minnesota",
     "potentials": {
       "Ins": "C",
       "Jps": "C",
@@ -40461,17 +40667,16 @@
     },
     "potentialCurrentColor": "#F2662A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 7190461.0,
+        "salaryText": "$7,190,461"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 7190461.0,
+        "salaryText": "$7,190,461"
       },
       {
         "year": "2012",
@@ -40509,8 +40714,8 @@
     "playerId": "player420",
     "name": "Joseph Bernardo",
     "url": "../players/player420.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster26",
+    "teamLabel": "St. John's",
     "pos": "SG",
     "age": "34",
     "ht": "6-7",
@@ -40518,12 +40723,18 @@
     "experience": "10 years",
     "birdYears": 4,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 23990621.0,
+    "currentSalaryText": "$23,990,621",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by St. John's with pick #22 of round 2 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C",
     "Jps": "A-",
     "Fts": "C",
@@ -40545,9 +40756,9 @@
     "greed": "34",
     "playForWinner": "26",
     "loyalty": "53",
-    "happiness": "12",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster26",
+    "lastTeam": "St. John's",
     "potentials": {
       "Ins": "C",
       "Jps": "A",
@@ -40564,22 +40775,21 @@
     },
     "potentialCurrentColor": "#0052C3",
     "potentialFutureColor": "#0052C3",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 23990621.0,
+        "salaryText": "$23,990,621"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 23990621.0,
+        "salaryText": "$23,990,621"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 23990621.0,
+        "salaryText": "$23,990,621"
       },
       {
         "year": "2013",
@@ -40921,8 +41131,8 @@
     "playerId": "player508",
     "name": "Joseph Okeefe",
     "url": "../players/player508.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster28",
+    "teamLabel": "Phoenix",
     "pos": "PG",
     "age": "34",
     "ht": "6-1",
@@ -40930,12 +41140,18 @@
     "experience": "12 years",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 14476639.0,
+    "currentSalaryText": "$14,476,639",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Phoenix with pick #27 of round 3 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "B-",
     "Jps": "C",
     "Fts": "C",
@@ -40957,9 +41173,9 @@
     "greed": "81",
     "playForWinner": "57",
     "loyalty": "36",
-    "happiness": "28",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster28",
+    "lastTeam": "Phoenix",
     "potentials": {
       "Ins": "B",
       "Jps": "C",
@@ -40976,22 +41192,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 14476639.0,
+        "salaryText": "$14,476,639"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 14476639.0,
+        "salaryText": "$14,476,639"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 14476639.0,
+        "salaryText": "$14,476,639"
       },
       {
         "year": "2013",
@@ -42569,8 +42784,8 @@
     "playerId": "player70",
     "name": "Kevin Shippy",
     "url": "../players/player70.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster17",
+    "teamLabel": "Los Angeles (LAC)",
     "pos": "C",
     "age": "31",
     "ht": "6-11",
@@ -42578,12 +42793,18 @@
     "experience": "9 years",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 14380923.0,
+    "currentSalaryText": "$14,380,923",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Los Angeles (LAC) with pick #6 of round 3 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C",
     "Jps": "B-",
     "Fts": "A-",
@@ -42605,9 +42826,9 @@
     "greed": "27",
     "playForWinner": "72",
     "loyalty": "4",
-    "happiness": "14",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster17",
+    "lastTeam": "Los Angeles (LAC)",
     "potentials": {
       "Ins": "C",
       "Jps": "B",
@@ -42624,22 +42845,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 14380923.0,
+        "salaryText": "$14,380,923"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 16777743.0,
+        "salaryText": "$16,777,743"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 16777743.0,
+        "salaryText": "$16,777,743"
       },
       {
         "year": "2013",
@@ -43398,8 +43618,8 @@
     "playerId": "player557",
     "name": "Lane Hubbard",
     "url": "../players/player557.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster18",
+    "teamLabel": "Los Angeles (LAL)",
     "pos": "PG",
     "age": "32",
     "ht": "6-2",
@@ -43407,12 +43627,18 @@
     "experience": "12 years",
     "birdYears": 6,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 24501561.0,
+    "currentSalaryText": "$24,501,561",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Los Angeles (LAL) with pick #19 of round 2 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "B",
     "Jps": "B-",
     "Fts": "B",
@@ -43434,9 +43660,9 @@
     "greed": "72",
     "playForWinner": "52",
     "loyalty": "97",
-    "happiness": "64",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster18",
+    "lastTeam": "Los Angeles (LAL)",
     "potentials": {
       "Ins": "B",
       "Jps": "B",
@@ -43453,22 +43679,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 24501561.0,
+        "salaryText": "$24,501,561"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 24501561.0,
+        "salaryText": "$24,501,561"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 24501561.0,
+        "salaryText": "$24,501,561"
       },
       {
         "year": "2013",
@@ -43707,8 +43932,8 @@
     "playerId": "player497",
     "name": "Lawerence Mosier",
     "url": "../players/player497.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster14",
+    "teamLabel": "Golden State",
     "pos": "PG",
     "age": "26",
     "ht": "6-1",
@@ -43716,12 +43941,18 @@
     "experience": "4 years",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 12153658.0,
+    "currentSalaryText": "$12,153,658",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Golden State with pick #4 of round 3 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C",
     "Jps": "B",
     "Fts": "C+",
@@ -43743,9 +43974,9 @@
     "greed": "82",
     "playForWinner": "49",
     "loyalty": "11",
-    "happiness": "34",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster14",
+    "lastTeam": "Golden State",
     "potentials": {
       "Ins": "C",
       "Jps": "B",
@@ -43762,22 +43993,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 12153658.0,
+        "salaryText": "$12,153,658"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 12153658.0,
+        "salaryText": "$12,153,658"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 12153658.0,
+        "salaryText": "$12,153,658"
       },
       {
         "year": "2013",
@@ -44737,8 +44967,8 @@
     "playerId": "player438",
     "name": "Linwood Gonzalez",
     "url": "../players/player438.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster15",
+    "teamLabel": "Houston",
     "pos": "SG",
     "age": "29",
     "ht": "6-7",
@@ -44746,12 +44976,18 @@
     "experience": "7 years",
     "birdYears": 2,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 13595048.0,
+    "currentSalaryText": "$13,595,048",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Houston with pick #14 of round 3 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "D+",
     "Jps": "C+",
     "Fts": "C",
@@ -44773,9 +45009,9 @@
     "greed": "95",
     "playForWinner": "45",
     "loyalty": "56",
-    "happiness": "4",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster15",
+    "lastTeam": "Houston",
     "potentials": {
       "Ins": "D",
       "Jps": "C",
@@ -44792,22 +45028,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 13595048.0,
+        "salaryText": "$13,595,048"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 13595048.0,
+        "salaryText": "$13,595,048"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 13595048.0,
+        "salaryText": "$13,595,048"
       },
       {
         "year": "2013",
@@ -45252,8 +45487,8 @@
     "playerId": "player716",
     "name": "Louis NoBoat",
     "url": "../players/player716.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster13",
+    "teamLabel": "Detroit",
     "pos": "SG",
     "age": "18",
     "ht": "5-6",
@@ -45261,12 +45496,18 @@
     "experience": "Rookie",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 17378607.0,
+    "currentSalaryText": "$17,378,607",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Detroit with pick #20 of round 2 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C+",
     "Jps": "D",
     "Fts": "A-",
@@ -45288,9 +45529,9 @@
     "greed": "100",
     "playForWinner": "100",
     "loyalty": "100",
-    "happiness": "0",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster13",
+    "lastTeam": "Detroit",
     "potentials": {
       "Ins": "B",
       "Jps": "B",
@@ -45307,22 +45548,21 @@
     },
     "potentialCurrentColor": "#F2662A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 17378607.0,
+        "salaryText": "$17,378,607"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 17378607.0,
+        "salaryText": "$17,378,607"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 17378607.0,
+        "salaryText": "$17,378,607"
       },
       {
         "year": "2013",
@@ -45355,8 +45595,8 @@
     "playerId": "player421",
     "name": "Luciano Alemany",
     "url": "../players/player421.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster21",
+    "teamLabel": "Milwaukee",
     "pos": "SG",
     "age": "23",
     "ht": "6-8",
@@ -45364,12 +45604,18 @@
     "experience": "4 years",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 18512784.0,
+    "currentSalaryText": "$18,512,784",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Milwaukee with pick #11 of round 2 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C-",
     "Jps": "C+",
     "Fts": "B",
@@ -45391,9 +45637,9 @@
     "greed": "2",
     "playForWinner": "72",
     "loyalty": "57",
-    "happiness": "58",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster21",
+    "lastTeam": "Milwaukee",
     "potentials": {
       "Ins": "C",
       "Jps": "B",
@@ -45410,22 +45656,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#0052C3",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 18512784.0,
+        "salaryText": "$18,512,784"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 18512784.0,
+        "salaryText": "$18,512,784"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 18512784.0,
+        "salaryText": "$18,512,784"
       },
       {
         "year": "2013",
@@ -45973,8 +46218,8 @@
     "playerId": "player402",
     "name": "Lynn Chapman",
     "url": "../players/player402.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster16",
+    "teamLabel": "Indiana",
     "pos": "SG",
     "age": "30",
     "ht": "6-6",
@@ -45982,12 +46227,18 @@
     "experience": "8 years",
     "birdYears": 1,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 13125836.0,
+    "currentSalaryText": "$13,125,836",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Indiana with pick #19 of round 3 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C-",
     "Jps": "C+",
     "Fts": "B-",
@@ -46009,9 +46260,9 @@
     "greed": "78",
     "playForWinner": "30",
     "loyalty": "88",
-    "happiness": "33",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster16",
+    "lastTeam": "Indiana",
     "potentials": {
       "Ins": "D",
       "Jps": "C",
@@ -46028,22 +46279,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 13125836.0,
+        "salaryText": "$13,125,836"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 13125836.0,
+        "salaryText": "$13,125,836"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 15313476.0,
+        "salaryText": "$15,313,476"
       },
       {
         "year": "2013",
@@ -46385,8 +46635,8 @@
     "playerId": "player363",
     "name": "Marcos Martinez",
     "url": "../players/player363.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster11",
+    "teamLabel": "San Diego",
     "pos": "SG",
     "age": "35",
     "ht": "6-5",
@@ -46394,12 +46644,18 @@
     "experience": "16 years",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 16896015.0,
+    "currentSalaryText": "$16,896,015",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by San Diego with pick #5 of round 3 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C+",
     "Jps": "C+",
     "Fts": "C",
@@ -46421,9 +46677,9 @@
     "greed": "91",
     "playForWinner": "23",
     "loyalty": "100",
-    "happiness": "28",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster11",
+    "lastTeam": "San Diego",
     "potentials": {
       "Ins": "C",
       "Jps": "C",
@@ -46440,22 +46696,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 16896015.0,
+        "salaryText": "$16,896,015"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 16896015.0,
+        "salaryText": "$16,896,015"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 16896015.0,
+        "salaryText": "$16,896,015"
       },
       {
         "year": "2013",
@@ -47003,8 +47258,8 @@
     "playerId": "player78",
     "name": "Matthew Espinoza",
     "url": "../players/player78.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster34",
+    "teamLabel": "Washington",
     "pos": "C",
     "age": "29",
     "ht": "7-0",
@@ -47012,12 +47267,18 @@
     "experience": "9 years",
     "birdYears": 3,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 8937000.0,
+    "currentSalaryText": "$8,937,000",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Washington with pick #1 of round 4 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C+",
     "Jps": "C",
     "Fts": "C",
@@ -47039,9 +47300,9 @@
     "greed": "73",
     "playForWinner": "94",
     "loyalty": "7",
-    "happiness": "7",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster34",
+    "lastTeam": "Washington",
     "potentials": {
       "Ins": "C",
       "Jps": "C",
@@ -47058,17 +47319,16 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 8937000.0,
+        "salaryText": "$8,937,000"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 10426500.0,
+        "salaryText": "$10,426,500"
       },
       {
         "year": "2012",
@@ -47935,8 +48195,8 @@
     "playerId": "player105",
     "name": "Michael Wallace",
     "url": "../players/player105.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster5",
+    "teamLabel": "Atlanta",
     "pos": "C",
     "age": "34",
     "ht": "7-5",
@@ -47944,12 +48204,18 @@
     "experience": "12 years",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 25000000.0,
+    "currentSalaryText": "$25,000,000",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Atlanta with pick #14 of round 2 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C",
     "Jps": "B",
     "Fts": "C",
@@ -47971,9 +48237,9 @@
     "greed": "14",
     "playForWinner": "17",
     "loyalty": "28",
-    "happiness": "24",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster5",
+    "lastTeam": "Atlanta",
     "potentials": {
       "Ins": "C",
       "Jps": "B",
@@ -47990,22 +48256,21 @@
     },
     "potentialCurrentColor": "#0052C3",
     "potentialFutureColor": "#0052C3",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 25000000.0,
+        "salaryText": "$25,000,000"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 25000000.0,
+        "salaryText": "$25,000,000"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 25000000.0,
+        "salaryText": "$25,000,000"
       },
       {
         "year": "2013",
@@ -51231,8 +51496,8 @@
     "playerId": "player135",
     "name": "Nolan Cain",
     "url": "../players/player135.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster20",
+    "teamLabel": "Miami",
     "pos": "C",
     "age": "28",
     "ht": "7-3",
@@ -51240,12 +51505,18 @@
     "experience": "8 years",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 21448613.0,
+    "currentSalaryText": "$21,448,613",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Miami with pick #16 of round 2 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "B-",
     "Jps": "C",
     "Fts": "C",
@@ -51267,9 +51538,9 @@
     "greed": "80",
     "playForWinner": "72",
     "loyalty": "13",
-    "happiness": "35",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster20",
+    "lastTeam": "Miami",
     "potentials": {
       "Ins": "B",
       "Jps": "C",
@@ -51286,22 +51557,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 21448613.0,
+        "salaryText": "$21,448,613"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 21448613.0,
+        "salaryText": "$21,448,613"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 25023382.0,
+        "salaryText": "$25,023,382"
       },
       {
         "year": "2013",
@@ -51746,8 +52016,8 @@
     "playerId": "player333",
     "name": "Octavio Robinson",
     "url": "../players/player333.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster15",
+    "teamLabel": "Houston",
     "pos": "SF",
     "age": "25",
     "ht": "6-11",
@@ -51755,12 +52025,18 @@
     "experience": "2 years",
     "birdYears": 2,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 17748727.0,
+    "currentSalaryText": "$17,748,727",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Houston with pick #17 of round 2 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C+",
     "Jps": "C",
     "Fts": "A",
@@ -51782,9 +52058,9 @@
     "greed": "28",
     "playForWinner": "97",
     "loyalty": "72",
-    "happiness": "20",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster15",
+    "lastTeam": "Houston",
     "potentials": {
       "Ins": "B",
       "Jps": "C",
@@ -51801,22 +52077,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#0052C3",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 17748727.0,
+        "salaryText": "$17,748,727"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 17748727.0,
+        "salaryText": "$17,748,727"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 17748727.0,
+        "salaryText": "$17,748,727"
       },
       {
         "year": "2013",
@@ -54434,8 +54709,8 @@
     "playerId": "player127",
     "name": "Reginald Green",
     "url": "../players/player127.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster8",
+    "teamLabel": "Charlotte",
     "pos": "C",
     "age": "24",
     "ht": "6-11",
@@ -54443,12 +54718,18 @@
     "experience": "1 year",
     "birdYears": 1,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 17256957.0,
+    "currentSalaryText": "$17,256,957",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Charlotte with pick #21 of round 2 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C",
     "Jps": "C-",
     "Fts": "C",
@@ -54470,9 +54751,9 @@
     "greed": "46",
     "playForWinner": "44",
     "loyalty": "94",
-    "happiness": "30",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster8",
+    "lastTeam": "Charlotte",
     "potentials": {
       "Ins": "C",
       "Jps": "D",
@@ -54489,22 +54770,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 17256957.0,
+        "salaryText": "$17,256,957"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 17256957.0,
+        "salaryText": "$17,256,957"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 17256957.0,
+        "salaryText": "$17,256,957"
       },
       {
         "year": "2013",
@@ -55567,8 +55847,8 @@
     "playerId": "player419",
     "name": "Richard Ruvalcaba",
     "url": "../players/player419.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster27",
+    "teamLabel": "Philadelphia",
     "pos": "SG",
     "age": "33",
     "ht": "6-5",
@@ -55576,12 +55856,18 @@
     "experience": "9 years",
     "birdYears": 1,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 22529652.0,
+    "currentSalaryText": "$22,529,652",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Philadelphia with pick #9 of round 2 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "B+",
     "Jps": "B-",
     "Fts": "A-",
@@ -55603,9 +55889,9 @@
     "greed": "60",
     "playForWinner": "51",
     "loyalty": "51",
-    "happiness": "46",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster27",
+    "lastTeam": "Philadelphia",
     "potentials": {
       "Ins": "B",
       "Jps": "B",
@@ -55622,22 +55908,21 @@
     },
     "potentialCurrentColor": "#0052C3",
     "potentialFutureColor": "#0052C3",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 22529652.0,
+        "salaryText": "$22,529,652"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 26284594.0,
+        "salaryText": "$26,284,594"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 26284594.0,
+        "salaryText": "$26,284,594"
       },
       {
         "year": "2013",
@@ -58353,8 +58638,8 @@
     "playerId": "player52",
     "name": "Ryan Torrey",
     "url": "../players/player52.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster12",
+    "teamLabel": "Denver",
     "pos": "C",
     "age": "30",
     "ht": "6-11",
@@ -58362,12 +58647,18 @@
     "experience": "8 years",
     "birdYears": 2,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 19714701.0,
+    "currentSalaryText": "$19,714,701",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Cleveland with pick #28 of round 2 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C-",
     "Jps": "B-",
     "Fts": "C-",
@@ -58389,9 +58680,9 @@
     "greed": "12",
     "playForWinner": "95",
     "loyalty": "57",
-    "happiness": "59",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster12",
+    "lastTeam": "Denver",
     "potentials": {
       "Ins": "D",
       "Jps": "B",
@@ -58408,22 +58699,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 19714701.0,
+        "salaryText": "$19,714,701"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 19714701.0,
+        "salaryText": "$19,714,701"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 23000485.0,
+        "salaryText": "$23,000,485"
       },
       {
         "year": "2013",
@@ -60310,8 +60600,8 @@
     "playerId": "player504",
     "name": "Shaun Waldon",
     "url": "../players/player504.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster7",
+    "teamLabel": "New Jersey",
     "pos": "PG",
     "age": "26",
     "ht": "6-0",
@@ -60319,12 +60609,18 @@
     "experience": "3 years",
     "birdYears": 3,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 16897092.0,
+    "currentSalaryText": "$16,897,092",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by New Jersey with pick #24 of round 2 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C",
     "Jps": "C+",
     "Fts": "C",
@@ -60346,9 +60642,9 @@
     "greed": "10",
     "playForWinner": "21",
     "loyalty": "68",
-    "happiness": "76",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster7",
+    "lastTeam": "New Jersey",
     "potentials": {
       "Ins": "C",
       "Jps": "C",
@@ -60365,22 +60661,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 16897092.0,
+        "salaryText": "$16,897,092"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 16897092.0,
+        "salaryText": "$16,897,092"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 16897092.0,
+        "salaryText": "$16,897,092"
       },
       {
         "year": "2013",
@@ -64229,8 +64524,8 @@
     "playerId": "player65",
     "name": "Timothy Hood",
     "url": "../players/player65.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster22",
+    "teamLabel": "Minnesota",
     "pos": "C",
     "age": "34",
     "ht": "6-11",
@@ -64238,12 +64533,18 @@
     "experience": "13 years",
     "birdYears": 2,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 14681461.0,
+    "currentSalaryText": "$14,681,461",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Minnesota with pick #25 of round 3 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "B+",
     "Jps": "C",
     "Fts": "C",
@@ -64265,9 +64566,9 @@
     "greed": "59",
     "playForWinner": "82",
     "loyalty": "58",
-    "happiness": "11",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster22",
+    "lastTeam": "Minnesota",
     "potentials": {
       "Ins": "B",
       "Jps": "C",
@@ -64284,22 +64585,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 14681461.0,
+        "salaryText": "$14,681,461"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 14681461.0,
+        "salaryText": "$14,681,461"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 14681461.0,
+        "salaryText": "$14,681,461"
       },
       {
         "year": "2013",
@@ -64641,8 +64941,8 @@
     "playerId": "player395",
     "name": "Tommie Laguna",
     "url": "../players/player395.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster30",
+    "teamLabel": "Sacramento",
     "pos": "SG",
     "age": "35",
     "ht": "6-6",
@@ -64650,12 +64950,18 @@
     "experience": "13 years",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 10281040.0,
+    "currentSalaryText": "$10,281,040",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Sacramento with pick #3 of round 4 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C-",
     "Jps": "C",
     "Fts": "B-",
@@ -64677,9 +64983,9 @@
     "greed": "90",
     "playForWinner": "45",
     "loyalty": "31",
-    "happiness": "11",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster30",
+    "lastTeam": "Sacramento",
     "potentials": {
       "Ins": "D",
       "Jps": "C",
@@ -64696,17 +65002,16 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 10281040.0,
+        "salaryText": "$10,281,040"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 10281040.0,
+        "salaryText": "$10,281,040"
       },
       {
         "year": "2012",
@@ -65058,8 +65363,8 @@
     "playerId": "player460",
     "name": "Tony Lecompte",
     "url": "../players/player460.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster27",
+    "teamLabel": "Philadelphia",
     "pos": "SG",
     "age": "30",
     "ht": "6-5",
@@ -65067,12 +65372,18 @@
     "experience": "9 years",
     "birdYears": 2,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 12852119.0,
+    "currentSalaryText": "$12,852,119",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Philadelphia with pick #22 of round 3 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C",
     "Jps": "C+",
     "Fts": "B-",
@@ -65094,9 +65405,9 @@
     "greed": "90",
     "playForWinner": "79",
     "loyalty": "36",
-    "happiness": "98",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster27",
+    "lastTeam": "Philadelphia",
     "potentials": {
       "Ins": "D",
       "Jps": "C",
@@ -65113,22 +65424,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 12852119.0,
+        "salaryText": "$12,852,119"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 14994138.0,
+        "salaryText": "$14,994,138"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 14994138.0,
+        "salaryText": "$14,994,138"
       },
       {
         "year": "2013",
@@ -68467,8 +68777,8 @@
     "playerId": "player505",
     "name": "Winfred Markus",
     "url": "../players/player505.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster16",
+    "teamLabel": "Indiana",
     "pos": "PG",
     "age": "28",
     "ht": "5-11",
@@ -68476,12 +68786,18 @@
     "experience": "6 years",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 18383194.0,
+    "currentSalaryText": "$18,383,194",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Indiana with pick #12 of round 2 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "C-",
     "Jps": "A-",
     "Fts": "B",
@@ -68503,9 +68819,9 @@
     "greed": "35",
     "playForWinner": "8",
     "loyalty": "48",
-    "happiness": "96",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster16",
+    "lastTeam": "Indiana",
     "potentials": {
       "Ins": "D",
       "Jps": "B",
@@ -68522,22 +68838,21 @@
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 18383194.0,
+        "salaryText": "$18,383,194"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 22059833.0,
+        "salaryText": "$22,059,833"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 22059833.0,
+        "salaryText": "$22,059,833"
       },
       {
         "year": "2013",
@@ -68673,8 +68988,8 @@
     "playerId": "player308",
     "name": "Wojciech Broz",
     "url": "../players/player308.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster6",
+    "teamLabel": "Boston",
     "pos": "SF",
     "age": "19",
     "ht": "6-10",
@@ -68682,12 +68997,18 @@
     "experience": "Rookie",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 12500000.0,
+    "currentSalaryText": "$12,500,000",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Boston with pick #30 of round 3 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "D-",
     "Jps": "C-",
     "Fts": "C",
@@ -68709,9 +69030,9 @@
     "greed": "26",
     "playForWinner": "68",
     "loyalty": "8",
-    "happiness": "70",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster6",
+    "lastTeam": "Boston",
     "potentials": {
       "Ins": "D",
       "Jps": "C",
@@ -68728,22 +69049,21 @@
     },
     "potentialCurrentColor": "#F2662A",
     "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 12500000.0,
+        "salaryText": "$12,500,000"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 12500000.0,
+        "salaryText": "$12,500,000"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 12500000.0,
+        "salaryText": "$12,500,000"
       },
       {
         "year": "2013",
@@ -68982,8 +69302,8 @@
     "playerId": "player436",
     "name": "Yakubu Akpovi",
     "url": "../players/player436.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
+    "team": "roster32",
+    "teamLabel": "Toronto",
     "pos": "SG",
     "age": "29",
     "ht": "6-5",
@@ -68991,12 +69311,18 @@
     "experience": "5 years",
     "birdYears": 2,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 18907059.0,
+    "currentSalaryText": "$18,907,059",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "10/8/2011",
+        "action": "Drafted by Toronto with pick #8 of round 2 of the creation draft.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "A-",
     "Jps": "A",
     "Fts": "B-",
@@ -69018,9 +69344,9 @@
     "greed": "73",
     "playForWinner": "11",
     "loyalty": "14",
-    "happiness": "55",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster32",
+    "lastTeam": "Toronto",
     "potentials": {
       "Ins": "B",
       "Jps": "A",
@@ -69037,22 +69363,21 @@
     },
     "potentialCurrentColor": "#0052C3",
     "potentialFutureColor": "#0052C3",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 18907059.0,
+        "salaryText": "$18,907,059"
       },
       {
         "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 18907059.0,
+        "salaryText": "$18,907,059"
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 22688471.0,
+        "salaryText": "$22,688,471"
       },
       {
         "year": "2013",
