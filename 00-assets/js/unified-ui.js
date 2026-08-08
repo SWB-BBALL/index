@@ -1,0 +1,97 @@
+(function () {
+  "use strict";
+
+  function escapeHtml(value) {
+    return String(value === null || value === undefined ? "" : value).replace(/[&<>"']/g, function (character) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[character];
+    });
+  }
+
+  function ratingClass(value) {
+    var rating = Number(value) || 0;
+    if (rating >= 151) { return "purple"; }
+    if (rating >= 115) { return "blue"; }
+    if (rating >= 100) { return "green"; }
+    if (rating >= 80) { return "yellow"; }
+    return "orange";
+  }
+
+  function ratingBadge(value, label) {
+    var text = label === undefined || label === null ? value : label;
+    var hidden = text === "";
+    return '<span class="ui-rating ui-rating--' + ratingClass(value) +
+      '" aria-label="' + (hidden ? "Rating colour grade" : "Rating " + escapeHtml(text)) +
+      '">' + escapeHtml(text) + "</span>";
+  }
+
+  function tierBadge(value) {
+    var tier = String(value || "").trim();
+    var key = tier.charAt(0).toLowerCase();
+    return '<span class="ui-tier' + (key ? " ui-tier--" + escapeHtml(key) : "") + '">' + escapeHtml(tier || "-") + "</span>";
+  }
+
+  function statusBadge(value, tone) {
+    var safeTone = ["good", "warn", "bad"].indexOf(tone) >= 0 ? " ui-status--" + tone : "";
+    return '<span class="ui-status' + safeTone + '">' + escapeHtml(value) + "</span>";
+  }
+
+  var TEAM_ABBREVIATIONS = {
+    "AC Milan": "ACM", "AFC Richmond": "AFC", "Ajax": "AJX",
+    "Aston Villa": "AVL", "Atletico Madrid": "ATM", "Barcelona": "BAR",
+    "Bayern Munich": "BAY", "Benfica": "BEN", "Brighton": "BRI",
+    "Chelsea": "CHE", "Crystal Palace": "CRY", "FL Fart": "FLF",
+    "Inter Milan": "INT", "Juventus": "JUV", "Manchester City": "MCI",
+    "Manchester United": "MUN", "Marseille": "MAR", "Monaco": "MON",
+    "Paris Saint-Germain": "PSG", "Real Madrid": "RMA", "Sheffield United": "SHU",
+    "Sporting CP": "SCP", "Tottenham Hotspur": "TOT", "Valencia": "VAL",
+    "Free Agents": "FA", "Draft": "DRF"
+  };
+
+  var TEAM_COLORS = {
+    "AC Milan": "#B50909", "AFC Richmond": "#021E73", "Ajax": "#D2122E",
+    "Aston Villa": "#670E36", "Atletico Madrid": "#CB3524", "Barcelona": "#A60042",
+    "Bayern Munich": "#DC052D", "Benfica": "#E41E26", "Brighton": "#0057B8",
+    "Chelsea": "#034694", "Crystal Palace": "#1B458F", "FL Fart": "#D72B2B",
+    "Inter Milan": "#0055A0", "Juventus": "#000000", "Manchester City": "#6CABDD",
+    "Manchester United": "#D9020D", "Marseille": "#099FFF", "Monaco": "#CE1126",
+    "Paris Saint-Germain": "#00093F", "Real Madrid": "#004996", "Sheffield United": "#000000",
+    "Sporting CP": "#008056", "Tottenham Hotspur": "#132257", "Valencia": "#F57710"
+  };
+
+  function teamAbbreviation(value) {
+    var name = String(value || "").trim();
+    if (!name) { return "---"; }
+    if (window.LeagueSiteCore && window.LeagueSiteCore.resolveTeam(name)) {
+      return window.LeagueSiteCore.teamAbbreviation(name);
+    }
+    if (TEAM_ABBREVIATIONS[name]) { return TEAM_ABBREVIATIONS[name]; }
+    if (name === "FA") { return "FA"; }
+    return name.split(/\s+/).filter(Boolean).map(function (part) {
+      return part.charAt(0);
+    }).join("").slice(0, 3).toUpperCase() || "---";
+  }
+
+  function teamColor(value, fallback) {
+    if (window.LeagueSiteCore && window.LeagueSiteCore.resolveTeam(value)) {
+      return window.LeagueSiteCore.teamColour(value);
+    }
+    return TEAM_COLORS[String(value || "").trim()] || fallback || "#111b36";
+  }
+
+  function setTeamColor(primary, secondary) {
+    if (primary) { document.documentElement.style.setProperty("--ui-team", primary); }
+    if (secondary) { document.documentElement.style.setProperty("--ui-team-secondary", secondary); }
+  }
+
+  window.LeagueUnifiedUI = Object.freeze({
+    escapeHtml: escapeHtml,
+    ratingClass: ratingClass,
+    ratingBadge: ratingBadge,
+    tierBadge: tierBadge,
+    statusBadge: statusBadge,
+    teamAbbreviation: teamAbbreviation,
+    teamColor: teamColor,
+    setTeamColor: setTeamColor
+  });
+  window.LeagueUnifiedUI = window.LeagueUnifiedUI;
+}());
