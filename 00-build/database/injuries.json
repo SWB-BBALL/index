@@ -1,0 +1,27 @@
+{
+  "source": "injuries.htm",
+  "injuries": [
+    {
+      "pos": "PF",
+      "name": "Harold Carter",
+      "url": "",
+      "team": "roster27",
+      "teamName": "Philadelphia",
+      "rosterUrl": "./rosters/roster27.htm",
+      "length": "36",
+      "injury": "Dislocated Shoulder",
+      "rowClass": "row1"
+    },
+    {
+      "pos": "SG",
+      "name": "Donovan Boswell",
+      "url": "",
+      "team": "roster25",
+      "teamName": "Oklahoma City",
+      "rosterUrl": "./rosters/roster25.htm",
+      "length": "6",
+      "injury": "Broken Finger",
+      "rowClass": "row2"
+    }
+  ]
+}

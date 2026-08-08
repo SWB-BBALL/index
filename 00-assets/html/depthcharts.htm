@@ -1,0 +1,641 @@
+<HTML>
+<HEAD>
+  <TITLE>Depth Chart Builder</TITLE>
+  <link rel="icon" type="image/png" href="../../00-build/database/favicon.png">
+  <script src="../js/theme-preload.js"></script>
+  <link rel="stylesheet" href="../css/styles.css">
+  <script src="../js/site-config.js"></script>
+  <script src="../js/core.js" defer></script>
+  <script src="../js/settings.js" defer></script>
+  <script src="../js/depthcharts.js" defer></script>
+  <style type="text/css">
+    body {
+      --depth-team-color: #1e293b;
+      padding: 14px;
+      background: #f0f2f5 !important;
+      color: #1e293b;
+      font-family: Inter, Tahoma, Arial, sans-serif;
+    }
+
+    .depth-shell {
+      max-width: 1180px;
+      margin: 0;
+    }
+
+    .depth-header,
+    .depth-panel {
+      overflow: hidden;
+      border-radius: 12px;
+      background: #ffffff;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+    }
+
+    .depth-header {
+      margin-bottom: 10px;
+      background: var(--depth-team-color);
+      color: #ffffff;
+      transition: background 180ms ease, color 180ms ease;
+    }
+
+    .depth-header__inner {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(220px, 320px);
+      gap: 12px;
+      align-items: end;
+      padding: 14px 16px;
+    }
+
+    .depth-title {
+      margin: 0;
+      font-size: 18pt;
+      line-height: 1.1;
+      font-weight: 700;
+      letter-spacing: 0;
+    }
+
+    .depth-subtitle {
+      margin: 5px 0 0;
+      color: #ffffff;
+      font-size: 9pt;
+      font-weight: 500;
+      opacity: 0.78;
+    }
+
+    .depth-header .depth-label {
+      color: #ffffff;
+      opacity: 0.82;
+    }
+
+    .depth-grid {
+      display: grid;
+      grid-template-columns: minmax(0, 1.2fr) minmax(330px, 0.8fr);
+      gap: 10px;
+    }
+
+    .depth-panel {
+      min-width: 0;
+    }
+
+    .depth-grid > .depth-panel:last-child {
+      position: sticky;
+      top: 10px;
+      align-self: start;
+      max-height: calc(100vh - 20px);
+    }
+
+    .depth-grid > .depth-panel:last-child .depth-panel__body {
+      display: grid;
+      grid-template-rows: minmax(0, 1fr) auto;
+      max-height: calc(100vh - 52px);
+    }
+
+    .depth-panel__head {
+      display: flex;
+      justify-content: space-between;
+      gap: 8px;
+      align-items: center;
+      padding: 8px 10px;
+      background: var(--depth-team-color);
+      color: #ffffff;
+      font-size: 7.5pt;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+      transition: background 180ms ease, color 180ms ease;
+    }
+
+    .depth-panel__body {
+      padding: 8px;
+      background: #f8fafc;
+    }
+
+    .depth-control {
+      display: grid;
+      gap: 4px;
+    }
+
+    .depth-label {
+      color: #64748b;
+      font-size: 7.5pt;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+    }
+
+    .depth-select,
+    .depth-input,
+    .depth-output {
+      width: 100%;
+      border: 1px solid #cbd5e1;
+      border-radius: 5px;
+      background: #ffffff;
+      color: #1e293b;
+      font: 500 9pt/1.25 Inter, Tahoma, Arial, sans-serif;
+    }
+
+    .depth-select,
+    .depth-input {
+      height: 30px;
+      padding: 0 8px;
+    }
+
+    .depth-select:focus,
+    .depth-input:focus,
+    .depth-output:focus {
+      outline: none;
+      border-color: #2563eb;
+      box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.12);
+    }
+
+    .depth-status {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-bottom: 8px;
+    }
+
+    .depth-pill {
+      display: inline-flex;
+      align-items: center;
+      min-height: 22px;
+      padding: 2px 8px;
+      border-radius: 999px;
+      background: #e8f0fe;
+      color: #1d4ed8;
+      font-size: 7.5pt;
+      font-weight: 800;
+    }
+
+    .depth-pill--warn {
+      background: #fef3c7;
+      color: #92400e;
+    }
+
+    .depth-pill--bad {
+      background: #fee2e2;
+      color: #991b1b;
+    }
+
+    .depth-table {
+      width: 100% !important;
+      display: table;
+      table-layout: auto;
+      margin: 0;
+      border-radius: 8px;
+      box-shadow: none;
+      overflow: hidden;
+      background: #ffffff;
+    }
+
+    .depth-table th,
+    .depth-table td {
+      padding: 6px;
+      border-bottom: 1px solid #e2e8f0;
+      font-size: 8.5pt;
+      line-height: 1.2;
+      text-align: left;
+      white-space: nowrap;
+      vertical-align: middle;
+    }
+
+    .depth-table th:nth-child(2),
+    .depth-table td:nth-child(2) {
+      width: 48%;
+    }
+
+    .depth-table th:nth-child(3),
+    .depth-table td:nth-child(3) {
+      width: 150px;
+    }
+
+    .depth-table th {
+      background: #e2e8f0;
+      color: #475569;
+      font-size: 7.5pt;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.02em;
+    }
+
+    .depth-table tr:last-child td {
+      border-bottom: 0;
+    }
+
+    .depth-role {
+      width: 48px;
+      color: #1e293b;
+      font-weight: 800;
+      cursor: grab;
+      user-select: none;
+    }
+
+    .depth-role::before {
+      content: "::::";
+      display: inline-block;
+      margin-right: 5px;
+      color: #94a3b8;
+      font-size: 7pt;
+      letter-spacing: -2px;
+      vertical-align: 1px;
+    }
+
+    .depth-role:active {
+      cursor: grabbing;
+    }
+
+    .depth-row--dragging {
+      opacity: 0.5;
+    }
+
+    .depth-row--drop-target td {
+      background: #dbeafe;
+    }
+
+    .depth-row--injured td {
+      background: #f5b7b7 !important;
+    }
+
+    .depth-row--injured .depth-select,
+    .depth-row--injured .depth-input,
+    .depth-row--injured .depth-gameplan-bold {
+      border-color: #ef9f9f;
+    }
+
+    .depth-minutes {
+      width: 74px;
+    }
+
+    .depth-change {
+      width: 76px;
+      text-align: center;
+    }
+
+    .depth-hint {
+      margin: 0 0 6px;
+      color: #64748b;
+      font-size: 8pt;
+      font-weight: 600;
+    }
+
+    .depth-gameplan {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 8px;
+      margin-top: 10px;
+    }
+
+    .depth-gameplan-section {
+      grid-column: 1 / -1;
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 8px;
+      padding: 8px;
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      background: #ffffff;
+    }
+
+    .depth-gameplan-section-title {
+      grid-column: 1 / -1;
+      color: #1e293b;
+      font-size: 8pt;
+      font-weight: 800;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+
+    .depth-gameplan-value {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 72px;
+      gap: 6px;
+      align-items: center;
+    }
+
+    .depth-gameplan-bold {
+      display: flex;
+      justify-content: center;
+      gap: 5px;
+      align-items: center;
+      min-height: 30px;
+      padding: 0 8px;
+      border: 1px solid #cbd5e1;
+      border-radius: 5px;
+      background: #ffffff;
+      color: #334155;
+      font-size: 7.5pt;
+      font-weight: 700;
+      cursor: pointer;
+    }
+
+    .depth-gameplan-bold input {
+      width: 14px;
+      height: 14px;
+      accent-color: #1e293b;
+    }
+
+    .depth-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-top: 8px;
+    }
+
+    .depth-button {
+      min-height: 30px;
+      padding: 0 10px;
+      border: 1px solid #cbd5e1;
+      border-radius: 5px;
+      background: #ffffff;
+      color: #334155;
+      font: 700 8pt/1 Inter, Tahoma, Arial, sans-serif;
+      cursor: pointer;
+    }
+
+    .depth-button:hover,
+    .depth-button:focus {
+      outline: none;
+      background: #e8f0fe;
+      border-color: #93c5fd;
+      color: #1d4ed8;
+    }
+
+    .depth-button--primary {
+      background: #1e293b;
+      border-color: #1e293b;
+      color: #f8fafc;
+    }
+
+    .depth-output {
+      min-height: 520px;
+      padding: 10px;
+      resize: vertical;
+      white-space: pre;
+      font-family: Consolas, "Courier New", monospace;
+      font-size: 9pt;
+    }
+
+    .depth-ir-list {
+      min-height: 52px;
+      margin-top: 8px;
+      padding: 8px;
+      border-radius: 8px;
+      background: #ffffff;
+      color: #475569;
+      font-size: 8.5pt;
+      font-weight: 500;
+      box-shadow: inset 0 0 0 1px #e2e8f0;
+    }
+
+    @media (max-width: 980px) {
+      .depth-header__inner,
+      .depth-grid,
+      .depth-gameplan,
+      .depth-gameplan-section {
+        grid-template-columns: 1fr;
+      }
+
+      .depth-grid > .depth-panel:last-child {
+        position: static;
+        max-height: none;
+      }
+
+      .depth-grid > .depth-panel:last-child .depth-panel__body {
+        max-height: none;
+      }
+    }
+  </style>
+</HEAD>
+<BODY background=../../images>
+  <div class="depth-shell">
+    <div class="depth-header">
+      <div class="depth-header__inner">
+        <div>
+          <h1 class="depth-title">Depth Chart Builder</h1>
+          <p class="depth-subtitle">Pick a team, assign active players, set gameplan values, then copy the formatted depth chart.</p>
+        </div>
+        <div class="depth-control">
+          <label class="depth-label" for="team-select">Team</label>
+          <select class="depth-select" id="team-select"></select>
+        </div>
+      </div>
+    </div>
+
+    <div class="depth-status" id="depth-status"></div>
+
+    <div class="depth-grid">
+      <section class="depth-panel">
+        <div class="depth-panel__head">
+          <span>Active Depth Chart</span>
+          <span id="roster-summary">Loading</span>
+        </div>
+        <div class="depth-panel__body">
+          <p class="depth-hint">Drag the role labels to swap players between slots.</p>
+          <table class="depth-table" id="depth-table">
+            <thead>
+              <tr>
+                <th>Role</th>
+                <th>Player</th>
+                <th>Position(s)</th>
+                <th>Minutes</th>
+                <th>Bold</th>
+              </tr>
+            </thead>
+            <tbody id="depth-slots"></tbody>
+          </table>
+
+          <div class="depth-actions">
+            <button class="depth-button" id="auto-fill-button" type="button">Auto Fill Top 13</button>
+            <button class="depth-button" id="distribute-minutes-button" type="button">Auto Distribute Minutes</button>
+            <button class="depth-button" id="clear-button" type="button">Clear Chart</button>
+            <button class="depth-button" id="refresh-output-button" type="button">Refresh Preview</button>
+          </div>
+
+          <div class="depth-gameplan">
+            <div class="depth-gameplan-section">
+              <div class="depth-gameplan-section-title">Offense</div>
+              <div class="depth-control">
+                <label class="depth-label" for="pace-input">Pace</label>
+                <div class="depth-gameplan-value">
+                  <select class="depth-select" id="pace-input">
+                    <option>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option selected>5</option><option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>
+                  </select>
+                  <label class="depth-gameplan-bold" for="pace-bold-input">
+                    <input id="pace-bold-input" data-gameplan-bold-for="pace-input" type="checkbox">
+                    <span>Bold</span>
+                  </label>
+                </div>
+              </div>
+              <div class="depth-control">
+                <label class="depth-label" for="motion-input">Motion</label>
+                <div class="depth-gameplan-value">
+                  <select class="depth-select" id="motion-input">
+                    <option>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option selected>5</option><option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>
+                  </select>
+                  <label class="depth-gameplan-bold" for="motion-bold-input">
+                    <input id="motion-bold-input" data-gameplan-bold-for="motion-input" type="checkbox">
+                    <span>Bold</span>
+                  </label>
+                </div>
+              </div>
+              <div class="depth-control">
+                <label class="depth-label" for="three-input">3pt Usage</label>
+                <div class="depth-gameplan-value">
+                  <select class="depth-select" id="three-input">
+                    <option>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option selected>5</option><option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>
+                  </select>
+                  <label class="depth-gameplan-bold" for="three-bold-input">
+                    <input id="three-bold-input" data-gameplan-bold-for="three-input" type="checkbox">
+                    <span>Bold</span>
+                  </label>
+                </div>
+              </div>
+              <div class="depth-control">
+                <label class="depth-label" for="focus-select">Offensive Focus</label>
+                <div class="depth-gameplan-value">
+                  <select class="depth-select" id="focus-select">
+                    <option>Inside</option>
+                    <option selected>Balanced</option>
+                    <option>Outside</option>
+                  </select>
+                  <label class="depth-gameplan-bold" for="focus-bold-input">
+                    <input id="focus-bold-input" data-gameplan-bold-for="focus-select" type="checkbox">
+                    <span>Bold</span>
+                  </label>
+                </div>
+              </div>
+              <div class="depth-control">
+                <label class="depth-label" for="off-boards-input">Offensive Crash Boards</label>
+                <div class="depth-gameplan-value">
+                  <select class="depth-select" id="off-boards-input">
+                    <option>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option selected>5</option><option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>
+                  </select>
+                  <label class="depth-gameplan-bold" for="off-boards-bold-input">
+                    <input id="off-boards-bold-input" data-gameplan-bold-for="off-boards-input" type="checkbox">
+                    <span>Bold</span>
+                  </label>
+                </div>
+              </div>
+            </div>
+
+            <div class="depth-gameplan-section">
+              <div class="depth-gameplan-section-title">Defense</div>
+              <div class="depth-control">
+                <label class="depth-label" for="primary-defense-select">Primary Defense</label>
+                <div class="depth-gameplan-value">
+                  <select class="depth-select" id="primary-defense-select">
+                    <option selected>Man</option>
+                    <option>Zone</option>
+                    <option>Help</option>
+                    <option>Half-Trap</option>
+                  </select>
+                  <label class="depth-gameplan-bold" for="primary-defense-bold-input">
+                    <input id="primary-defense-bold-input" data-gameplan-bold-for="primary-defense-select" type="checkbox">
+                    <span>Bold</span>
+                  </label>
+                </div>
+              </div>
+              <div class="depth-control">
+                <label class="depth-label" for="primary-usage-input">Primary Usage</label>
+                <div class="depth-gameplan-value">
+                  <select class="depth-select" id="primary-usage-input">
+                    <option>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option><option>6</option><option>7</option><option selected>8</option><option>9</option><option>10</option>
+                  </select>
+                  <label class="depth-gameplan-bold" for="primary-usage-bold-input">
+                    <input id="primary-usage-bold-input" data-gameplan-bold-for="primary-usage-input" type="checkbox">
+                    <span>Bold</span>
+                  </label>
+                </div>
+              </div>
+              <div class="depth-control">
+                <label class="depth-label" for="secondary-defense-select">Secondary Defense</label>
+                <div class="depth-gameplan-value">
+                  <select class="depth-select" id="secondary-defense-select">
+                    <option>Man</option>
+                    <option selected>Zone</option>
+                    <option>Help</option>
+                    <option>Half-Trap</option>
+                  </select>
+                  <label class="depth-gameplan-bold" for="secondary-defense-bold-input">
+                    <input id="secondary-defense-bold-input" data-gameplan-bold-for="secondary-defense-select" type="checkbox">
+                    <span>Bold</span>
+                  </label>
+                </div>
+              </div>
+              <div class="depth-control">
+                <label class="depth-label" for="secondary-usage-input">Secondary Usage</label>
+                <div class="depth-gameplan-value">
+                  <select class="depth-select" id="secondary-usage-input">
+                    <option>0</option><option>1</option><option selected>2</option><option>3</option><option>4</option><option>5</option><option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>
+                  </select>
+                  <label class="depth-gameplan-bold" for="secondary-usage-bold-input">
+                    <input id="secondary-usage-bold-input" data-gameplan-bold-for="secondary-usage-input" type="checkbox">
+                    <span>Bold</span>
+                  </label>
+                </div>
+              </div>
+              <div class="depth-control">
+                <label class="depth-label" for="press-input">Full Court Press</label>
+                <div class="depth-gameplan-value">
+                  <select class="depth-select" id="press-input">
+                    <option selected>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option><option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>
+                  </select>
+                  <label class="depth-gameplan-bold" for="press-bold-input">
+                    <input id="press-bold-input" data-gameplan-bold-for="press-input" type="checkbox">
+                    <span>Bold</span>
+                  </label>
+                </div>
+              </div>
+              <div class="depth-control">
+                <label class="depth-label" for="def-boards-input">Defensive Crash Boards</label>
+                <div class="depth-gameplan-value">
+                  <select class="depth-select" id="def-boards-input">
+                    <option>0</option><option>1</option><option>2</option><option>3</option><option>4</option><option selected>5</option><option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>
+                  </select>
+                  <label class="depth-gameplan-bold" for="def-boards-bold-input">
+                    <input id="def-boards-bold-input" data-gameplan-bold-for="def-boards-input" type="checkbox">
+                    <span>Bold</span>
+                  </label>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="depth-gameplan">
+            <div class="depth-control">
+              <label class="depth-label" for="focus-player-1">Focus Player 1</label>
+              <select class="depth-select focus-player" id="focus-player-1"></select>
+            </div>
+            <div class="depth-control">
+              <label class="depth-label" for="focus-player-2">Focus Player 2</label>
+              <select class="depth-select focus-player" id="focus-player-2"></select>
+            </div>
+            <div class="depth-control">
+              <label class="depth-label" for="focus-player-3">Focus Player 3</label>
+              <select class="depth-select focus-player" id="focus-player-3"></select>
+            </div>
+          </div>
+
+          <div class="depth-control">
+            <label class="depth-label">IR Preview</label>
+            <div class="depth-ir-list" id="ir-preview">Choose a team to preview IR.</div>
+          </div>
+        </div>
+      </section>
+
+      <section class="depth-panel">
+        <div class="depth-panel__head">
+          <span>Copy Template</span>
+          <span id="copy-status">Ready</span>
+        </div>
+        <div class="depth-panel__body">
+          <textarea class="depth-output" id="depth-output" spellcheck="false"></textarea>
+          <div class="depth-actions">
+            <button class="depth-button" id="load-output-button" type="button">Load From Text</button>
+            <button class="depth-button depth-button--primary" id="copy-button" type="button">Copy to Clipboard</button>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BODY>
+</HTML>
