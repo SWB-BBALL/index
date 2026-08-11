@@ -7,8 +7,8 @@
     "starPlayer": {
       "name": "Harold Barker",
       "url": "../players/player258.htm",
-      "pos": "SF",
-      "age": "34",
+      "pos": "PF",
+      "age": "35",
       "overall": "140",
       "potential": "142"
     }
@@ -36,9 +36,9 @@
       "name": "Daniel Kitts",
       "url": "../players/player556.htm",
       "pos": "PG",
-      "age": "24",
-      "overall": "128",
-      "potential": "140"
+      "age": "25",
+      "overall": "129",
+      "potential": "142"
     }
   },
   {
@@ -51,8 +51,8 @@
       "url": "../players/player560.htm",
       "pos": "PG",
       "age": "32",
-      "overall": "131",
-      "potential": "132"
+      "overall": "133",
+      "potential": "133"
     }
   },
   {
@@ -63,7 +63,7 @@
     "starPlayer": {
       "name": "Daren Williams",
       "url": "../players/player289.htm",
-      "pos": "SF",
+      "pos": "PF",
       "age": "25",
       "overall": "130",
       "potential": "140"
@@ -77,10 +77,10 @@
     "starPlayer": {
       "name": "George Hebert",
       "url": "../players/player294.htm",
-      "pos": "SF",
+      "pos": "PF",
       "age": "28",
-      "overall": "143",
-      "potential": "145"
+      "overall": "145",
+      "potential": "147"
     }
   },
   {
@@ -133,7 +133,7 @@
     "starPlayer": {
       "name": "Jose Sorrell",
       "url": "../players/player309.htm",
-      "pos": "SF",
+      "pos": "PF",
       "age": "27",
       "overall": "147",
       "potential": "148"
@@ -217,7 +217,7 @@
     "starPlayer": {
       "name": "Dana Koehler",
       "url": "../players/player382.htm",
-      "pos": "SG",
+      "pos": "SF",
       "age": "26",
       "overall": "130",
       "potential": "139"
@@ -260,7 +260,7 @@
       "name": "Brett Burgess",
       "url": "../players/player545.htm",
       "pos": "PG",
-      "age": "29",
+      "age": "30",
       "overall": "139",
       "potential": "141"
     }
@@ -275,8 +275,8 @@
       "url": "../players/player282.htm",
       "pos": "SF",
       "age": "24",
-      "overall": "127",
-      "potential": "136"
+      "overall": "128",
+      "potential": "138"
     }
   },
   {
@@ -341,12 +341,12 @@
     "file": "roster30.htm",
     "url": "../rosters/roster30.htm",
     "starPlayer": {
-      "name": "Jon Veen",
-      "url": "../players/player144.htm",
-      "pos": "C",
-      "age": "25",
-      "overall": "129",
-      "potential": "134"
+      "name": "Linwood Gonzalez",
+      "url": "../players/player438.htm",
+      "pos": "SF",
+      "age": "28",
+      "overall": "112",
+      "potential": "113"
     }
   },
   {
@@ -372,7 +372,7 @@
       "name": "Joseph Bernardo",
       "url": "../players/player420.htm",
       "pos": "SG",
-      "age": "33",
+      "age": "34",
       "overall": "129",
       "potential": "131"
     }
@@ -387,8 +387,8 @@
       "url": "../players/player61.htm",
       "pos": "C",
       "age": "27",
-      "overall": "136",
-      "potential": "137"
+      "overall": "137",
+      "potential": "139"
     }
   },
   {
@@ -413,7 +413,7 @@
     "starPlayer": {
       "name": "Willy Jones",
       "url": "../players/player451.htm",
-      "pos": "SG",
+      "pos": "SF",
       "age": "28",
       "overall": "136",
       "potential": "139"

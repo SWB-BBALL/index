@@ -1,7 +1,13 @@
 {
   "source": "seasonawards.htm",
-  "missing": true,
-  "sectionCount": 0,
+  "missing": false,
+  "sectionCount": 1,
   "awardCount": 0,
-  "sections": []
+  "sections": [
+    {
+      "title": "SWBA",
+      "slug": "swba",
+      "awards": []
+    }
+  ]
 }

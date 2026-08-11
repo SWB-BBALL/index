@@ -1,0 +1,233 @@
+{
+  "source": "awards.htm",
+  "sections": [
+    {
+      "title": "SWBA Awards",
+      "slug": "swba-awards",
+      "categories": [
+        {
+          "title": "Player of the Week",
+          "slug": "player-of-the-week",
+          "awards": [
+            {
+              "date": "11-28-2010",
+              "pos": "C",
+              "player": "Travis Thompson",
+              "playerUrl": "./players/player134.htm",
+              "playerFile": "player134.htm",
+              "team": "roster29",
+              "teamName": "Portland",
+              "teamUrl": "./rosters/roster29.htm",
+              "teamFile": "roster29.htm",
+              "ppg": 42.0,
+              "rpg": 15.5,
+              "apg": 2.0,
+              "spg": 0.5,
+              "bpg": 1.5,
+              "rowClass": "row1"
+            },
+            {
+              "date": "11-28-2010",
+              "pos": "PG",
+              "player": "Daniel Kitts",
+              "playerUrl": "./players/player556.htm",
+              "playerFile": "player556.htm",
+              "team": "roster8",
+              "teamName": "Charlotte",
+              "teamUrl": "./rosters/roster8.htm",
+              "teamFile": "roster8.htm",
+              "ppg": 26.0,
+              "rpg": 6.0,
+              "apg": 6.0,
+              "spg": 1.5,
+              "bpg": 1.0,
+              "rowClass": "row2"
+            },
+            {
+              "date": "11-21-2010",
+              "pos": "PG",
+              "player": "Emmett Paine",
+              "playerUrl": "./players/player507.htm",
+              "playerFile": "player507.htm",
+              "team": "roster12",
+              "teamName": "Denver",
+              "teamUrl": "./rosters/roster12.htm",
+              "teamFile": "roster12.htm",
+              "ppg": 29.0,
+              "rpg": 4.3,
+              "apg": 10.7,
+              "spg": 1.3,
+              "bpg": 1.7,
+              "rowClass": "row1"
+            },
+            {
+              "date": "11-21-2010",
+              "pos": "PG",
+              "player": "Jarod Hill",
+              "playerUrl": "./players/player518.htm",
+              "playerFile": "player518.htm",
+              "team": "roster27",
+              "teamName": "Philadelphia",
+              "teamUrl": "./rosters/roster27.htm",
+              "teamFile": "roster27.htm",
+              "ppg": 24.3,
+              "rpg": 10.0,
+              "apg": 11.3,
+              "spg": 1.3,
+              "bpg": 0.7,
+              "rowClass": "row2"
+            },
+            {
+              "date": "11-14-2010",
+              "pos": "SG",
+              "player": "Drew Asuncion",
+              "playerUrl": "./players/player444.htm",
+              "playerFile": "player444.htm",
+              "team": "roster18",
+              "teamName": "Los Angeles (LAL)",
+              "teamUrl": "./rosters/roster18.htm",
+              "teamFile": "roster18.htm",
+              "ppg": 32.5,
+              "rpg": 4.3,
+              "apg": 3.0,
+              "spg": 2.0,
+              "bpg": 0.0,
+              "rowClass": "row1"
+            },
+            {
+              "date": "11-14-2010",
+              "pos": "SF",
+              "player": "Tommy McDowell",
+              "playerUrl": "./players/player282.htm",
+              "playerFile": "player282.htm",
+              "team": "roster24",
+              "teamName": "New York",
+              "teamUrl": "./rosters/roster24.htm",
+              "teamFile": "roster24.htm",
+              "ppg": 21.7,
+              "rpg": 7.7,
+              "apg": 4.3,
+              "spg": 0.7,
+              "bpg": 0.7,
+              "rowClass": "row2"
+            },
+            {
+              "date": "11-07-2010",
+              "pos": "C",
+              "player": "Travis Thompson",
+              "playerUrl": "./players/player134.htm",
+              "playerFile": "player134.htm",
+              "team": "roster29",
+              "teamName": "Portland",
+              "teamUrl": "./rosters/roster29.htm",
+              "teamFile": "roster29.htm",
+              "ppg": 45.0,
+              "rpg": 12.0,
+              "apg": 2.7,
+              "spg": 0.3,
+              "bpg": 2.0,
+              "rowClass": "row1"
+            },
+            {
+              "date": "11-07-2010",
+              "pos": "SG",
+              "player": "Richard Ruvalcaba",
+              "playerUrl": "./players/player419.htm",
+              "playerFile": "player419.htm",
+              "team": "roster27",
+              "teamName": "Philadelphia",
+              "teamUrl": "./rosters/roster27.htm",
+              "teamFile": "roster27.htm",
+              "ppg": 34.8,
+              "rpg": 6.3,
+              "apg": 1.0,
+              "spg": 1.5,
+              "bpg": 0.0,
+              "rowClass": "row2"
+            }
+          ]
+        },
+        {
+          "title": "Player of the Month",
+          "slug": "player-of-the-month",
+          "awards": [
+            {
+              "date": "November",
+              "pos": "C",
+              "player": "Travis Thompson",
+              "playerUrl": "./players/player134.htm",
+              "playerFile": "player134.htm",
+              "team": "roster29",
+              "teamName": "Portland",
+              "teamUrl": "./rosters/roster29.htm",
+              "teamFile": "roster29.htm",
+              "ppg": 37.0,
+              "rpg": 12.2,
+              "apg": 2.0,
+              "spg": 0.9,
+              "bpg": 1.5,
+              "rowClass": "row1"
+            },
+            {
+              "date": "November",
+              "pos": "PG",
+              "player": "Jarod Hill",
+              "playerUrl": "./players/player518.htm",
+              "playerFile": "player518.htm",
+              "team": "roster27",
+              "teamName": "Philadelphia",
+              "teamUrl": "./rosters/roster27.htm",
+              "teamFile": "roster27.htm",
+              "ppg": 21.3,
+              "rpg": 7.8,
+              "apg": 10.3,
+              "spg": 1.5,
+              "bpg": 0.3,
+              "rowClass": "row2"
+            }
+          ]
+        },
+        {
+          "title": "Rookie of the Month",
+          "slug": "rookie-of-the-month",
+          "awards": [
+            {
+              "date": "November",
+              "pos": "PG",
+              "player": "Cary Nelson",
+              "playerUrl": "./players/player443.htm",
+              "playerFile": "player443.htm",
+              "team": "roster30",
+              "teamName": "Sacramento",
+              "teamUrl": "./rosters/roster30.htm",
+              "teamFile": "roster30.htm",
+              "ppg": 11.9,
+              "rpg": 5.8,
+              "apg": 5.6,
+              "spg": 0.4,
+              "bpg": 0.4,
+              "rowClass": "row1"
+            },
+            {
+              "date": "November",
+              "pos": "SF",
+              "player": "Antwan Pierce",
+              "playerUrl": "./players/player336.htm",
+              "playerFile": "player336.htm",
+              "team": "roster7",
+              "teamName": "New Jersey",
+              "teamUrl": "./rosters/roster7.htm",
+              "teamFile": "roster7.htm",
+              "ppg": 16.4,
+              "rpg": 6.4,
+              "apg": 2.8,
+              "spg": 0.8,
+              "bpg": 0.2,
+              "rowClass": "row2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

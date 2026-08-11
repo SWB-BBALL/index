@@ -3,13 +3,13 @@
   "currentSnapshot": "current",
   "latestCompletedSnapshot": "",
   "latestCompletedLabel": "",
-  "currentHasStats": false,
+  "currentHasStats": true,
   "snapshots": [
     {
       "id": "current",
       "label": "Current",
       "path": "current.json",
-      "statYear": null
+      "statYear": 2010
     }
   ]
 }
