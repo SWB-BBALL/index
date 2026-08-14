@@ -24,7 +24,7 @@
       "pos": "PF",
       "age": "20",
       "overall": "105",
-      "potential": "146"
+      "potential": "147"
     }
   },
   {
@@ -75,12 +75,12 @@
     "file": "roster11.htm",
     "url": "../rosters/roster11.htm",
     "starPlayer": {
-      "name": "George Hebert",
-      "url": "../players/player294.htm",
-      "pos": "PF",
-      "age": "28",
-      "overall": "145",
-      "potential": "147"
+      "name": "Don Montgomery",
+      "url": "../players/player328.htm",
+      "pos": "SF",
+      "age": "29",
+      "overall": "124",
+      "potential": "139"
     }
   },
   {
@@ -121,8 +121,8 @@
       "url": "../players/player74.htm",
       "pos": "C",
       "age": "25",
-      "overall": "141",
-      "potential": "147"
+      "overall": "142",
+      "potential": "148"
     }
   },
   {
@@ -205,8 +205,8 @@
       "url": "../players/player503.htm",
       "pos": "PG",
       "age": "25",
-      "overall": "118",
-      "potential": "124"
+      "overall": "119",
+      "potential": "125"
     }
   },
   {
@@ -247,8 +247,8 @@
       "url": "../players/player63.htm",
       "pos": "C",
       "age": "22",
-      "overall": "127",
-      "potential": "150"
+      "overall": "128",
+      "potential": "151"
     }
   },
   {
@@ -345,8 +345,8 @@
       "url": "../players/player438.htm",
       "pos": "SF",
       "age": "28",
-      "overall": "112",
-      "potential": "113"
+      "overall": "113",
+      "potential": "115"
     }
   },
   {
@@ -387,7 +387,7 @@
       "url": "../players/player61.htm",
       "pos": "C",
       "age": "27",
-      "overall": "137",
+      "overall": "138",
       "potential": "139"
     }
   },
@@ -411,12 +411,12 @@
     "file": "roster34.htm",
     "url": "../rosters/roster34.htm",
     "starPlayer": {
-      "name": "Willy Jones",
-      "url": "../players/player451.htm",
-      "pos": "SF",
-      "age": "28",
-      "overall": "136",
-      "potential": "139"
+      "name": "Kurtis Jenkins",
+      "url": "../players/player469.htm",
+      "pos": "SG",
+      "age": "30",
+      "overall": "134",
+      "potential": "140"
     }
   }
 ]

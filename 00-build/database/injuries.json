@@ -2,124 +2,58 @@
   "source": "injuries.htm",
   "injuries": [
     {
+      "pos": "PG",
+      "name": "Rodger Brumfield",
+      "url": "",
+      "team": "roster25",
+      "teamName": "Oklahoma City",
+      "rosterUrl": "./rosters/roster25.htm",
+      "length": "35",
+      "injury": "Torn Ligament",
+      "rowClass": "row1"
+    },
+    {
+      "pos": "PG",
+      "name": "William Yancey",
+      "url": "",
+      "team": "roster7",
+      "teamName": "New Jersey",
+      "rosterUrl": "./rosters/roster7.htm",
+      "length": "30",
+      "injury": "Broken Foot",
+      "rowClass": "row2"
+    },
+    {
+      "pos": "C",
+      "name": "Gary Flowers",
+      "url": "",
+      "team": "roster13",
+      "teamName": "Detroit",
+      "rosterUrl": "./rosters/roster13.htm",
+      "length": "14",
+      "injury": "Dislocated Shoulder",
+      "rowClass": "row1"
+    },
+    {
+      "pos": "SG",
+      "name": "Donnell Buckner",
+      "url": "",
+      "team": "roster10",
+      "teamName": "Cleveland",
+      "rosterUrl": "./rosters/roster10.htm",
+      "length": "12",
+      "injury": "Dislocated Knee",
+      "rowClass": "row2"
+    },
+    {
       "pos": "C",
       "name": "Timothy Hood",
       "url": "",
       "team": "roster22",
       "teamName": "Minnesota",
       "rosterUrl": "./rosters/roster22.htm",
-      "length": "40",
+      "length": "9",
       "injury": "Dislocated Knee",
-      "rowClass": "row1"
-    },
-    {
-      "pos": "C",
-      "name": "Barrett Solis",
-      "url": "",
-      "team": "roster8",
-      "teamName": "Charlotte",
-      "rosterUrl": "./rosters/roster8.htm",
-      "length": "34",
-      "injury": "Concussion",
-      "rowClass": "row2"
-    },
-    {
-      "pos": "PG",
-      "name": "Matthew Murphy",
-      "url": "",
-      "team": "Legia",
-      "teamName": "Legia",
-      "rosterUrl": "./rosters/roster33.htm",
-      "length": "28",
-      "injury": "Broken Foot",
-      "rowClass": "row1"
-    },
-    {
-      "pos": "C",
-      "name": "James Bankhead",
-      "url": "",
-      "team": "roster13",
-      "teamName": "Detroit",
-      "rosterUrl": "./rosters/roster13.htm",
-      "length": "28",
-      "injury": "Torn Ligament",
-      "rowClass": "row2"
-    },
-    {
-      "pos": "PG",
-      "name": "Fritz Johnson",
-      "url": "",
-      "team": "roster25",
-      "teamName": "Oklahoma City",
-      "rosterUrl": "./rosters/roster25.htm",
-      "length": "26",
-      "injury": "Scratched Cornea",
-      "rowClass": "row1"
-    },
-    {
-      "pos": "SF",
-      "name": "Herman Bracy",
-      "url": "",
-      "team": "roster22",
-      "teamName": "Minnesota",
-      "rosterUrl": "./rosters/roster22.htm",
-      "length": "23",
-      "injury": "Sprained Ankle",
-      "rowClass": "row2"
-    },
-    {
-      "pos": "PG",
-      "name": "Joseph Kinsey",
-      "url": "",
-      "team": "roster12",
-      "teamName": "Denver",
-      "rosterUrl": "./rosters/roster12.htm",
-      "length": "18",
-      "injury": "Broken Collarbone",
-      "rowClass": "row1"
-    },
-    {
-      "pos": "PG",
-      "name": "Kurtis Jenkins",
-      "url": "",
-      "team": "roster34",
-      "teamName": "Washington",
-      "rosterUrl": "./rosters/roster34.htm",
-      "length": "14",
-      "injury": "Broken Finger",
-      "rowClass": "row2"
-    },
-    {
-      "pos": "SG",
-      "name": "William Sullivan",
-      "url": "",
-      "team": "roster13",
-      "teamName": "Detroit",
-      "rosterUrl": "./rosters/roster13.htm",
-      "length": "7",
-      "injury": "Broken Nose",
-      "rowClass": "row1"
-    },
-    {
-      "pos": "PG",
-      "name": "Acatay Yumlu",
-      "url": "",
-      "team": "roster21",
-      "teamName": "Milwaukee",
-      "rosterUrl": "./rosters/roster21.htm",
-      "length": "5",
-      "injury": "Severe Migraines",
-      "rowClass": "row2"
-    },
-    {
-      "pos": "C",
-      "name": "Wilbur Strother",
-      "url": "",
-      "team": "roster22",
-      "teamName": "Minnesota",
-      "rosterUrl": "./rosters/roster22.htm",
-      "length": "5",
-      "injury": "Broken Finger",
       "rowClass": "row1"
     },
     {
@@ -129,9 +63,42 @@
       "team": "roster30",
       "teamName": "Sacramento",
       "rosterUrl": "./rosters/roster30.htm",
-      "length": "3",
-      "injury": "Broken Finger",
+      "length": "5",
+      "injury": "Sprained Ankle",
       "rowClass": "row2"
+    },
+    {
+      "pos": "C",
+      "name": "James Drake",
+      "url": "",
+      "team": "roster26",
+      "teamName": "St. John's",
+      "rosterUrl": "./rosters/roster26.htm",
+      "length": "5",
+      "injury": "Fractured Nose",
+      "rowClass": "row1"
+    },
+    {
+      "pos": "C",
+      "name": "Barrett Solis",
+      "url": "",
+      "team": "roster8",
+      "teamName": "Charlotte",
+      "rosterUrl": "./rosters/roster8.htm",
+      "length": "3",
+      "injury": "Concussion",
+      "rowClass": "row2"
+    },
+    {
+      "pos": "SG",
+      "name": "William Sullivan",
+      "url": "",
+      "team": "roster13",
+      "teamName": "Detroit",
+      "rosterUrl": "./rosters/roster13.htm",
+      "length": "2",
+      "injury": "Concussion",
+      "rowClass": "row1"
     }
   ]
 }

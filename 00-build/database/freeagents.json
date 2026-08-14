@@ -45,7 +45,7 @@
       "url": "./players/player54.htm",
       "file": "player54.htm",
       "pos": "C",
-      "age": 31,
+      "age": 32,
       "ht": "7-2",
       "wt": 231,
       "currentRatingColor": "#F2662A",
@@ -154,44 +154,6 @@
       "rowClass": "row2"
     },
     {
-      "number": 40,
-      "name": "Severo Alemao",
-      "url": "./players/player82.htm",
-      "file": "player82.htm",
-      "pos": "C",
-      "age": 34,
-      "ht": "6-10",
-      "wt": 216,
-      "currentRatingColor": "#F2662A",
-      "futureRatingColor": "#F2662A",
-      "currentRating": "63",
-      "futureRating": "63",
-      "lastTeam": "",
-      "lastTeamId": "",
-      "birdYears": 0,
-      "greed": "17",
-      "playForWinner": "52",
-      "loyalty": "9",
-      "happiness": "9",
-      "Ins": "F",
-      "Jps": "C",
-      "Fts": "C+",
-      "3ps": "F-",
-      "Hnd": "D+",
-      "Pas": "F+",
-      "Orb": "B",
-      "Drb": "B+",
-      "Psd": "C",
-      "Prd": "D-",
-      "Stl": "F",
-      "Blk": "C",
-      "Qkn": "F-",
-      "Jmp": "D",
-      "Str": "B",
-      "Sta": "F+",
-      "rowClass": "row1"
-    },
-    {
       "number": 0,
       "name": "Jerold Moss",
       "url": "./players/player83.htm",
@@ -227,6 +189,44 @@
       "Jmp": "C",
       "Str": "C",
       "Sta": "C-",
+      "rowClass": "row1"
+    },
+    {
+      "number": 0,
+      "name": "Mitch Ulmer",
+      "url": "./players/player88.htm",
+      "file": "player88.htm",
+      "pos": "C",
+      "age": 39,
+      "ht": "7-2",
+      "wt": 213,
+      "currentRatingColor": "#F2662A",
+      "futureRatingColor": "#F2662A",
+      "currentRating": "70",
+      "futureRating": "71",
+      "lastTeam": "",
+      "lastTeamId": "",
+      "birdYears": 0,
+      "greed": "55",
+      "playForWinner": "91",
+      "loyalty": "7",
+      "happiness": "64",
+      "Ins": "D",
+      "Jps": "D+",
+      "Fts": "C",
+      "3ps": "F-",
+      "Hnd": "C",
+      "Pas": "F+",
+      "Orb": "B-",
+      "Drb": "C",
+      "Psd": "B-",
+      "Prd": "F",
+      "Stl": "F+",
+      "Blk": "C",
+      "Qkn": "F-",
+      "Jmp": "D",
+      "Str": "C",
+      "Sta": "D+",
       "rowClass": "row2"
     },
     {
@@ -729,7 +729,7 @@
       "url": "./players/player168.htm",
       "file": "player168.htm",
       "pos": "PF",
-      "age": 38,
+      "age": 39,
       "ht": "6-10",
       "wt": 229,
       "currentRatingColor": "#F2662A",
@@ -957,7 +957,7 @@
       "url": "./players/player183.htm",
       "file": "player183.htm",
       "pos": "PF",
-      "age": 34,
+      "age": 35,
       "ht": "6-9",
       "wt": 225,
       "currentRatingColor": "#F2662A",
@@ -1223,7 +1223,7 @@
       "url": "./players/player208.htm",
       "file": "player208.htm",
       "pos": "PF",
-      "age": 23,
+      "age": 24,
       "ht": "6-9",
       "wt": 223,
       "currentRatingColor": "#B0040C",
@@ -1337,7 +1337,7 @@
       "url": "./players/player218.htm",
       "file": "player218.htm",
       "pos": "PF",
-      "age": 41,
+      "age": 42,
       "ht": "6-9",
       "wt": 206,
       "currentRatingColor": "#B0040C",
@@ -1451,7 +1451,7 @@
       "url": "./players/player229.htm",
       "file": "player229.htm",
       "pos": "PF",
-      "age": 32,
+      "age": 33,
       "ht": "6-10",
       "wt": 212,
       "currentRatingColor": "#B0040C",
@@ -1793,7 +1793,7 @@
       "url": "./players/player260.htm",
       "file": "player260.htm",
       "pos": "SF",
-      "age": 30,
+      "age": 31,
       "ht": "6-7",
       "wt": 206,
       "currentRatingColor": "#B0040C",
@@ -2135,7 +2135,7 @@
       "url": "./players/player300.htm",
       "file": "player300.htm",
       "pos": "SF",
-      "age": 40,
+      "age": 41,
       "ht": "6-6",
       "wt": 239,
       "currentRatingColor": "#B0040C",
@@ -2249,7 +2249,7 @@
       "url": "./players/player310.htm",
       "file": "player310.htm",
       "pos": "SF",
-      "age": 31,
+      "age": 32,
       "ht": "6-9",
       "wt": 205,
       "currentRatingColor": "#F2662A",
@@ -2624,6 +2624,44 @@
       "rowClass": "row1"
     },
     {
+      "number": 33,
+      "name": "Jack Bailey",
+      "url": "./players/player338.htm",
+      "file": "player338.htm",
+      "pos": "SF",
+      "age": 32,
+      "ht": "6-7",
+      "wt": 230,
+      "currentRatingColor": "#F2662A",
+      "futureRatingColor": "#F2662A",
+      "currentRating": "73",
+      "futureRating": "74",
+      "lastTeam": "Dallas",
+      "lastTeamId": "roster11",
+      "birdYears": 0,
+      "greed": "35",
+      "playForWinner": "32",
+      "loyalty": "87",
+      "happiness": "28",
+      "Ins": "D+",
+      "Jps": "C+",
+      "Fts": "C",
+      "3ps": "B",
+      "Hnd": "C+",
+      "Pas": "C-",
+      "Orb": "D+",
+      "Drb": "D+",
+      "Psd": "C",
+      "Prd": "B-",
+      "Stl": "C",
+      "Blk": "C-",
+      "Qkn": "C",
+      "Jmp": "B-",
+      "Str": "C-",
+      "Sta": "C",
+      "rowClass": "row2"
+    },
+    {
       "number": 25,
       "name": "Richard Richards",
       "url": "./players/player342.htm",
@@ -2659,7 +2697,7 @@
       "Jmp": "C",
       "Str": "B",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 21,
@@ -2697,7 +2735,7 @@
       "Jmp": "D+",
       "Str": "C",
       "Sta": "D",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 16,
@@ -2735,7 +2773,7 @@
       "Jmp": "D",
       "Str": "B",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 18,
@@ -2773,7 +2811,7 @@
       "Jmp": "C-",
       "Str": "B-",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 34,
@@ -2811,7 +2849,7 @@
       "Jmp": "C-",
       "Str": "C",
       "Sta": "C-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 6,
@@ -2849,6 +2887,44 @@
       "Jmp": "D+",
       "Str": "D+",
       "Sta": "C",
+      "rowClass": "row2"
+    },
+    {
+      "number": 1,
+      "name": "Refugio Ray",
+      "url": "./players/player365.htm",
+      "file": "player365.htm",
+      "pos": "SG",
+      "age": 26,
+      "ht": "6-5",
+      "wt": 213,
+      "currentRatingColor": "#F2662A",
+      "futureRatingColor": "#F2662A",
+      "currentRating": "69",
+      "futureRating": "72",
+      "lastTeam": "",
+      "lastTeamId": "",
+      "birdYears": 0,
+      "greed": "88",
+      "playForWinner": "12",
+      "loyalty": "96",
+      "happiness": "40",
+      "Ins": "D-",
+      "Jps": "C",
+      "Fts": "C",
+      "3ps": "C-",
+      "Hnd": "C-",
+      "Pas": "C",
+      "Orb": "C-",
+      "Drb": "D+",
+      "Psd": "D-",
+      "Prd": "B",
+      "Stl": "D",
+      "Blk": "D-",
+      "Qkn": "B-",
+      "Jmp": "C",
+      "Str": "C-",
+      "Sta": "B+",
       "rowClass": "row1"
     },
     {
@@ -3042,44 +3118,6 @@
       "rowClass": "row2"
     },
     {
-      "number": 31,
-      "name": "Freddy Booth",
-      "url": "./players/player425.htm",
-      "file": "player425.htm",
-      "pos": "SG",
-      "age": 19,
-      "ht": "6-2",
-      "wt": 192,
-      "currentRatingColor": "#B0040C",
-      "futureRatingColor": "#F2662A",
-      "currentRating": "49",
-      "futureRating": "74",
-      "lastTeam": "",
-      "lastTeamId": "",
-      "birdYears": 0,
-      "greed": "61",
-      "playForWinner": "61",
-      "loyalty": "49",
-      "happiness": "37",
-      "Ins": "D-",
-      "Jps": "D-",
-      "Fts": "C+",
-      "3ps": "D+",
-      "Hnd": "C-",
-      "Pas": "C-",
-      "Orb": "F+",
-      "Drb": "D+",
-      "Psd": "F+",
-      "Prd": "C+",
-      "Stl": "F+",
-      "Blk": "F",
-      "Qkn": "B-",
-      "Jmp": "C",
-      "Str": "B",
-      "Sta": "A-",
-      "rowClass": "row1"
-    },
-    {
       "number": 4,
       "name": "Nathaniel Hage",
       "url": "./players/player428.htm",
@@ -3115,7 +3153,7 @@
       "Jmp": "C",
       "Str": "C+",
       "Sta": "C+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 23,
@@ -3153,7 +3191,7 @@
       "Jmp": "D+",
       "Str": "C+",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 8,
@@ -3191,7 +3229,7 @@
       "Jmp": "C",
       "Str": "C",
       "Sta": "B",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 28,
@@ -3229,7 +3267,7 @@
       "Jmp": "C-",
       "Str": "B-",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 22,
@@ -3237,7 +3275,7 @@
       "url": "./players/player449.htm",
       "file": "player449.htm",
       "pos": "SG",
-      "age": 30,
+      "age": 31,
       "ht": "6-6",
       "wt": 194,
       "currentRatingColor": "#F2662A",
@@ -3267,7 +3305,7 @@
       "Jmp": "C-",
       "Str": "C",
       "Sta": "C+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 14,
@@ -3305,7 +3343,7 @@
       "Jmp": "D+",
       "Str": "C",
       "Sta": "B+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 34,
@@ -3343,7 +3381,7 @@
       "Jmp": "C",
       "Str": "D",
       "Sta": "A+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 21,
@@ -3381,7 +3419,7 @@
       "Jmp": "C+",
       "Str": "F+",
       "Sta": "A",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 24,
@@ -3419,7 +3457,7 @@
       "Jmp": "D+",
       "Str": "F+",
       "Sta": "C-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 4,
@@ -3457,7 +3495,7 @@
       "Jmp": "D+",
       "Str": "F-",
       "Sta": "F+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 30,
@@ -3495,7 +3533,7 @@
       "Jmp": "C-",
       "Str": "F",
       "Sta": "B-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 24,
@@ -3533,7 +3571,7 @@
       "Jmp": "C",
       "Str": "F+",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 20,
@@ -3571,7 +3609,7 @@
       "Jmp": "C",
       "Str": "C",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 2,
@@ -3609,7 +3647,7 @@
       "Jmp": "C",
       "Str": "D+",
       "Sta": "C-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 23,
@@ -3647,7 +3685,7 @@
       "Jmp": "C-",
       "Str": "C+",
       "Sta": "B+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 10,
@@ -3685,7 +3723,7 @@
       "Jmp": "C",
       "Str": "C",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 12,
@@ -3723,7 +3761,7 @@
       "Jmp": "C",
       "Str": "C-",
       "Sta": "B-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 12,
@@ -3761,7 +3799,7 @@
       "Jmp": "C-",
       "Str": "D+",
       "Sta": "C+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 3,
@@ -3799,7 +3837,7 @@
       "Jmp": "D+",
       "Str": "C-",
       "Sta": "C-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 13,
@@ -3837,7 +3875,7 @@
       "Jmp": "D",
       "Str": "D",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 22,
@@ -3875,6 +3913,44 @@
       "Jmp": "D",
       "Str": "C",
       "Sta": "C+",
+      "rowClass": "row1"
+    },
+    {
+      "number": 20,
+      "name": "Shaun Phelps",
+      "url": "./players/player548.htm",
+      "file": "player548.htm",
+      "pos": "PG",
+      "age": 32,
+      "ht": "6-2",
+      "wt": 170,
+      "currentRatingColor": "#EDBE30",
+      "futureRatingColor": "#EDBE30",
+      "currentRating": "81",
+      "futureRating": "82",
+      "lastTeam": "Dallas",
+      "lastTeamId": "roster11",
+      "birdYears": 0,
+      "greed": "50",
+      "playForWinner": "94",
+      "loyalty": "1",
+      "happiness": "34",
+      "Ins": "C-",
+      "Jps": "B-",
+      "Fts": "B+",
+      "3ps": "C+",
+      "Hnd": "C+",
+      "Pas": "C+",
+      "Orb": "F+",
+      "Drb": "D+",
+      "Psd": "F+",
+      "Prd": "C+",
+      "Stl": "C",
+      "Blk": "F",
+      "Qkn": "A-",
+      "Jmp": "C-",
+      "Str": "C",
+      "Sta": "C",
       "rowClass": "row2"
     },
     {
@@ -4149,7 +4225,7 @@
       "url": "./players/player573.htm",
       "file": "player573.htm",
       "pos": "SF",
-      "age": 36,
+      "age": 37,
       "ht": "6-11",
       "wt": 182,
       "currentRatingColor": "#B0040C",
@@ -4605,7 +4681,7 @@
       "url": "./players/player585.htm",
       "file": "player585.htm",
       "pos": "PG",
-      "age": 26,
+      "age": 27,
       "ht": "6-3",
       "wt": 197,
       "currentRatingColor": "#B0040C",
@@ -5403,7 +5479,7 @@
       "url": "./players/player606.htm",
       "file": "player606.htm",
       "pos": "C",
-      "age": 28,
+      "age": 29,
       "ht": "6-8",
       "wt": 218,
       "currentRatingColor": "#B0040C",
@@ -5745,7 +5821,7 @@
       "url": "./players/player615.htm",
       "file": "player615.htm",
       "pos": "PG",
-      "age": 32,
+      "age": 33,
       "ht": "6-2",
       "wt": 176,
       "currentRatingColor": "#B0040C",
@@ -6049,7 +6125,7 @@
       "url": "./players/player623.htm",
       "file": "player623.htm",
       "pos": "SF",
-      "age": 33,
+      "age": 34,
       "ht": "6-7",
       "wt": 193,
       "currentRatingColor": "#B0040C",
@@ -6239,7 +6315,7 @@
       "url": "./players/player628.htm",
       "file": "player628.htm",
       "pos": "SF",
-      "age": 25,
+      "age": 26,
       "ht": "6-8",
       "wt": 220,
       "currentRatingColor": "#B0040C",
@@ -6847,7 +6923,7 @@
       "url": "./players/player644.htm",
       "file": "player644.htm",
       "pos": "SG",
-      "age": 23,
+      "age": 24,
       "ht": "6-5",
       "wt": 181,
       "currentRatingColor": "#B0040C",
@@ -6961,7 +7037,7 @@
       "url": "./players/player647.htm",
       "file": "player647.htm",
       "pos": "PF",
-      "age": 30,
+      "age": 31,
       "ht": "6-8",
       "wt": 235,
       "currentRatingColor": "#B0040C",
@@ -7873,7 +7949,7 @@
       "url": "./players/player671.htm",
       "file": "player671.htm",
       "pos": "C",
-      "age": 33,
+      "age": 34,
       "ht": "7-2",
       "wt": 246,
       "currentRatingColor": "#B0040C",
@@ -7987,7 +8063,7 @@
       "url": "./players/player674.htm",
       "file": "player674.htm",
       "pos": "SG",
-      "age": 37,
+      "age": 38,
       "ht": "6-8",
       "wt": 178,
       "currentRatingColor": "#B0040C",
@@ -8177,7 +8253,7 @@
       "url": "./players/player679.htm",
       "file": "player679.htm",
       "pos": "SG",
-      "age": 34,
+      "age": 35,
       "ht": "6-5",
       "wt": 197,
       "currentRatingColor": "#B0040C",
@@ -8628,44 +8704,6 @@
       "rowClass": "row1"
     },
     {
-      "number": 30,
-      "name": "Arthur Adams",
-      "url": "./players/player691.htm",
-      "file": "player691.htm",
-      "pos": "C",
-      "age": 27,
-      "ht": "6-10",
-      "wt": 244,
-      "currentRatingColor": "#B0040C",
-      "futureRatingColor": "#B0040C",
-      "currentRating": "25",
-      "futureRating": "29",
-      "lastTeam": "",
-      "lastTeamId": "",
-      "birdYears": 0,
-      "greed": "36",
-      "playForWinner": "54",
-      "loyalty": "45",
-      "happiness": "38",
-      "Ins": "F+",
-      "Jps": "D-",
-      "Fts": "C",
-      "3ps": "F-",
-      "Hnd": "F+",
-      "Pas": "F-",
-      "Orb": "F-",
-      "Drb": "D-",
-      "Psd": "F",
-      "Prd": "F-",
-      "Stl": "F-",
-      "Blk": "F+",
-      "Qkn": "F",
-      "Jmp": "D+",
-      "Str": "C",
-      "Sta": "D",
-      "rowClass": "row2"
-    },
-    {
       "number": 44,
       "name": "Cedrick Dale",
       "url": "./players/player692.htm",
@@ -8701,7 +8739,7 @@
       "Jmp": "D",
       "Str": "C",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 30,
@@ -8709,7 +8747,7 @@
       "url": "./players/player693.htm",
       "file": "player693.htm",
       "pos": "SF",
-      "age": 23,
+      "age": 24,
       "ht": "6-9",
       "wt": 185,
       "currentRatingColor": "#B0040C",
@@ -8739,7 +8777,7 @@
       "Jmp": "D+",
       "Str": "C+",
       "Sta": "B",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 28,
@@ -8777,7 +8815,7 @@
       "Jmp": "D-",
       "Str": "C+",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 10,
@@ -8815,7 +8853,7 @@
       "Jmp": "D",
       "Str": "C",
       "Sta": "C+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 52,
@@ -8853,7 +8891,7 @@
       "Jmp": "D+",
       "Str": "C",
       "Sta": "D-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 43,
@@ -8861,7 +8899,7 @@
       "url": "./players/player697.htm",
       "file": "player697.htm",
       "pos": "PF",
-      "age": 28,
+      "age": 29,
       "ht": "6-9",
       "wt": 216,
       "currentRatingColor": "#B0040C",
@@ -8891,7 +8929,7 @@
       "Jmp": "F+",
       "Str": "C+",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 24,
@@ -8929,7 +8967,7 @@
       "Jmp": "C-",
       "Str": "C+",
       "Sta": "D",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 10,
@@ -8967,7 +9005,7 @@
       "Jmp": "C",
       "Str": "C+",
       "Sta": "C-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 11,
@@ -9005,7 +9043,7 @@
       "Jmp": "C-",
       "Str": "C",
       "Sta": "A-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 43,
@@ -9043,7 +9081,7 @@
       "Jmp": "C+",
       "Str": "C",
       "Sta": "C-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 40,
@@ -9081,7 +9119,7 @@
       "Jmp": "D+",
       "Str": "C",
       "Sta": "C+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 13,
@@ -9119,7 +9157,7 @@
       "Jmp": "F+",
       "Str": "C+",
       "Sta": "C+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 2,
@@ -9157,7 +9195,7 @@
       "Jmp": "C",
       "Str": "D",
       "Sta": "B",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 21,
@@ -9195,7 +9233,7 @@
       "Jmp": "C-",
       "Str": "C-",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 51,
@@ -9233,44 +9271,6 @@
       "Jmp": "C-",
       "Str": "C",
       "Sta": "D",
-      "rowClass": "row1"
-    },
-    {
-      "number": 53,
-      "name": "Lauren King",
-      "url": "./players/player707.htm",
-      "file": "player707.htm",
-      "pos": "PF",
-      "age": 18,
-      "ht": "6-7",
-      "wt": 215,
-      "currentRatingColor": "#B0040C",
-      "futureRatingColor": "#B0040C",
-      "currentRating": "25",
-      "futureRating": "32",
-      "lastTeam": "",
-      "lastTeamId": "",
-      "birdYears": 0,
-      "greed": "34",
-      "playForWinner": "73",
-      "loyalty": "42",
-      "happiness": "79",
-      "Ins": "F-",
-      "Jps": "F+",
-      "Fts": "C+",
-      "3ps": "F-",
-      "Hnd": "F",
-      "Pas": "F-",
-      "Orb": "F-",
-      "Drb": "F-",
-      "Psd": "F",
-      "Prd": "F-",
-      "Stl": "F-",
-      "Blk": "F-",
-      "Qkn": "D-",
-      "Jmp": "B-",
-      "Str": "B-",
-      "Sta": "C",
       "rowClass": "row2"
     },
     {
@@ -9469,7 +9469,7 @@
       "url": "./players/player713.htm",
       "file": "player713.htm",
       "pos": "SF",
-      "age": 27,
+      "age": 28,
       "ht": "6-10",
       "wt": 221,
       "currentRatingColor": "#B0040C",

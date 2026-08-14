@@ -360,8 +360,8 @@ window.LeagueSiteConfig = {
         "label": "SWBA",
         "abbreviation": "SWB",
         "order": 1,
-        "salaryCap": null,
-        "hardCap": null,
+        "salaryCap": 100000000,
+        "hardCap": 140000000,
         "salaryFloor": null
       }
     ]
