@@ -307,6 +307,109 @@
     ]
   },
   {
+    "playerId": "player788",
+    "name": "Abraham Kennedy",
+    "url": "../players/player788.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "SG",
+    "age": "19",
+    "ht": "6-5",
+    "wt": "193",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "D-",
+    "Jps": "A",
+    "Fts": "B+",
+    "3ps": "C",
+    "Hnd": "C+",
+    "Pas": "F-",
+    "Orb": "D-",
+    "Drb": "C-",
+    "Psd": "F+",
+    "Prd": "C",
+    "Stl": "C",
+    "Blk": "F-",
+    "Qkn": "B",
+    "Str": "C+",
+    "Jmp": "C",
+    "Sta": "C+",
+    "overall": "87",
+    "potential": "109",
+    "greed": "61",
+    "playForWinner": "77",
+    "loyalty": "58",
+    "happiness": "28",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "D",
+      "Jps": "A",
+      "Fts": "A",
+      "3ps": "B",
+      "Hnd": "B",
+      "Pas": "F",
+      "Orb": "D",
+      "Drb": "C",
+      "Psd": "D",
+      "Prd": "C",
+      "Stl": "C",
+      "Blk": "F"
+    },
+    "potentialCurrentColor": "#EDBE30",
+    "potentialFutureColor": "#307B1A",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2010",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
     "playerId": "player448",
     "name": "Abraham Smith",
     "url": "../players/player448.htm",
@@ -2293,6 +2396,109 @@
     ]
   },
   {
+    "playerId": "player746",
+    "name": "Alex Dethson",
+    "url": "../players/player746.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "PF",
+    "age": "20",
+    "ht": "6-9",
+    "wt": "215",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "C",
+    "Jps": "C-",
+    "Fts": "C+",
+    "3ps": "F-",
+    "Hnd": "D-",
+    "Pas": "D-",
+    "Orb": "B",
+    "Drb": "B",
+    "Psd": "C+",
+    "Prd": "F",
+    "Stl": "D",
+    "Blk": "C",
+    "Qkn": "C",
+    "Str": "A-",
+    "Jmp": "C",
+    "Sta": "C+",
+    "overall": "87",
+    "potential": "109",
+    "greed": "69",
+    "playForWinner": "63",
+    "loyalty": "5",
+    "happiness": "89",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "C",
+      "Jps": "C",
+      "Fts": "C",
+      "3ps": "F",
+      "Hnd": "D",
+      "Pas": "D",
+      "Orb": "B",
+      "Drb": "A",
+      "Psd": "B",
+      "Prd": "F",
+      "Stl": "D",
+      "Blk": "A"
+    },
+    "potentialCurrentColor": "#EDBE30",
+    "potentialFutureColor": "#307B1A",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2010",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
     "playerId": "player688",
     "name": "Alex Johnson",
     "url": "../players/player688.htm",
@@ -3751,109 +3957,6 @@
     ]
   },
   {
-    "playerId": "player733",
-    "name": "Anacleto Peyrera",
-    "url": "../players/player733.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "C",
-    "age": "20",
-    "ht": "7-0",
-    "wt": "220",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "F+",
-    "Jps": "D-",
-    "Fts": "B",
-    "3ps": "F-",
-    "Hnd": "D-",
-    "Pas": "F-",
-    "Orb": "C-",
-    "Drb": "D+",
-    "Psd": "D+",
-    "Prd": "F",
-    "Stl": "F+",
-    "Blk": "C-",
-    "Qkn": "F",
-    "Str": "B",
-    "Jmp": "C",
-    "Sta": "C",
-    "overall": "54",
-    "potential": "91",
-    "greed": "44",
-    "playForWinner": "98",
-    "loyalty": "10",
-    "happiness": "43",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "D",
-      "Jps": "C",
-      "Fts": "B",
-      "3ps": "F",
-      "Hnd": "D",
-      "Pas": "F",
-      "Orb": "B",
-      "Drb": "B",
-      "Psd": "B",
-      "Prd": "F",
-      "Stl": "D",
-      "Blk": "B"
-    },
-    "potentialCurrentColor": "#B0040C",
-    "potentialFutureColor": "#EDBE30",
-    "isDraftee": true,
-    "contracts": [
-      {
-        "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
     "playerId": "player592",
     "name": "Anatole Desplanque",
     "url": "../players/player592.htm",
@@ -3912,109 +4015,6 @@
     },
     "potentialCurrentColor": "#B0040C",
     "potentialFutureColor": "#B0040C",
-    "contracts": [
-      {
-        "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
-    "playerId": "player746",
-    "name": "Anderson Nugent",
-    "url": "../players/player746.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "PF",
-    "age": "20",
-    "ht": "6-9",
-    "wt": "215",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "D+",
-    "Jps": "C-",
-    "Fts": "C+",
-    "3ps": "F-",
-    "Hnd": "D-",
-    "Pas": "D-",
-    "Orb": "D",
-    "Drb": "C-",
-    "Psd": "C-",
-    "Prd": "F",
-    "Stl": "D",
-    "Blk": "C",
-    "Qkn": "C",
-    "Str": "C",
-    "Jmp": "C-",
-    "Sta": "C+",
-    "overall": "58",
-    "potential": "85",
-    "greed": "69",
-    "playForWinner": "63",
-    "loyalty": "5",
-    "happiness": "89",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "C",
-      "Jps": "C",
-      "Fts": "C",
-      "3ps": "F",
-      "Hnd": "D",
-      "Pas": "D",
-      "Orb": "C",
-      "Drb": "C",
-      "Psd": "B",
-      "Prd": "F",
-      "Stl": "D",
-      "Blk": "A"
-    },
-    "potentialCurrentColor": "#B0040C",
-    "potentialFutureColor": "#EDBE30",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
@@ -5042,19 +5042,19 @@
     "Fts": "C+",
     "3ps": "F-",
     "Hnd": "C",
-    "Pas": "D+",
+    "Pas": "C+",
     "Orb": "D-",
     "Drb": "F+",
     "Psd": "F",
     "Prd": "B+",
-    "Stl": "D",
+    "Stl": "C",
     "Blk": "F",
     "Qkn": "B+",
     "Str": "D+",
-    "Jmp": "C",
+    "Jmp": "C+",
     "Sta": "A-",
-    "overall": "63",
-    "potential": "72",
+    "overall": "75",
+    "potential": "87",
     "greed": "75",
     "playForWinner": "3",
     "loyalty": "21",
@@ -5067,16 +5067,16 @@
       "Fts": "B",
       "3ps": "F",
       "Hnd": "C",
-      "Pas": "D",
+      "Pas": "B",
       "Orb": "D",
       "Drb": "D",
       "Psd": "F",
       "Prd": "B",
-      "Stl": "D",
+      "Stl": "B",
       "Blk": "F"
     },
     "potentialCurrentColor": "#F2662A",
-    "potentialFutureColor": "#F2662A",
+    "potentialFutureColor": "#EDBE30",
     "isDraftee": true,
     "contracts": [
       {
@@ -5482,109 +5482,6 @@
     ]
   },
   {
-    "playerId": "player790",
-    "name": "Archie Lopez",
-    "url": "../players/player790.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "SG",
-    "age": "19",
-    "ht": "6-6",
-    "wt": "208",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "C",
-    "Jps": "D-",
-    "Fts": "C+",
-    "3ps": "F+",
-    "Hnd": "C-",
-    "Pas": "D",
-    "Orb": "D-",
-    "Drb": "D",
-    "Psd": "F-",
-    "Prd": "D+",
-    "Stl": "C",
-    "Blk": "F+",
-    "Qkn": "A",
-    "Str": "C",
-    "Jmp": "C",
-    "Sta": "A-",
-    "overall": "64",
-    "potential": "95",
-    "greed": "33",
-    "playForWinner": "38",
-    "loyalty": "62",
-    "happiness": "18",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "B",
-      "Jps": "D",
-      "Fts": "C",
-      "3ps": "D",
-      "Hnd": "C",
-      "Pas": "D",
-      "Orb": "D",
-      "Drb": "C",
-      "Psd": "F",
-      "Prd": "C",
-      "Stl": "A",
-      "Blk": "D"
-    },
-    "potentialCurrentColor": "#F2662A",
-    "potentialFutureColor": "#EDBE30",
-    "isDraftee": true,
-    "contracts": [
-      {
-        "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
     "playerId": "player689",
     "name": "Aristide Wastele",
     "url": "../players/player689.htm",
@@ -5693,7 +5590,7 @@
     "team": "Draft",
     "teamLabel": "Draft",
     "pos": "PG",
-    "age": "22",
+    "age": "27",
     "ht": "6-3",
     "wt": "163",
     "experience": "Rookie",
@@ -5709,20 +5606,20 @@
     "Jps": "C",
     "Fts": "B",
     "3ps": "C-",
-    "Hnd": "C-",
-    "Pas": "C",
-    "Orb": "F-",
-    "Drb": "F+",
+    "Hnd": "B+",
+    "Pas": "B",
+    "Orb": "C",
+    "Drb": "C-",
     "Psd": "F-",
-    "Prd": "C-",
-    "Stl": "D+",
+    "Prd": "C+",
+    "Stl": "B",
     "Blk": "F+",
     "Qkn": "A-",
-    "Str": "C",
-    "Jmp": "C",
-    "Sta": "C+",
-    "overall": "60",
-    "potential": "68",
+    "Str": "D",
+    "Jmp": "D",
+    "Sta": "A-",
+    "overall": "77",
+    "potential": "87",
     "greed": "64",
     "playForWinner": "23",
     "loyalty": "95",
@@ -5734,17 +5631,17 @@
       "Jps": "C",
       "Fts": "B",
       "3ps": "C",
-      "Hnd": "C",
-      "Pas": "C",
-      "Orb": "F",
-      "Drb": "F",
+      "Hnd": "B",
+      "Pas": "B",
+      "Orb": "C",
+      "Drb": "B",
       "Psd": "F",
-      "Prd": "C",
-      "Stl": "D",
+      "Prd": "B",
+      "Stl": "B",
       "Blk": "F"
     },
     "potentialCurrentColor": "#F2662A",
-    "potentialFutureColor": "#F2662A",
+    "potentialFutureColor": "#EDBE30",
     "isDraftee": true,
     "contracts": [
       {
@@ -7609,6 +7506,109 @@
     ]
   },
   {
+    "playerId": "player733",
+    "name": "Barry Weiss",
+    "url": "../players/player733.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "C",
+    "age": "20",
+    "ht": "7-0",
+    "wt": "220",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "D+",
+    "Jps": "D-",
+    "Fts": "C+",
+    "3ps": "F-",
+    "Hnd": "C",
+    "Pas": "C",
+    "Orb": "A-",
+    "Drb": "C+",
+    "Psd": "C+",
+    "Prd": "F",
+    "Stl": "F+",
+    "Blk": "C+",
+    "Qkn": "C",
+    "Str": "A",
+    "Jmp": "C",
+    "Sta": "C",
+    "overall": "89",
+    "potential": "113",
+    "greed": "44",
+    "playForWinner": "98",
+    "loyalty": "10",
+    "happiness": "43",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "D",
+      "Jps": "D",
+      "Fts": "C",
+      "3ps": "F",
+      "Hnd": "B",
+      "Pas": "B",
+      "Orb": "A",
+      "Drb": "B",
+      "Psd": "B",
+      "Prd": "F",
+      "Stl": "D",
+      "Blk": "B"
+    },
+    "potentialCurrentColor": "#EDBE30",
+    "potentialFutureColor": "#307B1A",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2010",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
     "playerId": "player227",
     "name": "Barton Roberts",
     "url": "../players/player227.htm",
@@ -8465,6 +8465,109 @@
     ]
   },
   {
+    "playerId": "player762",
+    "name": "Billy Bean",
+    "url": "../players/player762.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "SF",
+    "age": "18",
+    "ht": "6-7",
+    "wt": "185",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "D+",
+    "Jps": "D+",
+    "Fts": "B+",
+    "3ps": "F+",
+    "Hnd": "C",
+    "Pas": "F-",
+    "Orb": "C+",
+    "Drb": "B",
+    "Psd": "D-",
+    "Prd": "D-",
+    "Stl": "C-",
+    "Blk": "C",
+    "Qkn": "B",
+    "Str": "B-",
+    "Jmp": "C+",
+    "Sta": "A",
+    "overall": "76",
+    "potential": "104",
+    "greed": "80",
+    "playForWinner": "77",
+    "loyalty": "32",
+    "happiness": "73",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "C",
+      "Jps": "C",
+      "Fts": "B",
+      "3ps": "D",
+      "Hnd": "B",
+      "Pas": "F",
+      "Orb": "B",
+      "Drb": "B",
+      "Psd": "D",
+      "Prd": "C",
+      "Stl": "B",
+      "Blk": "B"
+    },
+    "potentialCurrentColor": "#F2662A",
+    "potentialFutureColor": "#307B1A",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2010",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
     "playerId": "player430",
     "name": "Blair Whitehouse",
     "url": "../players/player430.htm",
@@ -8647,6 +8750,109 @@
         "year": "2011",
         "salary": 1850000.0,
         "salaryText": "$1,850,000"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
+    "playerId": "player756",
+    "name": "Bob Foss",
+    "url": "../players/player756.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "PF",
+    "age": "21",
+    "ht": "6-10",
+    "wt": "224",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "B",
+    "Jps": "F+",
+    "Fts": "C+",
+    "3ps": "F-",
+    "Hnd": "C",
+    "Pas": "D+",
+    "Orb": "C",
+    "Drb": "C",
+    "Psd": "C",
+    "Prd": "D-",
+    "Stl": "C-",
+    "Blk": "C-",
+    "Qkn": "C",
+    "Str": "C+",
+    "Jmp": "A-",
+    "Sta": "C+",
+    "overall": "85",
+    "potential": "100",
+    "greed": "95",
+    "playForWinner": "35",
+    "loyalty": "43",
+    "happiness": "30",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "B",
+      "Jps": "D",
+      "Fts": "C",
+      "3ps": "F",
+      "Hnd": "C",
+      "Pas": "D",
+      "Orb": "B",
+      "Drb": "C",
+      "Psd": "B",
+      "Prd": "D",
+      "Stl": "C",
+      "Blk": "C"
+    },
+    "potentialCurrentColor": "#EDBE30",
+    "potentialFutureColor": "#307B1A",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2010",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
       },
       {
         "year": "2012",
@@ -10852,109 +11058,6 @@
     ]
   },
   {
-    "playerId": "player748",
-    "name": "Brian Downes",
-    "url": "../players/player748.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "PF",
-    "age": "21",
-    "ht": "6-10",
-    "wt": "220",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "C+",
-    "Jps": "C-",
-    "Fts": "C",
-    "3ps": "D-",
-    "Hnd": "C",
-    "Pas": "D+",
-    "Orb": "D",
-    "Drb": "C+",
-    "Psd": "D+",
-    "Prd": "C",
-    "Stl": "C",
-    "Blk": "F+",
-    "Qkn": "C+",
-    "Str": "C-",
-    "Jmp": "A-",
-    "Sta": "C",
-    "overall": "77",
-    "potential": "94",
-    "greed": "98",
-    "playForWinner": "85",
-    "loyalty": "60",
-    "happiness": "69",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "B",
-      "Jps": "C",
-      "Fts": "C",
-      "3ps": "D",
-      "Hnd": "C",
-      "Pas": "D",
-      "Orb": "D",
-      "Drb": "B",
-      "Psd": "D",
-      "Prd": "C",
-      "Stl": "C",
-      "Blk": "D"
-    },
-    "potentialCurrentColor": "#F2662A",
-    "potentialFutureColor": "#EDBE30",
-    "isDraftee": true,
-    "contracts": [
-      {
-        "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
     "playerId": "player380",
     "name": "Brian Erickson",
     "url": "../players/player380.htm",
@@ -11933,15 +12036,15 @@
     ]
   },
   {
-    "playerId": "player757",
-    "name": "Burl Christopherson",
-    "url": "../players/player757.htm",
+    "playerId": "player786",
+    "name": "Burt Goldburt",
+    "url": "../players/player786.htm",
     "team": "Draft",
     "teamLabel": "Draft",
-    "pos": "SF",
-    "age": "22",
-    "ht": "6-5",
-    "wt": "245",
+    "pos": "SG",
+    "age": "17",
+    "ht": "6-8",
+    "wt": "190",
     "experience": "Rookie",
     "birdYears": 0,
     "source": "player_page",
@@ -11951,43 +12054,43 @@
     "achievementTotals": [],
     "seasonAwards": [],
     "transactions": [],
-    "Ins": "B",
-    "Jps": "D+",
-    "Fts": "B+",
-    "3ps": "D-",
+    "Ins": "D+",
+    "Jps": "C",
+    "Fts": "A-",
+    "3ps": "C+",
     "Hnd": "C",
-    "Pas": "D-",
-    "Orb": "C",
-    "Drb": "C-",
-    "Psd": "F+",
+    "Pas": "D+",
+    "Orb": "F+",
+    "Drb": "F",
+    "Psd": "F-",
     "Prd": "C-",
-    "Stl": "D-",
-    "Blk": "D-",
-    "Qkn": "B-",
-    "Str": "C+",
-    "Jmp": "B-",
-    "Sta": "A",
-    "overall": "74",
-    "potential": "86",
-    "greed": "32",
-    "playForWinner": "37",
-    "loyalty": "59",
-    "happiness": "46",
+    "Stl": "C",
+    "Blk": "F",
+    "Qkn": "B+",
+    "Str": "B+",
+    "Jmp": "D-",
+    "Sta": "A-",
+    "overall": "78",
+    "potential": "95",
+    "greed": "47",
+    "playForWinner": "77",
+    "loyalty": "3",
+    "happiness": "97",
     "lastTeamId": "",
     "lastTeam": "",
     "potentials": {
-      "Ins": "B",
-      "Jps": "C",
-      "Fts": "B",
-      "3ps": "D",
+      "Ins": "D",
+      "Jps": "B",
+      "Fts": "A",
+      "3ps": "C",
       "Hnd": "C",
-      "Pas": "D",
-      "Orb": "C",
-      "Drb": "C",
-      "Psd": "D",
-      "Prd": "D",
-      "Stl": "D",
-      "Blk": "D"
+      "Pas": "C",
+      "Orb": "D",
+      "Drb": "F",
+      "Psd": "F",
+      "Prd": "C",
+      "Stl": "B",
+      "Blk": "F"
     },
     "potentialCurrentColor": "#F2662A",
     "potentialFutureColor": "#EDBE30",
@@ -12605,13 +12708,13 @@
     "Psd": "D",
     "Prd": "F+",
     "Stl": "F+",
-    "Blk": "F",
-    "Qkn": "F-",
-    "Str": "C",
+    "Blk": "C+",
+    "Qkn": "F",
+    "Str": "A-",
     "Jmp": "D+",
     "Sta": "C",
-    "overall": "38",
-    "potential": "68",
+    "overall": "49",
+    "potential": "79",
     "greed": "67",
     "playForWinner": "82",
     "loyalty": "58",
@@ -12630,7 +12733,7 @@
       "Psd": "C",
       "Prd": "D",
       "Stl": "D",
-      "Blk": "D"
+      "Blk": "B"
     },
     "potentialCurrentColor": "#B0040C",
     "potentialFutureColor": "#F2662A",
@@ -13963,7 +14066,7 @@
     "team": "Draft",
     "teamLabel": "Draft",
     "pos": "SF",
-    "age": "20",
+    "age": "23",
     "ht": "6-10",
     "wt": "231",
     "experience": "Rookie",
@@ -13982,17 +14085,17 @@
     "Hnd": "D",
     "Pas": "F+",
     "Orb": "C-",
-    "Drb": "F+",
+    "Drb": "C",
     "Psd": "F-",
-    "Prd": "D",
-    "Stl": "F+",
+    "Prd": "C",
+    "Stl": "C",
     "Blk": "D-",
     "Qkn": "C",
-    "Str": "B-",
-    "Jmp": "B",
+    "Str": "A+",
+    "Jmp": "A+",
     "Sta": "C-",
-    "overall": "45",
-    "potential": "67",
+    "overall": "63",
+    "potential": "85",
     "greed": "82",
     "playForWinner": "27",
     "loyalty": "4",
@@ -14007,14 +14110,14 @@
       "Hnd": "C",
       "Pas": "D",
       "Orb": "B",
-      "Drb": "D",
+      "Drb": "C",
       "Psd": "F",
-      "Prd": "D",
-      "Stl": "D",
+      "Prd": "B",
+      "Stl": "B",
       "Blk": "D"
     },
-    "potentialCurrentColor": "#B0040C",
-    "potentialFutureColor": "#F2662A",
+    "potentialCurrentColor": "#F2662A",
+    "potentialFutureColor": "#EDBE30",
     "isDraftee": true,
     "contracts": [
       {
@@ -15733,8 +15836,8 @@
     "achievementTotals": [],
     "seasonAwards": [],
     "transactions": [],
-    "Ins": "D+",
-    "Jps": "D",
+    "Ins": "C",
+    "Jps": "C",
     "Fts": "C",
     "3ps": "F",
     "Hnd": "C-",
@@ -15742,15 +15845,15 @@
     "Orb": "F",
     "Drb": "F+",
     "Psd": "F",
-    "Prd": "C",
-    "Stl": "D-",
+    "Prd": "B-",
+    "Stl": "C",
     "Blk": "F-",
     "Qkn": "B",
     "Str": "C",
-    "Jmp": "C-",
+    "Jmp": "A-",
     "Sta": "B+",
-    "overall": "45",
-    "potential": "69",
+    "overall": "63",
+    "potential": "81",
     "greed": "90",
     "playForWinner": "21",
     "loyalty": "24",
@@ -15758,7 +15861,7 @@
     "lastTeamId": "",
     "lastTeam": "",
     "potentials": {
-      "Ins": "C",
+      "Ins": "B",
       "Jps": "D",
       "Fts": "C",
       "3ps": "F",
@@ -15768,11 +15871,11 @@
       "Drb": "D",
       "Psd": "F",
       "Prd": "B",
-      "Stl": "C",
+      "Stl": "B",
       "Blk": "F"
     },
-    "potentialCurrentColor": "#B0040C",
-    "potentialFutureColor": "#F2662A",
+    "potentialCurrentColor": "#F2662A",
+    "potentialFutureColor": "#EDBE30",
     "isDraftee": true,
     "contracts": [
       {
@@ -15995,6 +16098,109 @@
     },
     "potentialCurrentColor": "#F2662A",
     "potentialFutureColor": "#F2662A",
+    "contracts": [
+      {
+        "year": "2010",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
+    "playerId": "player722",
+    "name": "Chem Lee",
+    "url": "../players/player722.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "C",
+    "age": "21",
+    "ht": "7-0",
+    "wt": "300",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "C",
+    "Jps": "D+",
+    "Fts": "C",
+    "3ps": "F+",
+    "Hnd": "D",
+    "Pas": "D-",
+    "Orb": "C+",
+    "Drb": "D+",
+    "Psd": "B-",
+    "Prd": "D",
+    "Stl": "D",
+    "Blk": "C+",
+    "Qkn": "D-",
+    "Str": "A",
+    "Jmp": "A-",
+    "Sta": "C",
+    "overall": "92",
+    "potential": "116",
+    "greed": "17",
+    "playForWinner": "17",
+    "loyalty": "37",
+    "happiness": "75",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "B",
+      "Jps": "D",
+      "Fts": "C",
+      "3ps": "D",
+      "Hnd": "D",
+      "Pas": "D",
+      "Orb": "C",
+      "Drb": "C",
+      "Psd": "A",
+      "Prd": "D",
+      "Stl": "D",
+      "Blk": "B"
+    },
+    "potentialCurrentColor": "#EDBE30",
+    "potentialFutureColor": "#0052C3",
+    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
@@ -17801,7 +18007,7 @@
     "team": "Draft",
     "teamLabel": "Draft",
     "pos": "SF",
-    "age": "21",
+    "age": "23",
     "ht": "6-6",
     "wt": "198",
     "experience": "Rookie",
@@ -17822,15 +18028,15 @@
     "Orb": "D",
     "Drb": "C-",
     "Psd": "F+",
-    "Prd": "D-",
+    "Prd": "C-",
     "Stl": "D-",
     "Blk": "F",
-    "Qkn": "C-",
+    "Qkn": "B-",
     "Str": "B",
     "Jmp": "C-",
     "Sta": "B",
-    "overall": "50",
-    "potential": "65",
+    "overall": "66",
+    "potential": "86",
     "greed": "82",
     "playForWinner": "72",
     "loyalty": "26",
@@ -17841,18 +18047,18 @@
       "Ins": "D",
       "Jps": "C",
       "Fts": "A",
-      "3ps": "B",
+      "3ps": "C",
       "Hnd": "C",
       "Pas": "F",
       "Orb": "D",
       "Drb": "C",
       "Psd": "D",
-      "Prd": "D",
+      "Prd": "C",
       "Stl": "D",
       "Blk": "F"
     },
-    "potentialCurrentColor": "#B0040C",
-    "potentialFutureColor": "#F2662A",
+    "potentialCurrentColor": "#F2662A",
+    "potentialFutureColor": "#EDBE30",
     "isDraftee": true,
     "contracts": [
       {
@@ -18290,6 +18496,109 @@
         "year": "2011",
         "salary": 6702692.0,
         "salaryText": "$6,702,692"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
+    "playerId": "player792",
+    "name": "Cody Roads",
+    "url": "../players/player792.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "SG",
+    "age": "17",
+    "ht": "6-5",
+    "wt": "214",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "F-",
+    "Jps": "C-",
+    "Fts": "B",
+    "3ps": "C+",
+    "Hnd": "C-",
+    "Pas": "C-",
+    "Orb": "D+",
+    "Drb": "D",
+    "Psd": "F-",
+    "Prd": "C",
+    "Stl": "C",
+    "Blk": "F",
+    "Qkn": "B",
+    "Str": "A-",
+    "Jmp": "D+",
+    "Sta": "B+",
+    "overall": "66",
+    "potential": "98",
+    "greed": "43",
+    "playForWinner": "6",
+    "loyalty": "58",
+    "happiness": "47",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "F",
+      "Jps": "A",
+      "Fts": "B",
+      "3ps": "B",
+      "Hnd": "C",
+      "Pas": "C",
+      "Orb": "D",
+      "Drb": "D",
+      "Psd": "F",
+      "Prd": "C",
+      "Stl": "B",
+      "Blk": "D"
+    },
+    "potentialCurrentColor": "#F2662A",
+    "potentialFutureColor": "#EDBE30",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2010",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
       },
       {
         "year": "2012",
@@ -19008,6 +19317,109 @@
     ]
   },
   {
+    "playerId": "player750",
+    "name": "Corey Harrison",
+    "url": "../players/player750.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "PF",
+    "age": "18",
+    "ht": "6-10",
+    "wt": "246",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "B-",
+    "Jps": "D",
+    "Fts": "B-",
+    "3ps": "F+",
+    "Hnd": "C",
+    "Pas": "D",
+    "Orb": "C+",
+    "Drb": "B",
+    "Psd": "C",
+    "Prd": "D",
+    "Stl": "D",
+    "Blk": "D",
+    "Qkn": "C",
+    "Str": "C+",
+    "Jmp": "B",
+    "Sta": "B+",
+    "overall": "93",
+    "potential": "114",
+    "greed": "41",
+    "playForWinner": "50",
+    "loyalty": "27",
+    "happiness": "35",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "A",
+      "Jps": "D",
+      "Fts": "B",
+      "3ps": "D",
+      "Hnd": "B",
+      "Pas": "D",
+      "Orb": "B",
+      "Drb": "A",
+      "Psd": "B",
+      "Prd": "D",
+      "Stl": "D",
+      "Blk": "B"
+    },
+    "potentialCurrentColor": "#EDBE30",
+    "potentialFutureColor": "#307B1A",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2010",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
     "playerId": "player102",
     "name": "Corey Williams",
     "url": "../players/player102.htm",
@@ -19228,7 +19640,7 @@
     "url": "../players/player761.htm",
     "team": "Draft",
     "teamLabel": "Draft",
-    "pos": "SF",
+    "pos": "C",
     "age": "21",
     "ht": "6-9",
     "wt": "230",
@@ -19244,7 +19656,7 @@
     "Ins": "F",
     "Jps": "C-",
     "Fts": "B",
-    "3ps": "C-",
+    "3ps": "C",
     "Hnd": "C-",
     "Pas": "F",
     "Orb": "D-",
@@ -19253,12 +19665,12 @@
     "Prd": "D+",
     "Stl": "D",
     "Blk": "C",
-    "Qkn": "C+",
+    "Qkn": "B+",
     "Str": "C",
-    "Jmp": "C",
+    "Jmp": "D",
     "Sta": "A",
-    "overall": "59",
-    "potential": "69",
+    "overall": "68",
+    "potential": "86",
     "greed": "45",
     "playForWinner": "10",
     "loyalty": "40",
@@ -19269,7 +19681,7 @@
       "Ins": "F",
       "Jps": "C",
       "Fts": "B",
-      "3ps": "D",
+      "3ps": "B",
       "Hnd": "D",
       "Pas": "F",
       "Orb": "D",
@@ -19277,10 +19689,10 @@
       "Psd": "C",
       "Prd": "D",
       "Stl": "D",
-      "Blk": "B"
+      "Blk": "C"
     },
-    "potentialCurrentColor": "#B0040C",
-    "potentialFutureColor": "#F2662A",
+    "potentialCurrentColor": "#F2662A",
+    "potentialFutureColor": "#EDBE30",
     "isDraftee": true,
     "contracts": [
       {
@@ -20573,18 +20985,18 @@
     "3ps": "F-",
     "Hnd": "C",
     "Pas": "D-",
-    "Orb": "C-",
+    "Orb": "C",
     "Drb": "C",
     "Psd": "C-",
     "Prd": "F-",
     "Stl": "C-",
-    "Blk": "D+",
-    "Qkn": "C-",
-    "Str": "C+",
+    "Blk": "C+",
+    "Qkn": "C",
+    "Str": "A-",
     "Jmp": "D",
     "Sta": "C-",
-    "overall": "57",
-    "potential": "72",
+    "overall": "65",
+    "potential": "91",
     "greed": "92",
     "playForWinner": "47",
     "loyalty": "75",
@@ -20598,15 +21010,15 @@
       "3ps": "F",
       "Hnd": "C",
       "Pas": "F",
-      "Orb": "C",
+      "Orb": "B",
       "Drb": "B",
-      "Psd": "C",
+      "Psd": "B",
       "Prd": "F",
       "Stl": "C",
-      "Blk": "D"
+      "Blk": "A"
     },
-    "potentialCurrentColor": "#B0040C",
-    "potentialFutureColor": "#F2662A",
+    "potentialCurrentColor": "#F2662A",
+    "potentialFutureColor": "#EDBE30",
     "isDraftee": true,
     "contracts": [
       {
@@ -20778,10 +21190,10 @@
     "achievementTotals": [],
     "seasonAwards": [],
     "transactions": [],
-    "Ins": "C-",
+    "Ins": "C",
     "Jps": "C-",
     "Fts": "B+",
-    "3ps": "D",
+    "3ps": "C",
     "Hnd": "C-",
     "Pas": "C-",
     "Orb": "F-",
@@ -20790,12 +21202,12 @@
     "Prd": "D",
     "Stl": "D+",
     "Blk": "F-",
-    "Qkn": "B",
+    "Qkn": "C+",
     "Str": "C+",
-    "Jmp": "C",
+    "Jmp": "C+",
     "Sta": "A",
-    "overall": "64",
-    "potential": "74",
+    "overall": "65",
+    "potential": "91",
     "greed": "58",
     "playForWinner": "4",
     "loyalty": "82",
@@ -20803,21 +21215,21 @@
     "lastTeamId": "",
     "lastTeam": "",
     "potentials": {
-      "Ins": "C",
+      "Ins": "B",
       "Jps": "C",
       "Fts": "A",
-      "3ps": "D",
+      "3ps": "B",
       "Hnd": "C",
       "Pas": "C",
       "Orb": "F",
       "Drb": "D",
       "Psd": "D",
-      "Prd": "D",
-      "Stl": "D",
+      "Prd": "C",
+      "Stl": "C",
       "Blk": "F"
     },
     "potentialCurrentColor": "#F2662A",
-    "potentialFutureColor": "#F2662A",
+    "potentialFutureColor": "#EDBE30",
     "isDraftee": true,
     "contracts": [
       {
@@ -21623,109 +22035,6 @@
     ]
   },
   {
-    "playerId": "player810",
-    "name": "Daniel Xiong",
-    "url": "../players/player810.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "PG",
-    "age": "19",
-    "ht": "5-11",
-    "wt": "189",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "D+",
-    "Jps": "D",
-    "Fts": "B",
-    "3ps": "D",
-    "Hnd": "C+",
-    "Pas": "D",
-    "Orb": "D",
-    "Drb": "D-",
-    "Psd": "F-",
-    "Prd": "C-",
-    "Stl": "D",
-    "Blk": "F",
-    "Qkn": "A+",
-    "Str": "D",
-    "Jmp": "B-",
-    "Sta": "A",
-    "overall": "61",
-    "potential": "88",
-    "greed": "28",
-    "playForWinner": "49",
-    "loyalty": "31",
-    "happiness": "76",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "C",
-      "Jps": "C",
-      "Fts": "B",
-      "3ps": "D",
-      "Hnd": "B",
-      "Pas": "D",
-      "Orb": "D",
-      "Drb": "D",
-      "Psd": "F",
-      "Prd": "B",
-      "Stl": "D",
-      "Blk": "F"
-    },
-    "potentialCurrentColor": "#F2662A",
-    "potentialFutureColor": "#EDBE30",
-    "isDraftee": true,
-    "contracts": [
-      {
-        "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
     "playerId": "player488",
     "name": "Danny Howard",
     "url": "../players/player488.htm",
@@ -21818,6 +22127,109 @@
         "year": "2011",
         "salary": 2979000.0,
         "salaryText": "$2,979,000"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
+    "playerId": "player806",
+    "name": "Danny Williams",
+    "url": "../players/player806.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "PG",
+    "age": "20",
+    "ht": "6-6",
+    "wt": "187",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "D-",
+    "Jps": "C+",
+    "Fts": "B",
+    "3ps": "D-",
+    "Hnd": "B",
+    "Pas": "F+",
+    "Orb": "C-",
+    "Drb": "C",
+    "Psd": "C",
+    "Prd": "C-",
+    "Stl": "C",
+    "Blk": "C",
+    "Qkn": "A-",
+    "Str": "C",
+    "Jmp": "D+",
+    "Sta": "B",
+    "overall": "77",
+    "potential": "95",
+    "greed": "46",
+    "playForWinner": "50",
+    "loyalty": "21",
+    "happiness": "11",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "D",
+      "Jps": "B",
+      "Fts": "B",
+      "3ps": "D",
+      "Hnd": "A",
+      "Pas": "F",
+      "Orb": "C",
+      "Drb": "B",
+      "Psd": "B",
+      "Prd": "C",
+      "Stl": "B",
+      "Blk": "B"
+    },
+    "potentialCurrentColor": "#F2662A",
+    "potentialFutureColor": "#EDBE30",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2010",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
       },
       {
         "year": "2012",
@@ -22451,6 +22863,109 @@
     ]
   },
   {
+    "playerId": "player748",
+    "name": "Darrell Sheets",
+    "url": "../players/player748.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "PF",
+    "age": "21",
+    "ht": "6-10",
+    "wt": "220",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "C+",
+    "Jps": "C-",
+    "Fts": "C",
+    "3ps": "D-",
+    "Hnd": "C",
+    "Pas": "D+",
+    "Orb": "C",
+    "Drb": "C+",
+    "Psd": "C",
+    "Prd": "C",
+    "Stl": "C",
+    "Blk": "B",
+    "Qkn": "B-",
+    "Str": "C-",
+    "Jmp": "B+",
+    "Sta": "C+",
+    "overall": "92",
+    "potential": "114",
+    "greed": "98",
+    "playForWinner": "85",
+    "loyalty": "60",
+    "happiness": "69",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "B",
+      "Jps": "C",
+      "Fts": "C",
+      "3ps": "D",
+      "Hnd": "C",
+      "Pas": "D",
+      "Orb": "B",
+      "Drb": "B",
+      "Psd": "C",
+      "Prd": "C",
+      "Stl": "C",
+      "Blk": "A"
+    },
+    "potentialCurrentColor": "#EDBE30",
+    "potentialFutureColor": "#307B1A",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2010",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
     "playerId": "player314",
     "name": "Darren Barbosa",
     "url": "../players/player314.htm",
@@ -22559,7 +23074,7 @@
     "team": "Draft",
     "teamLabel": "Draft",
     "pos": "SF",
-    "age": "21",
+    "age": "25",
     "ht": "6-8",
     "wt": "209",
     "experience": "Rookie",
@@ -22571,24 +23086,24 @@
     "achievementTotals": [],
     "seasonAwards": [],
     "transactions": [],
-    "Ins": "D",
-    "Jps": "D+",
+    "Ins": "C+",
+    "Jps": "C",
     "Fts": "C+",
     "3ps": "C",
     "Hnd": "C-",
     "Pas": "F+",
     "Orb": "C",
-    "Drb": "C-",
-    "Psd": "D+",
-    "Prd": "C-",
-    "Stl": "D-",
-    "Blk": "D",
+    "Drb": "C",
+    "Psd": "C",
+    "Prd": "C",
+    "Stl": "C+",
+    "Blk": "B+",
     "Qkn": "C+",
-    "Str": "C",
-    "Jmp": "C-",
-    "Sta": "B-",
-    "overall": "61",
-    "potential": "75",
+    "Str": "B",
+    "Jmp": "B",
+    "Sta": "A",
+    "overall": "102",
+    "potential": "117",
     "greed": "45",
     "playForWinner": "72",
     "loyalty": "93",
@@ -22596,21 +23111,21 @@
     "lastTeamId": "",
     "lastTeam": "",
     "potentials": {
-      "Ins": "D",
-      "Jps": "D",
+      "Ins": "B",
+      "Jps": "C",
       "Fts": "B",
       "3ps": "C",
       "Hnd": "C",
       "Pas": "F",
       "Orb": "C",
       "Drb": "C",
-      "Psd": "D",
+      "Psd": "C",
       "Prd": "C",
-      "Stl": "D",
-      "Blk": "D"
+      "Stl": "C",
+      "Blk": "B"
     },
-    "potentialCurrentColor": "#F2662A",
-    "potentialFutureColor": "#F2662A",
+    "potentialCurrentColor": "#307B1A",
+    "potentialFutureColor": "#0052C3",
     "isDraftee": true,
     "contracts": [
       {
@@ -22758,6 +23273,109 @@
         "year": "2013",
         "salary": 31000000.0,
         "salaryText": "$31,000,000"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
+    "playerId": "player728",
+    "name": "Dave Hester",
+    "url": "../players/player728.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "C",
+    "age": "21",
+    "ht": "7-0",
+    "wt": "246",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "F",
+    "Jps": "C-",
+    "Fts": "C+",
+    "3ps": "F+",
+    "Hnd": "D-",
+    "Pas": "D",
+    "Orb": "C+",
+    "Drb": "C+",
+    "Psd": "C",
+    "Prd": "F",
+    "Stl": "D",
+    "Blk": "B",
+    "Qkn": "D",
+    "Str": "A-",
+    "Jmp": "C",
+    "Sta": "C-",
+    "overall": "78",
+    "potential": "114",
+    "greed": "65",
+    "playForWinner": "53",
+    "loyalty": "37",
+    "happiness": "33",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "F",
+      "Jps": "C",
+      "Fts": "C",
+      "3ps": "D",
+      "Hnd": "D",
+      "Pas": "C",
+      "Orb": "A",
+      "Drb": "A",
+      "Psd": "A",
+      "Prd": "F",
+      "Stl": "D",
+      "Blk": "B"
+    },
+    "potentialCurrentColor": "#F2662A",
+    "potentialFutureColor": "#307B1A",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2010",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
       },
       {
         "year": "2014",
@@ -23288,109 +23906,6 @@
         "year": "2011",
         "salary": 2804255.0,
         "salaryText": "$2,804,255"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
-    "playerId": "player763",
-    "name": "David Douglas",
-    "url": "../players/player763.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "SF",
-    "age": "21",
-    "ht": "6-9",
-    "wt": "245",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "C",
-    "Jps": "C",
-    "Fts": "C",
-    "3ps": "D+",
-    "Hnd": "C-",
-    "Pas": "D-",
-    "Orb": "F",
-    "Drb": "D+",
-    "Psd": "D",
-    "Prd": "D+",
-    "Stl": "C-",
-    "Blk": "D",
-    "Qkn": "C+",
-    "Str": "B-",
-    "Jmp": "B-",
-    "Sta": "B",
-    "overall": "75",
-    "potential": "102",
-    "greed": "48",
-    "playForWinner": "50",
-    "loyalty": "92",
-    "happiness": "24",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "A",
-      "Jps": "C",
-      "Fts": "C",
-      "3ps": "D",
-      "Hnd": "C",
-      "Pas": "D",
-      "Orb": "F",
-      "Drb": "C",
-      "Psd": "D",
-      "Prd": "C",
-      "Stl": "C",
-      "Blk": "D"
-    },
-    "potentialCurrentColor": "#F2662A",
-    "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
-    "contracts": [
-      {
-        "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
       },
       {
         "year": "2012",
@@ -24017,12 +24532,12 @@
     "Prd": "F+",
     "Stl": "D",
     "Blk": "F+",
-    "Qkn": "F+",
+    "Qkn": "D",
     "Str": "C",
-    "Jmp": "D+",
-    "Sta": "D-",
-    "overall": "39",
-    "potential": "65",
+    "Jmp": "C",
+    "Sta": "C",
+    "overall": "44",
+    "potential": "77",
     "greed": "23",
     "playForWinner": "66",
     "loyalty": "40",
@@ -24034,7 +24549,7 @@
       "Jps": "D",
       "Fts": "C",
       "3ps": "D",
-      "Hnd": "D",
+      "Hnd": "C",
       "Pas": "D",
       "Orb": "C",
       "Drb": "C",
@@ -24379,109 +24894,6 @@
         "year": "2010",
         "salary": 2380000.0,
         "salaryText": "$2,380,000"
-      },
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
-    "playerId": "player806",
-    "name": "David Williams",
-    "url": "../players/player806.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "PG",
-    "age": "20",
-    "ht": "6-6",
-    "wt": "187",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "D-",
-    "Jps": "C+",
-    "Fts": "B",
-    "3ps": "D-",
-    "Hnd": "C",
-    "Pas": "F+",
-    "Orb": "F",
-    "Drb": "D-",
-    "Psd": "F+",
-    "Prd": "C-",
-    "Stl": "C",
-    "Blk": "D+",
-    "Qkn": "A",
-    "Str": "D+",
-    "Jmp": "C",
-    "Sta": "A",
-    "overall": "70",
-    "potential": "78",
-    "greed": "46",
-    "playForWinner": "50",
-    "loyalty": "21",
-    "happiness": "11",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "D",
-      "Jps": "B",
-      "Fts": "B",
-      "3ps": "D",
-      "Hnd": "C",
-      "Pas": "F",
-      "Orb": "F",
-      "Drb": "D",
-      "Psd": "F",
-      "Prd": "D",
-      "Stl": "B",
-      "Blk": "D"
-    },
-    "potentialCurrentColor": "#F2662A",
-    "potentialFutureColor": "#F2662A",
-    "isDraftee": true,
-    "contracts": [
-      {
-        "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
       },
       {
         "year": "2011",
@@ -25818,8 +26230,8 @@
     "team": "Draft",
     "teamLabel": "Draft",
     "pos": "SG",
-    "age": "21",
-    "ht": "6-1",
+    "age": "23",
+    "ht": "6-3",
     "wt": "216",
     "experience": "Rookie",
     "birdYears": 0,
@@ -25830,7 +26242,7 @@
     "achievementTotals": [],
     "seasonAwards": [],
     "transactions": [],
-    "Ins": "D+",
+    "Ins": "C-",
     "Jps": "D-",
     "Fts": "C",
     "3ps": "C-",
@@ -25844,10 +26256,10 @@
     "Blk": "F",
     "Qkn": "B+",
     "Str": "C+",
-    "Jmp": "C+",
+    "Jmp": "A-",
     "Sta": "B-",
-    "overall": "47",
-    "potential": "66",
+    "overall": "59",
+    "potential": "80",
     "greed": "98",
     "playForWinner": "23",
     "loyalty": "16",
@@ -25855,7 +26267,7 @@
     "lastTeamId": "",
     "lastTeam": "",
     "potentials": {
-      "Ins": "C",
+      "Ins": "B",
       "Jps": "D",
       "Fts": "C",
       "3ps": "C",
@@ -25869,7 +26281,7 @@
       "Blk": "F"
     },
     "potentialCurrentColor": "#B0040C",
-    "potentialFutureColor": "#F2662A",
+    "potentialFutureColor": "#EDBE30",
     "isDraftee": true,
     "contracts": [
       {
@@ -30546,109 +30958,6 @@
     ]
   },
   {
-    "playerId": "player722",
-    "name": "Eric Frederick",
-    "url": "../players/player722.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "C",
-    "age": "21",
-    "ht": "7-0",
-    "wt": "217",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "F",
-    "Jps": "C",
-    "Fts": "C",
-    "3ps": "F+",
-    "Hnd": "C-",
-    "Pas": "D-",
-    "Orb": "C+",
-    "Drb": "D+",
-    "Psd": "B-",
-    "Prd": "D",
-    "Stl": "C",
-    "Blk": "C+",
-    "Qkn": "D+",
-    "Str": "C+",
-    "Jmp": "A",
-    "Sta": "C-",
-    "overall": "77",
-    "potential": "97",
-    "greed": "17",
-    "playForWinner": "17",
-    "loyalty": "37",
-    "happiness": "75",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "F",
-      "Jps": "B",
-      "Fts": "C",
-      "3ps": "D",
-      "Hnd": "C",
-      "Pas": "D",
-      "Orb": "A",
-      "Drb": "C",
-      "Psd": "B",
-      "Prd": "D",
-      "Stl": "C",
-      "Blk": "B"
-    },
-    "potentialCurrentColor": "#F2662A",
-    "potentialFutureColor": "#EDBE30",
-    "isDraftee": true,
-    "contracts": [
-      {
-        "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
     "playerId": "player92",
     "name": "Eric Vargas",
     "url": "../players/player92.htm",
@@ -30980,109 +31289,6 @@
     ]
   },
   {
-    "playerId": "player786",
-    "name": "Ervin Robinson",
-    "url": "../players/player786.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "SG",
-    "age": "17",
-    "ht": "6-8",
-    "wt": "190",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "D+",
-    "Jps": "C",
-    "Fts": "A-",
-    "3ps": "C+",
-    "Hnd": "C",
-    "Pas": "D+",
-    "Orb": "F+",
-    "Drb": "F",
-    "Psd": "F-",
-    "Prd": "D",
-    "Stl": "C-",
-    "Blk": "F",
-    "Qkn": "B",
-    "Str": "B-",
-    "Jmp": "D-",
-    "Sta": "A-",
-    "overall": "71",
-    "potential": "82",
-    "greed": "47",
-    "playForWinner": "77",
-    "loyalty": "3",
-    "happiness": "97",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "D",
-      "Jps": "B",
-      "Fts": "A",
-      "3ps": "C",
-      "Hnd": "C",
-      "Pas": "C",
-      "Orb": "D",
-      "Drb": "F",
-      "Psd": "F",
-      "Prd": "D",
-      "Stl": "D",
-      "Blk": "F"
-    },
-    "potentialCurrentColor": "#F2662A",
-    "potentialFutureColor": "#EDBE30",
-    "isDraftee": true,
-    "contracts": [
-      {
-        "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
     "playerId": "player679",
     "name": "Evan Perez",
     "url": "../players/player679.htm",
@@ -31243,109 +31449,6 @@
     },
     "potentialCurrentColor": "#B0040C",
     "potentialFutureColor": "#B0040C",
-    "contracts": [
-      {
-        "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
-    "playerId": "player795",
-    "name": "Evaristo Vida",
-    "url": "../players/player795.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "SG",
-    "age": "21",
-    "ht": "6-5",
-    "wt": "201",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "C-",
-    "Jps": "D+",
-    "Fts": "C+",
-    "3ps": "C",
-    "Hnd": "C",
-    "Pas": "C-",
-    "Orb": "F+",
-    "Drb": "D-",
-    "Psd": "F-",
-    "Prd": "C",
-    "Stl": "D-",
-    "Blk": "F",
-    "Qkn": "A",
-    "Str": "C",
-    "Jmp": "B",
-    "Sta": "A-",
-    "overall": "80",
-    "potential": "106",
-    "greed": "90",
-    "playForWinner": "76",
-    "loyalty": "16",
-    "happiness": "35",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "C",
-      "Jps": "C",
-      "Fts": "C",
-      "3ps": "B",
-      "Hnd": "B",
-      "Pas": "C",
-      "Orb": "F",
-      "Drb": "D",
-      "Psd": "F",
-      "Prd": "C",
-      "Stl": "D",
-      "Blk": "F"
-    },
-    "potentialCurrentColor": "#EDBE30",
-    "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
@@ -32449,109 +32552,6 @@
     },
     "potentialCurrentColor": "#B0040C",
     "potentialFutureColor": "#B0040C",
-    "contracts": [
-      {
-        "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
-    "playerId": "player751",
-    "name": "Franklyn James",
-    "url": "../players/player751.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "PF",
-    "age": "22",
-    "ht": "6-8",
-    "wt": "222",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "D-",
-    "Jps": "D+",
-    "Fts": "C",
-    "3ps": "F+",
-    "Hnd": "C-",
-    "Pas": "D-",
-    "Orb": "A-",
-    "Drb": "C",
-    "Psd": "D+",
-    "Prd": "F-",
-    "Stl": "F+",
-    "Blk": "B-",
-    "Qkn": "C",
-    "Str": "C+",
-    "Jmp": "B-",
-    "Sta": "B-",
-    "overall": "70",
-    "potential": "79",
-    "greed": "41",
-    "playForWinner": "52",
-    "loyalty": "27",
-    "happiness": "1",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "D",
-      "Jps": "D",
-      "Fts": "C",
-      "3ps": "D",
-      "Hnd": "D",
-      "Pas": "D",
-      "Orb": "A",
-      "Drb": "C",
-      "Psd": "D",
-      "Prd": "F",
-      "Stl": "F",
-      "Blk": "B"
-    },
-    "potentialCurrentColor": "#F2662A",
-    "potentialFutureColor": "#F2662A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
@@ -34365,109 +34365,6 @@
     ]
   },
   {
-    "playerId": "player778",
-    "name": "Gayle Levy",
-    "url": "../players/player778.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "SG",
-    "age": "20",
-    "ht": "6-5",
-    "wt": "224",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "F+",
-    "Jps": "B+",
-    "Fts": "A-",
-    "3ps": "F+",
-    "Hnd": "C-",
-    "Pas": "D-",
-    "Orb": "D-",
-    "Drb": "D-",
-    "Psd": "D+",
-    "Prd": "C-",
-    "Stl": "D+",
-    "Blk": "D+",
-    "Qkn": "A",
-    "Str": "C+",
-    "Jmp": "A-",
-    "Sta": "A",
-    "overall": "77",
-    "potential": "102",
-    "greed": "46",
-    "playForWinner": "40",
-    "loyalty": "31",
-    "happiness": "47",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "F",
-      "Jps": "A",
-      "Fts": "B",
-      "3ps": "D",
-      "Hnd": "C",
-      "Pas": "D",
-      "Orb": "D",
-      "Drb": "D",
-      "Psd": "C",
-      "Prd": "C",
-      "Stl": "C",
-      "Blk": "C"
-    },
-    "potentialCurrentColor": "#F2662A",
-    "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
-    "contracts": [
-      {
-        "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
     "playerId": "player584",
     "name": "Gaétan Debroubaix",
     "url": "../players/player584.htm",
@@ -34672,6 +34569,109 @@
         "year": "2013",
         "salary": 31000000.0,
         "salaryText": "$31,000,000"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
+    "playerId": "player757",
+    "name": "Geddy Free",
+    "url": "../players/player757.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "SF",
+    "age": "22",
+    "ht": "6-5",
+    "wt": "245",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "A-",
+    "Jps": "B",
+    "Fts": "B+",
+    "3ps": "D-",
+    "Hnd": "C",
+    "Pas": "D-",
+    "Orb": "C",
+    "Drb": "C",
+    "Psd": "F+",
+    "Prd": "C",
+    "Stl": "C-",
+    "Blk": "C-",
+    "Qkn": "B-",
+    "Str": "C+",
+    "Jmp": "B+",
+    "Sta": "A",
+    "overall": "94",
+    "potential": "109",
+    "greed": "32",
+    "playForWinner": "37",
+    "loyalty": "59",
+    "happiness": "46",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "A",
+      "Jps": "A",
+      "Fts": "B",
+      "3ps": "D",
+      "Hnd": "C",
+      "Pas": "D",
+      "Orb": "C",
+      "Drb": "C",
+      "Psd": "D",
+      "Prd": "C",
+      "Stl": "C",
+      "Blk": "C"
+    },
+    "potentialCurrentColor": "#EDBE30",
+    "potentialFutureColor": "#307B1A",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2010",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
       },
       {
         "year": "2014",
@@ -36150,15 +36150,15 @@
     "Orb": "F-",
     "Drb": "F",
     "Psd": "F",
-    "Prd": "D-",
-    "Stl": "D-",
+    "Prd": "C+",
+    "Stl": "C",
     "Blk": "F",
     "Qkn": "A-",
     "Str": "C",
     "Jmp": "C-",
-    "Sta": "C+",
-    "overall": "34",
-    "potential": "68",
+    "Sta": "A",
+    "overall": "47",
+    "potential": "78",
     "greed": "93",
     "playForWinner": "69",
     "loyalty": "72",
@@ -36175,8 +36175,8 @@
       "Orb": "F",
       "Drb": "D",
       "Psd": "F",
-      "Prd": "C",
-      "Stl": "C",
+      "Prd": "B",
+      "Stl": "B",
       "Blk": "D"
     },
     "potentialCurrentColor": "#B0040C",
@@ -36465,18 +36465,18 @@
     "3ps": "F-",
     "Hnd": "D-",
     "Pas": "D-",
-    "Orb": "D-",
+    "Orb": "C",
     "Drb": "D+",
     "Psd": "D+",
     "Prd": "F",
-    "Stl": "F+",
+    "Stl": "C",
     "Blk": "D",
-    "Qkn": "D-",
-    "Str": "C+",
-    "Jmp": "C",
+    "Qkn": "B",
+    "Str": "B",
+    "Jmp": "B+",
     "Sta": "F+",
-    "overall": "39",
-    "potential": "64",
+    "overall": "53",
+    "potential": "78",
     "greed": "88",
     "playForWinner": "11",
     "loyalty": "93",
@@ -36490,11 +36490,11 @@
       "3ps": "F",
       "Hnd": "C",
       "Pas": "D",
-      "Orb": "D",
+      "Orb": "C",
       "Drb": "C",
       "Psd": "C",
       "Prd": "F",
-      "Stl": "D",
+      "Stl": "C",
       "Blk": "C"
     },
     "potentialCurrentColor": "#B0040C",
@@ -37177,109 +37177,6 @@
         "year": "2010",
         "salary": 1710000.0,
         "salaryText": "$1,710,000"
-      },
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
-    "playerId": "player779",
-    "name": "Heath Stafford",
-    "url": "../players/player779.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "SG",
-    "age": "20",
-    "ht": "6-7",
-    "wt": "220",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "F+",
-    "Jps": "C",
-    "Fts": "C+",
-    "3ps": "C+",
-    "Hnd": "C",
-    "Pas": "F",
-    "Orb": "F",
-    "Drb": "F",
-    "Psd": "F-",
-    "Prd": "C",
-    "Stl": "C-",
-    "Blk": "F+",
-    "Qkn": "B",
-    "Str": "C",
-    "Jmp": "D-",
-    "Sta": "A",
-    "overall": "72",
-    "potential": "87",
-    "greed": "27",
-    "playForWinner": "68",
-    "loyalty": "81",
-    "happiness": "93",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "F",
-      "Jps": "C",
-      "Fts": "C",
-      "3ps": "B",
-      "Hnd": "C",
-      "Pas": "F",
-      "Orb": "F",
-      "Drb": "F",
-      "Psd": "F",
-      "Prd": "B",
-      "Stl": "C",
-      "Blk": "F"
-    },
-    "potentialCurrentColor": "#F2662A",
-    "potentialFutureColor": "#EDBE30",
-    "isDraftee": true,
-    "contracts": [
-      {
-        "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
       },
       {
         "year": "2011",
@@ -39390,6 +39287,109 @@
     ]
   },
   {
+    "playerId": "player810",
+    "name": "Ivy Calvin",
+    "url": "../players/player810.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "PG",
+    "age": "19",
+    "ht": "5-11",
+    "wt": "189",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "C",
+    "Jps": "C-",
+    "Fts": "B",
+    "3ps": "B+",
+    "Hnd": "C+",
+    "Pas": "C",
+    "Orb": "D",
+    "Drb": "D-",
+    "Psd": "F-",
+    "Prd": "B-",
+    "Stl": "B-",
+    "Blk": "F",
+    "Qkn": "A+",
+    "Str": "D",
+    "Jmp": "B-",
+    "Sta": "A",
+    "overall": "96",
+    "potential": "109",
+    "greed": "28",
+    "playForWinner": "49",
+    "loyalty": "31",
+    "happiness": "76",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "C",
+      "Jps": "C",
+      "Fts": "B",
+      "3ps": "B",
+      "Hnd": "B",
+      "Pas": "B",
+      "Orb": "D",
+      "Drb": "D",
+      "Psd": "F",
+      "Prd": "B",
+      "Stl": "B",
+      "Blk": "F"
+    },
+    "potentialCurrentColor": "#EDBE30",
+    "potentialFutureColor": "#307B1A",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2010",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
     "playerId": "player302",
     "name": "Jacinto Sanford",
     "url": "../players/player302.htm",
@@ -40367,7 +40367,7 @@
     "team": "Draft",
     "teamLabel": "Draft",
     "pos": "PG",
-    "age": "21",
+    "age": "23",
     "ht": "6-0",
     "wt": "150",
     "experience": "Rookie",
@@ -40384,7 +40384,7 @@
     "Fts": "B",
     "3ps": "C-",
     "Hnd": "C",
-    "Pas": "F+",
+    "Pas": "C",
     "Orb": "F-",
     "Drb": "F",
     "Psd": "F-",
@@ -40395,8 +40395,8 @@
     "Str": "C+",
     "Jmp": "D+",
     "Sta": "B-",
-    "overall": "52",
-    "potential": "68",
+    "overall": "59",
+    "potential": "87",
     "greed": "48",
     "playForWinner": "75",
     "loyalty": "13",
@@ -40407,9 +40407,9 @@
       "Ins": "F",
       "Jps": "B",
       "Fts": "B",
-      "3ps": "C",
+      "3ps": "B",
       "Hnd": "B",
-      "Pas": "D",
+      "Pas": "B",
       "Orb": "F",
       "Drb": "F",
       "Psd": "F",
@@ -40418,7 +40418,7 @@
       "Blk": "F"
     },
     "potentialCurrentColor": "#B0040C",
-    "potentialFutureColor": "#F2662A",
+    "potentialFutureColor": "#EDBE30",
     "isDraftee": true,
     "contracts": [
       {
@@ -43059,10 +43059,10 @@
     "Blk": "D-",
     "Qkn": "D",
     "Str": "C+",
-    "Jmp": "A-",
+    "Jmp": "A",
     "Sta": "C-",
-    "overall": "49",
-    "potential": "68",
+    "overall": "51",
+    "potential": "73",
     "greed": "78",
     "playForWinner": "36",
     "loyalty": "94",
@@ -43638,109 +43638,6 @@
     },
     "potentialCurrentColor": "#B0040C",
     "potentialFutureColor": "#B0040C",
-    "contracts": [
-      {
-        "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
-    "playerId": "player798",
-    "name": "Jerold Jeffries",
-    "url": "../players/player798.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "PG",
-    "age": "22",
-    "ht": "6-2",
-    "wt": "175",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "D",
-    "Jps": "C",
-    "Fts": "B",
-    "3ps": "D+",
-    "Hnd": "C-",
-    "Pas": "D+",
-    "Orb": "F+",
-    "Drb": "D+",
-    "Psd": "F+",
-    "Prd": "F+",
-    "Stl": "C",
-    "Blk": "F",
-    "Qkn": "A",
-    "Str": "F+",
-    "Jmp": "A",
-    "Sta": "A+",
-    "overall": "66",
-    "potential": "102",
-    "greed": "1",
-    "playForWinner": "61",
-    "loyalty": "81",
-    "happiness": "14",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "C",
-      "Jps": "B",
-      "Fts": "B",
-      "3ps": "C",
-      "Hnd": "B",
-      "Pas": "C",
-      "Orb": "D",
-      "Drb": "C",
-      "Psd": "D",
-      "Prd": "D",
-      "Stl": "B",
-      "Blk": "D"
-    },
-    "potentialCurrentColor": "#F2662A",
-    "potentialFutureColor": "#307B1A",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
@@ -44701,15 +44598,15 @@
     ]
   },
   {
-    "playerId": "player792",
-    "name": "Jessie Burdette",
-    "url": "../players/player792.htm",
+    "playerId": "player779",
+    "name": "Jesse Pinkerton",
+    "url": "../players/player779.htm",
     "team": "Draft",
     "teamLabel": "Draft",
     "pos": "SG",
-    "age": "17",
-    "ht": "6-5",
-    "wt": "214",
+    "age": "20",
+    "ht": "6-9",
+    "wt": "220",
     "experience": "Rookie",
     "birdYears": 0,
     "source": "player_page",
@@ -44719,46 +44616,46 @@
     "achievementTotals": [],
     "seasonAwards": [],
     "transactions": [],
-    "Ins": "F-",
-    "Jps": "C-",
-    "Fts": "B",
-    "3ps": "D-",
-    "Hnd": "D-",
+    "Ins": "F+",
+    "Jps": "C",
+    "Fts": "C+",
+    "3ps": "C+",
+    "Hnd": "C",
     "Pas": "F",
-    "Orb": "F-",
+    "Orb": "F",
     "Drb": "F",
     "Psd": "F-",
-    "Prd": "D",
-    "Stl": "D+",
-    "Blk": "F",
-    "Qkn": "B",
-    "Str": "B-",
-    "Jmp": "D+",
-    "Sta": "B-",
-    "overall": "42",
-    "potential": "84",
-    "greed": "43",
-    "playForWinner": "6",
-    "loyalty": "58",
-    "happiness": "47",
+    "Prd": "B+",
+    "Stl": "A-",
+    "Blk": "F+",
+    "Qkn": "A-",
+    "Str": "C",
+    "Jmp": "D-",
+    "Sta": "A",
+    "overall": "87",
+    "potential": "107",
+    "greed": "27",
+    "playForWinner": "68",
+    "loyalty": "81",
+    "happiness": "93",
     "lastTeamId": "",
     "lastTeam": "",
     "potentials": {
       "Ins": "F",
-      "Jps": "A",
-      "Fts": "B",
-      "3ps": "C",
+      "Jps": "C",
+      "Fts": "C",
+      "3ps": "B",
       "Hnd": "C",
       "Pas": "F",
       "Orb": "F",
-      "Drb": "D",
+      "Drb": "F",
       "Psd": "F",
-      "Prd": "C",
-      "Stl": "B",
-      "Blk": "D"
+      "Prd": "A",
+      "Stl": "A",
+      "Blk": "F"
     },
-    "potentialCurrentColor": "#B0040C",
-    "potentialFutureColor": "#EDBE30",
+    "potentialCurrentColor": "#EDBE30",
+    "potentialFutureColor": "#307B1A",
     "isDraftee": true,
     "contracts": [
       {
@@ -44896,109 +44793,6 @@
         "year": "2011",
         "salary": 8564806.0,
         "salaryText": "$8,564,806"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
-    "playerId": "player794",
-    "name": "Jody Davis",
-    "url": "../players/player794.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "SG",
-    "age": "20",
-    "ht": "6-4",
-    "wt": "198",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "F",
-    "Jps": "C-",
-    "Fts": "B",
-    "3ps": "C",
-    "Hnd": "D",
-    "Pas": "D-",
-    "Orb": "F",
-    "Drb": "F+",
-    "Psd": "D-",
-    "Prd": "F+",
-    "Stl": "D+",
-    "Blk": "F+",
-    "Qkn": "A-",
-    "Str": "B-",
-    "Jmp": "C",
-    "Sta": "A-",
-    "overall": "56",
-    "potential": "116",
-    "greed": "11",
-    "playForWinner": "40",
-    "loyalty": "41",
-    "happiness": "71",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "D",
-      "Jps": "A",
-      "Fts": "B",
-      "3ps": "A",
-      "Hnd": "C",
-      "Pas": "C",
-      "Orb": "F",
-      "Drb": "C",
-      "Psd": "D",
-      "Prd": "C",
-      "Stl": "B",
-      "Blk": "D"
-    },
-    "potentialCurrentColor": "#B0040C",
-    "potentialFutureColor": "#0052C3",
-    "isDraftee": true,
-    "contracts": [
-      {
-        "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
       },
       {
         "year": "2012",
@@ -45477,6 +45271,109 @@
     ]
   },
   {
+    "playerId": "player719",
+    "name": "Joey Smallwood",
+    "url": "../players/player719.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "C",
+    "age": "19",
+    "ht": "6-11",
+    "wt": "229",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "C-",
+    "Jps": "D-",
+    "Fts": "C+",
+    "3ps": "F-",
+    "Hnd": "C-",
+    "Pas": "F+",
+    "Orb": "C",
+    "Drb": "C-",
+    "Psd": "B+",
+    "Prd": "F-",
+    "Stl": "D-",
+    "Blk": "C+",
+    "Qkn": "C-",
+    "Str": "B-",
+    "Jmp": "C",
+    "Sta": "B-",
+    "overall": "78",
+    "potential": "97",
+    "greed": "48",
+    "playForWinner": "36",
+    "loyalty": "33",
+    "happiness": "81",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "C",
+      "Jps": "D",
+      "Fts": "C",
+      "3ps": "F",
+      "Hnd": "C",
+      "Pas": "D",
+      "Orb": "C",
+      "Drb": "C",
+      "Psd": "A",
+      "Prd": "F",
+      "Stl": "D",
+      "Blk": "B"
+    },
+    "potentialCurrentColor": "#F2662A",
+    "potentialFutureColor": "#EDBE30",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2010",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
     "playerId": "player454",
     "name": "John Carr",
     "url": "../players/player454.htm",
@@ -45722,18 +45619,18 @@
     "3ps": "F-",
     "Hnd": "D",
     "Pas": "F+",
-    "Orb": "D+",
-    "Drb": "D",
+    "Orb": "C+",
+    "Drb": "C",
     "Psd": "D+",
     "Prd": "F",
     "Stl": "F+",
     "Blk": "F+",
     "Qkn": "F-",
     "Str": "A-",
-    "Jmp": "C",
+    "Jmp": "D",
     "Sta": "C-",
-    "overall": "43",
-    "potential": "68",
+    "overall": "51",
+    "potential": "78",
     "greed": "29",
     "playForWinner": "43",
     "loyalty": "78",
@@ -45747,8 +45644,8 @@
       "3ps": "F",
       "Hnd": "D",
       "Pas": "D",
-      "Orb": "C",
-      "Drb": "C",
+      "Orb": "B",
+      "Drb": "B",
       "Psd": "B",
       "Prd": "F",
       "Stl": "D",
@@ -46158,15 +46055,15 @@
     "Orb": "F-",
     "Drb": "F+",
     "Psd": "F-",
-    "Prd": "D",
+    "Prd": "C+",
     "Stl": "F-",
     "Blk": "F-",
-    "Qkn": "B-",
-    "Str": "C-",
+    "Qkn": "B+",
+    "Str": "A-",
     "Jmp": "C-",
     "Sta": "C",
-    "overall": "52",
-    "potential": "75",
+    "overall": "67",
+    "potential": "95",
     "greed": "89",
     "playForWinner": "55",
     "loyalty": "53",
@@ -46183,12 +46080,12 @@
       "Orb": "F",
       "Drb": "F",
       "Psd": "F",
-      "Prd": "D",
+      "Prd": "B",
       "Stl": "F",
       "Blk": "F"
     },
-    "potentialCurrentColor": "#B0040C",
-    "potentialFutureColor": "#F2662A",
+    "potentialCurrentColor": "#F2662A",
+    "potentialFutureColor": "#EDBE30",
     "isDraftee": true,
     "contracts": [
       {
@@ -46343,7 +46240,7 @@
     "teamLabel": "Draft",
     "pos": "PF",
     "age": "19",
-    "ht": "6-7",
+    "ht": "6-6",
     "wt": "227",
     "experience": "Rookie",
     "birdYears": 0,
@@ -46354,14 +46251,14 @@
     "achievementTotals": [],
     "seasonAwards": [],
     "transactions": [],
-    "Ins": "D",
-    "Jps": "D+",
+    "Ins": "C-",
+    "Jps": "C",
     "Fts": "C-",
     "3ps": "F+",
-    "Hnd": "C-",
-    "Pas": "C-",
-    "Orb": "C+",
-    "Drb": "F+",
+    "Hnd": "C",
+    "Pas": "C",
+    "Orb": "B",
+    "Drb": "B",
     "Psd": "D",
     "Prd": "D-",
     "Stl": "D-",
@@ -46370,8 +46267,8 @@
     "Str": "C+",
     "Jmp": "B",
     "Sta": "B",
-    "overall": "56",
-    "potential": "72",
+    "overall": "72",
+    "potential": "89",
     "greed": "32",
     "playForWinner": "98",
     "loyalty": "30",
@@ -46385,15 +46282,15 @@
       "3ps": "D",
       "Hnd": "C",
       "Pas": "C",
-      "Orb": "B",
-      "Drb": "D",
-      "Psd": "D",
+      "Orb": "A",
+      "Drb": "A",
+      "Psd": "C",
       "Prd": "D",
       "Stl": "D",
       "Blk": "B"
     },
-    "potentialCurrentColor": "#B0040C",
-    "potentialFutureColor": "#F2662A",
+    "potentialCurrentColor": "#F2662A",
+    "potentialFutureColor": "#EDBE30",
     "isDraftee": true,
     "contracts": [
       {
@@ -46513,6 +46410,109 @@
         "year": "2011",
         "salary": 8272437.0,
         "salaryText": "$8,272,437"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
+    "playerId": "player778",
+    "name": "Jon F. Grenadine",
+    "url": "../players/player778.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "SG",
+    "age": "20",
+    "ht": "6-5",
+    "wt": "224",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "C",
+    "Jps": "B+",
+    "Fts": "A-",
+    "3ps": "C+",
+    "Hnd": "C",
+    "Pas": "C",
+    "Orb": "D-",
+    "Drb": "D-",
+    "Psd": "D+",
+    "Prd": "C",
+    "Stl": "C",
+    "Blk": "D+",
+    "Qkn": "A",
+    "Str": "C+",
+    "Jmp": "A-",
+    "Sta": "A",
+    "overall": "110",
+    "potential": "133",
+    "greed": "46",
+    "playForWinner": "40",
+    "loyalty": "31",
+    "happiness": "47",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "C",
+      "Jps": "B",
+      "Fts": "B",
+      "3ps": "B",
+      "Hnd": "B",
+      "Pas": "C",
+      "Orb": "D",
+      "Drb": "D",
+      "Psd": "C",
+      "Prd": "B",
+      "Stl": "B",
+      "Blk": "C"
+    },
+    "potentialCurrentColor": "#307B1A",
+    "potentialFutureColor": "#0052C3",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2010",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
       },
       {
         "year": "2012",
@@ -47157,109 +47157,6 @@
     },
     "potentialCurrentColor": "#B0040C",
     "potentialFutureColor": "#B0040C",
-    "contracts": [
-      {
-        "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
-    "playerId": "player721",
-    "name": "Jonathan Lee",
-    "url": "../players/player721.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "C",
-    "age": "22",
-    "ht": "7-0",
-    "wt": "228",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "C",
-    "Jps": "D+",
-    "Fts": "C",
-    "3ps": "F+",
-    "Hnd": "C+",
-    "Pas": "D-",
-    "Orb": "B",
-    "Drb": "B-",
-    "Psd": "B-",
-    "Prd": "D",
-    "Stl": "C-",
-    "Blk": "C",
-    "Qkn": "C-",
-    "Str": "B",
-    "Jmp": "C",
-    "Sta": "B+",
-    "overall": "99",
-    "potential": "131",
-    "greed": "59",
-    "playForWinner": "83",
-    "loyalty": "16",
-    "happiness": "8",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "C",
-      "Jps": "C",
-      "Fts": "C",
-      "3ps": "D",
-      "Hnd": "B",
-      "Pas": "D",
-      "Orb": "A",
-      "Drb": "A",
-      "Psd": "A",
-      "Prd": "D",
-      "Stl": "C",
-      "Blk": "B"
-    },
-    "potentialCurrentColor": "#EDBE30",
-    "potentialFutureColor": "#0052C3",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
@@ -48565,20 +48462,20 @@
     "Jps": "F+",
     "Fts": "C+",
     "3ps": "F-",
-    "Hnd": "D-",
-    "Pas": "F",
-    "Orb": "D-",
-    "Drb": "D+",
-    "Psd": "D+",
+    "Hnd": "C-",
+    "Pas": "C+",
+    "Orb": "C-",
+    "Drb": "C-",
+    "Psd": "C",
     "Prd": "F-",
     "Stl": "F",
-    "Blk": "D",
+    "Blk": "C",
     "Qkn": "F",
-    "Str": "B-",
-    "Jmp": "D",
+    "Str": "A-",
+    "Jmp": "A",
     "Sta": "F",
-    "overall": "37",
-    "potential": "74",
+    "overall": "61",
+    "potential": "93",
     "greed": "26",
     "playForWinner": "62",
     "loyalty": "10",
@@ -48591,16 +48488,16 @@
       "Fts": "B",
       "3ps": "F",
       "Hnd": "C",
-      "Pas": "F",
-      "Orb": "D",
+      "Pas": "B",
+      "Orb": "B",
       "Drb": "B",
       "Psd": "B",
       "Prd": "F",
       "Stl": "F",
-      "Blk": "C"
+      "Blk": "B"
     },
-    "potentialCurrentColor": "#B0040C",
-    "potentialFutureColor": "#F2662A",
+    "potentialCurrentColor": "#F2662A",
+    "potentialFutureColor": "#EDBE30",
     "isDraftee": true,
     "contracts": [
       {
@@ -50591,109 +50488,6 @@
         "year": "2011",
         "salary": 2380000.0,
         "salaryText": "$2,380,000"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
-    "playerId": "player769",
-    "name": "Keith Prewitt",
-    "url": "../players/player769.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "SF",
-    "age": "21",
-    "ht": "6-7",
-    "wt": "219",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "D-",
-    "Jps": "C",
-    "Fts": "B+",
-    "3ps": "C",
-    "Hnd": "C",
-    "Pas": "D",
-    "Orb": "F",
-    "Drb": "D",
-    "Psd": "D-",
-    "Prd": "D+",
-    "Stl": "F+",
-    "Blk": "D+",
-    "Qkn": "A-",
-    "Str": "C+",
-    "Jmp": "C+",
-    "Sta": "B+",
-    "overall": "77",
-    "potential": "121",
-    "greed": "83",
-    "playForWinner": "55",
-    "loyalty": "78",
-    "happiness": "51",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "D",
-      "Jps": "B",
-      "Fts": "B",
-      "3ps": "A",
-      "Hnd": "A",
-      "Pas": "D",
-      "Orb": "F",
-      "Drb": "C",
-      "Psd": "D",
-      "Prd": "C",
-      "Stl": "D",
-      "Blk": "C"
-    },
-    "potentialCurrentColor": "#F2662A",
-    "potentialFutureColor": "#0052C3",
-    "isDraftee": true,
-    "contracts": [
-      {
-        "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
       },
       {
         "year": "2012",
@@ -53153,6 +52947,109 @@
     ]
   },
   {
+    "playerId": "player811",
+    "name": "Led Tasso",
+    "url": "../players/player811.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "PG",
+    "age": "21",
+    "ht": "6-1",
+    "wt": "200",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "D",
+    "Jps": "D",
+    "Fts": "C+",
+    "3ps": "F-",
+    "Hnd": "C",
+    "Pas": "C+",
+    "Orb": "F-",
+    "Drb": "F+",
+    "Psd": "F-",
+    "Prd": "C",
+    "Stl": "D+",
+    "Blk": "C-",
+    "Qkn": "A",
+    "Str": "D-",
+    "Jmp": "B",
+    "Sta": "B+",
+    "overall": "63",
+    "potential": "98",
+    "greed": "63",
+    "playForWinner": "72",
+    "loyalty": "23",
+    "happiness": "44",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "C",
+      "Jps": "C",
+      "Fts": "B",
+      "3ps": "F",
+      "Hnd": "A",
+      "Pas": "A",
+      "Orb": "F",
+      "Drb": "D",
+      "Psd": "F",
+      "Prd": "B",
+      "Stl": "C",
+      "Blk": "C"
+    },
+    "potentialCurrentColor": "#F2662A",
+    "potentialFutureColor": "#EDBE30",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2010",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
     "playerId": "player164",
     "name": "Leo Petty",
     "url": "../players/player164.htm",
@@ -54192,20 +54089,20 @@
     "Jps": "C",
     "Fts": "A-",
     "3ps": "F",
-    "Hnd": "D+",
-    "Pas": "D",
+    "Hnd": "C",
+    "Pas": "C+",
     "Orb": "D-",
     "Drb": "D+",
     "Psd": "F",
     "Prd": "C",
     "Stl": "C",
     "Blk": "F-",
-    "Qkn": "B+",
+    "Qkn": "A-",
     "Str": "C",
-    "Jmp": "A-",
+    "Jmp": "C",
     "Sta": "B-",
-    "overall": "56",
-    "potential": "70",
+    "overall": "65",
+    "potential": "89",
     "greed": "10",
     "playForWinner": "80",
     "loyalty": "43",
@@ -54217,8 +54114,8 @@
       "Jps": "B",
       "Fts": "A",
       "3ps": "F",
-      "Hnd": "C",
-      "Pas": "D",
+      "Hnd": "B",
+      "Pas": "A",
       "Orb": "D",
       "Drb": "D",
       "Psd": "F",
@@ -54226,8 +54123,8 @@
       "Stl": "C",
       "Blk": "F"
     },
-    "potentialCurrentColor": "#B0040C",
-    "potentialFutureColor": "#F2662A",
+    "potentialCurrentColor": "#F2662A",
+    "potentialFutureColor": "#EDBE30",
     "isDraftee": true,
     "contracts": [
       {
@@ -56482,109 +56379,6 @@
     ]
   },
   {
-    "playerId": "player762",
-    "name": "Marty Johnson",
-    "url": "../players/player762.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "SF",
-    "age": "18",
-    "ht": "6-7",
-    "wt": "185",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "D-",
-    "Jps": "D+",
-    "Fts": "B-",
-    "3ps": "F+",
-    "Hnd": "D-",
-    "Pas": "F-",
-    "Orb": "D-",
-    "Drb": "C-",
-    "Psd": "D-",
-    "Prd": "D-",
-    "Stl": "C-",
-    "Blk": "F+",
-    "Qkn": "C+",
-    "Str": "B-",
-    "Jmp": "C+",
-    "Sta": "A-",
-    "overall": "53",
-    "potential": "84",
-    "greed": "80",
-    "playForWinner": "77",
-    "loyalty": "32",
-    "happiness": "73",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "C",
-      "Jps": "C",
-      "Fts": "B",
-      "3ps": "D",
-      "Hnd": "C",
-      "Pas": "F",
-      "Orb": "D",
-      "Drb": "B",
-      "Psd": "D",
-      "Prd": "C",
-      "Stl": "B",
-      "Blk": "D"
-    },
-    "potentialCurrentColor": "#B0040C",
-    "potentialFutureColor": "#EDBE30",
-    "isDraftee": true,
-    "contracts": [
-      {
-        "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
     "playerId": "player78",
     "name": "Matthew Espinoza",
     "url": "../players/player78.htm",
@@ -57695,6 +57489,109 @@
     ]
   },
   {
+    "playerId": "player781",
+    "name": "Michael Scarn",
+    "url": "../players/player781.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "SG",
+    "age": "21",
+    "ht": "6-6",
+    "wt": "179",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "F",
+    "Jps": "C",
+    "Fts": "A-",
+    "3ps": "D+",
+    "Hnd": "C-",
+    "Pas": "C",
+    "Orb": "F-",
+    "Drb": "D",
+    "Psd": "F+",
+    "Prd": "C",
+    "Stl": "C-",
+    "Blk": "F+",
+    "Qkn": "B",
+    "Str": "A-",
+    "Jmp": "A-",
+    "Sta": "A-",
+    "overall": "76",
+    "potential": "99",
+    "greed": "29",
+    "playForWinner": "72",
+    "loyalty": "97",
+    "happiness": "17",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "F",
+      "Jps": "A",
+      "Fts": "B",
+      "3ps": "D",
+      "Hnd": "C",
+      "Pas": "C",
+      "Orb": "F",
+      "Drb": "C",
+      "Psd": "D",
+      "Prd": "C",
+      "Stl": "C",
+      "Blk": "F"
+    },
+    "potentialCurrentColor": "#F2662A",
+    "potentialFutureColor": "#EDBE30",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2010",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
     "playerId": "player105",
     "name": "Michael Wallace",
     "url": "../players/player105.htm",
@@ -58526,109 +58423,6 @@
     },
     "potentialCurrentColor": "#B0040C",
     "potentialFutureColor": "#F2662A",
-    "contracts": [
-      {
-        "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
-    "playerId": "player718",
-    "name": "Miles Byer",
-    "url": "../players/player718.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "C",
-    "age": "20",
-    "ht": "6-11",
-    "wt": "230",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "C",
-    "Jps": "D",
-    "Fts": "B",
-    "3ps": "F+",
-    "Hnd": "D+",
-    "Pas": "D-",
-    "Orb": "C",
-    "Drb": "C-",
-    "Psd": "C",
-    "Prd": "C-",
-    "Stl": "D-",
-    "Blk": "C-",
-    "Qkn": "C",
-    "Str": "B+",
-    "Jmp": "A",
-    "Sta": "B",
-    "overall": "82",
-    "potential": "120",
-    "greed": "71",
-    "playForWinner": "100",
-    "loyalty": "10",
-    "happiness": "96",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "B",
-      "Jps": "D",
-      "Fts": "B",
-      "3ps": "D",
-      "Hnd": "D",
-      "Pas": "D",
-      "Orb": "A",
-      "Drb": "C",
-      "Psd": "A",
-      "Prd": "C",
-      "Stl": "D",
-      "Blk": "B"
-    },
-    "potentialCurrentColor": "#EDBE30",
-    "potentialFutureColor": "#0052C3",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
@@ -60729,6 +60523,109 @@
     ]
   },
   {
+    "playerId": "player743",
+    "name": "Neil Pearth",
+    "url": "../players/player743.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "PG",
+    "age": "19",
+    "ht": "6-8",
+    "wt": "227",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "C",
+    "Jps": "C-",
+    "Fts": "D+",
+    "3ps": "F-",
+    "Hnd": "C+",
+    "Pas": "B",
+    "Orb": "C-",
+    "Drb": "C",
+    "Psd": "C+",
+    "Prd": "C+",
+    "Stl": "C",
+    "Blk": "C",
+    "Qkn": "B+",
+    "Str": "B",
+    "Jmp": "C+",
+    "Sta": "A-",
+    "overall": "89",
+    "potential": "110",
+    "greed": "82",
+    "playForWinner": "81",
+    "loyalty": "14",
+    "happiness": "56",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "C",
+      "Jps": "D",
+      "Fts": "D",
+      "3ps": "F",
+      "Hnd": "B",
+      "Pas": "A",
+      "Orb": "C",
+      "Drb": "C",
+      "Psd": "C",
+      "Prd": "B",
+      "Stl": "B",
+      "Blk": "B"
+    },
+    "potentialCurrentColor": "#EDBE30",
+    "potentialFutureColor": "#307B1A",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2010",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
     "playerId": "player416",
     "name": "Nelson Hall",
     "url": "../players/player416.htm",
@@ -60946,12 +60843,12 @@
   },
   {
     "playerId": "player812",
-    "name": "Nelson Wilson",
+    "name": "Nelson Welson",
     "url": "../players/player812.htm",
     "team": "Draft",
     "teamLabel": "Draft",
     "pos": "PG",
-    "age": "21",
+    "age": "19",
     "ht": "5-10",
     "wt": "158",
     "experience": "Rookie",
@@ -60968,19 +60865,19 @@
     "Fts": "B-",
     "3ps": "D",
     "Hnd": "C",
-    "Pas": "D-",
-    "Orb": "C-",
-    "Drb": "C-",
-    "Psd": "D-",
-    "Prd": "D",
-    "Stl": "D+",
-    "Blk": "D-",
-    "Qkn": "A",
+    "Pas": "C-",
+    "Orb": "F+",
+    "Drb": "F+",
+    "Psd": "F-",
+    "Prd": "B",
+    "Stl": "A-",
+    "Blk": "F-",
+    "Qkn": "B",
     "Str": "D",
     "Jmp": "C",
     "Sta": "B-",
-    "overall": "59",
-    "potential": "69",
+    "overall": "69",
+    "potential": "87",
     "greed": "56",
     "playForWinner": "76",
     "loyalty": "12",
@@ -60993,16 +60890,16 @@
       "Fts": "B",
       "3ps": "D",
       "Hnd": "B",
-      "Pas": "D",
-      "Orb": "C",
-      "Drb": "C",
-      "Psd": "D",
-      "Prd": "D",
-      "Stl": "D",
-      "Blk": "D"
+      "Pas": "C",
+      "Orb": "F",
+      "Drb": "F",
+      "Psd": "F",
+      "Prd": "A",
+      "Stl": "A",
+      "Blk": "F"
     },
-    "potentialCurrentColor": "#B0040C",
-    "potentialFutureColor": "#F2662A",
+    "potentialCurrentColor": "#F2662A",
+    "potentialFutureColor": "#EDBE30",
     "isDraftee": true,
     "contracts": [
       {
@@ -61054,8 +60951,8 @@
     "team": "Draft",
     "teamLabel": "Draft",
     "pos": "C",
-    "age": "21",
-    "ht": "6-11",
+    "age": "23",
+    "ht": "7-7",
     "wt": "227",
     "experience": "Rookie",
     "birdYears": 0,
@@ -61072,18 +60969,18 @@
     "3ps": "F-",
     "Hnd": "D+",
     "Pas": "F+",
-    "Orb": "D+",
-    "Drb": "D",
-    "Psd": "D-",
+    "Orb": "C",
+    "Drb": "C+",
+    "Psd": "C-",
     "Prd": "F",
     "Stl": "F-",
-    "Blk": "C-",
+    "Blk": "C+",
     "Qkn": "D+",
     "Str": "B-",
-    "Jmp": "C",
+    "Jmp": "D+",
     "Sta": "C",
-    "overall": "43",
-    "potential": "71",
+    "overall": "63",
+    "potential": "90",
     "greed": "30",
     "playForWinner": "93",
     "loyalty": "20",
@@ -61097,15 +60994,15 @@
       "3ps": "F",
       "Hnd": "C",
       "Pas": "D",
-      "Orb": "B",
-      "Drb": "C",
+      "Orb": "A",
+      "Drb": "A",
       "Psd": "C",
       "Prd": "F",
       "Stl": "F",
       "Blk": "B"
     },
-    "potentialCurrentColor": "#B0040C",
-    "potentialFutureColor": "#F2662A",
+    "potentialCurrentColor": "#F2662A",
+    "potentialFutureColor": "#EDBE30",
     "isDraftee": true,
     "contracts": [
       {
@@ -62585,109 +62482,6 @@
     ]
   },
   {
-    "playerId": "player756",
-    "name": "Omar Dashiell",
-    "url": "../players/player756.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "PF",
-    "age": "21",
-    "ht": "6-10",
-    "wt": "224",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "D-",
-    "Jps": "F+",
-    "Fts": "C+",
-    "3ps": "F-",
-    "Hnd": "C",
-    "Pas": "D+",
-    "Orb": "C",
-    "Drb": "D+",
-    "Psd": "C",
-    "Prd": "D-",
-    "Stl": "C-",
-    "Blk": "C-",
-    "Qkn": "C",
-    "Str": "C+",
-    "Jmp": "A-",
-    "Sta": "C+",
-    "overall": "65",
-    "potential": "84",
-    "greed": "95",
-    "playForWinner": "35",
-    "loyalty": "43",
-    "happiness": "30",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "D",
-      "Jps": "D",
-      "Fts": "C",
-      "3ps": "F",
-      "Hnd": "C",
-      "Pas": "D",
-      "Orb": "B",
-      "Drb": "D",
-      "Psd": "B",
-      "Prd": "D",
-      "Stl": "C",
-      "Blk": "C"
-    },
-    "potentialCurrentColor": "#F2662A",
-    "potentialFutureColor": "#EDBE30",
-    "isDraftee": true,
-    "contracts": [
-      {
-        "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
     "playerId": "player264",
     "name": "Paris Willis",
     "url": "../players/player264.htm",
@@ -62820,7 +62614,7 @@
     "team": "Draft",
     "teamLabel": "Draft",
     "pos": "PF",
-    "age": "21",
+    "age": "24",
     "ht": "6-8",
     "wt": "238",
     "experience": "Rookie",
@@ -62832,24 +62626,24 @@
     "achievementTotals": [],
     "seasonAwards": [],
     "transactions": [],
-    "Ins": "D",
-    "Jps": "C-",
-    "Fts": "B-",
+    "Ins": "C",
+    "Jps": "F-",
+    "Fts": "D",
     "3ps": "F-",
-    "Hnd": "D",
+    "Hnd": "C",
     "Pas": "F",
     "Orb": "C",
     "Drb": "C-",
     "Psd": "C-",
-    "Prd": "D",
-    "Stl": "F",
-    "Blk": "F",
-    "Qkn": "D+",
-    "Str": "C",
-    "Jmp": "B",
+    "Prd": "C-",
+    "Stl": "D",
+    "Blk": "C",
+    "Qkn": "C+",
+    "Str": "C-",
+    "Jmp": "C+",
     "Sta": "C",
-    "overall": "56",
-    "potential": "66",
+    "overall": "65",
+    "potential": "79",
     "greed": "22",
     "playForWinner": "47",
     "loyalty": "64",
@@ -62857,20 +62651,20 @@
     "lastTeamId": "",
     "lastTeam": "",
     "potentials": {
-      "Ins": "D",
-      "Jps": "C",
-      "Fts": "B",
+      "Ins": "C",
+      "Jps": "F",
+      "Fts": "D",
       "3ps": "F",
-      "Hnd": "D",
+      "Hnd": "C",
       "Pas": "F",
       "Orb": "C",
       "Drb": "C",
       "Psd": "C",
-      "Prd": "D",
-      "Stl": "F",
-      "Blk": "F"
+      "Prd": "C",
+      "Stl": "C",
+      "Blk": "C"
     },
-    "potentialCurrentColor": "#B0040C",
+    "potentialCurrentColor": "#F2662A",
     "potentialFutureColor": "#F2662A",
     "isDraftee": true,
     "contracts": [
@@ -62991,6 +62785,212 @@
         "year": "2011",
         "salary": 1290000.0,
         "salaryText": "$1,290,000"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
+    "playerId": "player769",
+    "name": "Patty Daly",
+    "url": "../players/player769.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "SF",
+    "age": "21",
+    "ht": "6-7",
+    "wt": "219",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "C",
+    "Jps": "C",
+    "Fts": "B+",
+    "3ps": "C",
+    "Hnd": "C",
+    "Pas": "D",
+    "Orb": "C-",
+    "Drb": "C-",
+    "Psd": "D",
+    "Prd": "C",
+    "Stl": "C",
+    "Blk": "C",
+    "Qkn": "B",
+    "Str": "B",
+    "Jmp": "B",
+    "Sta": "B+",
+    "overall": "100",
+    "potential": "143",
+    "greed": "83",
+    "playForWinner": "55",
+    "loyalty": "78",
+    "happiness": "51",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "B",
+      "Jps": "B",
+      "Fts": "B",
+      "3ps": "B",
+      "Hnd": "B",
+      "Pas": "C",
+      "Orb": "C",
+      "Drb": "C",
+      "Psd": "D",
+      "Prd": "B",
+      "Stl": "B",
+      "Blk": "C"
+    },
+    "potentialCurrentColor": "#307B1A",
+    "potentialFutureColor": "#0052C3",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2010",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
+    "playerId": "player721",
+    "name": "Patty Murphy",
+    "url": "../players/player721.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "C",
+    "age": "19",
+    "ht": "7-0",
+    "wt": "228",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "C",
+    "Jps": "D+",
+    "Fts": "C",
+    "3ps": "F+",
+    "Hnd": "C+",
+    "Pas": "D-",
+    "Orb": "B",
+    "Drb": "B-",
+    "Psd": "B-",
+    "Prd": "D",
+    "Stl": "C-",
+    "Blk": "C",
+    "Qkn": "C-",
+    "Str": "B",
+    "Jmp": "B",
+    "Sta": "B+",
+    "overall": "102",
+    "potential": "143",
+    "greed": "59",
+    "playForWinner": "83",
+    "loyalty": "16",
+    "happiness": "8",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "C",
+      "Jps": "C",
+      "Fts": "C",
+      "3ps": "D",
+      "Hnd": "C",
+      "Pas": "D",
+      "Orb": "A",
+      "Drb": "A",
+      "Psd": "A",
+      "Prd": "D",
+      "Stl": "C",
+      "Blk": "A"
+    },
+    "potentialCurrentColor": "#307B1A",
+    "potentialFutureColor": "#0052C3",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2010",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
       },
       {
         "year": "2012",
@@ -63591,17 +63591,17 @@
     "Hnd": "D-",
     "Pas": "F-",
     "Orb": "C",
-    "Drb": "D-",
-    "Psd": "C",
+    "Drb": "C",
+    "Psd": "C+",
     "Prd": "F",
     "Stl": "F+",
     "Blk": "D+",
-    "Qkn": "D",
+    "Qkn": "C-",
     "Str": "A-",
     "Jmp": "D+",
     "Sta": "C-",
-    "overall": "46",
-    "potential": "65",
+    "overall": "57",
+    "potential": "79",
     "greed": "49",
     "playForWinner": "33",
     "loyalty": "28",
@@ -63616,8 +63616,8 @@
       "Hnd": "D",
       "Pas": "F",
       "Orb": "B",
-      "Drb": "D",
-      "Psd": "C",
+      "Drb": "B",
+      "Psd": "B",
       "Prd": "F",
       "Stl": "F",
       "Blk": "C"
@@ -63761,6 +63761,109 @@
         "year": "2011",
         "salary": 4423931.0,
         "salaryText": "$4,423,931"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
+    "playerId": "player751",
+    "name": "Peter Perk",
+    "url": "../players/player751.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "PF",
+    "age": "22",
+    "ht": "6-8",
+    "wt": "222",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "B-",
+    "Jps": "D+",
+    "Fts": "C",
+    "3ps": "F+",
+    "Hnd": "C-",
+    "Pas": "D-",
+    "Orb": "A-",
+    "Drb": "C",
+    "Psd": "D+",
+    "Prd": "F-",
+    "Stl": "F+",
+    "Blk": "B-",
+    "Qkn": "C",
+    "Str": "C+",
+    "Jmp": "B+",
+    "Sta": "B-",
+    "overall": "88",
+    "potential": "97",
+    "greed": "41",
+    "playForWinner": "52",
+    "loyalty": "27",
+    "happiness": "1",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "B",
+      "Jps": "D",
+      "Fts": "C",
+      "3ps": "D",
+      "Hnd": "D",
+      "Pas": "D",
+      "Orb": "A",
+      "Drb": "C",
+      "Psd": "D",
+      "Prd": "F",
+      "Stl": "F",
+      "Blk": "B"
+    },
+    "potentialCurrentColor": "#EDBE30",
+    "potentialFutureColor": "#EDBE30",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2010",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
       },
       {
         "year": "2012",
@@ -64807,6 +64910,109 @@
         "year": "2010",
         "salary": 1410000.0,
         "salaryText": "$1,410,000"
+      },
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
+    "playerId": "player809",
+    "name": "Randy Horton",
+    "url": "../players/player809.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "PG",
+    "age": "19",
+    "ht": "6-3",
+    "wt": "189",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "C-",
+    "Jps": "C",
+    "Fts": "B+",
+    "3ps": "B",
+    "Hnd": "C",
+    "Pas": "C",
+    "Orb": "F-",
+    "Drb": "F",
+    "Psd": "F+",
+    "Prd": "C",
+    "Stl": "C",
+    "Blk": "F+",
+    "Qkn": "A",
+    "Str": "D-",
+    "Jmp": "D+",
+    "Sta": "C+",
+    "overall": "73",
+    "potential": "97",
+    "greed": "57",
+    "playForWinner": "33",
+    "loyalty": "1",
+    "happiness": "41",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "C",
+      "Jps": "C",
+      "Fts": "B",
+      "3ps": "A",
+      "Hnd": "B",
+      "Pas": "B",
+      "Orb": "F",
+      "Drb": "D",
+      "Psd": "D",
+      "Prd": "B",
+      "Stl": "B",
+      "Blk": "D"
+    },
+    "potentialCurrentColor": "#F2662A",
+    "potentialFutureColor": "#EDBE30",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2010",
+        "salary": 0.0,
+        "salaryText": "$0"
       },
       {
         "year": "2011",
@@ -65936,6 +66142,109 @@
     ]
   },
   {
+    "playerId": "player763",
+    "name": "Rex Gout",
+    "url": "../players/player763.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "SF",
+    "age": "21",
+    "ht": "6-9",
+    "wt": "245",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "C",
+    "Jps": "C",
+    "Fts": "C",
+    "3ps": "D+",
+    "Hnd": "C",
+    "Pas": "C",
+    "Orb": "C-",
+    "Drb": "D+",
+    "Psd": "D",
+    "Prd": "C",
+    "Stl": "C-",
+    "Blk": "D",
+    "Qkn": "B-",
+    "Str": "B-",
+    "Jmp": "A-",
+    "Sta": "A-",
+    "overall": "89",
+    "potential": "126",
+    "greed": "48",
+    "playForWinner": "50",
+    "loyalty": "92",
+    "happiness": "24",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "A",
+      "Jps": "C",
+      "Fts": "C",
+      "3ps": "D",
+      "Hnd": "B",
+      "Pas": "B",
+      "Orb": "C",
+      "Drb": "C",
+      "Psd": "D",
+      "Prd": "B",
+      "Stl": "B",
+      "Blk": "B"
+    },
+    "potentialCurrentColor": "#EDBE30",
+    "potentialFutureColor": "#0052C3",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2010",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
     "playerId": "player60",
     "name": "Rey Collins",
     "url": "../players/player60.htm",
@@ -66067,19 +66376,19 @@
     "Fts": "B-",
     "3ps": "C-",
     "Hnd": "C+",
-    "Pas": "D",
+    "Pas": "C",
     "Orb": "F",
     "Drb": "F+",
     "Psd": "F-",
     "Prd": "C",
     "Stl": "C+",
     "Blk": "F-",
-    "Qkn": "B+",
+    "Qkn": "A-",
     "Str": "C",
     "Jmp": "D",
     "Sta": "C",
-    "overall": "51",
-    "potential": "68",
+    "overall": "60",
+    "potential": "80",
     "greed": "100",
     "playForWinner": "15",
     "loyalty": "23",
@@ -66092,7 +66401,7 @@
       "Fts": "B",
       "3ps": "C",
       "Hnd": "B",
-      "Pas": "D",
+      "Pas": "B",
       "Orb": "F",
       "Drb": "F",
       "Psd": "F",
@@ -66100,8 +66409,8 @@
       "Stl": "B",
       "Blk": "F"
     },
-    "potentialCurrentColor": "#B0040C",
-    "potentialFutureColor": "#F2662A",
+    "potentialCurrentColor": "#F2662A",
+    "potentialFutureColor": "#EDBE30",
     "isDraftee": true,
     "contracts": [
       {
@@ -66273,109 +66582,6 @@
     ]
   },
   {
-    "playerId": "player809",
-    "name": "Rhodes Mona",
-    "url": "../players/player809.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "PG",
-    "age": "19",
-    "ht": "6-3",
-    "wt": "189",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "D-",
-    "Jps": "D+",
-    "Fts": "B+",
-    "3ps": "D",
-    "Hnd": "D",
-    "Pas": "D",
-    "Orb": "F-",
-    "Drb": "F",
-    "Psd": "F+",
-    "Prd": "D+",
-    "Stl": "D-",
-    "Blk": "F+",
-    "Qkn": "A",
-    "Str": "D-",
-    "Jmp": "D+",
-    "Sta": "C+",
-    "overall": "43",
-    "potential": "84",
-    "greed": "57",
-    "playForWinner": "33",
-    "loyalty": "1",
-    "happiness": "41",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "C",
-      "Jps": "C",
-      "Fts": "B",
-      "3ps": "C",
-      "Hnd": "C",
-      "Pas": "C",
-      "Orb": "F",
-      "Drb": "D",
-      "Psd": "D",
-      "Prd": "B",
-      "Stl": "C",
-      "Blk": "D"
-    },
-    "potentialCurrentColor": "#B0040C",
-    "potentialFutureColor": "#EDBE30",
-    "isDraftee": true,
-    "contracts": [
-      {
-        "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
     "playerId": "player272",
     "name": "Rich Fix",
     "url": "../players/player272.htm",
@@ -66445,6 +66651,109 @@
         "year": "2010",
         "salary": 1410000.0,
         "salaryText": "$1,410,000"
+      },
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
+    "playerId": "player790",
+    "name": "Richard Benjamin",
+    "url": "../players/player790.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "SG",
+    "age": "19",
+    "ht": "6-6",
+    "wt": "208",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "C",
+    "Jps": "C",
+    "Fts": "C+",
+    "3ps": "F+",
+    "Hnd": "C-",
+    "Pas": "D",
+    "Orb": "D-",
+    "Drb": "D",
+    "Psd": "F-",
+    "Prd": "C",
+    "Stl": "B-",
+    "Blk": "F+",
+    "Qkn": "B+",
+    "Str": "C",
+    "Jmp": "C",
+    "Sta": "B",
+    "overall": "78",
+    "potential": "115",
+    "greed": "33",
+    "playForWinner": "38",
+    "loyalty": "62",
+    "happiness": "18",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "B",
+      "Jps": "B",
+      "Fts": "C",
+      "3ps": "D",
+      "Hnd": "C",
+      "Pas": "D",
+      "Orb": "D",
+      "Drb": "C",
+      "Psd": "F",
+      "Prd": "B",
+      "Stl": "A",
+      "Blk": "D"
+    },
+    "potentialCurrentColor": "#F2662A",
+    "potentialFutureColor": "#0052C3",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2010",
+        "salary": 0.0,
+        "salaryText": "$0"
       },
       {
         "year": "2011",
@@ -67579,6 +67888,109 @@
     ]
   },
   {
+    "playerId": "player798",
+    "name": "Rick Harrison",
+    "url": "../players/player798.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "PG",
+    "age": "18",
+    "ht": "6-1",
+    "wt": "175",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "D",
+    "Jps": "C",
+    "Fts": "A-",
+    "3ps": "D+",
+    "Hnd": "B-",
+    "Pas": "C+",
+    "Orb": "F+",
+    "Drb": "D+",
+    "Psd": "F+",
+    "Prd": "C",
+    "Stl": "C",
+    "Blk": "F",
+    "Qkn": "A",
+    "Str": "F+",
+    "Jmp": "B-",
+    "Sta": "A+",
+    "overall": "82",
+    "potential": "120",
+    "greed": "1",
+    "playForWinner": "61",
+    "loyalty": "81",
+    "happiness": "14",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "C",
+      "Jps": "C",
+      "Fts": "B",
+      "3ps": "C",
+      "Hnd": "A",
+      "Pas": "A",
+      "Orb": "D",
+      "Drb": "C",
+      "Psd": "D",
+      "Prd": "B",
+      "Stl": "B",
+      "Blk": "D"
+    },
+    "potentialCurrentColor": "#EDBE30",
+    "potentialFutureColor": "#0052C3",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2010",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
     "playerId": "player184",
     "name": "Ricky Brown",
     "url": "../players/player184.htm",
@@ -68665,7 +69077,7 @@
     "team": "Draft",
     "teamLabel": "Draft",
     "pos": "SF",
-    "age": "19",
+    "age": "21",
     "ht": "6-10",
     "wt": "187",
     "experience": "Rookie",
@@ -68683,18 +69095,18 @@
     "3ps": "D",
     "Hnd": "D",
     "Pas": "F-",
-    "Orb": "F+",
-    "Drb": "D-",
+    "Orb": "B-",
+    "Drb": "B-",
     "Psd": "F+",
     "Prd": "F+",
     "Stl": "D",
     "Blk": "F+",
-    "Qkn": "C",
+    "Qkn": "D+",
     "Str": "C-",
-    "Jmp": "C",
+    "Jmp": "C-",
     "Sta": "C+",
-    "overall": "42",
-    "potential": "66",
+    "overall": "57",
+    "potential": "79",
     "greed": "69",
     "playForWinner": "32",
     "loyalty": "24",
@@ -68708,8 +69120,8 @@
       "3ps": "C",
       "Hnd": "C",
       "Pas": "F",
-      "Orb": "D",
-      "Drb": "D",
+      "Orb": "A",
+      "Drb": "B",
       "Psd": "D",
       "Prd": "F",
       "Stl": "D",
@@ -71815,109 +72227,6 @@
     ]
   },
   {
-    "playerId": "player743",
-    "name": "Scott Taylor",
-    "url": "../players/player743.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "PF",
-    "age": "19",
-    "ht": "6-6",
-    "wt": "227",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "C",
-    "Jps": "C-",
-    "Fts": "D+",
-    "3ps": "F-",
-    "Hnd": "C-",
-    "Pas": "D+",
-    "Orb": "C-",
-    "Drb": "D-",
-    "Psd": "C+",
-    "Prd": "D+",
-    "Stl": "C",
-    "Blk": "D+",
-    "Qkn": "C",
-    "Str": "B",
-    "Jmp": "C+",
-    "Sta": "A-",
-    "overall": "63",
-    "potential": "85",
-    "greed": "82",
-    "playForWinner": "81",
-    "loyalty": "14",
-    "happiness": "56",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "C",
-      "Jps": "D",
-      "Fts": "D",
-      "3ps": "F",
-      "Hnd": "B",
-      "Pas": "C",
-      "Orb": "C",
-      "Drb": "D",
-      "Psd": "A",
-      "Prd": "C",
-      "Stl": "B",
-      "Blk": "C"
-    },
-    "potentialCurrentColor": "#F2662A",
-    "potentialFutureColor": "#EDBE30",
-    "isDraftee": true,
-    "contracts": [
-      {
-        "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
     "playerId": "player143",
     "name": "Sean Wilson",
     "url": "../players/player143.htm",
@@ -72311,109 +72620,6 @@
     },
     "potentialCurrentColor": "#F2662A",
     "potentialFutureColor": "#F2662A",
-    "contracts": [
-      {
-        "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
-    "playerId": "player811",
-    "name": "Shannon Morales",
-    "url": "../players/player811.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "PG",
-    "age": "21",
-    "ht": "6-1",
-    "wt": "200",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "D",
-    "Jps": "D",
-    "Fts": "C+",
-    "3ps": "F-",
-    "Hnd": "C-",
-    "Pas": "D-",
-    "Orb": "F-",
-    "Drb": "F+",
-    "Psd": "F-",
-    "Prd": "C",
-    "Stl": "F",
-    "Blk": "D",
-    "Qkn": "A",
-    "Str": "D-",
-    "Jmp": "B",
-    "Sta": "B+",
-    "overall": "50",
-    "potential": "82",
-    "greed": "63",
-    "playForWinner": "72",
-    "loyalty": "23",
-    "happiness": "44",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "C",
-      "Jps": "C",
-      "Fts": "B",
-      "3ps": "F",
-      "Hnd": "A",
-      "Pas": "D",
-      "Orb": "F",
-      "Drb": "D",
-      "Psd": "F",
-      "Prd": "B",
-      "Stl": "D",
-      "Blk": "C"
-    },
-    "potentialCurrentColor": "#B0040C",
-    "potentialFutureColor": "#EDBE30",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2010",
@@ -74405,109 +74611,6 @@
     ]
   },
   {
-    "playerId": "player728",
-    "name": "Stephen Hernandez",
-    "url": "../players/player728.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "C",
-    "age": "21",
-    "ht": "7-0",
-    "wt": "246",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "F",
-    "Jps": "C-",
-    "Fts": "C+",
-    "3ps": "F+",
-    "Hnd": "D-",
-    "Pas": "D",
-    "Orb": "C+",
-    "Drb": "C",
-    "Psd": "C-",
-    "Prd": "F",
-    "Stl": "D",
-    "Blk": "D",
-    "Qkn": "D",
-    "Str": "A-",
-    "Jmp": "C",
-    "Sta": "C-",
-    "overall": "61",
-    "potential": "88",
-    "greed": "65",
-    "playForWinner": "53",
-    "loyalty": "37",
-    "happiness": "33",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "F",
-      "Jps": "C",
-      "Fts": "C",
-      "3ps": "D",
-      "Hnd": "D",
-      "Pas": "C",
-      "Orb": "A",
-      "Drb": "C",
-      "Psd": "C",
-      "Prd": "F",
-      "Stl": "D",
-      "Blk": "C"
-    },
-    "potentialCurrentColor": "#F2662A",
-    "potentialFutureColor": "#EDBE30",
-    "isDraftee": true,
-    "contracts": [
-      {
-        "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
     "playerId": "player99",
     "name": "Stephen Musso",
     "url": "../players/player99.htm",
@@ -75618,7 +75721,7 @@
     "team": "Draft",
     "teamLabel": "Draft",
     "pos": "C",
-    "age": "19",
+    "age": "23",
     "ht": "7-1",
     "wt": "228",
     "experience": "Rookie",
@@ -75630,7 +75733,7 @@
     "achievementTotals": [],
     "seasonAwards": [],
     "transactions": [],
-    "Ins": "F+",
+    "Ins": "B",
     "Jps": "D",
     "Fts": "C+",
     "3ps": "F-",
@@ -75643,11 +75746,11 @@
     "Stl": "F+",
     "Blk": "D+",
     "Qkn": "F-",
-    "Str": "C+",
-    "Jmp": "D",
+    "Str": "C-",
+    "Jmp": "F-",
     "Sta": "F+",
-    "overall": "46",
-    "potential": "66",
+    "overall": "57",
+    "potential": "81",
     "greed": "99",
     "playForWinner": "12",
     "loyalty": "1",
@@ -75655,7 +75758,7 @@
     "lastTeamId": "",
     "lastTeam": "",
     "potentials": {
-      "Ins": "D",
+      "Ins": "A",
       "Jps": "C",
       "Fts": "B",
       "3ps": "F",
@@ -75669,7 +75772,7 @@
       "Blk": "C"
     },
     "potentialCurrentColor": "#B0040C",
-    "potentialFutureColor": "#F2662A",
+    "potentialFutureColor": "#EDBE30",
     "isDraftee": true,
     "contracts": [
       {
@@ -78508,6 +78611,109 @@
     ]
   },
   {
+    "playerId": "player795",
+    "name": "Tony Eagle",
+    "url": "../players/player795.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "SG",
+    "age": "21",
+    "ht": "6-5",
+    "wt": "201",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "C-",
+    "Jps": "B+",
+    "Fts": "A",
+    "3ps": "C",
+    "Hnd": "B-",
+    "Pas": "C-",
+    "Orb": "F+",
+    "Drb": "D-",
+    "Psd": "F-",
+    "Prd": "C+",
+    "Stl": "C",
+    "Blk": "F",
+    "Qkn": "A",
+    "Str": "A-",
+    "Jmp": "B+",
+    "Sta": "A",
+    "overall": "104",
+    "potential": "139",
+    "greed": "90",
+    "playForWinner": "76",
+    "loyalty": "16",
+    "happiness": "35",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "C",
+      "Jps": "A",
+      "Fts": "A",
+      "3ps": "B",
+      "Hnd": "B",
+      "Pas": "C",
+      "Orb": "F",
+      "Drb": "D",
+      "Psd": "F",
+      "Prd": "B",
+      "Stl": "A",
+      "Blk": "F"
+    },
+    "potentialCurrentColor": "#307B1A",
+    "potentialFutureColor": "#0052C3",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2010",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
     "playerId": "player460",
     "name": "Tony Lecompte",
     "url": "../players/player460.htm",
@@ -78605,6 +78811,109 @@
         "year": "2012",
         "salary": 14994138.0,
         "salaryText": "$14,994,138"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
+    "playerId": "player794",
+    "name": "Tony Marie Wiseman",
+    "url": "../players/player794.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "SG",
+    "age": "20",
+    "ht": "6-2",
+    "wt": "198",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "C",
+    "Jps": "C-",
+    "Fts": "A",
+    "3ps": "C",
+    "Hnd": "C+",
+    "Pas": "B+",
+    "Orb": "F",
+    "Drb": "F+",
+    "Psd": "D-",
+    "Prd": "B",
+    "Stl": "B",
+    "Blk": "F+",
+    "Qkn": "A",
+    "Str": "B-",
+    "Jmp": "C",
+    "Sta": "A-",
+    "overall": "94",
+    "potential": "134",
+    "greed": "11",
+    "playForWinner": "40",
+    "loyalty": "41",
+    "happiness": "71",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "C",
+      "Jps": "A",
+      "Fts": "A",
+      "3ps": "A",
+      "Hnd": "A",
+      "Pas": "A",
+      "Orb": "F",
+      "Drb": "C",
+      "Psd": "D",
+      "Prd": "B",
+      "Stl": "A",
+      "Blk": "D"
+    },
+    "potentialCurrentColor": "#EDBE30",
+    "potentialFutureColor": "#0052C3",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2010",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
       },
       {
         "year": "2013",
@@ -79657,109 +79966,6 @@
     ]
   },
   {
-    "playerId": "player788",
-    "name": "Ugo Devoto",
-    "url": "../players/player788.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "SG",
-    "age": "19",
-    "ht": "6-5",
-    "wt": "193",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "D-",
-    "Jps": "C",
-    "Fts": "B+",
-    "3ps": "D+",
-    "Hnd": "C-",
-    "Pas": "F-",
-    "Orb": "D-",
-    "Drb": "C-",
-    "Psd": "F+",
-    "Prd": "F",
-    "Stl": "C-",
-    "Blk": "F-",
-    "Qkn": "A-",
-    "Str": "C+",
-    "Jmp": "C",
-    "Sta": "C+",
-    "overall": "61",
-    "potential": "85",
-    "greed": "61",
-    "playForWinner": "77",
-    "loyalty": "58",
-    "happiness": "28",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "D",
-      "Jps": "A",
-      "Fts": "A",
-      "3ps": "C",
-      "Hnd": "C",
-      "Pas": "F",
-      "Orb": "D",
-      "Drb": "C",
-      "Psd": "D",
-      "Prd": "F",
-      "Stl": "C",
-      "Blk": "F"
-    },
-    "potentialCurrentColor": "#F2662A",
-    "potentialFutureColor": "#EDBE30",
-    "isDraftee": true,
-    "contracts": [
-      {
-        "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
     "playerId": "player636",
     "name": "Urbano Cresaco",
     "url": "../players/player636.htm",
@@ -80192,109 +80398,6 @@
     ]
   },
   {
-    "playerId": "player750",
-    "name": "Vaughn Turner",
-    "url": "../players/player750.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "PF",
-    "age": "21",
-    "ht": "6-8",
-    "wt": "246",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "C-",
-    "Jps": "C",
-    "Fts": "B-",
-    "3ps": "F+",
-    "Hnd": "C",
-    "Pas": "D",
-    "Orb": "C+",
-    "Drb": "B",
-    "Psd": "C",
-    "Prd": "D",
-    "Stl": "D",
-    "Blk": "D",
-    "Qkn": "C",
-    "Str": "C+",
-    "Jmp": "D",
-    "Sta": "B+",
-    "overall": "82",
-    "potential": "99",
-    "greed": "41",
-    "playForWinner": "50",
-    "loyalty": "27",
-    "happiness": "35",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "C",
-      "Jps": "C",
-      "Fts": "B",
-      "3ps": "D",
-      "Hnd": "B",
-      "Pas": "D",
-      "Orb": "B",
-      "Drb": "A",
-      "Psd": "B",
-      "Prd": "D",
-      "Stl": "D",
-      "Blk": "C"
-    },
-    "potentialCurrentColor": "#EDBE30",
-    "potentialFutureColor": "#EDBE30",
-    "isDraftee": true,
-    "contracts": [
-      {
-        "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
     "playerId": "player805",
     "name": "Victor Greiwe",
     "url": "../players/player805.htm",
@@ -80302,7 +80405,7 @@
     "teamLabel": "Draft",
     "pos": "PG",
     "age": "21",
-    "ht": "6-3",
+    "ht": "6-4",
     "wt": "182",
     "experience": "Rookie",
     "birdYears": 0,
@@ -80314,7 +80417,7 @@
     "seasonAwards": [],
     "transactions": [],
     "Ins": "C-",
-    "Jps": "C",
+    "Jps": "B+",
     "Fts": "B",
     "3ps": "D",
     "Hnd": "C+",
@@ -80323,14 +80426,14 @@
     "Drb": "D-",
     "Psd": "F-",
     "Prd": "C-",
-    "Stl": "D",
+    "Stl": "C",
     "Blk": "F+",
     "Qkn": "A-",
     "Str": "B",
     "Jmp": "D+",
-    "Sta": "C",
-    "overall": "62",
-    "potential": "72",
+    "Sta": "A-",
+    "overall": "80",
+    "potential": "90",
     "greed": "89",
     "playForWinner": "39",
     "loyalty": "2",
@@ -80339,7 +80442,7 @@
     "lastTeam": "",
     "potentials": {
       "Ins": "D",
-      "Jps": "C",
+      "Jps": "B",
       "Fts": "B",
       "3ps": "D",
       "Hnd": "B",
@@ -80348,11 +80451,11 @@
       "Drb": "F",
       "Psd": "F",
       "Prd": "C",
-      "Stl": "D",
-      "Blk": "D"
+      "Stl": "B",
+      "Blk": "C"
     },
-    "potentialCurrentColor": "#F2662A",
-    "potentialFutureColor": "#F2662A",
+    "potentialCurrentColor": "#EDBE30",
+    "potentialFutureColor": "#EDBE30",
     "isDraftee": true,
     "contracts": [
       {
@@ -80472,109 +80575,6 @@
         "year": "2011",
         "salary": 2651011.0,
         "salaryText": "$2,651,011"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
-    "playerId": "player781",
-    "name": "Virgil Frick",
-    "url": "../players/player781.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "SG",
-    "age": "21",
-    "ht": "6-6",
-    "wt": "179",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "F",
-    "Jps": "C",
-    "Fts": "A-",
-    "3ps": "D+",
-    "Hnd": "C-",
-    "Pas": "F",
-    "Orb": "F-",
-    "Drb": "D",
-    "Psd": "F+",
-    "Prd": "D-",
-    "Stl": "D-",
-    "Blk": "F+",
-    "Qkn": "B",
-    "Str": "C",
-    "Jmp": "D+",
-    "Sta": "A-",
-    "overall": "57",
-    "potential": "80",
-    "greed": "29",
-    "playForWinner": "72",
-    "loyalty": "97",
-    "happiness": "17",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "F",
-      "Jps": "A",
-      "Fts": "B",
-      "3ps": "D",
-      "Hnd": "C",
-      "Pas": "F",
-      "Orb": "F",
-      "Drb": "C",
-      "Psd": "D",
-      "Prd": "D",
-      "Stl": "D",
-      "Blk": "F"
-    },
-    "potentialCurrentColor": "#B0040C",
-    "potentialFutureColor": "#EDBE30",
-    "isDraftee": true,
-    "contracts": [
-      {
-        "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
       },
       {
         "year": "2012",
@@ -81150,6 +81150,109 @@
     ]
   },
   {
+    "playerId": "player718",
+    "name": "Walter White",
+    "url": "../players/player718.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "C",
+    "age": "20",
+    "ht": "7-1",
+    "wt": "250",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "C",
+    "Jps": "D",
+    "Fts": "B",
+    "3ps": "F+",
+    "Hnd": "D+",
+    "Pas": "D-",
+    "Orb": "C",
+    "Drb": "C-",
+    "Psd": "C",
+    "Prd": "C-",
+    "Stl": "D-",
+    "Blk": "C-",
+    "Qkn": "D-",
+    "Str": "B+",
+    "Jmp": "A-",
+    "Sta": "B",
+    "overall": "86",
+    "potential": "143",
+    "greed": "71",
+    "playForWinner": "100",
+    "loyalty": "10",
+    "happiness": "96",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "A",
+      "Jps": "D",
+      "Fts": "B",
+      "3ps": "D",
+      "Hnd": "D",
+      "Pas": "D",
+      "Orb": "A",
+      "Drb": "A",
+      "Psd": "A",
+      "Prd": "D",
+      "Stl": "D",
+      "Blk": "A"
+    },
+    "potentialCurrentColor": "#EDBE30",
+    "potentialFutureColor": "#0052C3",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2010",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
     "playerId": "player637",
     "name": "Werner Lamb",
     "url": "../players/player637.htm",
@@ -81452,109 +81555,6 @@
         "year": "2011",
         "salary": 1350000.0,
         "salaryText": "$1,350,000"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
-    "playerId": "player719",
-    "name": "Wilbert Roberts",
-    "url": "../players/player719.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "C",
-    "age": "19",
-    "ht": "6-11",
-    "wt": "229",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "C-",
-    "Jps": "D-",
-    "Fts": "C+",
-    "3ps": "F-",
-    "Hnd": "C-",
-    "Pas": "F+",
-    "Orb": "D-",
-    "Drb": "C-",
-    "Psd": "D",
-    "Prd": "F-",
-    "Stl": "D-",
-    "Blk": "C+",
-    "Qkn": "C-",
-    "Str": "B-",
-    "Jmp": "C",
-    "Sta": "B-",
-    "overall": "59",
-    "potential": "77",
-    "greed": "48",
-    "playForWinner": "36",
-    "loyalty": "33",
-    "happiness": "81",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "C",
-      "Jps": "D",
-      "Fts": "C",
-      "3ps": "F",
-      "Hnd": "C",
-      "Pas": "D",
-      "Orb": "D",
-      "Drb": "C",
-      "Psd": "D",
-      "Prd": "F",
-      "Stl": "D",
-      "Blk": "B"
-    },
-    "potentialCurrentColor": "#B0040C",
-    "potentialFutureColor": "#F2662A",
-    "isDraftee": true,
-    "contracts": [
-      {
-        "year": "2010",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
       },
       {
         "year": "2012",
@@ -84029,7 +84029,7 @@
     "achievementTotals": [],
     "seasonAwards": [],
     "transactions": [],
-    "Ins": "D",
+    "Ins": "C",
     "Jps": "C-",
     "Fts": "B+",
     "3ps": "F-",
@@ -84041,12 +84041,12 @@
     "Prd": "F",
     "Stl": "F",
     "Blk": "F+",
-    "Qkn": "D",
+    "Qkn": "C",
     "Str": "C",
-    "Jmp": "C+",
+    "Jmp": "B+",
     "Sta": "C+",
-    "overall": "56",
-    "potential": "71",
+    "overall": "65",
+    "potential": "88",
     "greed": "80",
     "playForWinner": "8",
     "loyalty": "87",
@@ -84054,7 +84054,7 @@
     "lastTeamId": "",
     "lastTeam": "",
     "potentials": {
-      "Ins": "D",
+      "Ins": "A",
       "Jps": "C",
       "Fts": "B",
       "3ps": "F",
@@ -84067,8 +84067,8 @@
       "Stl": "F",
       "Blk": "D"
     },
-    "potentialCurrentColor": "#B0040C",
-    "potentialFutureColor": "#F2662A",
+    "potentialCurrentColor": "#F2662A",
+    "potentialFutureColor": "#EDBE30",
     "isDraftee": true,
     "contracts": [
       {
@@ -84561,21 +84561,21 @@
     "Ins": "F+",
     "Jps": "D",
     "Fts": "B",
-    "3ps": "F+",
-    "Hnd": "F-",
+    "3ps": "C",
+    "Hnd": "C-",
     "Pas": "F-",
-    "Orb": "F",
+    "Orb": "C",
     "Drb": "C-",
     "Psd": "F",
     "Prd": "C",
-    "Stl": "D+",
+    "Stl": "C",
     "Blk": "F",
     "Qkn": "B+",
-    "Str": "C",
+    "Str": "B-",
     "Jmp": "B-",
     "Sta": "B+",
-    "overall": "54",
-    "potential": "75",
+    "overall": "69",
+    "potential": "93",
     "greed": "63",
     "playForWinner": "62",
     "loyalty": "76",
@@ -84586,18 +84586,18 @@
       "Ins": "D",
       "Jps": "D",
       "Fts": "B",
-      "3ps": "F",
-      "Hnd": "F",
+      "3ps": "C",
+      "Hnd": "C",
       "Pas": "F",
-      "Orb": "F",
+      "Orb": "C",
       "Drb": "C",
       "Psd": "F",
       "Prd": "B",
-      "Stl": "D",
+      "Stl": "B",
       "Blk": "F"
     },
-    "potentialCurrentColor": "#B0040C",
-    "potentialFutureColor": "#F2662A",
+    "potentialCurrentColor": "#F2662A",
+    "potentialFutureColor": "#EDBE30",
     "isDraftee": true,
     "contracts": [
       {
