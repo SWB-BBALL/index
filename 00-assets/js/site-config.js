@@ -1,9 +1,9 @@
 window.LeagueSiteConfig = {
   "schemaVersion": 3,
-  "projectId": "swba-project",
+  "projectId": "swba-test",
   "publicSiteUrl": "",
   "league": {
-    "name": "Salt Water Basketball Association",
+    "name": "SWBA",
     "shortName": "SWBA",
     "logo": "00-assets/branding/league-logo.png",
     "favicon": "00-assets/branding/favicon.png"
@@ -21,7 +21,7 @@ window.LeagueSiteConfig = {
       "aliases": [
         "Cleveland"
       ],
-      "publicLogo": "",
+      "publicLogo": "00-assets/branding/teams/roster10.gif",
       "primary": "#003366",
       "secondary": "#FFFFFF"
     },
@@ -31,7 +31,7 @@ window.LeagueSiteConfig = {
       "aliases": [
         "Dallas"
       ],
-      "publicLogo": "",
+      "publicLogo": "00-assets/branding/teams/roster11.gif",
       "primary": "#0B479D",
       "secondary": "#FFFFFF"
     },
@@ -41,7 +41,7 @@ window.LeagueSiteConfig = {
       "aliases": [
         "Denver"
       ],
-      "publicLogo": "",
+      "publicLogo": "00-assets/branding/teams/roster12.gif",
       "primary": "#006699",
       "secondary": "#FFFFFF"
     },
@@ -51,7 +51,7 @@ window.LeagueSiteConfig = {
       "aliases": [
         "Detroit"
       ],
-      "publicLogo": "",
+      "publicLogo": "00-assets/branding/teams/roster13.gif",
       "primary": "#ED164B",
       "secondary": "#000000"
     },
@@ -61,7 +61,7 @@ window.LeagueSiteConfig = {
       "aliases": [
         "Golden State"
       ],
-      "publicLogo": "",
+      "publicLogo": "00-assets/branding/teams/roster14.gif",
       "primary": "#002942",
       "secondary": "#FFFFFF"
     },
@@ -71,7 +71,7 @@ window.LeagueSiteConfig = {
       "aliases": [
         "Houston"
       ],
-      "publicLogo": "",
+      "publicLogo": "00-assets/branding/teams/roster15.gif",
       "primary": "#0A324D",
       "secondary": "#FFFFFF"
     },
@@ -81,7 +81,7 @@ window.LeagueSiteConfig = {
       "aliases": [
         "Indiana"
       ],
-      "publicLogo": "",
+      "publicLogo": "00-assets/branding/teams/roster16.gif",
       "primary": "#FFCF31",
       "secondary": "#000000"
     },
@@ -91,7 +91,7 @@ window.LeagueSiteConfig = {
       "aliases": [
         "Los Angeles (LAC)"
       ],
-      "publicLogo": "",
+      "publicLogo": "00-assets/branding/teams/roster17.gif",
       "primary": "#D60042",
       "secondary": "#FFFFFF"
     },
@@ -101,7 +101,7 @@ window.LeagueSiteConfig = {
       "aliases": [
         "Los Angeles (LAL)"
       ],
-      "publicLogo": "",
+      "publicLogo": "00-assets/branding/teams/roster18.gif",
       "primary": "#52005B",
       "secondary": "#FFFFFF"
     },
@@ -111,7 +111,7 @@ window.LeagueSiteConfig = {
       "aliases": [
         "Memphis"
       ],
-      "publicLogo": "",
+      "publicLogo": "00-assets/branding/teams/roster19.gif",
       "primary": "#809FC4",
       "secondary": "#000000"
     },
@@ -121,7 +121,7 @@ window.LeagueSiteConfig = {
       "aliases": [
         "Miami"
       ],
-      "publicLogo": "",
+      "publicLogo": "00-assets/branding/teams/roster20.gif",
       "primary": "#B62630",
       "secondary": "#FFFFFF"
     },
@@ -131,7 +131,7 @@ window.LeagueSiteConfig = {
       "aliases": [
         "Milwaukee"
       ],
-      "publicLogo": "",
+      "publicLogo": "00-assets/branding/teams/roster21.gif",
       "primary": "#5D3274",
       "secondary": "#FFFFFF"
     },
@@ -141,7 +141,7 @@ window.LeagueSiteConfig = {
       "aliases": [
         "Minnesota"
       ],
-      "publicLogo": "",
+      "publicLogo": "00-assets/branding/teams/roster22.gif",
       "primary": "#0A4278",
       "secondary": "#FFFFFF"
     },
@@ -151,7 +151,7 @@ window.LeagueSiteConfig = {
       "aliases": [
         "New Orleans"
       ],
-      "publicLogo": "",
+      "publicLogo": "00-assets/branding/teams/roster23.gif",
       "primary": "#0088A4",
       "secondary": "#000000"
     },
@@ -161,7 +161,7 @@ window.LeagueSiteConfig = {
       "aliases": [
         "New York"
       ],
-      "publicLogo": "",
+      "publicLogo": "00-assets/branding/teams/roster24.gif",
       "primary": "#2E40B8",
       "secondary": "#FFFFFF"
     },
@@ -171,7 +171,7 @@ window.LeagueSiteConfig = {
       "aliases": [
         "Oklahoma City"
       ],
-      "publicLogo": "",
+      "publicLogo": "00-assets/branding/teams/roster25.gif",
       "primary": "#0081CB",
       "secondary": "#000000"
     },
@@ -181,7 +181,7 @@ window.LeagueSiteConfig = {
       "aliases": [
         "St. John's"
       ],
-      "publicLogo": "",
+      "publicLogo": "00-assets/branding/teams/roster26.gif",
       "primary": "#CC0033",
       "secondary": "#FFFFFF"
     },
@@ -191,7 +191,7 @@ window.LeagueSiteConfig = {
       "aliases": [
         "Philadelphia"
       ],
-      "publicLogo": "",
+      "publicLogo": "00-assets/branding/teams/roster27.gif",
       "primary": "#D14948",
       "secondary": "#000000"
     },
@@ -201,7 +201,7 @@ window.LeagueSiteConfig = {
       "aliases": [
         "Phoenix"
       ],
-      "publicLogo": "",
+      "publicLogo": "00-assets/branding/teams/roster28.gif",
       "primary": "#48286C",
       "secondary": "#FFFFFF"
     },
@@ -211,7 +211,7 @@ window.LeagueSiteConfig = {
       "aliases": [
         "Portland"
       ],
-      "publicLogo": "",
+      "publicLogo": "00-assets/branding/teams/roster29.gif",
       "primary": "#000000",
       "secondary": "#FFFFFF"
     },
@@ -221,7 +221,7 @@ window.LeagueSiteConfig = {
       "aliases": [
         "Sacramento"
       ],
-      "publicLogo": "",
+      "publicLogo": "00-assets/branding/teams/roster30.gif",
       "primary": "#6C307A",
       "secondary": "#FFFFFF"
     },
@@ -231,7 +231,7 @@ window.LeagueSiteConfig = {
       "aliases": [
         "San Antonio"
       ],
-      "publicLogo": "",
+      "publicLogo": "00-assets/branding/teams/roster31.gif",
       "primary": "#000000",
       "secondary": "#FFFFFF"
     },
@@ -241,7 +241,7 @@ window.LeagueSiteConfig = {
       "aliases": [
         "Toronto"
       ],
-      "publicLogo": "",
+      "publicLogo": "00-assets/branding/teams/roster32.gif",
       "primary": "#520082",
       "secondary": "#FFFFFF"
     },
@@ -251,7 +251,7 @@ window.LeagueSiteConfig = {
       "aliases": [
         "Warsaw Legia"
       ],
-      "publicLogo": "",
+      "publicLogo": "00-assets/branding/teams/roster33.gif",
       "primary": "#008438",
       "secondary": "#FFFFFF"
     },
@@ -261,7 +261,7 @@ window.LeagueSiteConfig = {
       "aliases": [
         "Washington"
       ],
-      "publicLogo": "",
+      "publicLogo": "00-assets/branding/teams/roster34.gif",
       "primary": "#004B6E",
       "secondary": "#FFFFFF"
     },
@@ -271,7 +271,7 @@ window.LeagueSiteConfig = {
       "aliases": [
         "Atlanta"
       ],
-      "publicLogo": "",
+      "publicLogo": "00-assets/branding/teams/roster5.gif",
       "primary": "#D62C34",
       "secondary": "#FFFFFF"
     },
@@ -281,7 +281,7 @@ window.LeagueSiteConfig = {
       "aliases": [
         "Boston"
       ],
-      "publicLogo": "",
+      "publicLogo": "00-assets/branding/teams/roster6.gif",
       "primary": "#006B42",
       "secondary": "#FFFFFF"
     },
@@ -291,7 +291,7 @@ window.LeagueSiteConfig = {
       "aliases": [
         "New Jersey"
       ],
-      "publicLogo": "",
+      "publicLogo": "00-assets/branding/teams/roster7.gif",
       "primary": "#4980B6",
       "secondary": "#000000"
     },
@@ -301,7 +301,7 @@ window.LeagueSiteConfig = {
       "aliases": [
         "Charlotte"
       ],
-      "publicLogo": "",
+      "publicLogo": "00-assets/branding/teams/roster8.gif",
       "primary": "#3D6085",
       "secondary": "#FFFFFF"
     },
@@ -311,7 +311,7 @@ window.LeagueSiteConfig = {
       "aliases": [
         "Chicago"
       ],
-      "publicLogo": "",
+      "publicLogo": "00-assets/branding/teams/roster9.gif",
       "primary": "#BB003A",
       "secondary": "#FFFFFF"
     }
@@ -528,13 +528,6 @@ window.LeagueSiteConfig = {
         "order": 35,
         "items": [
           {
-            "id": "draft-preview",
-            "page": "draftPreview",
-            "label": "Draft Preview",
-            "href": "draft.htm",
-            "context": "league"
-          },
-          {
             "id": "awards",
             "page": "awards",
             "label": "Awards",
@@ -720,13 +713,6 @@ window.LeagueSiteConfig = {
         "href": "00-assets/html/fa-war-room.htm",
         "context": "league"
       },
-      "draftPreview": {
-        "id": "draft-preview",
-        "page": "draftPreview",
-        "label": "Draft Preview",
-        "href": "draft.htm",
-        "context": "league"
-      },
       "awards": {
         "id": "awards",
         "page": "awards",
@@ -789,15 +775,15 @@ window.LeagueSiteConfig = {
     "contracts": {
       "visible": false,
       "publicDescription": "",
-      "maxYears": 3,
-      "birdMaxYears": 4,
+      "maxYears": 4,
+      "birdMaxYears": 5,
       "birdEligibilityYears": 3,
-      "maxAnnualIncreasePercent": 6.0,
-      "birdMaxAnnualIncreasePercent": 8.0,
+      "maxAnnualIncreasePercent": 5.0,
+      "birdMaxAnnualIncreasePercent": 7.5,
       "increaseStepPercent": 0.5,
-      "minimumSalary": 25000000,
-      "oneYearMaxSalary": 12000000,
-      "birdOneYearMaxSalary": 25000000,
+      "minimumSalary": 750000,
+      "oneYearMaxSalary": 15000000,
+      "birdOneYearMaxSalary": 20000000,
       "multiYearMaxStartingSalary": 25000000
     },
     "trades": {
