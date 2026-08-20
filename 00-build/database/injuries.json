@@ -8,8 +8,52 @@
       "team": "roster26",
       "teamName": "St. John's",
       "rosterUrl": "./rosters/roster26.htm",
-      "length": "85",
+      "length": "57",
       "injury": "Severe Concussion",
+      "rowClass": "row1"
+    },
+    {
+      "pos": "SG",
+      "name": "Scott Barrett",
+      "url": "",
+      "team": "roster11",
+      "teamName": "Dallas",
+      "rosterUrl": "./rosters/roster11.htm",
+      "length": "45",
+      "injury": "Concussion",
+      "rowClass": "row2"
+    },
+    {
+      "pos": "C",
+      "name": "Andrew Galloway",
+      "url": "",
+      "team": "Legia",
+      "teamName": "Legia",
+      "rosterUrl": "./rosters/roster33.htm",
+      "length": "35",
+      "injury": "Torn Ligament",
+      "rowClass": "row1"
+    },
+    {
+      "pos": "PG",
+      "name": "Brett Burgess",
+      "url": "",
+      "team": "roster23",
+      "teamName": "New Orleans",
+      "rosterUrl": "./rosters/roster23.htm",
+      "length": "20",
+      "injury": "Torn Ligament",
+      "rowClass": "row2"
+    },
+    {
+      "pos": "PG",
+      "name": "Albert Mallett",
+      "url": "",
+      "team": "roster21",
+      "teamName": "Milwaukee",
+      "rosterUrl": "./rosters/roster21.htm",
+      "length": "14",
+      "injury": "Broken Finger",
       "rowClass": "row1"
     },
     {
@@ -19,86 +63,53 @@
       "team": "roster5",
       "teamName": "Atlanta",
       "rosterUrl": "./rosters/roster5.htm",
-      "length": "39",
+      "length": "11",
       "injury": "Dislocated Knee",
       "rowClass": "row2"
     },
     {
       "pos": "SG",
-      "name": "Lawerence Shaw",
+      "name": "Acatay Yumlu",
       "url": "",
-      "team": "roster28",
-      "teamName": "Phoenix",
-      "rosterUrl": "./rosters/roster28.htm",
-      "length": "25",
-      "injury": "Patellar Tendanitis",
+      "team": "roster21",
+      "teamName": "Milwaukee",
+      "rosterUrl": "./rosters/roster21.htm",
+      "length": "10",
+      "injury": "Dislocated Shoulder",
       "rowClass": "row1"
     },
     {
+      "pos": "SG",
+      "name": "Amos Cowans",
+      "url": "",
+      "team": "roster5",
+      "teamName": "Atlanta",
+      "rosterUrl": "./rosters/roster5.htm",
+      "length": "4",
+      "injury": "Sprained Knee",
+      "rowClass": "row2"
+    },
+    {
       "pos": "PG",
-      "name": "Emmett Paine",
+      "name": "Hunter Collum",
+      "url": "",
+      "team": "roster24",
+      "teamName": "New York",
+      "rosterUrl": "./rosters/roster24.htm",
+      "length": "3",
+      "injury": "Broken Finger",
+      "rowClass": "row1"
+    },
+    {
+      "pos": "SG",
+      "name": "Emrah Aydogdu",
       "url": "",
       "team": "roster12",
       "teamName": "Denver",
       "rosterUrl": "./rosters/roster12.htm",
-      "length": "19",
-      "injury": "Sprained Ankle",
-      "rowClass": "row2"
-    },
-    {
-      "pos": "PG",
-      "name": "Eloy Mena",
-      "url": "",
-      "team": "Legia",
-      "teamName": "Legia",
-      "rosterUrl": "./rosters/roster33.htm",
-      "length": "18",
-      "injury": "Broken Foot",
-      "rowClass": "row1"
-    },
-    {
-      "pos": "C",
-      "name": "Joseph Barry",
-      "url": "",
-      "team": "roster22",
-      "teamName": "Minnesota",
-      "rosterUrl": "./rosters/roster22.htm",
-      "length": "12",
+      "length": "1",
       "injury": "Patellar Tendanitis",
       "rowClass": "row2"
-    },
-    {
-      "pos": "PF",
-      "name": "Roland Farmer",
-      "url": "",
-      "team": "roster11",
-      "teamName": "Dallas",
-      "rosterUrl": "./rosters/roster11.htm",
-      "length": "5",
-      "injury": "Severe Migraines",
-      "rowClass": "row1"
-    },
-    {
-      "pos": "PG",
-      "name": "Rodger Brumfield",
-      "url": "",
-      "team": "roster25",
-      "teamName": "Oklahoma City",
-      "rosterUrl": "./rosters/roster25.htm",
-      "length": "4",
-      "injury": "Torn Ligament",
-      "rowClass": "row2"
-    },
-    {
-      "pos": "PF",
-      "name": "Bryan Davis",
-      "url": "",
-      "team": "roster34",
-      "teamName": "Washington",
-      "rosterUrl": "./rosters/roster34.htm",
-      "length": "3",
-      "injury": "Sprained Ankle",
-      "rowClass": "row1"
     }
   ]
 }
