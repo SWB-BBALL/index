@@ -2,14 +2,36 @@
   "source": "injuries.htm",
   "injuries": [
     {
-      "pos": "C",
-      "name": "Daryl Parker",
+      "pos": "SF",
+      "name": "Willy Jones",
       "url": "",
-      "team": "roster7",
-      "teamName": "New Jersey",
-      "rosterUrl": "./rosters/roster7.htm",
-      "length": "46",
-      "injury": "Broken Foot",
+      "team": "roster29",
+      "teamName": "Portland",
+      "rosterUrl": "./rosters/roster29.htm",
+      "length": "102",
+      "injury": "Broken Leg",
+      "rowClass": "row1"
+    },
+    {
+      "pos": "SG",
+      "name": "Michael Wilson",
+      "url": "",
+      "team": "roster15",
+      "teamName": "Houston",
+      "rosterUrl": "./rosters/roster15.htm",
+      "length": "58",
+      "injury": "Concussion",
+      "rowClass": "row2"
+    },
+    {
+      "pos": "C",
+      "name": "Ed Wilson",
+      "url": "",
+      "team": "roster30",
+      "teamName": "Sacramento",
+      "rosterUrl": "./rosters/roster30.htm",
+      "length": "23",
+      "injury": "Dislocated Knee",
       "rowClass": "row1"
     },
     {
@@ -19,9 +41,20 @@
       "team": "roster5",
       "teamName": "Atlanta",
       "rosterUrl": "./rosters/roster5.htm",
-      "length": "42",
+      "length": "20",
       "injury": "Plantar Fasciitis",
       "rowClass": "row2"
+    },
+    {
+      "pos": "C",
+      "name": "Joshua Simon",
+      "url": "",
+      "team": "roster19",
+      "teamName": "Memphis",
+      "rosterUrl": "./rosters/roster19.htm",
+      "length": "15",
+      "injury": "Broken Foot",
+      "rowClass": "row1"
     },
     {
       "pos": "PG",
@@ -30,9 +63,31 @@
       "team": "roster14",
       "teamName": "Golden State",
       "rosterUrl": "./rosters/roster14.htm",
-      "length": "36",
+      "length": "14",
       "injury": "Torn Ligament",
+      "rowClass": "row2"
+    },
+    {
+      "pos": "C",
+      "name": "Johnny Shockey",
+      "url": "",
+      "team": "roster16",
+      "teamName": "Indiana",
+      "rosterUrl": "./rosters/roster16.htm",
+      "length": "5",
+      "injury": "Groin Pull",
       "rowClass": "row1"
+    },
+    {
+      "pos": "SG",
+      "name": "Brian Erickson",
+      "url": "",
+      "team": "roster6",
+      "teamName": "Boston",
+      "rosterUrl": "./rosters/roster6.htm",
+      "length": "4",
+      "injury": "Sprained Wrist",
+      "rowClass": "row2"
     },
     {
       "pos": "SF",
@@ -41,8 +96,19 @@
       "team": "roster26",
       "teamName": "St. John's",
       "rosterUrl": "./rosters/roster26.htm",
-      "length": "26",
+      "length": "4",
       "injury": "Severe Concussion",
+      "rowClass": "row1"
+    },
+    {
+      "pos": "SF",
+      "name": "Mark Paquin",
+      "url": "",
+      "team": "roster31",
+      "teamName": "San Antonio",
+      "rosterUrl": "./rosters/roster31.htm",
+      "length": "3",
+      "injury": "Sprained Knee",
       "rowClass": "row2"
     },
     {
@@ -52,9 +118,20 @@
       "team": "roster8",
       "teamName": "Charlotte",
       "rosterUrl": "./rosters/roster8.htm",
-      "length": "25",
+      "length": "3",
       "injury": "Broken Foot",
       "rowClass": "row1"
+    },
+    {
+      "pos": "PF",
+      "name": "Tom Johnson",
+      "url": "",
+      "team": "roster18",
+      "teamName": "Los Angeles (LAL)",
+      "rosterUrl": "./rosters/roster18.htm",
+      "length": "3",
+      "injury": "Pulled Hamstring",
+      "rowClass": "row2"
     },
     {
       "pos": "C",
@@ -63,130 +140,64 @@
       "team": "roster28",
       "teamName": "Phoenix",
       "rosterUrl": "./rosters/roster28.htm",
-      "length": "25",
-      "injury": "Sprained Ankle",
-      "rowClass": "row2"
-    },
-    {
-      "pos": "SG",
-      "name": "Scott Barrett",
-      "url": "",
-      "team": "roster11",
-      "teamName": "Dallas",
-      "rosterUrl": "./rosters/roster11.htm",
-      "length": "14",
-      "injury": "Concussion",
-      "rowClass": "row1"
-    },
-    {
-      "pos": "C",
-      "name": "James Drake",
-      "url": "",
-      "team": "roster26",
-      "teamName": "St. John's",
-      "rosterUrl": "./rosters/roster26.htm",
-      "length": "13",
-      "injury": "Concussion",
-      "rowClass": "row2"
-    },
-    {
-      "pos": "PG",
-      "name": "Jake Brown",
-      "url": "",
-      "team": "roster34",
-      "teamName": "Washington",
-      "rosterUrl": "./rosters/roster34.htm",
-      "length": "8",
-      "injury": "Strained Back",
-      "rowClass": "row1"
-    },
-    {
-      "pos": "SG",
-      "name": "John Ly",
-      "url": "",
-      "team": "roster14",
-      "teamName": "Golden State",
-      "rosterUrl": "./rosters/roster14.htm",
-      "length": "7",
-      "injury": "Dislocated Shoulder",
-      "rowClass": "row2"
-    },
-    {
-      "pos": "SG",
-      "name": "Tommie Laguna",
-      "url": "",
-      "team": "roster30",
-      "teamName": "Sacramento",
-      "rosterUrl": "./rosters/roster30.htm",
-      "length": "6",
+      "length": "3",
       "injury": "Sprained Ankle",
       "rowClass": "row1"
     },
     {
-      "pos": "SF",
-      "name": "Willy Jones",
-      "url": "",
-      "team": "roster29",
-      "teamName": "Portland",
-      "rosterUrl": "./rosters/roster29.htm",
-      "length": "6",
-      "injury": "Sprained Wrist",
-      "rowClass": "row2"
-    },
-    {
       "pos": "PG",
-      "name": "Eloy Mena",
-      "url": "",
-      "team": "Legia",
-      "teamName": "Legia",
-      "rosterUrl": "./rosters/roster33.htm",
-      "length": "5",
-      "injury": "Stiff Neck",
-      "rowClass": "row1"
-    },
-    {
-      "pos": "SF",
-      "name": "Chung Jones",
+      "name": "Stephen Beery",
       "url": "",
       "team": "roster5",
       "teamName": "Atlanta",
       "rosterUrl": "./rosters/roster5.htm",
-      "length": "4",
-      "injury": "Broken Foot",
+      "length": "2",
+      "injury": "Strained Back",
       "rowClass": "row2"
     },
     {
       "pos": "C",
-      "name": "Andrew Galloway",
+      "name": "Russ Forrester",
       "url": "",
-      "team": "Legia",
-      "teamName": "Legia",
-      "rosterUrl": "./rosters/roster33.htm",
-      "length": "4",
-      "injury": "Torn Ligament",
-      "rowClass": "row1"
-    },
-    {
-      "pos": "SG",
-      "name": "Justin Traylor",
-      "url": "",
-      "team": "roster32",
-      "teamName": "Toronto",
-      "rosterUrl": "./rosters/roster32.htm",
-      "length": "3",
-      "injury": "Blurred Vision",
-      "rowClass": "row2"
-    },
-    {
-      "pos": "C",
-      "name": "George Anderson",
-      "url": "",
-      "team": "roster32",
-      "teamName": "Toronto",
-      "rosterUrl": "./rosters/roster32.htm",
+      "team": "roster13",
+      "teamName": "Detroit",
+      "rosterUrl": "./rosters/roster13.htm",
       "length": "2",
       "injury": "Sprained Ankle",
       "rowClass": "row1"
+    },
+    {
+      "pos": "C",
+      "name": "Eric Vargas",
+      "url": "",
+      "team": "roster10",
+      "teamName": "Cleveland",
+      "rosterUrl": "./rosters/roster10.htm",
+      "length": "1",
+      "injury": "Broken Finger",
+      "rowClass": "row2"
+    },
+    {
+      "pos": "C",
+      "name": "Matthew Espinoza",
+      "url": "",
+      "team": "roster34",
+      "teamName": "Washington",
+      "rosterUrl": "./rosters/roster34.htm",
+      "length": "1",
+      "injury": "Broken Finger",
+      "rowClass": "row1"
+    },
+    {
+      "pos": "C",
+      "name": "Daryl Parker",
+      "url": "",
+      "team": "roster7",
+      "teamName": "New Jersey",
+      "rosterUrl": "./rosters/roster7.htm",
+      "length": "1",
+      "injury": "Broken Foot",
+      "rowClass": "row2"
     }
   ]
 }
