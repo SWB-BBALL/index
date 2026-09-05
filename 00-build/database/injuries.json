@@ -8,7 +8,7 @@
       "team": "roster29",
       "teamName": "Portland",
       "rosterUrl": "./rosters/roster29.htm",
-      "length": "66",
+      "length": "57",
       "injury": "Broken Leg",
       "rowClass": "row1"
     },
@@ -19,7 +19,7 @@
       "team": "roster29",
       "teamName": "Portland",
       "rosterUrl": "./rosters/roster29.htm",
-      "length": "32",
+      "length": "23",
       "injury": "Broken Arm",
       "rowClass": "row2"
     },
@@ -30,7 +30,7 @@
       "team": "roster15",
       "teamName": "Houston",
       "rosterUrl": "./rosters/roster15.htm",
-      "length": "22",
+      "length": "13",
       "injury": "Concussion",
       "rowClass": "row1"
     },
@@ -41,30 +41,8 @@
       "team": "roster7",
       "teamName": "New Jersey",
       "rosterUrl": "./rosters/roster7.htm",
-      "length": "19",
+      "length": "10",
       "injury": "Broken Foot",
-      "rowClass": "row2"
-    },
-    {
-      "pos": "SG",
-      "name": "Daron Tillotson",
-      "url": "",
-      "team": "roster9",
-      "teamName": "Chicago",
-      "rosterUrl": "./rosters/roster9.htm",
-      "length": "3",
-      "injury": "Broken Finger",
-      "rowClass": "row1"
-    },
-    {
-      "pos": "PG",
-      "name": "Brett Burgess",
-      "url": "",
-      "team": "roster23",
-      "teamName": "New Orleans",
-      "rosterUrl": "./rosters/roster23.htm",
-      "length": "1",
-      "injury": "Concussion",
       "rowClass": "row2"
     }
   ]

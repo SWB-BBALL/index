@@ -23257,16 +23257,145 @@
           "date": "2011-05-29",
           "games": [
             {
-              "status": "scheduled",
-              "matchupText": "New Jersey @ Denver",
-              "awayTeam": "roster7",
-              "awayTeamName": "New Jersey",
-              "awayRosterUrl": "./rosters/roster7.htm",
-              "awayRosterFile": "roster7.htm",
+              "status": "completed",
+              "matchupText": "@Denver 108, New Jersey 102",
+              "boxscoreUrl": "./boxes/box223-1.htm",
+              "boxscoreFile": "box223-1.htm",
               "homeTeam": "roster12",
               "homeTeamName": "Denver",
-              "homeRosterUrl": "./rosters/roster12.htm",
-              "homeRosterFile": "roster12.htm",
+              "homeScore": 108,
+              "awayTeam": "roster7",
+              "awayTeamName": "New Jersey",
+              "awayScore": 102,
+              "winner": "roster12",
+              "winnerName": "Denver",
+              "margin": 6,
+              "rowClass": "row1"
+            }
+          ]
+        },
+        {
+          "date": "2011-05-30",
+          "games": [
+            {
+              "status": "completed",
+              "matchupText": "New Jersey 109, @Denver 101",
+              "boxscoreUrl": "./boxes/box224-1.htm",
+              "boxscoreFile": "box224-1.htm",
+              "homeTeam": "roster12",
+              "homeTeamName": "Denver",
+              "homeScore": 101,
+              "awayTeam": "roster7",
+              "awayTeamName": "New Jersey",
+              "awayScore": 109,
+              "winner": "roster7",
+              "winnerName": "New Jersey",
+              "margin": 8,
+              "rowClass": "row1"
+            }
+          ]
+        },
+        {
+          "date": "2011-06-01",
+          "games": [
+            {
+              "status": "completed",
+              "matchupText": "Denver 110, @New Jersey 83",
+              "boxscoreUrl": "./boxes/box226-1.htm",
+              "boxscoreFile": "box226-1.htm",
+              "homeTeam": "roster7",
+              "homeTeamName": "New Jersey",
+              "homeScore": 83,
+              "awayTeam": "roster12",
+              "awayTeamName": "Denver",
+              "awayScore": 110,
+              "winner": "roster12",
+              "winnerName": "Denver",
+              "margin": 27,
+              "rowClass": "row1"
+            }
+          ]
+        },
+        {
+          "date": "2011-06-02",
+          "games": [
+            {
+              "status": "completed",
+              "matchupText": "Denver 92, @New Jersey 87",
+              "boxscoreUrl": "./boxes/box227-1.htm",
+              "boxscoreFile": "box227-1.htm",
+              "homeTeam": "roster7",
+              "homeTeamName": "New Jersey",
+              "homeScore": 87,
+              "awayTeam": "roster12",
+              "awayTeamName": "Denver",
+              "awayScore": 92,
+              "winner": "roster12",
+              "winnerName": "Denver",
+              "margin": 5,
+              "rowClass": "row1"
+            }
+          ]
+        },
+        {
+          "date": "2011-06-03",
+          "games": [
+            {
+              "status": "completed",
+              "matchupText": "@New Jersey 93, Denver 85",
+              "boxscoreUrl": "./boxes/box228-1.htm",
+              "boxscoreFile": "box228-1.htm",
+              "homeTeam": "roster7",
+              "homeTeamName": "New Jersey",
+              "homeScore": 93,
+              "awayTeam": "roster12",
+              "awayTeamName": "Denver",
+              "awayScore": 85,
+              "winner": "roster7",
+              "winnerName": "New Jersey",
+              "margin": 8,
+              "rowClass": "row1"
+            }
+          ]
+        },
+        {
+          "date": "2011-06-05",
+          "games": [
+            {
+              "status": "completed",
+              "matchupText": "New Jersey 89, @Denver 84",
+              "boxscoreUrl": "./boxes/box230-1.htm",
+              "boxscoreFile": "box230-1.htm",
+              "homeTeam": "roster12",
+              "homeTeamName": "Denver",
+              "homeScore": 84,
+              "awayTeam": "roster7",
+              "awayTeamName": "New Jersey",
+              "awayScore": 89,
+              "winner": "roster7",
+              "winnerName": "New Jersey",
+              "margin": 5,
+              "rowClass": "row1"
+            }
+          ]
+        },
+        {
+          "date": "2011-06-06",
+          "games": [
+            {
+              "status": "completed",
+              "matchupText": "@Denver 114, New Jersey 95",
+              "boxscoreUrl": "./boxes/box231-1.htm",
+              "boxscoreFile": "box231-1.htm",
+              "homeTeam": "roster12",
+              "homeTeamName": "Denver",
+              "homeScore": 114,
+              "awayTeam": "roster7",
+              "awayTeamName": "New Jersey",
+              "awayScore": 95,
+              "winner": "roster12",
+              "winnerName": "Denver",
+              "margin": 19,
               "rowClass": "row1"
             }
           ]
