@@ -8,42 +8,9 @@
       "team": "roster29",
       "teamName": "Portland",
       "rosterUrl": "./rosters/roster29.htm",
-      "length": "57",
+      "length": "11",
       "injury": "Broken Leg",
       "rowClass": "row1"
-    },
-    {
-      "pos": "C",
-      "name": "Travis Thompson",
-      "url": "",
-      "team": "roster29",
-      "teamName": "Portland",
-      "rosterUrl": "./rosters/roster29.htm",
-      "length": "23",
-      "injury": "Broken Arm",
-      "rowClass": "row2"
-    },
-    {
-      "pos": "SG",
-      "name": "Michael Wilson",
-      "url": "",
-      "team": "roster15",
-      "teamName": "Houston",
-      "rosterUrl": "./rosters/roster15.htm",
-      "length": "13",
-      "injury": "Concussion",
-      "rowClass": "row1"
-    },
-    {
-      "pos": "PF",
-      "name": "Odell Danner",
-      "url": "",
-      "team": "roster7",
-      "teamName": "New Jersey",
-      "rosterUrl": "./rosters/roster7.htm",
-      "length": "10",
-      "injury": "Broken Foot",
-      "rowClass": "row2"
     }
   ]
 }

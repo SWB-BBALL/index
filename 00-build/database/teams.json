@@ -14,6 +14,20 @@
     }
   },
   {
+    "id": "roster9",
+    "name": "Auburn",
+    "file": "roster9.htm",
+    "url": "../rosters/roster9.htm",
+    "starPlayer": {
+      "name": "Clarence Williams",
+      "url": "../players/player560.htm",
+      "pos": "PG",
+      "age": "33",
+      "overall": "133",
+      "potential": "133"
+    }
+  },
+  {
     "id": "roster6",
     "name": "Boston",
     "file": "roster6.htm",
@@ -42,20 +56,6 @@
     }
   },
   {
-    "id": "roster9",
-    "name": "Chicago",
-    "file": "roster9.htm",
-    "url": "../rosters/roster9.htm",
-    "starPlayer": {
-      "name": "Clarence Williams",
-      "url": "../players/player560.htm",
-      "pos": "PG",
-      "age": "33",
-      "overall": "133",
-      "potential": "133"
-    }
-  },
-  {
     "id": "roster10",
     "name": "Cleveland",
     "file": "roster10.htm",
@@ -67,20 +67,6 @@
       "age": "25",
       "overall": "130",
       "potential": "140"
-    }
-  },
-  {
-    "id": "roster11",
-    "name": "Dallas",
-    "file": "roster11.htm",
-    "url": "../rosters/roster11.htm",
-    "starPlayer": {
-      "name": "Marcos Martinez",
-      "url": "../players/player363.htm",
-      "pos": "SG",
-      "age": "35",
-      "overall": "114",
-      "potential": "114"
     }
   },
   {
@@ -134,7 +120,7 @@
       "name": "Jose Sorrell",
       "url": "../players/player309.htm",
       "pos": "PF",
-      "age": "27",
+      "age": "28",
       "overall": "148",
       "potential": "149"
     }
@@ -344,7 +330,7 @@
       "name": "Don Montgomery",
       "url": "../players/player328.htm",
       "pos": "SF",
-      "age": "29",
+      "age": "30",
       "overall": "124",
       "potential": "139"
     }
@@ -375,6 +361,20 @@
       "age": "34",
       "overall": "129",
       "potential": "131"
+    }
+  },
+  {
+    "id": "roster11",
+    "name": "Tokyo",
+    "file": "roster11.htm",
+    "url": "../rosters/roster11.htm",
+    "starPlayer": {
+      "name": "Marcos Martinez",
+      "url": "../players/player363.htm",
+      "pos": "SG",
+      "age": "35",
+      "overall": "114",
+      "potential": "114"
     }
   },
   {
