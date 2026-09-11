@@ -29,8 +29,7 @@ window.LeagueSiteConfig = {
       "displayName": "Tokyo",
       "abbreviation": "TK",
       "aliases": [
-        "Tokyo",
-        "Auburn"
+        "Tokyo"
       ],
       "publicLogo": "",
       "primary": "#0B479D",
