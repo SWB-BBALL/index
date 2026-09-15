@@ -1,4 +1,115 @@
 {
   "source": "injuries.htm",
-  "injuries": []
+  "injuries": [
+    {
+      "pos": "PF",
+      "name": "Odell Danner",
+      "url": "",
+      "team": "roster7",
+      "teamName": "New Jersey",
+      "rosterUrl": "./rosters/roster7.htm",
+      "length": "35",
+      "injury": "Dislocated Knee",
+      "rowClass": "row1"
+    },
+    {
+      "pos": "SG",
+      "name": "Yakubu Akpovi",
+      "url": "",
+      "team": "roster32",
+      "teamName": "Toronto",
+      "rosterUrl": "./rosters/roster32.htm",
+      "length": "33",
+      "injury": "Stress Fracture",
+      "rowClass": "row2"
+    },
+    {
+      "pos": "SF",
+      "name": "Don Montgomery",
+      "url": "",
+      "team": "roster30",
+      "teamName": "Sacramento",
+      "rosterUrl": "./rosters/roster30.htm",
+      "length": "30",
+      "injury": "Broken Arm",
+      "rowClass": "row1"
+    },
+    {
+      "pos": "C",
+      "name": "Kevin Shippy",
+      "url": "",
+      "team": "roster17",
+      "teamName": "Los Angeles (LAC)",
+      "rosterUrl": "./rosters/roster17.htm",
+      "length": "23",
+      "injury": "Dislocated Shoulder",
+      "rowClass": "row2"
+    },
+    {
+      "pos": "PG",
+      "name": "Hunter Collum",
+      "url": "",
+      "team": "roster24",
+      "teamName": "New York",
+      "rosterUrl": "./rosters/roster24.htm",
+      "length": "13",
+      "injury": "Broken Foot",
+      "rowClass": "row1"
+    },
+    {
+      "pos": "SF",
+      "name": "Lane Roberts",
+      "url": "",
+      "team": "roster24",
+      "teamName": "New York",
+      "rosterUrl": "./rosters/roster24.htm",
+      "length": "6",
+      "injury": "Sprained Ankle",
+      "rowClass": "row2"
+    },
+    {
+      "pos": "PG",
+      "name": "Stuart Ramirez",
+      "url": "",
+      "team": "roster17",
+      "teamName": "Los Angeles (LAC)",
+      "rosterUrl": "./rosters/roster17.htm",
+      "length": "4",
+      "injury": "Sprained Knee",
+      "rowClass": "row1"
+    },
+    {
+      "pos": "SF",
+      "name": "Billie Williams",
+      "url": "",
+      "team": "roster29",
+      "teamName": "Portland",
+      "rosterUrl": "./rosters/roster29.htm",
+      "length": "4",
+      "injury": "Stiff Neck",
+      "rowClass": "row2"
+    },
+    {
+      "pos": "SF",
+      "name": "Geddy Free",
+      "url": "",
+      "team": "roster28",
+      "teamName": "Phoenix",
+      "rosterUrl": "./rosters/roster28.htm",
+      "length": "2",
+      "injury": "Broken Cheekbone",
+      "rowClass": "row1"
+    },
+    {
+      "pos": "PF",
+      "name": "Rayford Vargas",
+      "url": "",
+      "team": "roster6",
+      "teamName": "Boston",
+      "rosterUrl": "./rosters/roster6.htm",
+      "length": "1",
+      "injury": "Broken Foot",
+      "rowClass": "row2"
+    }
+  ]
 }

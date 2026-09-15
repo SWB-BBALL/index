@@ -27,11 +27,11 @@ window.LeagueSiteConfig = {
     },
     "roster11": {
       "displayName": "Tokyo",
-      "abbreviation": "TK",
+      "abbreviation": "TOK",
       "aliases": [
         "Tokyo"
       ],
-      "publicLogo": "",
+      "publicLogo": "00-assets/branding/teams/roster11.gif",
       "primary": "#0B479D",
       "secondary": "#FFFFFF"
     },
