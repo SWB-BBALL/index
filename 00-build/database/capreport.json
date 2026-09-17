@@ -7,6 +7,23 @@
       "entries": [
         {
           "pick": 1,
+          "team": "Dallas",
+          "rosterUrl": "./rosters/roster11.htm",
+          "rosterFile": "roster11.htm",
+          "salary": 73285454.0,
+          "salaryText": "$73,285,454",
+          "capRoom": 26714546.0,
+          "capRoomText": "$26,714,546",
+          "budgetRoom": 66714546.0,
+          "budgetRoomText": "$66,714,546",
+          "midException": -0.0,
+          "midExceptionText": "($0)",
+          "lowException": -0.0,
+          "lowExceptionText": "($0)",
+          "rowClass": "row1"
+        },
+        {
+          "pick": 2,
           "team": "Detroit",
           "rosterUrl": "./rosters/roster13.htm",
           "rosterFile": "roster13.htm",
@@ -16,23 +33,6 @@
           "capRoomText": "$25,584,132",
           "budgetRoom": 65584132.0,
           "budgetRoomText": "$65,584,132",
-          "midException": -0.0,
-          "midExceptionText": "($0)",
-          "lowException": -0.0,
-          "lowExceptionText": "($0)",
-          "rowClass": "row1"
-        },
-        {
-          "pick": 2,
-          "team": "Tokyo",
-          "rosterUrl": "./rosters/roster11.htm",
-          "rosterFile": "roster11.htm",
-          "salary": 83143860.0,
-          "salaryText": "$83,143,860",
-          "capRoom": 16856140.0,
-          "capRoomText": "$16,856,140",
-          "budgetRoom": 56856140.0,
-          "budgetRoomText": "$56,856,140",
           "midException": -0.0,
           "midExceptionText": "($0)",
           "lowException": -0.0,
@@ -262,23 +262,6 @@
         },
         {
           "pick": 16,
-          "team": "Indiana",
-          "rosterUrl": "./rosters/roster16.htm",
-          "rosterFile": "roster16.htm",
-          "salary": 97836484.0,
-          "salaryText": "$97,836,484",
-          "capRoom": 2163516.0,
-          "capRoomText": "$2,163,516",
-          "budgetRoom": 42163516.0,
-          "budgetRoomText": "$42,163,516",
-          "midException": -0.0,
-          "midExceptionText": "($0)",
-          "lowException": -0.0,
-          "lowExceptionText": "($0)",
-          "rowClass": "row2"
-        },
-        {
-          "pick": 17,
           "team": "Toronto",
           "rosterUrl": "./rosters/roster32.htm",
           "rosterFile": "roster32.htm",
@@ -288,6 +271,23 @@
           "capRoomText": "$55,070",
           "budgetRoom": 40055070.0,
           "budgetRoomText": "$40,055,070",
+          "midException": -0.0,
+          "midExceptionText": "($0)",
+          "lowException": -0.0,
+          "lowExceptionText": "($0)",
+          "rowClass": "row2"
+        },
+        {
+          "pick": 17,
+          "team": "Denver",
+          "rosterUrl": "./rosters/roster12.htm",
+          "rosterFile": "roster12.htm",
+          "salary": 100186448.0,
+          "salaryText": "$100,186,448",
+          "capRoom": -186448.0,
+          "capRoomText": "($186,448)",
+          "budgetRoom": 39813552.0,
+          "budgetRoomText": "$39,813,552",
           "midException": -0.0,
           "midExceptionText": "($0)",
           "lowException": -0.0,
@@ -313,23 +313,6 @@
         },
         {
           "pick": 19,
-          "team": "Denver",
-          "rosterUrl": "./rosters/roster12.htm",
-          "rosterFile": "roster12.htm",
-          "salary": 100926448.0,
-          "salaryText": "$100,926,448",
-          "capRoom": -926448.0,
-          "capRoomText": "($926,448)",
-          "budgetRoom": 39073552.0,
-          "budgetRoomText": "$39,073,552",
-          "midException": -0.0,
-          "midExceptionText": "($0)",
-          "lowException": -0.0,
-          "lowExceptionText": "($0)",
-          "rowClass": "row1"
-        },
-        {
-          "pick": 20,
           "team": "Portland",
           "rosterUrl": "./rosters/roster29.htm",
           "rosterFile": "roster29.htm",
@@ -343,11 +326,11 @@
           "midExceptionText": "($0)",
           "lowException": -0.0,
           "lowExceptionText": "($0)",
-          "rowClass": "row2"
+          "rowClass": "row1"
         },
         {
-          "pick": 21,
-          "team": "Auburn",
+          "pick": 20,
+          "team": "Chicago",
           "rosterUrl": "./rosters/roster9.htm",
           "rosterFile": "roster9.htm",
           "salary": 101417795.0,
@@ -360,10 +343,10 @@
           "midExceptionText": "($0)",
           "lowException": -0.0,
           "lowExceptionText": "($0)",
-          "rowClass": "row1"
+          "rowClass": "row2"
         },
         {
-          "pick": 22,
+          "pick": 21,
           "team": "Miami",
           "rosterUrl": "./rosters/roster20.htm",
           "rosterFile": "roster20.htm",
@@ -377,10 +360,10 @@
           "midExceptionText": "($0)",
           "lowException": -0.0,
           "lowExceptionText": "($0)",
-          "rowClass": "row2"
+          "rowClass": "row1"
         },
         {
-          "pick": 23,
+          "pick": 22,
           "team": "Philadelphia",
           "rosterUrl": "./rosters/roster27.htm",
           "rosterFile": "roster27.htm",
@@ -388,16 +371,16 @@
           "salaryText": "$102,824,792",
           "capRoom": -2824792.0,
           "capRoomText": "($2,824,792)",
-          "budgetRoom": 31384128.0,
-          "budgetRoomText": "$31,384,128",
+          "budgetRoom": 37175208.0,
+          "budgetRoomText": "$37,175,208",
           "midException": -0.0,
           "midExceptionText": "($0)",
           "lowException": -0.0,
           "lowExceptionText": "($0)",
-          "rowClass": "row1"
+          "rowClass": "row2"
         },
         {
-          "pick": 24,
+          "pick": 23,
           "team": "Phoenix",
           "rosterUrl": "./rosters/roster28.htm",
           "rosterFile": "roster28.htm",
@@ -411,10 +394,10 @@
           "midExceptionText": "($0)",
           "lowException": -0.0,
           "lowExceptionText": "($0)",
-          "rowClass": "row2"
+          "rowClass": "row1"
         },
         {
-          "pick": 25,
+          "pick": 24,
           "team": "Los Angeles (LAL)",
           "rosterUrl": "./rosters/roster18.htm",
           "rosterFile": "roster18.htm",
@@ -428,10 +411,10 @@
           "midExceptionText": "($0)",
           "lowException": -0.0,
           "lowExceptionText": "($0)",
-          "rowClass": "row1"
+          "rowClass": "row2"
         },
         {
-          "pick": 26,
+          "pick": 25,
           "team": "St. John's",
           "rosterUrl": "./rosters/roster26.htm",
           "rosterFile": "roster26.htm",
@@ -441,6 +424,23 @@
           "capRoomText": "($5,372,538)",
           "budgetRoom": 34627462.0,
           "budgetRoomText": "$34,627,462",
+          "midException": -0.0,
+          "midExceptionText": "($0)",
+          "lowException": -0.0,
+          "lowExceptionText": "($0)",
+          "rowClass": "row1"
+        },
+        {
+          "pick": 26,
+          "team": "Indiana",
+          "rosterUrl": "./rosters/roster16.htm",
+          "rosterFile": "roster16.htm",
+          "salary": 106934890.0,
+          "salaryText": "$106,934,890",
+          "capRoom": -6934890.0,
+          "capRoomText": "($6,934,890)",
+          "budgetRoom": 33065110.0,
+          "budgetRoomText": "$33,065,110",
           "midException": -0.0,
           "midExceptionText": "($0)",
           "lowException": -0.0,

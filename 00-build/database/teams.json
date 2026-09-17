@@ -14,20 +14,6 @@
     }
   },
   {
-    "id": "roster9",
-    "name": "Auburn",
-    "file": "roster9.htm",
-    "url": "../rosters/roster9.htm",
-    "starPlayer": {
-      "name": "Charles George",
-      "url": "../players/player112.htm",
-      "pos": "C",
-      "age": "25",
-      "overall": "136",
-      "potential": "136"
-    }
-  },
-  {
     "id": "roster6",
     "name": "Boston",
     "file": "roster6.htm",
@@ -56,6 +42,20 @@
     }
   },
   {
+    "id": "roster9",
+    "name": "Chicago",
+    "file": "roster9.htm",
+    "url": "../rosters/roster9.htm",
+    "starPlayer": {
+      "name": "Charles George",
+      "url": "../players/player112.htm",
+      "pos": "C",
+      "age": "25",
+      "overall": "137",
+      "potential": "137"
+    }
+  },
+  {
     "id": "roster10",
     "name": "Cleveland",
     "file": "roster10.htm",
@@ -67,6 +67,20 @@
       "age": "26",
       "overall": "140",
       "potential": "155"
+    }
+  },
+  {
+    "id": "roster11",
+    "name": "Dallas",
+    "file": "roster11.htm",
+    "url": "../rosters/roster11.htm",
+    "starPlayer": {
+      "name": "Marcos Martinez",
+      "url": "../players/player363.htm",
+      "pos": "SG",
+      "age": "36",
+      "overall": "108",
+      "potential": "108"
     }
   },
   {
@@ -135,8 +149,8 @@
       "url": "../players/player484.htm",
       "pos": "PG",
       "age": "33",
-      "overall": "134",
-      "potential": "134"
+      "overall": "135",
+      "potential": "135"
     }
   },
   {
@@ -219,8 +233,8 @@
       "url": "../players/player358.htm",
       "pos": "SG",
       "age": "24",
-      "overall": "126",
-      "potential": "135"
+      "overall": "129",
+      "potential": "137"
     }
   },
   {
@@ -364,20 +378,6 @@
     }
   },
   {
-    "id": "roster11",
-    "name": "Tokyo",
-    "file": "roster11.htm",
-    "url": "../rosters/roster11.htm",
-    "starPlayer": {
-      "name": "Ryan Torrey",
-      "url": "../players/player52.htm",
-      "pos": "C",
-      "age": "30",
-      "overall": "113",
-      "potential": "113"
-    }
-  },
-  {
     "id": "roster32",
     "name": "Toronto",
     "file": "roster32.htm",
@@ -387,8 +387,8 @@
       "url": "../players/player61.htm",
       "pos": "C",
       "age": "28",
-      "overall": "141",
-      "potential": "141"
+      "overall": "142",
+      "potential": "142"
     }
   },
   {
@@ -414,7 +414,7 @@
       "name": "Kurtis Jenkins",
       "url": "../players/player469.htm",
       "pos": "SG",
-      "age": "30",
+      "age": "31",
       "overall": "136",
       "potential": "138"
     }
