@@ -211,7 +211,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "PF",
-    "age": "21",
+    "age": "22",
     "ht": "6-8",
     "wt": "239",
     "experience": "Rookie",
@@ -352,7 +352,7 @@
     "greed": "61",
     "playForWinner": "77",
     "loyalty": "58",
-    "happiness": "49",
+    "happiness": "50",
     "lastTeamId": "roster17",
     "lastTeam": "Los Angeles (LAC)",
     "potentials": {
@@ -660,21 +660,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 10",
+        "award": "Player of the Game: 12",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 10
+        "count": 12
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 10",
+        "award": "Player of the Game: 12",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 10
+        "count": 12
       }
     ],
     "seasonAwards": [],
@@ -706,7 +706,7 @@
     "greed": "93",
     "playForWinner": "49",
     "loyalty": "55",
-    "happiness": "62",
+    "happiness": "58",
     "lastTeamId": "roster21",
     "lastTeam": "Milwaukee",
     "potentials": {
@@ -1462,7 +1462,7 @@
     "greed": "51",
     "playForWinner": "36",
     "loyalty": "53",
-    "happiness": "11",
+    "happiness": "13",
     "lastTeamId": "roster22",
     "lastTeam": "Minnesota",
     "potentials": {
@@ -1684,11 +1684,11 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 27",
+        "award": "Player of the Game: 29",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 27
+        "count": 29
       },
       {
         "season": "Total",
@@ -1708,11 +1708,11 @@
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 27",
+        "award": "Player of the Game: 29",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 27
+        "count": 29
       },
       {
         "season": "Total",
@@ -1759,7 +1759,7 @@
     "greed": "4",
     "playForWinner": "73",
     "loyalty": "58",
-    "happiness": "66",
+    "happiness": "67",
     "lastTeamId": "roster33",
     "lastTeam": "Warsaw Legia",
     "potentials": {
@@ -1828,7 +1828,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "C",
-    "age": "23",
+    "age": "24",
     "ht": "6-11",
     "wt": "230",
     "experience": "Rookie",
@@ -1974,7 +1974,7 @@
     "greed": "51",
     "playForWinner": "5",
     "loyalty": "46",
-    "happiness": "17",
+    "happiness": "13",
     "lastTeamId": "roster9",
     "lastTeam": "Chicago",
     "potentials": {
@@ -2082,7 +2082,7 @@
     "greed": "10",
     "playForWinner": "54",
     "loyalty": "21",
-    "happiness": "72",
+    "happiness": "74",
     "lastTeamId": "roster5",
     "lastTeam": "Atlanta",
     "potentials": {
@@ -2406,7 +2406,7 @@
     "greed": "69",
     "playForWinner": "63",
     "loyalty": "5",
-    "happiness": "21",
+    "happiness": "16",
     "lastTeamId": "roster29",
     "lastTeam": "Portland",
     "potentials": {
@@ -2749,7 +2749,7 @@
     "greed": "73",
     "playForWinner": "66",
     "loyalty": "44",
-    "happiness": "9",
+    "happiness": "7",
     "lastTeamId": "roster8",
     "lastTeam": "Charlotte",
     "potentials": {
@@ -2818,7 +2818,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "PG",
-    "age": "29",
+    "age": "30",
     "ht": "6-2",
     "wt": "216",
     "experience": "Rookie",
@@ -3034,21 +3034,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 5",
+        "award": "Player of the Game: 6",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 5
+        "count": 6
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 5",
+        "award": "Player of the Game: 6",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 5
+        "count": 6
       }
     ],
     "seasonAwards": [],
@@ -3080,7 +3080,7 @@
     "greed": "41",
     "playForWinner": "10",
     "loyalty": "35",
-    "happiness": "59",
+    "happiness": "56",
     "lastTeamId": "roster19",
     "lastTeam": "Memphis",
     "potentials": {
@@ -3206,7 +3206,7 @@
     "greed": "55",
     "playForWinner": "54",
     "loyalty": "9",
-    "happiness": "16",
+    "happiness": "14",
     "lastTeamId": "roster31",
     "lastTeam": "San Antonio",
     "potentials": {
@@ -3275,7 +3275,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "C",
-    "age": "27",
+    "age": "28",
     "ht": "6-10",
     "wt": "263",
     "experience": "8 years",
@@ -3846,7 +3846,7 @@
     "greed": "44",
     "playForWinner": "100",
     "loyalty": "9",
-    "happiness": "19",
+    "happiness": "14",
     "lastTeamId": "roster30",
     "lastTeam": "Sacramento",
     "potentials": {
@@ -3914,7 +3914,7 @@
     "url": "../players/player373.htm",
     "team": "roster34",
     "teamLabel": "Washington",
-    "pos": "SF",
+    "pos": "SG",
     "age": "32",
     "ht": "6-7",
     "wt": "226",
@@ -3926,21 +3926,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 5",
+        "award": "Player of the Game: 6",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 5
+        "count": 6
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 5",
+        "award": "Player of the Game: 6",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 5
+        "count": 6
       }
     ],
     "seasonAwards": [],
@@ -3972,7 +3972,7 @@
     "greed": "73",
     "playForWinner": "40",
     "loyalty": "6",
-    "happiness": "15",
+    "happiness": "17",
     "lastTeamId": "roster34",
     "lastTeam": "Washington",
     "potentials": {
@@ -4384,21 +4384,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 7",
+        "award": "Player of the Game: 8",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 7
+        "count": 8
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 7",
+        "award": "Player of the Game: 8",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 7
+        "count": 8
       }
     ],
     "seasonAwards": [],
@@ -4430,7 +4430,7 @@
     "greed": "68",
     "playForWinner": "29",
     "loyalty": "12",
-    "happiness": "76",
+    "happiness": "80",
     "lastTeamId": "roster33",
     "lastTeam": "Warsaw Legia",
     "potentials": {
@@ -4641,7 +4641,7 @@
     "greed": "28",
     "playForWinner": "38",
     "loyalty": "80",
-    "happiness": "7",
+    "happiness": "5",
     "lastTeamId": "roster16",
     "lastTeam": "Indiana",
     "potentials": {
@@ -4812,7 +4812,7 @@
     "team": "Draft",
     "teamLabel": "Draft",
     "pos": "PF",
-    "age": "21",
+    "age": "22",
     "ht": "6-7",
     "wt": "219",
     "experience": "Rookie",
@@ -4959,7 +4959,7 @@
     "greed": "96",
     "playForWinner": "20",
     "loyalty": "42",
-    "happiness": "23",
+    "happiness": "25",
     "lastTeamId": "roster11",
     "lastTeam": "Dallas",
     "potentials": {
@@ -5481,7 +5481,7 @@
     "greed": "75",
     "playForWinner": "3",
     "loyalty": "21",
-    "happiness": "16",
+    "happiness": "12",
     "lastTeamId": "roster20",
     "lastTeam": "Miami",
     "potentials": {
@@ -5584,12 +5584,17 @@
         "date": "10/8/2011",
         "action": "Drafted by New York with pick #2 of round 4 of the creation draft.",
         "rowClass": "row1"
+      },
+      {
+        "date": "2012-01-02",
+        "action": "Signed a contract extension for $48,367,800 over 3 years.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "C-",
     "Jps": "D+",
     "Fts": "C",
-    "3ps": "C-",
+    "3ps": "C",
     "Hnd": "C+",
     "Pas": "D+",
     "Orb": "A-",
@@ -5607,14 +5612,14 @@
     "greed": "57",
     "playForWinner": "71",
     "loyalty": "4",
-    "happiness": "64",
+    "happiness": "66",
     "lastTeamId": "roster24",
     "lastTeam": "New York",
     "potentials": {
       "Ins": "D",
       "Jps": "D",
       "Fts": "C",
-      "3ps": "D",
+      "3ps": "C",
       "Hnd": "B",
       "Pas": "D",
       "Orb": "A",
@@ -5634,18 +5639,18 @@
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 15210000.0,
+        "salaryText": "$15,210,000"
       },
       {
         "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 16122600.0,
+        "salaryText": "$16,122,600"
       },
       {
         "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 17035200.0,
+        "salaryText": "$17,035,200"
       },
       {
         "year": "2015",
@@ -5733,7 +5738,7 @@
     "greed": "8",
     "playForWinner": "94",
     "loyalty": "42",
-    "happiness": "51",
+    "happiness": "46",
     "lastTeamId": "roster32",
     "lastTeam": "Toronto",
     "potentials": {
@@ -5802,7 +5807,7 @@
     "team": "roster7",
     "teamLabel": "New Jersey",
     "pos": "SF",
-    "age": "22",
+    "age": "23",
     "ht": "6-9",
     "wt": "236",
     "experience": "1 year",
@@ -5813,11 +5818,11 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 10",
+        "award": "Player of the Game: 12",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 10
+        "count": 12
       },
       {
         "season": "2010",
@@ -5829,11 +5834,11 @@
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 10",
+        "award": "Player of the Game: 12",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 10
+        "count": 12
       }
     ],
     "seasonAwards": [
@@ -5872,7 +5877,7 @@
     "greed": "49",
     "playForWinner": "24",
     "loyalty": "52",
-    "happiness": "77",
+    "happiness": "75",
     "lastTeamId": "roster7",
     "lastTeam": "New Jersey",
     "potentials": {
@@ -6082,7 +6087,7 @@
     "greed": "64",
     "playForWinner": "23",
     "loyalty": "95",
-    "happiness": "16",
+    "happiness": "12",
     "lastTeamId": "roster34",
     "lastTeam": "Washington",
     "potentials": {
@@ -6765,7 +6770,7 @@
     "greed": "96",
     "playForWinner": "1",
     "loyalty": "57",
-    "happiness": "8",
+    "happiness": "6",
     "lastTeamId": "roster23",
     "lastTeam": "New Orleans",
     "potentials": {
@@ -7083,7 +7088,7 @@
     "greed": "99",
     "playForWinner": "10",
     "loyalty": "89",
-    "happiness": "10",
+    "happiness": "8",
     "lastTeamId": "roster34",
     "lastTeam": "Washington",
     "potentials": {
@@ -7151,7 +7156,7 @@
     "url": "../players/player298.htm",
     "team": "roster16",
     "teamLabel": "Indiana",
-    "pos": "PF",
+    "pos": "SG",
     "age": "24",
     "ht": "6-8",
     "wt": "206",
@@ -7191,7 +7196,7 @@
     "greed": "24",
     "playForWinner": "51",
     "loyalty": "25",
-    "happiness": "8",
+    "happiness": "6",
     "lastTeamId": "roster16",
     "lastTeam": "Indiana",
     "potentials": {
@@ -7271,21 +7276,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 6",
+        "award": "Player of the Game: 7",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 6
+        "count": 7
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 6",
+        "award": "Player of the Game: 7",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 6
+        "count": 7
       }
     ],
     "seasonAwards": [],
@@ -7590,7 +7595,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "SG",
-    "age": "27",
+    "age": "28",
     "ht": "6-4",
     "wt": "185",
     "experience": "Rookie",
@@ -7731,7 +7736,7 @@
     "greed": "39",
     "playForWinner": "99",
     "loyalty": "46",
-    "happiness": "12",
+    "happiness": "9",
     "lastTeamId": "roster29",
     "lastTeam": "Portland",
     "potentials": {
@@ -7853,7 +7858,7 @@
     "greed": "35",
     "playForWinner": "24",
     "loyalty": "14",
-    "happiness": "10",
+    "happiness": "8",
     "lastTeamId": "roster8",
     "lastTeam": "Charlotte",
     "potentials": {
@@ -7979,7 +7984,7 @@
     "greed": "41",
     "playForWinner": "63",
     "loyalty": "64",
-    "happiness": "33",
+    "happiness": "29",
     "lastTeamId": "roster18",
     "lastTeam": "Los Angeles (LAL)",
     "potentials": {
@@ -8087,7 +8092,7 @@
     "greed": "44",
     "playForWinner": "98",
     "loyalty": "10",
-    "happiness": "16",
+    "happiness": "12",
     "lastTeamId": "roster24",
     "lastTeam": "New York",
     "potentials": {
@@ -8416,7 +8421,7 @@
     "greed": "61",
     "playForWinner": "76",
     "loyalty": "97",
-    "happiness": "41",
+    "happiness": "42",
     "lastTeamId": "roster26",
     "lastTeam": "St. John's",
     "potentials": {
@@ -8840,7 +8845,7 @@
     "greed": "62",
     "playForWinner": "22",
     "loyalty": "24",
-    "happiness": "16",
+    "happiness": "12",
     "lastTeamId": "roster15",
     "lastTeam": "Houston",
     "potentials": {
@@ -9064,25 +9069,25 @@
     "Ins": "C",
     "Jps": "B-",
     "Fts": "B+",
-    "3ps": "B+",
+    "3ps": "B",
     "Hnd": "C-",
     "Pas": "B-",
     "Orb": "C",
     "Drb": "C-",
     "Psd": "D",
-    "Prd": "A",
+    "Prd": "A-",
     "Stl": "C+",
     "Blk": "C",
     "Qkn": "B",
     "Str": "B+",
     "Jmp": "D",
     "Sta": "B-",
-    "overall": "103",
-    "potential": "114",
+    "overall": "100",
+    "potential": "101",
     "greed": "63",
     "playForWinner": "32",
     "loyalty": "69",
-    "happiness": "82",
+    "happiness": "84",
     "lastTeamId": "roster29",
     "lastTeam": "Portland",
     "potentials": {
@@ -9092,11 +9097,11 @@
       "3ps": "B",
       "Hnd": "D",
       "Pas": "B",
-      "Orb": "C",
+      "Orb": "D",
       "Drb": "D",
       "Psd": "D",
       "Prd": "A",
-      "Stl": "B",
+      "Stl": "C",
       "Blk": "C"
     },
     "potentialCurrentColor": "#307B1A",
@@ -9190,7 +9195,7 @@
     "greed": "80",
     "playForWinner": "77",
     "loyalty": "32",
-    "happiness": "33",
+    "happiness": "25",
     "lastTeamId": "roster11",
     "lastTeam": "Dallas",
     "potentials": {
@@ -9725,7 +9730,7 @@
     "greed": "11",
     "playForWinner": "27",
     "loyalty": "30",
-    "happiness": "15",
+    "happiness": "17",
     "lastTeamId": "roster9",
     "lastTeam": "Chicago",
     "potentials": {
@@ -9793,8 +9798,8 @@
     "url": "../players/player215.htm",
     "team": "roster12",
     "teamLabel": "Denver",
-    "pos": "C",
-    "age": "30",
+    "pos": "SG",
+    "age": "31",
     "ht": "6-8",
     "wt": "237",
     "experience": "8 years",
@@ -9838,7 +9843,7 @@
     "greed": "88",
     "playForWinner": "59",
     "loyalty": "53",
-    "happiness": "28",
+    "happiness": "21",
     "lastTeamId": "roster12",
     "lastTeam": "Denver",
     "potentials": {
@@ -9907,7 +9912,7 @@
     "team": "roster13",
     "teamLabel": "Detroit",
     "pos": "PG",
-    "age": "17",
+    "age": "18",
     "ht": "6-11",
     "wt": "238",
     "experience": "1 year",
@@ -10504,7 +10509,7 @@
     "greed": "68",
     "playForWinner": "78",
     "loyalty": "11",
-    "happiness": "6",
+    "happiness": "4",
     "lastTeamId": "roster27",
     "lastTeam": "Philadelphia",
     "potentials": {
@@ -10895,7 +10900,7 @@
     "url": "../players/player360.htm",
     "team": "roster22",
     "teamLabel": "Minnesota",
-    "pos": "SG",
+    "pos": "SF",
     "age": "20",
     "ht": "6-5",
     "wt": "182",
@@ -10917,7 +10922,7 @@
     "Ins": "C",
     "Jps": "C-",
     "Fts": "B-",
-    "3ps": "C-",
+    "3ps": "C",
     "Hnd": "C-",
     "Pas": "C",
     "Orb": "D",
@@ -10935,14 +10940,14 @@
     "greed": "53",
     "playForWinner": "81",
     "loyalty": "78",
-    "happiness": "8",
+    "happiness": "10",
     "lastTeamId": "roster22",
     "lastTeam": "Minnesota",
     "potentials": {
       "Ins": "A",
       "Jps": "C",
       "Fts": "B",
-      "3ps": "C",
+      "3ps": "B",
       "Hnd": "C",
       "Pas": "A",
       "Orb": "D",
@@ -11112,7 +11117,7 @@
     "team": "roster22",
     "teamLabel": "Minnesota",
     "pos": "PF",
-    "age": "25",
+    "age": "26",
     "ht": "6-9",
     "wt": "201",
     "experience": "5 years",
@@ -11169,7 +11174,7 @@
     "greed": "80",
     "playForWinner": "23",
     "loyalty": "26",
-    "happiness": "8",
+    "happiness": "6",
     "lastTeamId": "roster22",
     "lastTeam": "Minnesota",
     "potentials": {
@@ -11238,7 +11243,7 @@
     "team": "Draft",
     "teamLabel": "Draft",
     "pos": "SF",
-    "age": "21",
+    "age": "22",
     "ht": "6-9",
     "wt": "245",
     "experience": "Rookie",
@@ -11500,7 +11505,7 @@
     "greed": "83",
     "playForWinner": "90",
     "loyalty": "60",
-    "happiness": "51",
+    "happiness": "55",
     "lastTeamId": "roster27",
     "lastTeam": "Philadelphia",
     "potentials": {
@@ -11580,21 +11585,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 33",
+        "award": "Player of the Game: 37",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 33
+        "count": 37
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 33",
+        "award": "Player of the Game: 37",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 33
+        "count": 37
       }
     ],
     "seasonAwards": [],
@@ -11626,7 +11631,7 @@
     "greed": "67",
     "playForWinner": "21",
     "loyalty": "73",
-    "happiness": "61",
+    "happiness": "62",
     "lastTeamId": "roster23",
     "lastTeam": "New Orleans",
     "potentials": {
@@ -11963,7 +11968,7 @@
     "greed": "5",
     "playForWinner": "6",
     "loyalty": "91",
-    "happiness": "52",
+    "happiness": "51",
     "lastTeamId": "roster6",
     "lastTeam": "Boston",
     "potentials": {
@@ -12654,7 +12659,7 @@
     "greed": "17",
     "playForWinner": "4",
     "loyalty": "6",
-    "happiness": "54",
+    "happiness": "53",
     "lastTeamId": "roster34",
     "lastTeam": "Washington",
     "potentials": {
@@ -12723,7 +12728,7 @@
     "team": "Draft",
     "teamLabel": "Draft",
     "pos": "C",
-    "age": "21",
+    "age": "22",
     "ht": "6-10",
     "wt": "227",
     "experience": "Rookie",
@@ -12883,7 +12888,7 @@
     "greed": "47",
     "playForWinner": "77",
     "loyalty": "3",
-    "happiness": "40",
+    "happiness": "35",
     "lastTeamId": "roster13",
     "lastTeam": "Detroit",
     "potentials": {
@@ -13065,7 +13070,7 @@
     "team": "roster11",
     "teamLabel": "Dallas",
     "pos": "C",
-    "age": "40",
+    "age": "41",
     "ht": "6-11",
     "wt": "238",
     "experience": "18 years",
@@ -13109,7 +13114,7 @@
     "greed": "89",
     "playForWinner": "55",
     "loyalty": "85",
-    "happiness": "33",
+    "happiness": "28",
     "lastTeamId": "roster11",
     "lastTeam": "Dallas",
     "potentials": {
@@ -13189,11 +13194,11 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 24",
+        "award": "Player of the Game: 26",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 24
+        "count": 26
       },
       {
         "season": "Total",
@@ -13227,11 +13232,11 @@
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 24",
+        "award": "Player of the Game: 26",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 24
+        "count": 26
       },
       {
         "season": "Total",
@@ -13292,7 +13297,7 @@
     "greed": "53",
     "playForWinner": "47",
     "loyalty": "73",
-    "happiness": "49",
+    "happiness": "48",
     "lastTeamId": "roster31",
     "lastTeam": "San Antonio",
     "potentials": {
@@ -13400,7 +13405,7 @@
     "greed": "67",
     "playForWinner": "82",
     "loyalty": "58",
-    "happiness": "68",
+    "happiness": "51",
     "lastTeamId": "roster23",
     "lastTeam": "New Orleans",
     "potentials": {
@@ -13736,7 +13741,7 @@
     "greed": "62",
     "playForWinner": "23",
     "loyalty": "15",
-    "happiness": "49",
+    "happiness": "59",
     "lastTeamId": "roster8",
     "lastTeam": "Charlotte",
     "potentials": {
@@ -13907,7 +13912,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "SF",
-    "age": "19",
+    "age": "20",
     "ht": "6-7",
     "wt": "222",
     "experience": "Rookie",
@@ -14344,11 +14349,11 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 13",
+        "award": "Player of the Game: 15",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 13
+        "count": 15
       },
       {
         "season": "2010",
@@ -14360,11 +14365,11 @@
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 13",
+        "award": "Player of the Game: 15",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 13
+        "count": 15
       }
     ],
     "seasonAwards": [
@@ -14398,19 +14403,19 @@
     "Str": "D-",
     "Jmp": "C",
     "Sta": "A",
-    "overall": "121",
-    "potential": "137",
+    "overall": "122",
+    "potential": "138",
     "greed": "89",
     "playForWinner": "76",
     "loyalty": "11",
-    "happiness": "53",
+    "happiness": "50",
     "lastTeamId": "roster30",
     "lastTeam": "Sacramento",
     "potentials": {
       "Ins": "B",
       "Jps": "B",
       "Fts": "B",
-      "3ps": "C",
+      "3ps": "B",
       "Hnd": "B",
       "Pas": "A",
       "Orb": "C",
@@ -14618,7 +14623,7 @@
     "greed": "82",
     "playForWinner": "27",
     "loyalty": "4",
-    "happiness": "63",
+    "happiness": "66",
     "lastTeamId": "roster7",
     "lastTeam": "New Jersey",
     "potentials": {
@@ -14687,7 +14692,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "SF",
-    "age": "25",
+    "age": "26",
     "ht": "6-6",
     "wt": "232",
     "experience": "Rookie",
@@ -14941,7 +14946,7 @@
     "greed": "7",
     "playForWinner": "82",
     "loyalty": "82",
-    "happiness": "6",
+    "happiness": "4",
     "lastTeamId": "roster17",
     "lastTeam": "Los Angeles (LAC)",
     "potentials": {
@@ -15010,7 +15015,7 @@
     "team": "roster33",
     "teamLabel": "Warsaw Legia",
     "pos": "SF",
-    "age": "31",
+    "age": "32",
     "ht": "6-6",
     "wt": "219",
     "experience": "13 years",
@@ -15049,7 +15054,7 @@
     "greed": "95",
     "playForWinner": "21",
     "loyalty": "87",
-    "happiness": "62",
+    "happiness": "64",
     "lastTeamId": "roster33",
     "lastTeam": "Warsaw Legia",
     "potentials": {
@@ -15157,7 +15162,7 @@
     "greed": "11",
     "playForWinner": "8",
     "loyalty": "50",
-    "happiness": "38",
+    "happiness": "28",
     "lastTeamId": "roster21",
     "lastTeam": "Milwaukee",
     "potentials": {
@@ -15237,21 +15242,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 15",
+        "award": "Player of the Game: 18",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 15
+        "count": 18
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 15",
+        "award": "Player of the Game: 18",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 15
+        "count": 18
       }
     ],
     "seasonAwards": [],
@@ -15579,21 +15584,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 3",
+        "award": "Player of the Game: 4",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 3
+        "count": 4
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 3",
+        "award": "Player of the Game: 4",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 3
+        "count": 4
       }
     ],
     "seasonAwards": [],
@@ -15625,7 +15630,7 @@
     "greed": "46",
     "playForWinner": "34",
     "loyalty": "79",
-    "happiness": "30",
+    "happiness": "29",
     "lastTeamId": "roster8",
     "lastTeam": "Charlotte",
     "potentials": {
@@ -15751,7 +15756,7 @@
     "greed": "48",
     "playForWinner": "75",
     "loyalty": "4",
-    "happiness": "69",
+    "happiness": "75",
     "lastTeamId": "roster23",
     "lastTeam": "New Orleans",
     "potentials": {
@@ -16403,8 +16408,26 @@
     "source": "player_page",
     "currentSalary": 760000.0,
     "currentSalaryText": "$760,000",
-    "awards": [],
-    "achievementTotals": [],
+    "awards": [
+      {
+        "season": "Total",
+        "award": "Player of the Game: 2",
+        "rowClass": "row1",
+        "isTotal": true,
+        "label": "Player of the Game",
+        "count": 2
+      }
+    ],
+    "achievementTotals": [
+      {
+        "season": "Total",
+        "award": "Player of the Game: 2",
+        "rowClass": "row1",
+        "isTotal": true,
+        "label": "Player of the Game",
+        "count": 2
+      }
+    ],
     "seasonAwards": [],
     "transactions": [
       {
@@ -16434,7 +16457,7 @@
     "greed": "90",
     "playForWinner": "21",
     "loyalty": "24",
-    "happiness": "26",
+    "happiness": "29",
     "lastTeamId": "roster11",
     "lastTeam": "Dallas",
     "potentials": {
@@ -16511,8 +16534,26 @@
     "source": "player_page",
     "currentSalary": 2346839.0,
     "currentSalaryText": "$2,346,839",
-    "awards": [],
-    "achievementTotals": [],
+    "awards": [
+      {
+        "season": "Total",
+        "award": "Player of the Game: 1",
+        "rowClass": "row1",
+        "isTotal": true,
+        "label": "Player of the Game",
+        "count": 1
+      }
+    ],
+    "achievementTotals": [
+      {
+        "season": "Total",
+        "award": "Player of the Game: 1",
+        "rowClass": "row1",
+        "isTotal": true,
+        "label": "Player of the Game",
+        "count": 1
+      }
+    ],
     "seasonAwards": [],
     "transactions": [
       {
@@ -16542,7 +16583,7 @@
     "greed": "77",
     "playForWinner": "53",
     "loyalty": "52",
-    "happiness": "51",
+    "happiness": "50",
     "lastTeamId": "roster26",
     "lastTeam": "St. John's",
     "potentials": {
@@ -16650,7 +16691,7 @@
     "greed": "17",
     "playForWinner": "17",
     "loyalty": "37",
-    "happiness": "16",
+    "happiness": "12",
     "lastTeamId": "roster21",
     "lastTeam": "Milwaukee",
     "potentials": {
@@ -16758,7 +16799,7 @@
     "Ins": "C-",
     "Jps": "C+",
     "Fts": "A-",
-    "3ps": "C+",
+    "3ps": "B-",
     "Hnd": "C",
     "Pas": "A-",
     "Orb": "D",
@@ -16771,12 +16812,12 @@
     "Str": "C-",
     "Jmp": "C",
     "Sta": "B-",
-    "overall": "100",
-    "potential": "118",
+    "overall": "101",
+    "potential": "119",
     "greed": "34",
     "playForWinner": "67",
     "loyalty": "2",
-    "happiness": "6",
+    "happiness": "5",
     "lastTeamId": "roster26",
     "lastTeam": "St. John's",
     "potentials": {
@@ -17089,7 +17130,7 @@
     "greed": "29",
     "playForWinner": "85",
     "loyalty": "98",
-    "happiness": "25",
+    "happiness": "27",
     "lastTeamId": "roster21",
     "lastTeam": "Milwaukee",
     "potentials": {
@@ -17169,21 +17210,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 9",
+        "award": "Player of the Game: 10",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 9
+        "count": 10
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 9",
+        "award": "Player of the Game: 10",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 9
+        "count": 10
       }
     ],
     "seasonAwards": [],
@@ -17215,7 +17256,7 @@
     "greed": "71",
     "playForWinner": "7",
     "loyalty": "68",
-    "happiness": "51",
+    "happiness": "50",
     "lastTeamId": "roster6",
     "lastTeam": "Boston",
     "potentials": {
@@ -17387,7 +17428,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "C",
-    "age": "27",
+    "age": "28",
     "ht": "6-10",
     "wt": "231",
     "experience": "7 years",
@@ -17948,7 +17989,7 @@
     "greed": "84",
     "playForWinner": "91",
     "loyalty": "2",
-    "happiness": "30",
+    "happiness": "22",
     "lastTeamId": "roster11",
     "lastTeam": "Dallas",
     "potentials": {
@@ -18017,7 +18058,7 @@
     "team": "roster5",
     "teamLabel": "Atlanta",
     "pos": "SF",
-    "age": "28",
+    "age": "29",
     "ht": "6-9",
     "wt": "205",
     "experience": "10 years",
@@ -18028,21 +18069,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 8",
+        "award": "Player of the Game: 11",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 8
+        "count": 11
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 8",
+        "award": "Player of the Game: 11",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 8
+        "count": 11
       }
     ],
     "seasonAwards": [],
@@ -18074,7 +18115,7 @@
     "greed": "60",
     "playForWinner": "26",
     "loyalty": "23",
-    "happiness": "85",
+    "happiness": "86",
     "lastTeamId": "roster5",
     "lastTeam": "Atlanta",
     "potentials": {
@@ -18256,11 +18297,11 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 47",
+        "award": "Player of the Game: 48",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 47
+        "count": 48
       },
       {
         "season": "Total",
@@ -18344,11 +18385,11 @@
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 47",
+        "award": "Player of the Game: 48",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 47
+        "count": 48
       },
       {
         "season": "Total",
@@ -18459,7 +18500,7 @@
     "greed": "17",
     "playForWinner": "60",
     "loyalty": "44",
-    "happiness": "73",
+    "happiness": "74",
     "lastTeamId": "roster9",
     "lastTeam": "Chicago",
     "potentials": {
@@ -18528,7 +18569,7 @@
     "team": "roster20",
     "teamLabel": "Miami",
     "pos": "SG",
-    "age": "27",
+    "age": "28",
     "ht": "6-8",
     "wt": "188",
     "experience": "6 years",
@@ -18567,7 +18608,7 @@
     "greed": "81",
     "playForWinner": "47",
     "loyalty": "0",
-    "happiness": "4",
+    "happiness": "3",
     "lastTeamId": "roster20",
     "lastTeam": "Miami",
     "potentials": {
@@ -18636,7 +18677,7 @@
     "team": "roster14",
     "teamLabel": "Golden State",
     "pos": "SG",
-    "age": "26",
+    "age": "27",
     "ht": "6-5",
     "wt": "203",
     "experience": "4 years",
@@ -18675,7 +18716,7 @@
     "greed": "37",
     "playForWinner": "52",
     "loyalty": "43",
-    "happiness": "28",
+    "happiness": "30",
     "lastTeamId": "roster14",
     "lastTeam": "Golden State",
     "potentials": {
@@ -18744,7 +18785,7 @@
     "team": "roster19",
     "teamLabel": "Memphis",
     "pos": "SF",
-    "age": "24",
+    "age": "25",
     "ht": "6-6",
     "wt": "213",
     "experience": "Rookie",
@@ -18783,7 +18824,7 @@
     "greed": "82",
     "playForWinner": "72",
     "loyalty": "26",
-    "happiness": "16",
+    "happiness": "12",
     "lastTeamId": "roster19",
     "lastTeam": "Memphis",
     "potentials": {
@@ -19176,21 +19217,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 1",
+        "award": "Player of the Game: 2",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 1
+        "count": 2
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 1",
+        "award": "Player of the Game: 2",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 1
+        "count": 2
       }
     ],
     "seasonAwards": [],
@@ -19222,7 +19263,7 @@
     "greed": "0",
     "playForWinner": "14",
     "loyalty": "92",
-    "happiness": "71",
+    "happiness": "70",
     "lastTeamId": "roster27",
     "lastTeam": "Philadelphia",
     "potentials": {
@@ -19348,7 +19389,7 @@
     "greed": "13",
     "playForWinner": "90",
     "loyalty": "65",
-    "happiness": "41",
+    "happiness": "40",
     "lastTeamId": "roster20",
     "lastTeam": "Miami",
     "potentials": {
@@ -19519,7 +19560,7 @@
     "url": "../players/player792.htm",
     "team": "roster23",
     "teamLabel": "New Orleans",
-    "pos": "SG",
+    "pos": "PG",
     "age": "18",
     "ht": "6-5",
     "wt": "215",
@@ -19559,7 +19600,7 @@
     "greed": "43",
     "playForWinner": "6",
     "loyalty": "58",
-    "happiness": "18",
+    "happiness": "14",
     "lastTeamId": "roster23",
     "lastTeam": "New Orleans",
     "potentials": {
@@ -19730,7 +19771,7 @@
     "team": "Draft",
     "teamLabel": "Draft",
     "pos": "C",
-    "age": "19",
+    "age": "20",
     "ht": "6-8",
     "wt": "271",
     "experience": "Rookie",
@@ -19833,7 +19874,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "PG",
-    "age": "25",
+    "age": "26",
     "ht": "6-2",
     "wt": "183",
     "experience": "1 year",
@@ -19946,21 +19987,37 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 39",
+        "award": "Player of the Game: 42",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 39
+        "count": 42
+      },
+      {
+        "season": "Total",
+        "award": "Player of the Week: 1",
+        "rowClass": "row2",
+        "isTotal": true,
+        "label": "Player of the Week",
+        "count": 1
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 39",
+        "award": "Player of the Game: 42",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 39
+        "count": 42
+      },
+      {
+        "season": "Total",
+        "award": "Player of the Week: 1",
+        "rowClass": "row2",
+        "isTotal": true,
+        "label": "Player of the Week",
+        "count": 1
       }
     ],
     "seasonAwards": [],
@@ -19992,7 +20049,7 @@
     "greed": "90",
     "playForWinner": "35",
     "loyalty": "71",
-    "happiness": "48",
+    "happiness": "47",
     "lastTeamId": "roster20",
     "lastTeam": "Miami",
     "potentials": {
@@ -20072,21 +20129,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 4",
+        "award": "Player of the Game: 5",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 4
+        "count": 5
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 4",
+        "award": "Player of the Game: 5",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 4
+        "count": 5
       }
     ],
     "seasonAwards": [],
@@ -20118,7 +20175,7 @@
     "greed": "44",
     "playForWinner": "3",
     "loyalty": "89",
-    "happiness": "82",
+    "happiness": "85",
     "lastTeamId": "roster23",
     "lastTeam": "New Orleans",
     "potentials": {
@@ -20244,7 +20301,7 @@
     "greed": "67",
     "playForWinner": "31",
     "loyalty": "71",
-    "happiness": "16",
+    "happiness": "12",
     "lastTeamId": "roster19",
     "lastTeam": "Memphis",
     "potentials": {
@@ -20313,7 +20370,7 @@
     "team": "roster13",
     "teamLabel": "Detroit",
     "pos": "PF",
-    "age": "19",
+    "age": "20",
     "ht": "6-10",
     "wt": "258",
     "experience": "Rookie",
@@ -20324,21 +20381,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 4",
+        "award": "Player of the Game: 7",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 4
+        "count": 7
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 4",
+        "award": "Player of the Game: 7",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 4
+        "count": 7
       }
     ],
     "seasonAwards": [],
@@ -20370,7 +20427,7 @@
     "greed": "41",
     "playForWinner": "50",
     "loyalty": "27",
-    "happiness": "45",
+    "happiness": "41",
     "lastTeamId": "roster13",
     "lastTeam": "Detroit",
     "potentials": {
@@ -20693,7 +20750,7 @@
     "greed": "45",
     "playForWinner": "10",
     "loyalty": "40",
-    "happiness": "85",
+    "happiness": "88",
     "lastTeamId": "roster5",
     "lastTeam": "Atlanta",
     "potentials": {
@@ -20909,7 +20966,7 @@
     "greed": "40",
     "playForWinner": "17",
     "loyalty": "96",
-    "happiness": "15",
+    "happiness": "17",
     "lastTeamId": "roster34",
     "lastTeam": "Washington",
     "potentials": {
@@ -21035,7 +21092,7 @@
     "greed": "41",
     "playForWinner": "87",
     "loyalty": "12",
-    "happiness": "4",
+    "happiness": "3",
     "lastTeamId": "roster18",
     "lastTeam": "Los Angeles (LAL)",
     "potentials": {
@@ -21166,7 +21223,7 @@
     "greed": "60",
     "playForWinner": "40",
     "loyalty": "39",
-    "happiness": "63",
+    "happiness": "58",
     "lastTeamId": "roster32",
     "lastTeam": "Toronto",
     "potentials": {
@@ -21274,7 +21331,7 @@
     "greed": "59",
     "playForWinner": "8",
     "loyalty": "15",
-    "happiness": "68",
+    "happiness": "76",
     "lastTeamId": "roster7",
     "lastTeam": "New Jersey",
     "potentials": {
@@ -21684,11 +21741,11 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 26",
+        "award": "Player of the Game: 28",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 26
+        "count": 28
       },
       {
         "season": "Total",
@@ -21744,11 +21801,11 @@
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 26",
+        "award": "Player of the Game: 28",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 26
+        "count": 28
       },
       {
         "season": "Total",
@@ -21831,7 +21888,7 @@
     "greed": "2",
     "playForWinner": "97",
     "loyalty": "45",
-    "happiness": "48",
+    "happiness": "46",
     "lastTeamId": "roster21",
     "lastTeam": "Milwaukee",
     "potentials": {
@@ -21939,7 +21996,7 @@
     "greed": "92",
     "playForWinner": "47",
     "loyalty": "75",
-    "happiness": "16",
+    "happiness": "12",
     "lastTeamId": "roster8",
     "lastTeam": "Charlotte",
     "potentials": {
@@ -22155,7 +22212,7 @@
     "greed": "58",
     "playForWinner": "4",
     "loyalty": "82",
-    "happiness": "20",
+    "happiness": "15",
     "lastTeamId": "roster34",
     "lastTeam": "Washington",
     "potentials": {
@@ -22337,11 +22394,11 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 41",
+        "award": "Player of the Game: 48",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 41
+        "count": 48
       },
       {
         "season": "Total",
@@ -22405,11 +22462,11 @@
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 41",
+        "award": "Player of the Game: 48",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 41
+        "count": 48
       },
       {
         "season": "Total",
@@ -22500,7 +22557,7 @@
     "greed": "37",
     "playForWinner": "84",
     "loyalty": "48",
-    "happiness": "43",
+    "happiness": "47",
     "lastTeamId": "roster8",
     "lastTeam": "Charlotte",
     "potentials": {
@@ -22881,7 +22938,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "SG",
-    "age": "30",
+    "age": "31",
     "ht": "6-6",
     "wt": "179",
     "experience": "Rookie",
@@ -23143,7 +23200,7 @@
     "greed": "92",
     "playForWinner": "82",
     "loyalty": "69",
-    "happiness": "4",
+    "happiness": "3",
     "lastTeamId": "roster6",
     "lastTeam": "Boston",
     "potentials": {
@@ -23251,7 +23308,7 @@
     "greed": "46",
     "playForWinner": "50",
     "loyalty": "21",
-    "happiness": "32",
+    "happiness": "25",
     "lastTeamId": "roster22",
     "lastTeam": "Minnesota",
     "potentials": {
@@ -23434,11 +23491,11 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 26",
+        "award": "Player of the Game: 30",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 26
+        "count": 30
       },
       {
         "season": "Total",
@@ -23466,11 +23523,11 @@
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 26",
+        "award": "Player of the Game: 30",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 26
+        "count": 30
       },
       {
         "season": "Total",
@@ -23525,7 +23582,7 @@
     "greed": "19",
     "playForWinner": "57",
     "loyalty": "55",
-    "happiness": "55",
+    "happiness": "60",
     "lastTeamId": "roster10",
     "lastTeam": "Cleveland",
     "potentials": {
@@ -23707,7 +23764,7 @@
     "team": "roster15",
     "teamLabel": "Houston",
     "pos": "PG",
-    "age": "35",
+    "age": "36",
     "ht": "5-9",
     "wt": "166",
     "experience": "13 years",
@@ -23718,11 +23775,11 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 17",
+        "award": "Player of the Game: 18",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 17
+        "count": 18
       },
       {
         "season": "Total",
@@ -23742,11 +23799,11 @@
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 17",
+        "award": "Player of the Game: 18",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 17
+        "count": 18
       },
       {
         "season": "Total",
@@ -23896,12 +23953,17 @@
         "date": "10/8/2011",
         "action": "Drafted by Chicago with pick #7 of round 4 of the creation draft.",
         "rowClass": "row1"
+      },
+      {
+        "date": "2012-01-02",
+        "action": "Signed a contract extension for $48,463,200 over 3 years.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "C+",
     "Jps": "C",
     "Fts": "C",
-    "3ps": "B",
+    "3ps": "B+",
     "Hnd": "C",
     "Pas": "A-",
     "Orb": "D+",
@@ -23914,12 +23976,12 @@
     "Str": "C",
     "Jmp": "D",
     "Sta": "A-",
-    "overall": "113",
-    "potential": "113",
+    "overall": "114",
+    "potential": "114",
     "greed": "58",
     "playForWinner": "44",
     "loyalty": "17",
-    "happiness": "80",
+    "happiness": "81",
     "lastTeamId": "roster9",
     "lastTeam": "Chicago",
     "potentials": {
@@ -23946,18 +24008,18 @@
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 15240000.0,
+        "salaryText": "$15,240,000"
       },
       {
         "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 16154400.0,
+        "salaryText": "$16,154,400"
       },
       {
         "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 17068800.0,
+        "salaryText": "$17,068,800"
       },
       {
         "year": "2015",
@@ -23988,7 +24050,7 @@
     "team": "roster16",
     "teamLabel": "Indiana",
     "pos": "SF",
-    "age": "22",
+    "age": "23",
     "ht": "6-10",
     "wt": "223",
     "experience": "Rookie",
@@ -23999,21 +24061,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 6",
+        "award": "Player of the Game: 7",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 6
+        "count": 7
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 6",
+        "award": "Player of the Game: 7",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 6
+        "count": 7
       }
     ],
     "seasonAwards": [],
@@ -24045,7 +24107,7 @@
     "greed": "98",
     "playForWinner": "85",
     "loyalty": "60",
-    "happiness": "64",
+    "happiness": "67",
     "lastTeamId": "roster16",
     "lastTeam": "Indiana",
     "potentials": {
@@ -24171,7 +24233,7 @@
     "greed": "45",
     "playForWinner": "72",
     "loyalty": "93",
-    "happiness": "54",
+    "happiness": "50",
     "lastTeamId": "roster19",
     "lastTeam": "Memphis",
     "potentials": {
@@ -24240,7 +24302,7 @@
     "team": "roster7",
     "teamLabel": "New Jersey",
     "pos": "C",
-    "age": "23",
+    "age": "24",
     "ht": "7-1",
     "wt": "235",
     "experience": "2 years",
@@ -24251,19 +24313,19 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 42",
+        "award": "Player of the Game: 48",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 42
+        "count": 48
       },
       {
         "season": "Total",
-        "award": "Player of the Week: 1",
+        "award": "Player of the Week: 2",
         "rowClass": "row2",
         "isTotal": true,
         "label": "Player of the Week",
-        "count": 1
+        "count": 2
       },
       {
         "season": "Total",
@@ -24291,19 +24353,19 @@
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 42",
+        "award": "Player of the Game: 48",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 42
+        "count": 48
       },
       {
         "season": "Total",
-        "award": "Player of the Week: 1",
+        "award": "Player of the Week: 2",
         "rowClass": "row2",
         "isTotal": true,
         "label": "Player of the Week",
-        "count": 1
+        "count": 2
       },
       {
         "season": "Total",
@@ -24358,7 +24420,7 @@
     "greed": "2",
     "playForWinner": "68",
     "loyalty": "39",
-    "happiness": "63",
+    "happiness": "62",
     "lastTeamId": "roster7",
     "lastTeam": "New Jersey",
     "potentials": {
@@ -24466,7 +24528,7 @@
     "greed": "65",
     "playForWinner": "53",
     "loyalty": "37",
-    "happiness": "20",
+    "happiness": "15",
     "lastTeamId": "roster5",
     "lastTeam": "Atlanta",
     "potentials": {
@@ -24592,7 +24654,7 @@
     "greed": "90",
     "playForWinner": "32",
     "loyalty": "76",
-    "happiness": "6",
+    "happiness": "4",
     "lastTeamId": "roster5",
     "lastTeam": "Atlanta",
     "potentials": {
@@ -25093,11 +25155,11 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 47",
+        "award": "Player of the Game: 52",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 47
+        "count": 52
       },
       {
         "season": "Total",
@@ -25139,11 +25201,11 @@
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 47",
+        "award": "Player of the Game: 52",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 47
+        "count": 52
       },
       {
         "season": "Total",
@@ -25212,7 +25274,7 @@
     "greed": "32",
     "playForWinner": "15",
     "loyalty": "9",
-    "happiness": "63",
+    "happiness": "64",
     "lastTeamId": "roster16",
     "lastTeam": "Indiana",
     "potentials": {
@@ -25428,7 +25490,7 @@
     "greed": "40",
     "playForWinner": "65",
     "loyalty": "23",
-    "happiness": "24",
+    "happiness": "18",
     "lastTeamId": "roster23",
     "lastTeam": "New Orleans",
     "potentials": {
@@ -25599,7 +25661,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "SG",
-    "age": "32",
+    "age": "33",
     "ht": "6-8",
     "wt": "219",
     "experience": "9 years",
@@ -25871,7 +25933,7 @@
     "team": "roster26",
     "teamLabel": "St. John's",
     "pos": "PG",
-    "age": "34",
+    "age": "35",
     "ht": "6-7",
     "wt": "217",
     "experience": "12 years",
@@ -25882,21 +25944,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 4",
+        "award": "Player of the Game: 5",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 4
+        "count": 5
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 4",
+        "award": "Player of the Game: 5",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 4
+        "count": 5
       }
     ],
     "seasonAwards": [],
@@ -25933,7 +25995,7 @@
     "greed": "15",
     "playForWinner": "22",
     "loyalty": "22",
-    "happiness": "65",
+    "happiness": "61",
     "lastTeamId": "roster26",
     "lastTeam": "St. John's",
     "potentials": {
@@ -26239,21 +26301,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 12",
+        "award": "Player of the Game: 15",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 12
+        "count": 15
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 12",
+        "award": "Player of the Game: 15",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 12
+        "count": 15
       }
     ],
     "seasonAwards": [],
@@ -26285,7 +26347,7 @@
     "greed": "18",
     "playForWinner": "75",
     "loyalty": "5",
-    "happiness": "47",
+    "happiness": "46",
     "lastTeamId": "roster30",
     "lastTeam": "Sacramento",
     "potentials": {
@@ -26467,21 +26529,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 5",
+        "award": "Player of the Game: 6",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 5
+        "count": 6
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 5",
+        "award": "Player of the Game: 6",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 5
+        "count": 6
       }
     ],
     "seasonAwards": [],
@@ -26513,7 +26575,7 @@
     "greed": "76",
     "playForWinner": "73",
     "loyalty": "0",
-    "happiness": "48",
+    "happiness": "52",
     "lastTeamId": "roster17",
     "lastTeam": "Los Angeles (LAC)",
     "potentials": {
@@ -27149,7 +27211,7 @@
     "greed": "98",
     "playForWinner": "23",
     "loyalty": "16",
-    "happiness": "22",
+    "happiness": "16",
     "lastTeamId": "roster25",
     "lastTeam": "Oklahoma City",
     "potentials": {
@@ -27218,7 +27280,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "PF",
-    "age": "30",
+    "age": "31",
     "ht": "6-10",
     "wt": "233",
     "experience": "Rookie",
@@ -27485,7 +27547,7 @@
     "greed": "75",
     "playForWinner": "61",
     "loyalty": "18",
-    "happiness": "58",
+    "happiness": "54",
     "lastTeamId": "roster21",
     "lastTeam": "Milwaukee",
     "potentials": {
@@ -27668,21 +27730,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 13",
+        "award": "Player of the Game: 15",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 13
+        "count": 15
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 13",
+        "award": "Player of the Game: 15",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 13
+        "count": 15
       }
     ],
     "seasonAwards": [],
@@ -27719,7 +27781,7 @@
     "greed": "6",
     "playForWinner": "99",
     "loyalty": "78",
-    "happiness": "44",
+    "happiness": "43",
     "lastTeamId": "roster30",
     "lastTeam": "Sacramento",
     "potentials": {
@@ -27901,21 +27963,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 1",
+        "award": "Player of the Game: 2",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 1
+        "count": 2
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 1",
+        "award": "Player of the Game: 2",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 1
+        "count": 2
       }
     ],
     "seasonAwards": [],
@@ -27924,6 +27986,11 @@
         "date": "10/8/2011",
         "action": "Drafted by Cleveland with pick #3 of round 7 of the creation draft.",
         "rowClass": "row1"
+      },
+      {
+        "date": "2012-01-02",
+        "action": "Signed a contract extension for $17,436,643 over 3 years.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "B-",
@@ -27947,7 +28014,7 @@
     "greed": "5",
     "playForWinner": "79",
     "loyalty": "73",
-    "happiness": "49",
+    "happiness": "53",
     "lastTeamId": "roster10",
     "lastTeam": "Cleveland",
     "potentials": {
@@ -27974,18 +28041,18 @@
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 5483221.0,
+        "salaryText": "$5,483,221"
       },
       {
         "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 5812214.0,
+        "salaryText": "$5,812,214"
       },
       {
         "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 6141208.0,
+        "salaryText": "$6,141,208"
       },
       {
         "year": "2015",
@@ -28089,7 +28156,7 @@
     "greed": "99",
     "playForWinner": "2",
     "loyalty": "31",
-    "happiness": "66",
+    "happiness": "62",
     "lastTeamId": "roster25",
     "lastTeam": "Oklahoma City",
     "potentials": {
@@ -28402,7 +28469,7 @@
     "greed": "40",
     "playForWinner": "0",
     "loyalty": "98",
-    "happiness": "25",
+    "happiness": "23",
     "lastTeamId": "roster24",
     "lastTeam": "New York",
     "potentials": {
@@ -28623,7 +28690,7 @@
     "greed": "78",
     "playForWinner": "45",
     "loyalty": "47",
-    "happiness": "38",
+    "happiness": "37",
     "lastTeamId": "roster22",
     "lastTeam": "Minnesota",
     "potentials": {
@@ -28908,11 +28975,11 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 19",
+        "award": "Player of the Game: 22",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 19
+        "count": 22
       },
       {
         "season": "Total",
@@ -28932,11 +28999,11 @@
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 19",
+        "award": "Player of the Game: 22",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 19
+        "count": 22
       },
       {
         "season": "Total",
@@ -28983,7 +29050,7 @@
     "greed": "6",
     "playForWinner": "97",
     "loyalty": "75",
-    "happiness": "24",
+    "happiness": "18",
     "lastTeamId": "roster18",
     "lastTeam": "Los Angeles (LAL)",
     "potentials": {
@@ -29366,7 +29433,7 @@
     "greed": "90",
     "playForWinner": "21",
     "loyalty": "74",
-    "happiness": "73",
+    "happiness": "76",
     "lastTeamId": "roster29",
     "lastTeam": "Portland",
     "potentials": {
@@ -29605,7 +29672,7 @@
     "greed": "42",
     "playForWinner": "38",
     "loyalty": "42",
-    "happiness": "11",
+    "happiness": "8",
     "lastTeamId": "roster30",
     "lastTeam": "Sacramento",
     "potentials": {
@@ -30015,8 +30082,16 @@
     "awards": [
       {
         "season": "Total",
-        "award": "All-Defensive Second Team: 1",
+        "award": "Player of the Game: 1",
         "rowClass": "row1",
+        "isTotal": true,
+        "label": "Player of the Game",
+        "count": 1
+      },
+      {
+        "season": "Total",
+        "award": "All-Defensive Second Team: 1",
+        "rowClass": "row2",
         "isTotal": true,
         "label": "All-Defensive Second Team",
         "count": 1
@@ -30024,15 +30099,23 @@
       {
         "season": "2010",
         "award": "SWBA All-Defensive Second Team",
-        "rowClass": "row2",
+        "rowClass": "row1",
         "isTotal": false
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "All-Defensive Second Team: 1",
+        "award": "Player of the Game: 1",
         "rowClass": "row1",
+        "isTotal": true,
+        "label": "Player of the Game",
+        "count": 1
+      },
+      {
+        "season": "Total",
+        "award": "All-Defensive Second Team: 1",
+        "rowClass": "row2",
         "isTotal": true,
         "label": "All-Defensive Second Team",
         "count": 1
@@ -30042,7 +30125,7 @@
       {
         "season": "2010",
         "award": "SWBA All-Defensive Second Team",
-        "rowClass": "row2",
+        "rowClass": "row1",
         "isTotal": false
       }
     ],
@@ -30074,7 +30157,7 @@
     "greed": "82",
     "playForWinner": "76",
     "loyalty": "34",
-    "happiness": "6",
+    "happiness": "7",
     "lastTeamId": "roster32",
     "lastTeam": "Toronto",
     "potentials": {
@@ -30617,7 +30700,7 @@
     "greed": "26",
     "playForWinner": "81",
     "loyalty": "15",
-    "happiness": "14",
+    "happiness": "10",
     "lastTeamId": "roster29",
     "lastTeam": "Portland",
     "potentials": {
@@ -31202,7 +31285,7 @@
     "team": "roster33",
     "teamLabel": "Warsaw Legia",
     "pos": "PG",
-    "age": "28",
+    "age": "29",
     "ht": "6-2",
     "wt": "205",
     "experience": "6 years",
@@ -31213,11 +31296,11 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 26",
+        "award": "Player of the Game: 27",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 26
+        "count": 27
       },
       {
         "season": "Total",
@@ -31231,11 +31314,11 @@
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 26",
+        "award": "Player of the Game: 27",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 26
+        "count": 27
       },
       {
         "season": "Total",
@@ -31275,7 +31358,7 @@
     "greed": "78",
     "playForWinner": "67",
     "loyalty": "2",
-    "happiness": "64",
+    "happiness": "65",
     "lastTeamId": "roster33",
     "lastTeam": "Warsaw Legia",
     "potentials": {
@@ -31663,11 +31746,11 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 31",
+        "award": "Player of the Game: 37",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 31
+        "count": 37
       },
       {
         "season": "Total",
@@ -31709,11 +31792,11 @@
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 31",
+        "award": "Player of the Game: 37",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 31
+        "count": 37
       },
       {
         "season": "Total",
@@ -31782,7 +31865,7 @@
     "greed": "37",
     "playForWinner": "78",
     "loyalty": "72",
-    "happiness": "43",
+    "happiness": "42",
     "lastTeamId": "roster12",
     "lastTeam": "Denver",
     "potentials": {
@@ -31862,11 +31945,11 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 8",
+        "award": "Player of the Game: 9",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 8
+        "count": 9
       },
       {
         "season": "Total",
@@ -31886,11 +31969,11 @@
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 8",
+        "award": "Player of the Game: 9",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 8
+        "count": 9
       },
       {
         "season": "Total",
@@ -31937,7 +32020,7 @@
     "greed": "76",
     "playForWinner": "41",
     "loyalty": "77",
-    "happiness": "83",
+    "happiness": "85",
     "lastTeamId": "roster12",
     "lastTeam": "Denver",
     "potentials": {
@@ -32076,7 +32159,7 @@
     "greed": "28",
     "playForWinner": "73",
     "loyalty": "66",
-    "happiness": "59",
+    "happiness": "58",
     "lastTeamId": "roster9",
     "lastTeam": "Chicago",
     "potentials": {
@@ -32145,7 +32228,7 @@
     "team": "Draft",
     "teamLabel": "Draft",
     "pos": "SF",
-    "age": "22",
+    "age": "23",
     "ht": "6-7",
     "wt": "228",
     "experience": "Rookie",
@@ -32516,7 +32599,7 @@
     "greed": "62",
     "playForWinner": "2",
     "loyalty": "73",
-    "happiness": "12",
+    "happiness": "9",
     "lastTeamId": "roster10",
     "lastTeam": "Cleveland",
     "potentials": {
@@ -32994,7 +33077,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "PF",
-    "age": "28",
+    "age": "29",
     "ht": "6-11",
     "wt": "214",
     "experience": "6 years",
@@ -33380,7 +33463,7 @@
     "greed": "76",
     "playForWinner": "94",
     "loyalty": "68",
-    "happiness": "19",
+    "happiness": "15",
     "lastTeamId": "roster31",
     "lastTeam": "San Antonio",
     "potentials": {
@@ -33449,7 +33532,7 @@
     "team": "Draft",
     "teamLabel": "Draft",
     "pos": "PF",
-    "age": "19",
+    "age": "20",
     "ht": "6-9",
     "wt": "226",
     "experience": "Rookie",
@@ -33563,21 +33646,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 6",
+        "award": "Player of the Game: 7",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 6
+        "count": 7
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 6",
+        "award": "Player of the Game: 7",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 6
+        "count": 7
       }
     ],
     "seasonAwards": [],
@@ -33609,7 +33692,7 @@
     "greed": "48",
     "playForWinner": "35",
     "loyalty": "49",
-    "happiness": "70",
+    "happiness": "72",
     "lastTeamId": "roster33",
     "lastTeam": "Warsaw Legia",
     "potentials": {
@@ -33820,7 +33903,7 @@
     "greed": "38",
     "playForWinner": "19",
     "loyalty": "68",
-    "happiness": "8",
+    "happiness": "6",
     "lastTeamId": "roster25",
     "lastTeam": "Oklahoma City",
     "potentials": {
@@ -34207,21 +34290,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 1",
+        "award": "Player of the Game: 2",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 1
+        "count": 2
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 1",
+        "award": "Player of the Game: 2",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 1
+        "count": 2
       }
     ],
     "seasonAwards": [],
@@ -34253,7 +34336,7 @@
     "greed": "94",
     "playForWinner": "11",
     "loyalty": "37",
-    "happiness": "62",
+    "happiness": "68",
     "lastTeamId": "roster28",
     "lastTeam": "Phoenix",
     "potentials": {
@@ -34376,7 +34459,7 @@
     "greed": "61",
     "playForWinner": "61",
     "loyalty": "49",
-    "happiness": "16",
+    "happiness": "14",
     "lastTeamId": "roster11",
     "lastTeam": "Dallas",
     "potentials": {
@@ -34564,21 +34647,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 12",
+        "award": "Player of the Game: 13",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 12
+        "count": 13
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 12",
+        "award": "Player of the Game: 13",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 12
+        "count": 13
       }
     ],
     "seasonAwards": [],
@@ -34610,7 +34693,7 @@
     "greed": "97",
     "playForWinner": "55",
     "loyalty": "49",
-    "happiness": "49",
+    "happiness": "53",
     "lastTeamId": "roster10",
     "lastTeam": "Cleveland",
     "potentials": {
@@ -34820,7 +34903,7 @@
     "greed": "44",
     "playForWinner": "26",
     "loyalty": "67",
-    "happiness": "52",
+    "happiness": "57",
     "lastTeamId": "roster29",
     "lastTeam": "Portland",
     "potentials": {
@@ -34900,21 +34983,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 8",
+        "award": "Player of the Game: 10",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 8
+        "count": 10
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 8",
+        "award": "Player of the Game: 10",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 8
+        "count": 10
       }
     ],
     "seasonAwards": [],
@@ -34946,7 +35029,7 @@
     "greed": "51",
     "playForWinner": "69",
     "loyalty": "76",
-    "happiness": "68",
+    "happiness": "61",
     "lastTeamId": "roster25",
     "lastTeam": "Oklahoma City",
     "potentials": {
@@ -35128,7 +35211,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "SF",
-    "age": "23",
+    "age": "24",
     "ht": "6-8",
     "wt": "213",
     "experience": "Rookie",
@@ -35681,7 +35764,7 @@
     "team": "roster5",
     "teamLabel": "Atlanta",
     "pos": "SG",
-    "age": "40",
+    "age": "41",
     "ht": "6-5",
     "wt": "197",
     "experience": "20 years",
@@ -35720,7 +35803,7 @@
     "Ins": "C",
     "Jps": "B",
     "Fts": "C+",
-    "3ps": "B-",
+    "3ps": "B",
     "Hnd": "A-",
     "Pas": "B-",
     "Orb": "C",
@@ -35733,12 +35816,12 @@
     "Str": "C",
     "Jmp": "C",
     "Sta": "D-",
-    "overall": "103",
-    "potential": "103",
+    "overall": "104",
+    "potential": "104",
     "greed": "88",
     "playForWinner": "21",
     "loyalty": "33",
-    "happiness": "71",
+    "happiness": "73",
     "lastTeamId": "roster5",
     "lastTeam": "Atlanta",
     "potentials": {
@@ -36022,11 +36105,11 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 43",
+        "award": "Player of the Game: 46",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 43
+        "count": 46
       },
       {
         "season": "Total",
@@ -36076,11 +36159,11 @@
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 43",
+        "award": "Player of the Game: 46",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 43
+        "count": 46
       },
       {
         "season": "Total",
@@ -36157,7 +36240,7 @@
     "greed": "54",
     "playForWinner": "38",
     "loyalty": "69",
-    "happiness": "57",
+    "happiness": "54",
     "lastTeamId": "roster19",
     "lastTeam": "Memphis",
     "potentials": {
@@ -36265,7 +36348,7 @@
     "greed": "32",
     "playForWinner": "37",
     "loyalty": "59",
-    "happiness": "16",
+    "happiness": "12",
     "lastTeamId": "roster28",
     "lastTeam": "Phoenix",
     "potentials": {
@@ -36373,7 +36456,7 @@
     "greed": "97",
     "playForWinner": "80",
     "loyalty": "55",
-    "happiness": "9",
+    "happiness": "10",
     "lastTeamId": "roster32",
     "lastTeam": "Toronto",
     "potentials": {
@@ -36453,19 +36536,19 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 49",
+        "award": "Player of the Game: 54",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 49
+        "count": 54
       },
       {
         "season": "Total",
-        "award": "Player of the Week: 2",
+        "award": "Player of the Week: 4",
         "rowClass": "row2",
         "isTotal": true,
         "label": "Player of the Week",
-        "count": 2
+        "count": 4
       },
       {
         "season": "Total",
@@ -36521,19 +36604,19 @@
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 49",
+        "award": "Player of the Game: 54",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 49
+        "count": 54
       },
       {
         "season": "Total",
-        "award": "Player of the Week: 2",
+        "award": "Player of the Week: 4",
         "rowClass": "row2",
         "isTotal": true,
         "label": "Player of the Week",
-        "count": 2
+        "count": 4
       },
       {
         "season": "Total",
@@ -36621,7 +36704,7 @@
     "greed": "97",
     "playForWinner": "41",
     "loyalty": "4",
-    "happiness": "52",
+    "happiness": "50",
     "lastTeamId": "roster12",
     "lastTeam": "Denver",
     "potentials": {
@@ -36701,21 +36784,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 7",
+        "award": "Player of the Game: 8",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 7
+        "count": 8
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 7",
+        "award": "Player of the Game: 8",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 7
+        "count": 8
       }
     ],
     "seasonAwards": [],
@@ -36747,7 +36830,7 @@
     "greed": "76",
     "playForWinner": "13",
     "loyalty": "71",
-    "happiness": "84",
+    "happiness": "86",
     "lastTeamId": "roster9",
     "lastTeam": "Chicago",
     "potentials": {
@@ -36873,7 +36956,7 @@
     "greed": "23",
     "playForWinner": "42",
     "loyalty": "89",
-    "happiness": "31",
+    "happiness": "30",
     "lastTeamId": "roster26",
     "lastTeam": "St. John's",
     "potentials": {
@@ -37464,7 +37547,7 @@
     "team": "Draft",
     "teamLabel": "Draft",
     "pos": "PF",
-    "age": "18",
+    "age": "19",
     "ht": "6-10",
     "wt": "230",
     "experience": "Rookie",
@@ -37919,7 +38002,7 @@
     "greed": "93",
     "playForWinner": "69",
     "loyalty": "72",
-    "happiness": "79",
+    "happiness": "84",
     "lastTeamId": "roster12",
     "lastTeam": "Denver",
     "potentials": {
@@ -38346,7 +38429,7 @@
     "greed": "88",
     "playForWinner": "11",
     "loyalty": "93",
-    "happiness": "16",
+    "happiness": "15",
     "lastTeamId": "roster11",
     "lastTeam": "Dallas",
     "potentials": {
@@ -38631,21 +38714,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 10",
+        "award": "Player of the Game: 16",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 10
+        "count": 16
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 10",
+        "award": "Player of the Game: 16",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 10
+        "count": 16
       }
     ],
     "seasonAwards": [],
@@ -38677,7 +38760,7 @@
     "greed": "36",
     "playForWinner": "51",
     "loyalty": "3",
-    "happiness": "55",
+    "happiness": "53",
     "lastTeamId": "roster26",
     "lastTeam": "St. John's",
     "potentials": {
@@ -38922,7 +39005,7 @@
     "greed": "19",
     "playForWinner": "42",
     "loyalty": "8",
-    "happiness": "78",
+    "happiness": "79",
     "lastTeamId": "roster5",
     "lastTeam": "Atlanta",
     "potentials": {
@@ -39777,7 +39860,7 @@
     "greed": "84",
     "playForWinner": "71",
     "loyalty": "34",
-    "happiness": "17",
+    "happiness": "16",
     "lastTeamId": "roster14",
     "lastTeam": "Golden State",
     "potentials": {
@@ -39846,7 +39929,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "PG",
-    "age": "22",
+    "age": "23",
     "ht": "6-3",
     "wt": "191",
     "experience": "Rookie",
@@ -39947,7 +40030,7 @@
     "url": "../players/player275.htm",
     "team": "roster22",
     "teamLabel": "Minnesota",
-    "pos": "PF",
+    "pos": "SF",
     "age": "30",
     "ht": "6-6",
     "wt": "195",
@@ -39987,7 +40070,7 @@
     "greed": "5",
     "playForWinner": "42",
     "loyalty": "1",
-    "happiness": "32",
+    "happiness": "33",
     "lastTeamId": "roster22",
     "lastTeam": "Minnesota",
     "potentials": {
@@ -40158,7 +40241,7 @@
     "team": "roster32",
     "teamLabel": "Toronto",
     "pos": "C",
-    "age": "28",
+    "age": "29",
     "ht": "7-0",
     "wt": "232",
     "experience": "6 years",
@@ -40169,11 +40252,11 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 28",
+        "award": "Player of the Game: 30",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 28
+        "count": 30
       },
       {
         "season": "Total",
@@ -40221,11 +40304,11 @@
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 28",
+        "award": "Player of the Game: 30",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 28
+        "count": 30
       },
       {
         "season": "Total",
@@ -40300,7 +40383,7 @@
     "greed": "74",
     "playForWinner": "7",
     "loyalty": "18",
-    "happiness": "58",
+    "happiness": "56",
     "lastTeamId": "roster32",
     "lastTeam": "Toronto",
     "potentials": {
@@ -40483,11 +40566,11 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 7",
+        "award": "Player of the Game: 9",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 7
+        "count": 9
       },
       {
         "season": "2010",
@@ -40505,11 +40588,11 @@
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 7",
+        "award": "Player of the Game: 9",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 7
+        "count": 9
       }
     ],
     "seasonAwards": [
@@ -40554,7 +40637,7 @@
     "greed": "38",
     "playForWinner": "10",
     "loyalty": "74",
-    "happiness": "62",
+    "happiness": "64",
     "lastTeamId": "roster24",
     "lastTeam": "New York",
     "potentials": {
@@ -40889,7 +40972,7 @@
     "greed": "32",
     "playForWinner": "69",
     "loyalty": "41",
-    "happiness": "5",
+    "happiness": "4",
     "lastTeamId": "roster7",
     "lastTeam": "New Jersey",
     "potentials": {
@@ -41287,21 +41370,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 7",
+        "award": "Player of the Game: 8",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 7
+        "count": 8
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 7",
+        "award": "Player of the Game: 8",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 7
+        "count": 8
       }
     ],
     "seasonAwards": [],
@@ -41333,7 +41416,7 @@
     "greed": "58",
     "playForWinner": "21",
     "loyalty": "19",
-    "happiness": "7",
+    "happiness": "5",
     "lastTeamId": "roster23",
     "lastTeam": "New Orleans",
     "potentials": {
@@ -41464,7 +41547,7 @@
     "greed": "31",
     "playForWinner": "24",
     "loyalty": "75",
-    "happiness": "41",
+    "happiness": "40",
     "lastTeamId": "roster30",
     "lastTeam": "Sacramento",
     "potentials": {
@@ -41533,7 +41616,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "SG",
-    "age": "31",
+    "age": "32",
     "ht": "6-6",
     "wt": "202",
     "experience": "Rookie",
@@ -41749,21 +41832,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 1",
+        "award": "Player of the Game: 2",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 1
+        "count": 2
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 1",
+        "award": "Player of the Game: 2",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 1
+        "count": 2
       }
     ],
     "seasonAwards": [],
@@ -41795,7 +41878,7 @@
     "greed": "28",
     "playForWinner": "49",
     "loyalty": "31",
-    "happiness": "30",
+    "happiness": "28",
     "lastTeamId": "roster14",
     "lastTeam": "Golden State",
     "potentials": {
@@ -42142,7 +42225,7 @@
     "greed": "96",
     "playForWinner": "30",
     "loyalty": "54",
-    "happiness": "8",
+    "happiness": "6",
     "lastTeamId": "roster22",
     "lastTeam": "Minnesota",
     "potentials": {
@@ -42575,7 +42658,7 @@
     "greed": "65",
     "playForWinner": "87",
     "loyalty": "46",
-    "happiness": "59",
+    "happiness": "61",
     "lastTeamId": "roster29",
     "lastTeam": "Portland",
     "potentials": {
@@ -42772,6 +42855,11 @@
         "date": "2011-07-31",
         "action": "Traded to Sacramento",
         "rowClass": "row1"
+      },
+      {
+        "date": "2012-01-02",
+        "action": "Signed a contract extension for $6,748,628 over 3 years.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "C+",
@@ -42795,7 +42883,7 @@
     "greed": "22",
     "playForWinner": "80",
     "loyalty": "46",
-    "happiness": "20",
+    "happiness": "15",
     "lastTeamId": "roster30",
     "lastTeam": "Sacramento",
     "potentials": {
@@ -42822,18 +42910,18 @@
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 2122210.0,
+        "salaryText": "$2,122,210"
       },
       {
         "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 2249543.0,
+        "salaryText": "$2,249,543"
       },
       {
         "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 2376875.0,
+        "salaryText": "$2,376,875"
       },
       {
         "year": "2015",
@@ -43005,7 +43093,7 @@
     "greed": "48",
     "playForWinner": "75",
     "loyalty": "13",
-    "happiness": "66",
+    "happiness": "69",
     "lastTeamId": "roster24",
     "lastTeam": "New York",
     "potentials": {
@@ -43291,21 +43379,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 8",
+        "award": "Player of the Game: 10",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 8
+        "count": 10
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 8",
+        "award": "Player of the Game: 10",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 8
+        "count": 10
       }
     ],
     "seasonAwards": [],
@@ -43337,7 +43425,7 @@
     "greed": "24",
     "playForWinner": "74",
     "loyalty": "8",
-    "happiness": "39",
+    "happiness": "38",
     "lastTeamId": "roster34",
     "lastTeam": "Washington",
     "potentials": {
@@ -43406,7 +43494,7 @@
     "team": "Draft",
     "teamLabel": "Draft",
     "pos": "SG",
-    "age": "20",
+    "age": "21",
     "ht": "6-5",
     "wt": "192",
     "experience": "Rookie",
@@ -43520,11 +43608,11 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 33",
+        "award": "Player of the Game: 36",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 33
+        "count": 36
       },
       {
         "season": "Total",
@@ -43608,11 +43696,11 @@
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 33",
+        "award": "Player of the Game: 36",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 33
+        "count": 36
       },
       {
         "season": "Total",
@@ -43723,7 +43811,7 @@
     "greed": "18",
     "playForWinner": "84",
     "loyalty": "6",
-    "happiness": "61",
+    "happiness": "55",
     "lastTeamId": "roster25",
     "lastTeam": "Oklahoma City",
     "potentials": {
@@ -43831,7 +43919,7 @@
     "greed": "51",
     "playForWinner": "23",
     "loyalty": "23",
-    "happiness": "9",
+    "happiness": "10",
     "lastTeamId": "roster13",
     "lastTeam": "Detroit",
     "potentials": {
@@ -44065,7 +44153,7 @@
     "greed": "100",
     "playForWinner": "55",
     "loyalty": "70",
-    "happiness": "53",
+    "happiness": "51",
     "lastTeamId": "roster31",
     "lastTeam": "San Antonio",
     "potentials": {
@@ -44253,21 +44341,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 8",
+        "award": "Player of the Game: 9",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 8
+        "count": 9
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 8",
+        "award": "Player of the Game: 9",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 8
+        "count": 9
       }
     ],
     "seasonAwards": [],
@@ -44299,7 +44387,7 @@
     "greed": "52",
     "playForWinner": "79",
     "loyalty": "36",
-    "happiness": "49",
+    "happiness": "53",
     "lastTeamId": "roster10",
     "lastTeam": "Cleveland",
     "potentials": {
@@ -44407,7 +44495,7 @@
     "greed": "80",
     "playForWinner": "93",
     "loyalty": "78",
-    "happiness": "45",
+    "happiness": "49",
     "lastTeamId": "roster9",
     "lastTeam": "Chicago",
     "potentials": {
@@ -44579,7 +44667,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "C",
-    "age": "29",
+    "age": "30",
     "ht": "6-11",
     "wt": "217",
     "experience": "7 years",
@@ -45440,8 +45528,26 @@
     "source": "player_page",
     "currentSalary": 6076829.0,
     "currentSalaryText": "$6,076,829",
-    "awards": [],
-    "achievementTotals": [],
+    "awards": [
+      {
+        "season": "Total",
+        "award": "Player of the Game: 1",
+        "rowClass": "row1",
+        "isTotal": true,
+        "label": "Player of the Game",
+        "count": 1
+      }
+    ],
+    "achievementTotals": [
+      {
+        "season": "Total",
+        "award": "Player of the Game: 1",
+        "rowClass": "row1",
+        "isTotal": true,
+        "label": "Player of the Game",
+        "count": 1
+      }
+    ],
     "seasonAwards": [],
     "transactions": [
       {
@@ -45471,7 +45577,7 @@
     "greed": "16",
     "playForWinner": "24",
     "loyalty": "65",
-    "happiness": "58",
+    "happiness": "61",
     "lastTeamId": "roster14",
     "lastTeam": "Golden State",
     "potentials": {
@@ -45579,7 +45685,7 @@
     "greed": "79",
     "playForWinner": "76",
     "loyalty": "35",
-    "happiness": "3",
+    "happiness": "2",
     "lastTeamId": "roster14",
     "lastTeam": "Golden State",
     "potentials": {
@@ -45751,7 +45857,7 @@
     "team": "roster27",
     "teamLabel": "Philadelphia",
     "pos": "PG",
-    "age": "34",
+    "age": "35",
     "ht": "6-3",
     "wt": "196",
     "experience": "13 years",
@@ -45762,11 +45868,11 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 42",
+        "award": "Player of the Game: 45",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 42
+        "count": 45
       },
       {
         "season": "Total",
@@ -45830,11 +45936,11 @@
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 42",
+        "award": "Player of the Game: 45",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 42
+        "count": 45
       },
       {
         "season": "Total",
@@ -45925,7 +46031,7 @@
     "greed": "41",
     "playForWinner": "21",
     "loyalty": "9",
-    "happiness": "60",
+    "happiness": "61",
     "lastTeamId": "roster27",
     "lastTeam": "Philadelphia",
     "potentials": {
@@ -46051,7 +46157,7 @@
     "greed": "66",
     "playForWinner": "73",
     "loyalty": "4",
-    "happiness": "76",
+    "happiness": "78",
     "lastTeamId": "roster23",
     "lastTeam": "New Orleans",
     "potentials": {
@@ -46875,7 +46981,7 @@
     "team": "Draft",
     "teamLabel": "Draft",
     "pos": "PF",
-    "age": "19",
+    "age": "20",
     "ht": "6-8",
     "wt": "222",
     "experience": "Rookie",
@@ -47303,11 +47409,11 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 18",
+        "award": "Player of the Game: 19",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 18
+        "count": 19
       },
       {
         "season": "Total",
@@ -47321,11 +47427,11 @@
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 18",
+        "award": "Player of the Game: 19",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 18
+        "count": 19
       },
       {
         "season": "Total",
@@ -47660,21 +47766,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 5",
+        "award": "Player of the Game: 6",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 5
+        "count": 6
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 5",
+        "award": "Player of the Game: 6",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 5
+        "count": 6
       }
     ],
     "seasonAwards": [],
@@ -47711,7 +47817,7 @@
     "greed": "41",
     "playForWinner": "82",
     "loyalty": "70",
-    "happiness": "63",
+    "happiness": "68",
     "lastTeamId": "roster14",
     "lastTeam": "Golden State",
     "potentials": {
@@ -47837,7 +47943,7 @@
     "greed": "57",
     "playForWinner": "61",
     "loyalty": "64",
-    "happiness": "38",
+    "happiness": "37",
     "lastTeamId": "roster20",
     "lastTeam": "Miami",
     "potentials": {
@@ -48127,21 +48233,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 7",
+        "award": "Player of the Game: 9",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 7
+        "count": 9
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 7",
+        "award": "Player of the Game: 9",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 7
+        "count": 9
       }
     ],
     "seasonAwards": [],
@@ -48173,7 +48279,7 @@
     "greed": "86",
     "playForWinner": "63",
     "loyalty": "29",
-    "happiness": "52",
+    "happiness": "49",
     "lastTeamId": "roster19",
     "lastTeam": "Memphis",
     "potentials": {
@@ -48291,7 +48397,7 @@
     "greed": "64",
     "playForWinner": "89",
     "loyalty": "79",
-    "happiness": "17",
+    "happiness": "18",
     "lastTeamId": "roster32",
     "lastTeam": "Toronto",
     "potentials": {
@@ -48399,7 +48505,7 @@
     "greed": "27",
     "playForWinner": "68",
     "loyalty": "81",
-    "happiness": "16",
+    "happiness": "12",
     "lastTeamId": "roster26",
     "lastTeam": "St. John's",
     "potentials": {
@@ -48764,21 +48870,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 20",
+        "award": "Player of the Game: 21",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 20
+        "count": 21
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 20",
+        "award": "Player of the Game: 21",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 20
+        "count": 21
       }
     ],
     "seasonAwards": [],
@@ -48815,7 +48921,7 @@
     "greed": "52",
     "playForWinner": "8",
     "loyalty": "32",
-    "happiness": "55",
+    "happiness": "54",
     "lastTeamId": "roster31",
     "lastTeam": "San Antonio",
     "potentials": {
@@ -48923,7 +49029,7 @@
     "greed": "54",
     "playForWinner": "71",
     "loyalty": "48",
-    "happiness": "39",
+    "happiness": "40",
     "lastTeamId": "roster14",
     "lastTeam": "Golden State",
     "potentials": {
@@ -49031,7 +49137,7 @@
     "greed": "48",
     "playForWinner": "36",
     "loyalty": "33",
-    "happiness": "40",
+    "happiness": "37",
     "lastTeamId": "roster11",
     "lastTeam": "Dallas",
     "potentials": {
@@ -49257,7 +49363,7 @@
     "greed": "12",
     "playForWinner": "84",
     "loyalty": "30",
-    "happiness": "58",
+    "happiness": "53",
     "lastTeamId": "roster25",
     "lastTeam": "Oklahoma City",
     "potentials": {
@@ -49365,7 +49471,7 @@
     "greed": "29",
     "playForWinner": "43",
     "loyalty": "78",
-    "happiness": "34",
+    "happiness": "26",
     "lastTeamId": "roster27",
     "lastTeam": "Philadelphia",
     "potentials": {
@@ -49547,21 +49653,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 12",
+        "award": "Player of the Game: 13",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 12
+        "count": 13
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 12",
+        "award": "Player of the Game: 13",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 12
+        "count": 13
       }
     ],
     "seasonAwards": [],
@@ -49593,7 +49699,7 @@
     "greed": "38",
     "playForWinner": "59",
     "loyalty": "64",
-    "happiness": "41",
+    "happiness": "39",
     "lastTeamId": "roster14",
     "lastTeam": "Golden State",
     "potentials": {
@@ -49763,7 +49869,7 @@
     "url": "../players/player777.htm",
     "team": "roster16",
     "teamLabel": "Indiana",
-    "pos": "SG",
+    "pos": "SF",
     "age": "22",
     "ht": "6-5",
     "wt": "204",
@@ -49803,7 +49909,7 @@
     "greed": "89",
     "playForWinner": "55",
     "loyalty": "53",
-    "happiness": "16",
+    "happiness": "12",
     "lastTeamId": "roster16",
     "lastTeam": "Indiana",
     "potentials": {
@@ -49911,7 +50017,7 @@
     "greed": "32",
     "playForWinner": "98",
     "loyalty": "30",
-    "happiness": "16",
+    "happiness": "12",
     "lastTeamId": "roster33",
     "lastTeam": "Warsaw Legia",
     "potentials": {
@@ -50202,21 +50308,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 3",
+        "award": "Player of the Game: 5",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 3
+        "count": 5
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 3",
+        "award": "Player of the Game: 5",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 3
+        "count": 5
       }
     ],
     "seasonAwards": [],
@@ -50248,7 +50354,7 @@
     "greed": "46",
     "playForWinner": "40",
     "loyalty": "31",
-    "happiness": "58",
+    "happiness": "54",
     "lastTeamId": "roster34",
     "lastTeam": "Washington",
     "potentials": {
@@ -50317,7 +50423,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "PG",
-    "age": "29",
+    "age": "30",
     "ht": "6-0",
     "wt": "207",
     "experience": "9 years",
@@ -50538,11 +50644,11 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 9",
+        "award": "Player of the Game: 11",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 9
+        "count": 11
       },
       {
         "season": "Total",
@@ -50570,11 +50676,11 @@
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 9",
+        "award": "Player of the Game: 11",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 9
+        "count": 11
       },
       {
         "season": "Total",
@@ -51015,7 +51121,7 @@
     "team": "roster23",
     "teamLabel": "New Orleans",
     "pos": "PF",
-    "age": "30",
+    "age": "31",
     "ht": "6-9",
     "wt": "235",
     "experience": "8 years",
@@ -51026,11 +51132,11 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 31",
+        "award": "Player of the Game: 37",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 31
+        "count": 37
       },
       {
         "season": "Total",
@@ -51072,11 +51178,11 @@
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 31",
+        "award": "Player of the Game: 37",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 31
+        "count": 37
       },
       {
         "season": "Total",
@@ -51145,7 +51251,7 @@
     "greed": "91",
     "playForWinner": "94",
     "loyalty": "30",
-    "happiness": "62",
+    "happiness": "64",
     "lastTeamId": "roster23",
     "lastTeam": "New Orleans",
     "potentials": {
@@ -51253,7 +51359,7 @@
     "greed": "16",
     "playForWinner": "86",
     "loyalty": "55",
-    "happiness": "34",
+    "happiness": "33",
     "lastTeamId": "roster6",
     "lastTeam": "Boston",
     "potentials": {
@@ -51635,7 +51741,7 @@
     "team": "Draft",
     "teamLabel": "Draft",
     "pos": "PG",
-    "age": "21",
+    "age": "22",
     "ht": "6-7",
     "wt": "183",
     "experience": "Rookie",
@@ -51846,7 +51952,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "PG",
-    "age": "21",
+    "age": "22",
     "ht": "6-1",
     "wt": "216",
     "experience": "Rookie",
@@ -52034,7 +52140,7 @@
     "greed": "67",
     "playForWinner": "33",
     "loyalty": "12",
-    "happiness": "48",
+    "happiness": "47",
     "lastTeamId": "roster20",
     "lastTeam": "Miami",
     "potentials": {
@@ -52114,16 +52220,24 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 25",
+        "award": "Player of the Game: 28",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 25
+        "count": 28
+      },
+      {
+        "season": "Total",
+        "award": "Player of the Week: 1",
+        "rowClass": "row2",
+        "isTotal": true,
+        "label": "Player of the Week",
+        "count": 1
       },
       {
         "season": "Total",
         "award": "All-Defensive First Team: 1",
-        "rowClass": "row2",
+        "rowClass": "row1",
         "isTotal": true,
         "label": "All-Defensive First Team",
         "count": 1
@@ -52131,23 +52245,31 @@
       {
         "season": "2010",
         "award": "SWBA All-Defensive First Team",
-        "rowClass": "row1",
+        "rowClass": "row2",
         "isTotal": false
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 25",
+        "award": "Player of the Game: 28",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 25
+        "count": 28
+      },
+      {
+        "season": "Total",
+        "award": "Player of the Week: 1",
+        "rowClass": "row2",
+        "isTotal": true,
+        "label": "Player of the Week",
+        "count": 1
       },
       {
         "season": "Total",
         "award": "All-Defensive First Team: 1",
-        "rowClass": "row2",
+        "rowClass": "row1",
         "isTotal": true,
         "label": "All-Defensive First Team",
         "count": 1
@@ -52157,7 +52279,7 @@
       {
         "season": "2010",
         "award": "SWBA All-Defensive First Team",
-        "rowClass": "row1",
+        "rowClass": "row2",
         "isTotal": false
       }
     ],
@@ -52189,7 +52311,7 @@
     "greed": "14",
     "playForWinner": "87",
     "loyalty": "36",
-    "happiness": "82",
+    "happiness": "85",
     "lastTeamId": "roster15",
     "lastTeam": "Houston",
     "potentials": {
@@ -52399,7 +52521,7 @@
     "greed": "26",
     "playForWinner": "62",
     "loyalty": "10",
-    "happiness": "66",
+    "happiness": "68",
     "lastTeamId": "roster9",
     "lastTeam": "Chicago",
     "potentials": {
@@ -52507,7 +52629,7 @@
     "greed": "73",
     "playForWinner": "98",
     "loyalty": "12",
-    "happiness": "5",
+    "happiness": "4",
     "lastTeamId": "roster22",
     "lastTeam": "Minnesota",
     "potentials": {
@@ -52649,7 +52771,7 @@
     "greed": "34",
     "playForWinner": "26",
     "loyalty": "53",
-    "happiness": "56",
+    "happiness": "54",
     "lastTeamId": "roster26",
     "lastTeam": "St. John's",
     "potentials": {
@@ -52901,7 +53023,7 @@
     "Str": "F-",
     "Jmp": "B-",
     "Sta": "C+",
-    "overall": "104",
+    "overall": "105",
     "potential": "105",
     "greed": "90",
     "playForWinner": "83",
@@ -52986,21 +53108,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 9",
+        "award": "Player of the Game: 10",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 9
+        "count": 10
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 9",
+        "award": "Player of the Game: 10",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 9
+        "count": 10
       }
     ],
     "seasonAwards": [],
@@ -53032,7 +53154,7 @@
     "greed": "81",
     "playForWinner": "57",
     "loyalty": "36",
-    "happiness": "65",
+    "happiness": "67",
     "lastTeamId": "roster28",
     "lastTeam": "Phoenix",
     "potentials": {
@@ -53322,7 +53444,7 @@
     "team": "roster32",
     "teamLabel": "Toronto",
     "pos": "PG",
-    "age": "28",
+    "age": "29",
     "ht": "6-0",
     "wt": "214",
     "experience": "7 years",
@@ -53430,7 +53552,7 @@
     "team": "roster19",
     "teamLabel": "Memphis",
     "pos": "C",
-    "age": "29",
+    "age": "30",
     "ht": "7-2",
     "wt": "244",
     "experience": "11 years",
@@ -53487,7 +53609,7 @@
     "greed": "65",
     "playForWinner": "43",
     "loyalty": "98",
-    "happiness": "15",
+    "happiness": "11",
     "lastTeamId": "roster19",
     "lastTeam": "Memphis",
     "potentials": {
@@ -54028,7 +54150,7 @@
     "greed": "62",
     "playForWinner": "88",
     "loyalty": "10",
-    "happiness": "45",
+    "happiness": "41",
     "lastTeamId": "roster32",
     "lastTeam": "Toronto",
     "potentials": {
@@ -54505,7 +54627,7 @@
     "url": "../players/player118.htm",
     "team": "roster10",
     "teamLabel": "Cleveland",
-    "pos": "C",
+    "pos": "PG",
     "age": "31",
     "ht": "7-3",
     "wt": "228",
@@ -55045,21 +55167,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 4",
+        "award": "Player of the Game: 5",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 4
+        "count": 5
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 4",
+        "award": "Player of the Game: 5",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 4
+        "count": 5
       }
     ],
     "seasonAwards": [],
@@ -55091,7 +55213,7 @@
     "greed": "27",
     "playForWinner": "72",
     "loyalty": "4",
-    "happiness": "48",
+    "happiness": "52",
     "lastTeamId": "roster17",
     "lastTeam": "Los Angeles (LAC)",
     "potentials": {
@@ -55160,7 +55282,7 @@
     "team": "roster7",
     "teamLabel": "New Jersey",
     "pos": "PG",
-    "age": "26",
+    "age": "27",
     "ht": "6-8",
     "wt": "214",
     "experience": "8 years",
@@ -55194,6 +55316,11 @@
         "date": "10/8/2011",
         "action": "Drafted by New Jersey with pick #24 of round 4 of the creation draft.",
         "rowClass": "row1"
+      },
+      {
+        "date": "2012-01-02",
+        "action": "Signed a contract extension for $26,055,680 over 3 years.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "C-",
@@ -55217,7 +55344,7 @@
     "greed": "56",
     "playForWinner": "19",
     "loyalty": "32",
-    "happiness": "72",
+    "happiness": "69",
     "lastTeamId": "roster7",
     "lastTeam": "New Jersey",
     "potentials": {
@@ -55244,18 +55371,18 @@
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 8193610.0,
+        "salaryText": "$8,193,610"
       },
       {
         "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 8685227.0,
+        "salaryText": "$8,685,227"
       },
       {
         "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 9176843.0,
+        "salaryText": "$9,176,843"
       },
       {
         "year": "2015",
@@ -55821,21 +55948,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 4",
+        "award": "Player of the Game: 6",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 4
+        "count": 6
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 4",
+        "award": "Player of the Game: 6",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 4
+        "count": 6
       }
     ],
     "seasonAwards": [],
@@ -55936,7 +56063,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "SG",
-    "age": "27",
+    "age": "28",
     "ht": "6-5",
     "wt": "182",
     "experience": "Rookie",
@@ -56402,7 +56529,7 @@
     "greed": "72",
     "playForWinner": "52",
     "loyalty": "97",
-    "happiness": "36",
+    "happiness": "33",
     "lastTeamId": "roster18",
     "lastTeam": "Los Angeles (LAL)",
     "potentials": {
@@ -56505,6 +56632,11 @@
         "date": "10/8/2011",
         "action": "Drafted by New York with pick #2 of round 6 of the creation draft.",
         "rowClass": "row1"
+      },
+      {
+        "date": "2012-01-02",
+        "action": "Signed a contract extension for $26,273,160 over 3 years.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "B-",
@@ -56528,7 +56660,7 @@
     "greed": "9",
     "playForWinner": "40",
     "loyalty": "28",
-    "happiness": "58",
+    "happiness": "54",
     "lastTeamId": "roster24",
     "lastTeam": "New York",
     "potentials": {
@@ -56555,18 +56687,18 @@
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 8262000.0,
+        "salaryText": "$8,262,000"
       },
       {
         "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 8757720.0,
+        "salaryText": "$8,757,720"
       },
       {
         "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 9253440.0,
+        "salaryText": "$9,253,440"
       },
       {
         "year": "2015",
@@ -56597,7 +56729,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "PF",
-    "age": "19",
+    "age": "20",
     "ht": "6-7",
     "wt": "222",
     "experience": "1 year",
@@ -56726,21 +56858,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 20",
+        "award": "Player of the Game: 21",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 20
+        "count": 21
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 20",
+        "award": "Player of the Game: 21",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 20
+        "count": 21
       }
     ],
     "seasonAwards": [],
@@ -56768,18 +56900,18 @@
     "Jmp": "C+",
     "Sta": "A",
     "overall": "114",
-    "potential": "114",
+    "potential": "115",
     "greed": "82",
     "playForWinner": "49",
     "loyalty": "11",
-    "happiness": "36",
+    "happiness": "34",
     "lastTeamId": "roster14",
     "lastTeam": "Golden State",
     "potentials": {
       "Ins": "C",
       "Jps": "B",
       "Fts": "C",
-      "3ps": "B",
+      "3ps": "A",
       "Hnd": "B",
       "Pas": "B",
       "Orb": "C",
@@ -56790,7 +56922,7 @@
       "Blk": "D"
     },
     "potentialCurrentColor": "#307B1A",
-    "potentialFutureColor": "#307B1A",
+    "potentialFutureColor": "#0052C3",
     "contracts": [
       {
         "year": "2011",
@@ -56880,7 +57012,7 @@
     "greed": "14",
     "playForWinner": "80",
     "loyalty": "19",
-    "happiness": "20",
+    "happiness": "24",
     "lastTeamId": "roster28",
     "lastTeam": "Phoenix",
     "potentials": {
@@ -56988,7 +57120,7 @@
     "greed": "52",
     "playForWinner": "1",
     "loyalty": "86",
-    "happiness": "68",
+    "happiness": "76",
     "lastTeamId": "roster7",
     "lastTeam": "New Jersey",
     "potentials": {
@@ -57198,7 +57330,7 @@
     "greed": "63",
     "playForWinner": "72",
     "loyalty": "23",
-    "happiness": "16",
+    "happiness": "12",
     "lastTeamId": "roster6",
     "lastTeam": "Boston",
     "potentials": {
@@ -57353,7 +57485,7 @@
     "greed": "56",
     "playForWinner": "77",
     "loyalty": "95",
-    "happiness": "43",
+    "happiness": "45",
     "lastTeamId": "roster12",
     "lastTeam": "Denver",
     "potentials": {
@@ -57479,7 +57611,7 @@
     "greed": "27",
     "playForWinner": "50",
     "loyalty": "14",
-    "happiness": "12",
+    "happiness": "9",
     "lastTeamId": "roster20",
     "lastTeam": "Miami",
     "potentials": {
@@ -57650,7 +57782,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "SF",
-    "age": "28",
+    "age": "29",
     "ht": "6-8",
     "wt": "200",
     "experience": "5 years",
@@ -58041,7 +58173,7 @@
     "greed": "95",
     "playForWinner": "45",
     "loyalty": "56",
-    "happiness": "25",
+    "happiness": "23",
     "lastTeamId": "roster30",
     "lastTeam": "Sacramento",
     "potentials": {
@@ -58370,7 +58502,7 @@
     "greed": "10",
     "playForWinner": "80",
     "loyalty": "43",
-    "happiness": "56",
+    "happiness": "54",
     "lastTeamId": "roster26",
     "lastTeam": "St. John's",
     "potentials": {
@@ -58809,7 +58941,7 @@
     "Ins": "B",
     "Jps": "D+",
     "Fts": "A-",
-    "3ps": "B+",
+    "3ps": "A-",
     "Hnd": "C",
     "Pas": "C-",
     "Orb": "D",
@@ -58822,12 +58954,12 @@
     "Str": "C+",
     "Jmp": "B+",
     "Sta": "A-",
-    "overall": "89",
+    "overall": "90",
     "potential": "127",
     "greed": "100",
     "playForWinner": "100",
     "loyalty": "100",
-    "happiness": "26",
+    "happiness": "20",
     "lastTeamId": "roster11",
     "lastTeam": "Dallas",
     "potentials": {
@@ -58896,7 +59028,7 @@
     "team": "roster21",
     "teamLabel": "Milwaukee",
     "pos": "SG",
-    "age": "23",
+    "age": "24",
     "ht": "6-8",
     "wt": "219",
     "experience": "5 years",
@@ -58907,21 +59039,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 12",
+        "award": "Player of the Game: 14",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 12
+        "count": 14
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 12",
+        "award": "Player of the Game: 14",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 12
+        "count": 14
       }
     ],
     "seasonAwards": [],
@@ -58953,7 +59085,7 @@
     "greed": "2",
     "playForWinner": "72",
     "loyalty": "57",
-    "happiness": "55",
+    "happiness": "52",
     "lastTeamId": "roster21",
     "lastTeam": "Milwaukee",
     "potentials": {
@@ -59066,7 +59198,7 @@
     "greed": "42",
     "playForWinner": "89",
     "loyalty": "1",
-    "happiness": "6",
+    "happiness": "5",
     "lastTeamId": "roster22",
     "lastTeam": "Minnesota",
     "potentials": {
@@ -59351,7 +59483,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "C",
-    "age": "21",
+    "age": "22",
     "ht": "6-11",
     "wt": "262",
     "experience": "Rookie",
@@ -59547,7 +59679,7 @@
     "greed": "78",
     "playForWinner": "30",
     "loyalty": "88",
-    "happiness": "78",
+    "happiness": "74",
     "lastTeamId": "roster16",
     "lastTeam": "Indiana",
     "potentials": {
@@ -59969,7 +60101,7 @@
     "greed": "66",
     "playForWinner": "79",
     "loyalty": "82",
-    "happiness": "12",
+    "happiness": "9",
     "lastTeamId": "roster8",
     "lastTeam": "Charlotte",
     "potentials": {
@@ -60077,7 +60209,7 @@
     "greed": "49",
     "playForWinner": "73",
     "loyalty": "12",
-    "happiness": "29",
+    "happiness": "28",
     "lastTeamId": "roster24",
     "lastTeam": "New York",
     "potentials": {
@@ -60203,7 +60335,7 @@
     "greed": "91",
     "playForWinner": "23",
     "loyalty": "100",
-    "happiness": "38",
+    "happiness": "37",
     "lastTeamId": "roster11",
     "lastTeam": "Dallas",
     "potentials": {
@@ -60476,7 +60608,7 @@
     "team": "roster26",
     "teamLabel": "St. John's",
     "pos": "PF",
-    "age": "36",
+    "age": "37",
     "ht": "6-7",
     "wt": "198",
     "experience": "18 years",
@@ -60520,7 +60652,7 @@
     "greed": "2",
     "playForWinner": "55",
     "loyalty": "45",
-    "happiness": "16",
+    "happiness": "12",
     "lastTeamId": "roster26",
     "lastTeam": "St. John's",
     "potentials": {
@@ -60628,7 +60760,7 @@
     "greed": "34",
     "playForWinner": "24",
     "loyalty": "91",
-    "happiness": "26",
+    "happiness": "29",
     "lastTeamId": "roster23",
     "lastTeam": "New Orleans",
     "potentials": {
@@ -60965,7 +61097,7 @@
     "greed": "73",
     "playForWinner": "94",
     "loyalty": "7",
-    "happiness": "34",
+    "happiness": "33",
     "lastTeamId": "roster34",
     "lastTeam": "Washington",
     "potentials": {
@@ -61034,7 +61166,7 @@
     "team": "roster33",
     "teamLabel": "Warsaw Legia",
     "pos": "PG",
-    "age": "29",
+    "age": "30",
     "ht": "5-11",
     "wt": "167",
     "experience": "10 years",
@@ -61091,7 +61223,7 @@
     "greed": "91",
     "playForWinner": "25",
     "loyalty": "75",
-    "happiness": "5",
+    "happiness": "6",
     "lastTeamId": "roster33",
     "lastTeam": "Warsaw Legia",
     "potentials": {
@@ -61438,7 +61570,7 @@
     "greed": "38",
     "playForWinner": "43",
     "loyalty": "4",
-    "happiness": "18",
+    "happiness": "17",
     "lastTeamId": "roster22",
     "lastTeam": "Minnesota",
     "potentials": {
@@ -61752,11 +61884,11 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 26",
+        "award": "Player of the Game: 30",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 26
+        "count": 30
       },
       {
         "season": "Total",
@@ -61776,11 +61908,11 @@
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 26",
+        "award": "Player of the Game: 30",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 26
+        "count": 30
       },
       {
         "season": "Total",
@@ -61997,7 +62129,7 @@
     "url": "../players/player781.htm",
     "team": "roster14",
     "teamLabel": "Golden State",
-    "pos": "SF",
+    "pos": "PF",
     "age": "22",
     "ht": "6-6",
     "wt": "192",
@@ -62037,7 +62169,7 @@
     "greed": "29",
     "playForWinner": "72",
     "loyalty": "97",
-    "happiness": "19",
+    "happiness": "14",
     "lastTeamId": "roster14",
     "lastTeam": "Golden State",
     "potentials": {
@@ -62117,21 +62249,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 22",
+        "award": "Player of the Game: 26",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 22
+        "count": 26
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 22",
+        "award": "Player of the Game: 26",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 22
+        "count": 26
       }
     ],
     "seasonAwards": [],
@@ -62163,7 +62295,7 @@
     "greed": "14",
     "playForWinner": "17",
     "loyalty": "28",
-    "happiness": "60",
+    "happiness": "59",
     "lastTeamId": "roster5",
     "lastTeam": "Atlanta",
     "potentials": {
@@ -62243,21 +62375,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 5",
+        "award": "Player of the Game: 6",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 5
+        "count": 6
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 5",
+        "award": "Player of the Game: 6",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 5
+        "count": 6
       }
     ],
     "seasonAwards": [],
@@ -63020,7 +63152,7 @@
     "greed": "98",
     "playForWinner": "70",
     "loyalty": "58",
-    "happiness": "4",
+    "happiness": "3",
     "lastTeamId": "roster9",
     "lastTeam": "Chicago",
     "potentials": {
@@ -63146,7 +63278,7 @@
     "greed": "1",
     "playForWinner": "92",
     "loyalty": "3",
-    "happiness": "20",
+    "happiness": "15",
     "lastTeamId": "roster11",
     "lastTeam": "Dallas",
     "potentials": {
@@ -63317,7 +63449,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "C",
-    "age": "32",
+    "age": "33",
     "ht": "7-0",
     "wt": "228",
     "experience": "12 years",
@@ -63419,7 +63551,7 @@
     "team": "roster19",
     "teamLabel": "Memphis",
     "pos": "PF",
-    "age": "29",
+    "age": "30",
     "ht": "7-0",
     "wt": "245",
     "experience": "10 years",
@@ -63629,7 +63761,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "SF",
-    "age": "23",
+    "age": "24",
     "ht": "6-6",
     "wt": "210",
     "experience": "Rookie",
@@ -63890,7 +64022,7 @@
     "greed": "31",
     "playForWinner": "1",
     "loyalty": "1",
-    "happiness": "54",
+    "happiness": "55",
     "lastTeamId": "roster8",
     "lastTeam": "Charlotte",
     "potentials": {
@@ -64674,7 +64806,7 @@
     "greed": "82",
     "playForWinner": "81",
     "loyalty": "14",
-    "happiness": "16",
+    "happiness": "12",
     "lastTeamId": "roster26",
     "lastTeam": "St. John's",
     "potentials": {
@@ -64859,8 +64991,26 @@
     "source": "player_page",
     "currentSalary": 4505930.0,
     "currentSalaryText": "$4,505,930",
-    "awards": [],
-    "achievementTotals": [],
+    "awards": [
+      {
+        "season": "Total",
+        "award": "Player of the Game: 2",
+        "rowClass": "row1",
+        "isTotal": true,
+        "label": "Player of the Game",
+        "count": 2
+      }
+    ],
+    "achievementTotals": [
+      {
+        "season": "Total",
+        "award": "Player of the Game: 2",
+        "rowClass": "row1",
+        "isTotal": true,
+        "label": "Player of the Game",
+        "count": 2
+      }
+    ],
     "seasonAwards": [],
     "transactions": [
       {
@@ -65003,7 +65153,7 @@
     "greed": "56",
     "playForWinner": "76",
     "loyalty": "12",
-    "happiness": "46",
+    "happiness": "45",
     "lastTeamId": "roster30",
     "lastTeam": "Sacramento",
     "potentials": {
@@ -65111,7 +65261,7 @@
     "greed": "30",
     "playForWinner": "93",
     "loyalty": "20",
-    "happiness": "45",
+    "happiness": "43",
     "lastTeamId": "roster17",
     "lastTeam": "Los Angeles (LAC)",
     "potentials": {
@@ -65339,7 +65489,7 @@
     "greed": "97",
     "playForWinner": "41",
     "loyalty": "72",
-    "happiness": "12",
+    "happiness": "9",
     "lastTeamId": "roster14",
     "lastTeam": "Golden State",
     "potentials": {
@@ -65839,21 +65989,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 4",
+        "award": "Player of the Game: 5",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 4
+        "count": 5
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 4",
+        "award": "Player of the Game: 5",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 4
+        "count": 5
       }
     ],
     "seasonAwards": [],
@@ -65885,7 +66035,7 @@
     "greed": "80",
     "playForWinner": "72",
     "loyalty": "13",
-    "happiness": "42",
+    "happiness": "41",
     "lastTeamId": "roster20",
     "lastTeam": "Miami",
     "potentials": {
@@ -65993,7 +66143,7 @@
     "greed": "13",
     "playForWinner": "85",
     "loyalty": "75",
-    "happiness": "46",
+    "happiness": "49",
     "lastTeamId": "roster17",
     "lastTeam": "Los Angeles (LAC)",
     "potentials": {
@@ -66307,11 +66457,11 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 29",
+        "award": "Player of the Game: 34",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 29
+        "count": 34
       },
       {
         "season": "Total",
@@ -66345,11 +66495,11 @@
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 29",
+        "award": "Player of the Game: 34",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 29
+        "count": 34
       },
       {
         "season": "Total",
@@ -66410,7 +66560,7 @@
     "greed": "28",
     "playForWinner": "97",
     "loyalty": "72",
-    "happiness": "77",
+    "happiness": "79",
     "lastTeamId": "roster15",
     "lastTeam": "Houston",
     "potentials": {
@@ -66536,7 +66686,7 @@
     "greed": "19",
     "playForWinner": "36",
     "loyalty": "55",
-    "happiness": "17",
+    "happiness": "13",
     "lastTeamId": "roster7",
     "lastTeam": "New Jersey",
     "potentials": {
@@ -66707,7 +66857,7 @@
     "url": "../players/player279.htm",
     "team": "roster31",
     "teamLabel": "San Antonio",
-    "pos": "SF",
+    "pos": "PF",
     "age": "29",
     "ht": "6-7",
     "wt": "246",
@@ -66747,7 +66897,7 @@
     "greed": "43",
     "playForWinner": "7",
     "loyalty": "62",
-    "happiness": "9",
+    "happiness": "7",
     "lastTeamId": "roster31",
     "lastTeam": "San Antonio",
     "potentials": {
@@ -66873,7 +67023,7 @@
     "greed": "73",
     "playForWinner": "23",
     "loyalty": "74",
-    "happiness": "3",
+    "happiness": "2",
     "lastTeamId": "roster30",
     "lastTeam": "Sacramento",
     "potentials": {
@@ -66981,7 +67131,7 @@
     "greed": "22",
     "playForWinner": "47",
     "loyalty": "64",
-    "happiness": "16",
+    "happiness": "12",
     "lastTeamId": "roster34",
     "lastTeam": "Washington",
     "potentials": {
@@ -67050,7 +67200,7 @@
     "team": "roster17",
     "teamLabel": "Los Angeles (LAC)",
     "pos": "PG",
-    "age": "22",
+    "age": "23",
     "ht": "6-2",
     "wt": "164",
     "experience": "2 years",
@@ -67169,21 +67319,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 2",
+        "award": "Player of the Game: 3",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 2
+        "count": 3
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 2",
+        "award": "Player of the Game: 3",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 2
+        "count": 3
       }
     ],
     "seasonAwards": [],
@@ -67215,7 +67365,7 @@
     "greed": "83",
     "playForWinner": "55",
     "loyalty": "78",
-    "happiness": "56",
+    "happiness": "60",
     "lastTeamId": "roster8",
     "lastTeam": "Charlotte",
     "potentials": {
@@ -67341,7 +67491,7 @@
     "greed": "59",
     "playForWinner": "83",
     "loyalty": "16",
-    "happiness": "59",
+    "happiness": "60",
     "lastTeamId": "roster10",
     "lastTeam": "Cleveland",
     "potentials": {
@@ -67722,7 +67872,7 @@
     "greed": "97",
     "playForWinner": "13",
     "loyalty": "89",
-    "happiness": "53",
+    "happiness": "52",
     "lastTeamId": "roster31",
     "lastTeam": "San Antonio",
     "potentials": {
@@ -67893,7 +68043,7 @@
     "team": "roster9",
     "teamLabel": "Chicago",
     "pos": "PF",
-    "age": "22",
+    "age": "23",
     "ht": "6-8",
     "wt": "237",
     "experience": "Rookie",
@@ -67932,7 +68082,7 @@
     "greed": "49",
     "playForWinner": "33",
     "loyalty": "28",
-    "happiness": "82",
+    "happiness": "83",
     "lastTeamId": "roster9",
     "lastTeam": "Chicago",
     "potentials": {
@@ -68058,7 +68208,7 @@
     "greed": "87",
     "playForWinner": "62",
     "loyalty": "0",
-    "happiness": "14",
+    "happiness": "12",
     "lastTeamId": "roster28",
     "lastTeam": "Phoenix",
     "potentials": {
@@ -68127,7 +68277,7 @@
     "team": "roster27",
     "teamLabel": "Philadelphia",
     "pos": "PF",
-    "age": "23",
+    "age": "24",
     "ht": "6-8",
     "wt": "233",
     "experience": "Rookie",
@@ -68166,7 +68316,7 @@
     "greed": "41",
     "playForWinner": "52",
     "loyalty": "27",
-    "happiness": "27",
+    "happiness": "24",
     "lastTeamId": "roster27",
     "lastTeam": "Philadelphia",
     "potentials": {
@@ -68292,7 +68442,7 @@
     "greed": "50",
     "playForWinner": "32",
     "loyalty": "28",
-    "happiness": "2",
+    "happiness": "3",
     "lastTeamId": "roster20",
     "lastTeam": "Miami",
     "potentials": {
@@ -68643,7 +68793,7 @@
     "greed": "10",
     "playForWinner": "39",
     "loyalty": "37",
-    "happiness": "6",
+    "happiness": "4",
     "lastTeamId": "roster34",
     "lastTeam": "Washington",
     "potentials": {
@@ -68853,7 +69003,7 @@
     "greed": "39",
     "playForWinner": "60",
     "loyalty": "10",
-    "happiness": "54",
+    "happiness": "61",
     "lastTeamId": "roster24",
     "lastTeam": "New York",
     "potentials": {
@@ -69126,7 +69276,7 @@
     "team": "Draft",
     "teamLabel": "Draft",
     "pos": "PG",
-    "age": "19",
+    "age": "20",
     "ht": "6-0",
     "wt": "163",
     "experience": "Rookie",
@@ -69438,7 +69588,7 @@
     "url": "../players/player809.htm",
     "team": "roster11",
     "teamLabel": "Dallas",
-    "pos": "SF",
+    "pos": "SG",
     "age": "20",
     "ht": "6-3",
     "wt": "190",
@@ -69478,7 +69628,7 @@
     "greed": "57",
     "playForWinner": "33",
     "loyalty": "1",
-    "happiness": "45",
+    "happiness": "41",
     "lastTeamId": "roster11",
     "lastTeam": "Dallas",
     "potentials": {
@@ -69661,11 +69811,11 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 8",
+        "award": "Player of the Game: 10",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 8
+        "count": 10
       },
       {
         "season": "2010",
@@ -69677,11 +69827,11 @@
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 8",
+        "award": "Player of the Game: 10",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 8
+        "count": 10
       }
     ],
     "seasonAwards": [
@@ -70117,7 +70267,7 @@
     "team": "Draft",
     "teamLabel": "Draft",
     "pos": "PG",
-    "age": "19",
+    "age": "20",
     "ht": "6-3",
     "wt": "219",
     "experience": "Rookie",
@@ -70231,21 +70381,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 4",
+        "award": "Player of the Game: 5",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 4
+        "count": 5
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 4",
+        "award": "Player of the Game: 5",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 4
+        "count": 5
       }
     ],
     "seasonAwards": [],
@@ -70277,7 +70427,7 @@
     "greed": "46",
     "playForWinner": "44",
     "loyalty": "94",
-    "happiness": "50",
+    "happiness": "55",
     "lastTeamId": "roster8",
     "lastTeam": "Charlotte",
     "potentials": {
@@ -70561,7 +70711,7 @@
     "url": "../players/player763.htm",
     "team": "roster22",
     "teamLabel": "Minnesota",
-    "pos": "SF",
+    "pos": "PF",
     "age": "22",
     "ht": "6-9",
     "wt": "247",
@@ -70573,21 +70723,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 2",
+        "award": "Player of the Game: 5",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 2
+        "count": 5
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 2",
+        "award": "Player of the Game: 5",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 2
+        "count": 5
       }
     ],
     "seasonAwards": [],
@@ -70619,7 +70769,7 @@
     "greed": "48",
     "playForWinner": "50",
     "loyalty": "92",
-    "happiness": "45",
+    "happiness": "42",
     "lastTeamId": "roster22",
     "lastTeam": "Minnesota",
     "potentials": {
@@ -70871,7 +71021,7 @@
     "greed": "100",
     "playForWinner": "15",
     "loyalty": "23",
-    "happiness": "25",
+    "happiness": "19",
     "lastTeamId": "roster10",
     "lastTeam": "Cleveland",
     "potentials": {
@@ -70940,7 +71090,7 @@
     "team": "roster18",
     "teamLabel": "Los Angeles (LAL)",
     "pos": "SF",
-    "age": "25",
+    "age": "26",
     "ht": "6-5",
     "wt": "234",
     "experience": "7 years",
@@ -70997,7 +71147,7 @@
     "greed": "52",
     "playForWinner": "96",
     "loyalty": "19",
-    "happiness": "24",
+    "happiness": "18",
     "lastTeamId": "roster18",
     "lastTeam": "Los Angeles (LAL)",
     "potentials": {
@@ -71213,7 +71363,7 @@
     "greed": "33",
     "playForWinner": "38",
     "loyalty": "62",
-    "happiness": "65",
+    "happiness": "66",
     "lastTeamId": "roster33",
     "lastTeam": "Warsaw Legia",
     "potentials": {
@@ -71423,7 +71573,7 @@
     "greed": "65",
     "playForWinner": "43",
     "loyalty": "65",
-    "happiness": "30",
+    "happiness": "28",
     "lastTeamId": "roster11",
     "lastTeam": "Dallas",
     "potentials": {
@@ -71707,11 +71857,11 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 40",
+        "award": "Player of the Game: 45",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 40
+        "count": 45
       },
       {
         "season": "Total",
@@ -71761,11 +71911,11 @@
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 40",
+        "award": "Player of the Game: 45",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 40
+        "count": 45
       },
       {
         "season": "Total",
@@ -71842,7 +71992,7 @@
     "greed": "60",
     "playForWinner": "51",
     "loyalty": "51",
-    "happiness": "65",
+    "happiness": "66",
     "lastTeamId": "roster27",
     "lastTeam": "Philadelphia",
     "potentials": {
@@ -72057,7 +72207,7 @@
     "greed": "78",
     "playForWinner": "42",
     "loyalty": "98",
-    "happiness": "20",
+    "happiness": "15",
     "lastTeamId": "roster30",
     "lastTeam": "Sacramento",
     "potentials": {
@@ -72291,7 +72441,7 @@
     "greed": "1",
     "playForWinner": "61",
     "loyalty": "81",
-    "happiness": "30",
+    "happiness": "27",
     "lastTeamId": "roster6",
     "lastTeam": "Boston",
     "potentials": {
@@ -72570,7 +72720,7 @@
     "team": "Draft",
     "teamLabel": "Draft",
     "pos": "SF",
-    "age": "21",
+    "age": "22",
     "ht": "6-7",
     "wt": "216",
     "experience": "Rookie",
@@ -72832,7 +72982,7 @@
     "greed": "94",
     "playForWinner": "68",
     "loyalty": "10",
-    "happiness": "67",
+    "happiness": "60",
     "lastTeamId": "roster25",
     "lastTeam": "Oklahoma City",
     "potentials": {
@@ -73251,7 +73401,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "PG",
-    "age": "20",
+    "age": "21",
     "ht": "6-3",
     "wt": "192",
     "experience": "Rookie",
@@ -73495,7 +73645,7 @@
     "greed": "69",
     "playForWinner": "32",
     "loyalty": "24",
-    "happiness": "48",
+    "happiness": "46",
     "lastTeamId": "roster22",
     "lastTeam": "Minnesota",
     "potentials": {
@@ -73790,21 +73940,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 22",
+        "award": "Player of the Game: 24",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 22
+        "count": 24
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 22",
+        "award": "Player of the Game: 24",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 22
+        "count": 24
       }
     ],
     "seasonAwards": [],
@@ -73836,7 +73986,7 @@
     "greed": "40",
     "playForWinner": "62",
     "loyalty": "23",
-    "happiness": "59",
+    "happiness": "60",
     "lastTeamId": "roster28",
     "lastTeam": "Phoenix",
     "potentials": {
@@ -74290,7 +74440,7 @@
     "greed": "24",
     "playForWinner": "55",
     "loyalty": "19",
-    "happiness": "69",
+    "happiness": "71",
     "lastTeamId": "roster9",
     "lastTeam": "Chicago",
     "potentials": {
@@ -74416,7 +74566,7 @@
     "greed": "58",
     "playForWinner": "43",
     "loyalty": "12",
-    "happiness": "39",
+    "happiness": "36",
     "lastTeamId": "roster18",
     "lastTeam": "Los Angeles (LAL)",
     "potentials": {
@@ -74496,21 +74646,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 1",
+        "award": "Player of the Game: 3",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 1
+        "count": 3
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 1",
+        "award": "Player of the Game: 3",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 1
+        "count": 3
       }
     ],
     "seasonAwards": [],
@@ -75173,7 +75323,7 @@
     "greed": "92",
     "playForWinner": "33",
     "loyalty": "57",
-    "happiness": "4",
+    "happiness": "3",
     "lastTeamId": "roster13",
     "lastTeam": "Detroit",
     "potentials": {
@@ -75414,7 +75564,7 @@
     "greed": "60",
     "playForWinner": "70",
     "loyalty": "71",
-    "happiness": "15",
+    "happiness": "16",
     "lastTeamId": "roster12",
     "lastTeam": "Denver",
     "potentials": {
@@ -75483,7 +75633,7 @@
     "team": "roster16",
     "teamLabel": "Indiana",
     "pos": "C",
-    "age": "30",
+    "age": "31",
     "ht": "6-11",
     "wt": "248",
     "experience": "9 years",
@@ -75494,21 +75644,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 4",
+        "award": "Player of the Game: 5",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 4
+        "count": 5
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 4",
+        "award": "Player of the Game: 5",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 4
+        "count": 5
       }
     ],
     "seasonAwards": [],
@@ -75550,7 +75700,7 @@
     "greed": "12",
     "playForWinner": "95",
     "loyalty": "57",
-    "happiness": "62",
+    "happiness": "60",
     "lastTeamId": "roster16",
     "lastTeam": "Indiana",
     "potentials": {
@@ -75784,7 +75934,7 @@
     "greed": "59",
     "playForWinner": "97",
     "loyalty": "94",
-    "happiness": "24",
+    "happiness": "26",
     "lastTeamId": "roster21",
     "lastTeam": "Milwaukee",
     "potentials": {
@@ -76552,21 +76702,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 1",
+        "award": "Player of the Game: 2",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 1
+        "count": 2
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 1",
+        "award": "Player of the Game: 2",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 1
+        "count": 2
       }
     ],
     "seasonAwards": [],
@@ -76598,7 +76748,7 @@
     "greed": "15",
     "playForWinner": "30",
     "loyalty": "92",
-    "happiness": "53",
+    "happiness": "54",
     "lastTeamId": "roster17",
     "lastTeam": "Los Angeles (LAC)",
     "potentials": {
@@ -77324,21 +77474,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 11",
+        "award": "Player of the Game: 14",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 11
+        "count": 14
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 11",
+        "award": "Player of the Game: 14",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 11
+        "count": 14
       }
     ],
     "seasonAwards": [],
@@ -77370,7 +77520,7 @@
     "greed": "10",
     "playForWinner": "21",
     "loyalty": "68",
-    "happiness": "50",
+    "happiness": "48",
     "lastTeamId": "roster7",
     "lastTeam": "New Jersey",
     "potentials": {
@@ -77547,7 +77697,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "SG",
-    "age": "32",
+    "age": "33",
     "ht": "6-0",
     "wt": "195",
     "experience": "Rookie",
@@ -77693,7 +77843,7 @@
     "greed": "9",
     "playForWinner": "23",
     "loyalty": "23",
-    "happiness": "65",
+    "happiness": "64",
     "lastTeamId": "roster12",
     "lastTeam": "Denver",
     "potentials": {
@@ -77921,7 +78071,7 @@
     "greed": "26",
     "playForWinner": "23",
     "loyalty": "28",
-    "happiness": "9",
+    "happiness": "7",
     "lastTeamId": "roster9",
     "lastTeam": "Chicago",
     "potentials": {
@@ -78233,7 +78383,7 @@
     "greed": "82",
     "playForWinner": "98",
     "loyalty": "29",
-    "happiness": "54",
+    "happiness": "58",
     "lastTeamId": "roster24",
     "lastTeam": "New York",
     "potentials": {
@@ -78462,7 +78612,7 @@
     "greed": "14",
     "playForWinner": "11",
     "loyalty": "6",
-    "happiness": "71",
+    "happiness": "73",
     "lastTeamId": "roster5",
     "lastTeam": "Atlanta",
     "potentials": {
@@ -78531,7 +78681,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "C",
-    "age": "20",
+    "age": "21",
     "ht": "7-0",
     "wt": "217",
     "experience": "Rookie",
@@ -78811,7 +78961,7 @@
     "greed": "26",
     "playForWinner": "1",
     "loyalty": "60",
-    "happiness": "54",
+    "happiness": "53",
     "lastTeamId": "roster6",
     "lastTeam": "Boston",
     "potentials": {
@@ -79426,11 +79576,11 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 59",
+        "award": "Player of the Game: 65",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 59
+        "count": 65
       },
       {
         "season": "Total",
@@ -79508,11 +79658,11 @@
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 59",
+        "award": "Player of the Game: 65",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 59
+        "count": 65
       },
       {
         "season": "Total",
@@ -79617,7 +79767,7 @@
     "greed": "59",
     "playForWinner": "0",
     "loyalty": "97",
-    "happiness": "56",
+    "happiness": "62",
     "lastTeamId": "roster17",
     "lastTeam": "Los Angeles (LAC)",
     "potentials": {
@@ -79788,7 +79938,7 @@
     "team": "Draft",
     "teamLabel": "Draft",
     "pos": "SF",
-    "age": "21",
+    "age": "22",
     "ht": "6-7",
     "wt": "214",
     "experience": "Rookie",
@@ -79948,7 +80098,7 @@
     "greed": "38",
     "playForWinner": "77",
     "loyalty": "74",
-    "happiness": "50",
+    "happiness": "54",
     "lastTeamId": "roster10",
     "lastTeam": "Cleveland",
     "potentials": {
@@ -80164,7 +80314,7 @@
     "greed": "99",
     "playForWinner": "12",
     "loyalty": "1",
-    "happiness": "26",
+    "happiness": "20",
     "lastTeamId": "roster28",
     "lastTeam": "Phoenix",
     "potentials": {
@@ -80335,7 +80485,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "SF",
-    "age": "24",
+    "age": "25",
     "ht": "6-7",
     "wt": "243",
     "experience": "4 years",
@@ -80551,7 +80701,7 @@
     "team": "roster23",
     "teamLabel": "New Orleans",
     "pos": "PG",
-    "age": "32",
+    "age": "33",
     "ht": "6-6",
     "wt": "205",
     "experience": "11 years",
@@ -80608,7 +80758,7 @@
     "greed": "72",
     "playForWinner": "16",
     "loyalty": "87",
-    "happiness": "27",
+    "happiness": "26",
     "lastTeamId": "roster23",
     "lastTeam": "New Orleans",
     "potentials": {
@@ -80940,7 +81090,7 @@
     "greed": "56",
     "playForWinner": "18",
     "loyalty": "62",
-    "happiness": "39",
+    "happiness": "37",
     "lastTeamId": "roster6",
     "lastTeam": "Boston",
     "potentials": {
@@ -81122,21 +81272,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 1",
+        "award": "Player of the Game: 2",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 1
+        "count": 2
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 1",
+        "award": "Player of the Game: 2",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 1
+        "count": 2
       }
     ],
     "seasonAwards": [],
@@ -81168,7 +81318,7 @@
     "greed": "66",
     "playForWinner": "7",
     "loyalty": "5",
-    "happiness": "39",
+    "happiness": "42",
     "lastTeamId": "roster31",
     "lastTeam": "San Antonio",
     "potentials": {
@@ -81276,7 +81426,7 @@
     "greed": "48",
     "playForWinner": "26",
     "loyalty": "56",
-    "happiness": "69",
+    "happiness": "75",
     "lastTeamId": "roster24",
     "lastTeam": "New York",
     "potentials": {
@@ -81459,21 +81609,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 6",
+        "award": "Player of the Game: 7",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 6
+        "count": 7
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 6",
+        "award": "Player of the Game: 7",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 6
+        "count": 7
       }
     ],
     "seasonAwards": [],
@@ -81510,7 +81660,7 @@
     "greed": "88",
     "playForWinner": "21",
     "loyalty": "92",
-    "happiness": "63",
+    "happiness": "59",
     "lastTeamId": "roster32",
     "lastTeam": "Toronto",
     "potentials": {
@@ -81578,7 +81728,7 @@
     "url": "../players/player171.htm",
     "team": "roster32",
     "teamLabel": "Toronto",
-    "pos": "SG",
+    "pos": "PF",
     "age": "35",
     "ht": "6-9",
     "wt": "246",
@@ -81641,7 +81791,7 @@
     "greed": "84",
     "playForWinner": "15",
     "loyalty": "78",
-    "happiness": "3",
+    "happiness": "2",
     "lastTeamId": "roster32",
     "lastTeam": "Toronto",
     "potentials": {
@@ -81731,6 +81881,11 @@
         "date": "2011-11-01",
         "action": "Signed by Chicago for $1,290,000 over one year.",
         "rowClass": "row2"
+      },
+      {
+        "date": "2012-01-02",
+        "action": "Signed a contract extension for $2,767,500 over 2 years.",
+        "rowClass": "row1"
       }
     ],
     "Ins": "D+",
@@ -81754,7 +81909,7 @@
     "greed": "57",
     "playForWinner": "5",
     "loyalty": "84",
-    "happiness": "21",
+    "happiness": "16",
     "lastTeamId": "roster9",
     "lastTeam": "Chicago",
     "potentials": {
@@ -81781,13 +81936,13 @@
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 1350000.0,
+        "salaryText": "$1,350,000"
       },
       {
         "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 1417500.0,
+        "salaryText": "$1,417,500"
       },
       {
         "year": "2014",
@@ -82096,7 +82251,7 @@
     "greed": "59",
     "playForWinner": "82",
     "loyalty": "58",
-    "happiness": "69",
+    "happiness": "76",
     "lastTeamId": "roster15",
     "lastTeam": "Houston",
     "potentials": {
@@ -82428,7 +82583,7 @@
     "greed": "1",
     "playForWinner": "36",
     "loyalty": "96",
-    "happiness": "52",
+    "happiness": "50",
     "lastTeamId": "roster30",
     "lastTeam": "Sacramento",
     "potentials": {
@@ -82725,7 +82880,7 @@
     "team": "roster30",
     "teamLabel": "Sacramento",
     "pos": "SG",
-    "age": "35",
+    "age": "36",
     "ht": "6-6",
     "wt": "208",
     "experience": "14 years",
@@ -82782,7 +82937,7 @@
     "greed": "90",
     "playForWinner": "45",
     "loyalty": "31",
-    "happiness": "26",
+    "happiness": "23",
     "lastTeamId": "roster30",
     "lastTeam": "Sacramento",
     "potentials": {
@@ -82862,27 +83017,27 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 54",
+        "award": "Player of the Game: 61",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 54
+        "count": 61
       },
       {
         "season": "Total",
-        "award": "Player of the Week: 6",
+        "award": "Player of the Week: 9",
         "rowClass": "row2",
         "isTotal": true,
         "label": "Player of the Week",
-        "count": 6
+        "count": 9
       },
       {
         "season": "Total",
-        "award": "Player of the Month: 2",
+        "award": "Player of the Month: 3",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Month",
-        "count": 2
+        "count": 3
       },
       {
         "season": "Total",
@@ -82922,27 +83077,27 @@
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 54",
+        "award": "Player of the Game: 61",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 54
+        "count": 61
       },
       {
         "season": "Total",
-        "award": "Player of the Week: 6",
+        "award": "Player of the Week: 9",
         "rowClass": "row2",
         "isTotal": true,
         "label": "Player of the Week",
-        "count": 6
+        "count": 9
       },
       {
         "season": "Total",
-        "award": "Player of the Month: 2",
+        "award": "Player of the Month: 3",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Month",
-        "count": 2
+        "count": 3
       },
       {
         "season": "Total",
@@ -83283,7 +83438,7 @@
     "team": "roster17",
     "teamLabel": "Los Angeles (LAC)",
     "pos": "C",
-    "age": "34",
+    "age": "35",
     "ht": "6-11",
     "wt": "254",
     "experience": "12 years",
@@ -83322,7 +83477,7 @@
     "greed": "48",
     "playForWinner": "80",
     "loyalty": "7",
-    "happiness": "40",
+    "happiness": "45",
     "lastTeamId": "roster17",
     "lastTeam": "Los Angeles (LAC)",
     "potentials": {
@@ -83402,21 +83557,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 2",
+        "award": "Player of the Game: 5",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 2
+        "count": 5
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 2",
+        "award": "Player of the Game: 5",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 2
+        "count": 5
       }
     ],
     "seasonAwards": [],
@@ -83448,7 +83603,7 @@
     "greed": "90",
     "playForWinner": "76",
     "loyalty": "16",
-    "happiness": "46",
+    "happiness": "44",
     "lastTeamId": "roster20",
     "lastTeam": "Miami",
     "potentials": {
@@ -83517,7 +83672,7 @@
     "team": "roster27",
     "teamLabel": "Philadelphia",
     "pos": "SF",
-    "age": "30",
+    "age": "31",
     "ht": "6-5",
     "wt": "208",
     "experience": "10 years",
@@ -83574,7 +83729,7 @@
     "greed": "90",
     "playForWinner": "79",
     "loyalty": "36",
-    "happiness": "25",
+    "happiness": "20",
     "lastTeamId": "roster27",
     "lastTeam": "Philadelphia",
     "potentials": {
@@ -83682,7 +83837,7 @@
     "greed": "11",
     "playForWinner": "40",
     "loyalty": "41",
-    "happiness": "33",
+    "happiness": "30",
     "lastTeamId": "roster18",
     "lastTeam": "Los Angeles (LAL)",
     "potentials": {
@@ -83808,7 +83963,7 @@
     "greed": "2",
     "playForWinner": "21",
     "loyalty": "69",
-    "happiness": "55",
+    "happiness": "57",
     "lastTeamId": "roster16",
     "lastTeam": "Indiana",
     "potentials": {
@@ -83985,7 +84140,7 @@
     "team": "Draft",
     "teamLabel": "Draft",
     "pos": "SF",
-    "age": "21",
+    "age": "22",
     "ht": "6-6",
     "wt": "220",
     "experience": "Rookie",
@@ -84088,7 +84243,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "PF",
-    "age": "31",
+    "age": "32",
     "ht": "6-9",
     "wt": "238",
     "experience": "Rookie",
@@ -84303,27 +84458,27 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 42",
+        "award": "Player of the Game: 49",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 42
+        "count": 49
       },
       {
         "season": "Total",
-        "award": "Player of the Week: 7",
+        "award": "Player of the Week: 9",
         "rowClass": "row2",
         "isTotal": true,
         "label": "Player of the Week",
-        "count": 7
+        "count": 9
       },
       {
         "season": "Total",
-        "award": "Player of the Month: 2",
+        "award": "Player of the Month: 3",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Month",
-        "count": 2
+        "count": 3
       },
       {
         "season": "Total",
@@ -84357,27 +84512,27 @@
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 42",
+        "award": "Player of the Game: 49",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 42
+        "count": 49
       },
       {
         "season": "Total",
-        "award": "Player of the Week: 7",
+        "award": "Player of the Week: 9",
         "rowClass": "row2",
         "isTotal": true,
         "label": "Player of the Week",
-        "count": 7
+        "count": 9
       },
       {
         "season": "Total",
-        "award": "Player of the Month: 2",
+        "award": "Player of the Month: 3",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Month",
-        "count": 2
+        "count": 3
       },
       {
         "season": "Total",
@@ -84438,7 +84593,7 @@
     "greed": "60",
     "playForWinner": "84",
     "loyalty": "70",
-    "happiness": "56",
+    "happiness": "57",
     "lastTeamId": "roster29",
     "lastTeam": "Portland",
     "potentials": {
@@ -84608,7 +84763,7 @@
     "url": "../players/player301.htm",
     "team": "roster11",
     "teamLabel": "Dallas",
-    "pos": "SF",
+    "pos": "PF",
     "age": "33",
     "ht": "6-5",
     "wt": "215",
@@ -84671,7 +84826,7 @@
     "greed": "96",
     "playForWinner": "88",
     "loyalty": "88",
-    "happiness": "36",
+    "happiness": "27",
     "lastTeamId": "roster11",
     "lastTeam": "Dallas",
     "potentials": {
@@ -84766,6 +84921,11 @@
         "date": "2011-07-31",
         "action": "Traded to Sacramento",
         "rowClass": "row1"
+      },
+      {
+        "date": "2012-01-02",
+        "action": "Signed a contract extension for $23,150,400 over 3 years.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "D",
@@ -84789,7 +84949,7 @@
     "greed": "70",
     "playForWinner": "90",
     "loyalty": "48",
-    "happiness": "16",
+    "happiness": "12",
     "lastTeamId": "roster30",
     "lastTeam": "Sacramento",
     "potentials": {
@@ -84816,18 +84976,18 @@
       },
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 7280000.0,
+        "salaryText": "$7,280,000"
       },
       {
         "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 7716800.0,
+        "salaryText": "$7,716,800"
       },
       {
         "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 8153600.0,
+        "salaryText": "$8,153,600"
       },
       {
         "year": "2015",
@@ -85022,7 +85182,7 @@
     "greed": "0",
     "playForWinner": "27",
     "loyalty": "62",
-    "happiness": "57",
+    "happiness": "55",
     "lastTeamId": "roster26",
     "lastTeam": "St. John's",
     "potentials": {
@@ -85233,7 +85393,7 @@
     "greed": "89",
     "playForWinner": "39",
     "loyalty": "2",
-    "happiness": "28",
+    "happiness": "25",
     "lastTeamId": "roster25",
     "lastTeam": "Oklahoma City",
     "potentials": {
@@ -85372,7 +85532,7 @@
     "greed": "14",
     "playForWinner": "81",
     "loyalty": "4",
-    "happiness": "62",
+    "happiness": "72",
     "lastTeamId": "roster12",
     "lastTeam": "Denver",
     "potentials": {
@@ -85452,21 +85612,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 3",
+        "award": "Player of the Game: 4",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 3
+        "count": 4
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 3",
+        "award": "Player of the Game: 4",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 3
+        "count": 4
       }
     ],
     "seasonAwards": [],
@@ -85498,7 +85658,7 @@
     "greed": "31",
     "playForWinner": "52",
     "loyalty": "61",
-    "happiness": "39",
+    "happiness": "40",
     "lastTeamId": "roster21",
     "lastTeam": "Milwaukee",
     "potentials": {
@@ -86084,7 +86244,7 @@
     "url": "../players/player718.htm",
     "team": "roster13",
     "teamLabel": "Detroit",
-    "pos": "C",
+    "pos": "SG",
     "age": "21",
     "ht": "7-1",
     "wt": "262",
@@ -86142,7 +86302,7 @@
     "greed": "71",
     "playForWinner": "100",
     "loyalty": "10",
-    "happiness": "19",
+    "happiness": "14",
     "lastTeamId": "roster13",
     "lastTeam": "Detroit",
     "potentials": {
@@ -86268,7 +86428,7 @@
     "greed": "65",
     "playForWinner": "53",
     "loyalty": "39",
-    "happiness": "14",
+    "happiness": "10",
     "lastTeamId": "roster25",
     "lastTeam": "Oklahoma City",
     "potentials": {
@@ -86489,7 +86649,7 @@
     "greed": "16",
     "playForWinner": "43",
     "loyalty": "37",
-    "happiness": "16",
+    "happiness": "12",
     "lastTeamId": "roster24",
     "lastTeam": "New York",
     "potentials": {
@@ -86705,7 +86865,7 @@
     "greed": "52",
     "playForWinner": "80",
     "loyalty": "82",
-    "happiness": "6",
+    "happiness": "4",
     "lastTeamId": "roster27",
     "lastTeam": "Philadelphia",
     "potentials": {
@@ -86926,7 +87086,7 @@
     "greed": "27",
     "playForWinner": "63",
     "loyalty": "56",
-    "happiness": "60",
+    "happiness": "53",
     "lastTeamId": "roster24",
     "lastTeam": "New York",
     "potentials": {
@@ -87469,7 +87629,7 @@
     "greed": "56",
     "playForWinner": "6",
     "loyalty": "24",
-    "happiness": "46",
+    "happiness": "47",
     "lastTeamId": "roster26",
     "lastTeam": "St. John's",
     "potentials": {
@@ -87646,7 +87806,7 @@
     "team": "roster24",
     "teamLabel": "New York",
     "pos": "SF",
-    "age": "31",
+    "age": "32",
     "ht": "6-9",
     "wt": "245",
     "experience": "10 years",
@@ -87975,21 +88135,21 @@
     "awards": [
       {
         "season": "Total",
-        "award": "Player of the Game: 10",
+        "award": "Player of the Game: 11",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 10
+        "count": 11
       }
     ],
     "achievementTotals": [
       {
         "season": "Total",
-        "award": "Player of the Game: 10",
+        "award": "Player of the Game: 11",
         "rowClass": "row1",
         "isTotal": true,
         "label": "Player of the Game",
-        "count": 10
+        "count": 11
       }
     ],
     "seasonAwards": [],
@@ -88026,7 +88186,7 @@
     "greed": "88",
     "playForWinner": "30",
     "loyalty": "12",
-    "happiness": "75",
+    "happiness": "77",
     "lastTeamId": "roster29",
     "lastTeam": "Portland",
     "potentials": {
@@ -88103,8 +88263,26 @@
     "source": "player_page",
     "currentSalary": 22059833.0,
     "currentSalaryText": "$22,059,833",
-    "awards": [],
-    "achievementTotals": [],
+    "awards": [
+      {
+        "season": "Total",
+        "award": "Player of the Game: 1",
+        "rowClass": "row1",
+        "isTotal": true,
+        "label": "Player of the Game",
+        "count": 1
+      }
+    ],
+    "achievementTotals": [
+      {
+        "season": "Total",
+        "award": "Player of the Game: 1",
+        "rowClass": "row1",
+        "isTotal": true,
+        "label": "Player of the Game",
+        "count": 1
+      }
+    ],
     "seasonAwards": [],
     "transactions": [
       {
@@ -88311,7 +88489,7 @@
     "team": "roster6",
     "teamLabel": "Boston",
     "pos": "SF",
-    "age": "19",
+    "age": "20",
     "ht": "6-10",
     "wt": "228",
     "experience": "1 year",
@@ -88368,7 +88546,7 @@
     "greed": "26",
     "playForWinner": "68",
     "loyalty": "8",
-    "happiness": "38",
+    "happiness": "37",
     "lastTeamId": "roster6",
     "lastTeam": "Boston",
     "potentials": {
@@ -88768,7 +88946,7 @@
     "greed": "73",
     "playForWinner": "11",
     "loyalty": "14",
-    "happiness": "59",
+    "happiness": "56",
     "lastTeamId": "roster32",
     "lastTeam": "Toronto",
     "potentials": {
@@ -89081,7 +89259,7 @@
     "greed": "80",
     "playForWinner": "8",
     "loyalty": "87",
-    "happiness": "16",
+    "happiness": "12",
     "lastTeamId": "roster18",
     "lastTeam": "Los Angeles (LAL)",
     "potentials": {
@@ -89507,7 +89685,7 @@
     "greed": "63",
     "playForWinner": "62",
     "loyalty": "76",
-    "happiness": "17",
+    "happiness": "13",
     "lastTeamId": "roster21",
     "lastTeam": "Milwaukee",
     "potentials": {
