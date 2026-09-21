@@ -1928,7 +1928,7 @@
     "name": "Albert Mallett",
     "url": "../players/player470.htm",
     "team": "roster9",
-    "teamLabel": "Auburn",
+    "teamLabel": "Chicago",
     "pos": "SG",
     "age": "29",
     "ht": "5-11",
@@ -1949,7 +1949,7 @@
       },
       {
         "date": "2011-07-25",
-        "action": "Signed with Auburn for $1,710,000 over one year.",
+        "action": "Signed with Chicago for $1,710,000 over one year.",
         "rowClass": "row2"
       }
     ],
@@ -1976,7 +1976,7 @@
     "loyalty": "46",
     "happiness": "8",
     "lastTeamId": "roster9",
-    "lastTeam": "Auburn",
+    "lastTeam": "Chicago",
     "potentials": {
       "Ins": "D",
       "Jps": "B",
@@ -4179,6 +4179,109 @@
     ]
   },
   {
+    "playerId": "player1462",
+    "name": "Andre Nowzick",
+    "url": "../players/player1462.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "PG",
+    "age": "17",
+    "ht": "6-6",
+    "wt": "180",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "D",
+    "Jps": "F",
+    "Fts": "C",
+    "3ps": "F+",
+    "Hnd": "B-",
+    "Pas": "B",
+    "Orb": "F",
+    "Drb": "C-",
+    "Psd": "D-",
+    "Prd": "C",
+    "Stl": "C",
+    "Blk": "D",
+    "Qkn": "A-",
+    "Str": "C+",
+    "Jmp": "C+",
+    "Sta": "B+",
+    "overall": "69",
+    "potential": "108",
+    "greed": "47",
+    "playForWinner": "30",
+    "loyalty": "55",
+    "happiness": "76",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "B",
+      "Jps": "D",
+      "Fts": "C",
+      "3ps": "D",
+      "Hnd": "A",
+      "Pas": "A",
+      "Orb": "D",
+      "Drb": "B",
+      "Psd": "D",
+      "Prd": "B",
+      "Stl": "B",
+      "Blk": "C"
+    },
+    "potentialCurrentColor": "#F2662A",
+    "potentialFutureColor": "#307B1A",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2018",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
     "playerId": "player1519",
     "name": "Andreas Zieroff",
     "url": "../players/player1519.htm",
@@ -4472,109 +4575,6 @@
         "year": "2011",
         "salary": 7241149.0,
         "salaryText": "$7,241,149"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2018",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
-    "playerId": "player1447",
-    "name": "Andrew Garcia",
-    "url": "../players/player1447.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "PG",
-    "age": "19",
-    "ht": "6-3",
-    "wt": "185",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "F",
-    "Jps": "C-",
-    "Fts": "B-",
-    "3ps": "D+",
-    "Hnd": "D+",
-    "Pas": "C-",
-    "Orb": "D-",
-    "Drb": "F",
-    "Psd": "F-",
-    "Prd": "D+",
-    "Stl": "D+",
-    "Blk": "F-",
-    "Qkn": "B",
-    "Str": "C",
-    "Jmp": "D",
-    "Sta": "B+",
-    "overall": "45",
-    "potential": "73",
-    "greed": "12",
-    "playForWinner": "8",
-    "loyalty": "58",
-    "happiness": "86",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "D",
-      "Jps": "C",
-      "Fts": "B",
-      "3ps": "C",
-      "Hnd": "C",
-      "Pas": "B",
-      "Orb": "D",
-      "Drb": "D",
-      "Psd": "F",
-      "Prd": "C",
-      "Stl": "C",
-      "Blk": "F"
-    },
-    "potentialCurrentColor": "#B0040C",
-    "potentialFutureColor": "#F2662A",
-    "isDraftee": true,
-    "contracts": [
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
       },
       {
         "year": "2012",
@@ -4931,7 +4931,7 @@
     "name": "Andy Avelar",
     "url": "../players/player533.htm",
     "team": "roster11",
-    "teamLabel": "Tokyo",
+    "teamLabel": "Dallas",
     "pos": "PG",
     "age": "21",
     "ht": "5-4",
@@ -4952,7 +4952,7 @@
       },
       {
         "date": "2011-06-29",
-        "action": "Traded to Tokyo",
+        "action": "Traded to Dallas",
         "rowClass": "row2"
       }
     ],
@@ -4979,7 +4979,7 @@
     "loyalty": "42",
     "happiness": "29",
     "lastTeamId": "roster11",
-    "lastTeam": "Tokyo",
+    "lastTeam": "Dallas",
     "potentials": {
       "Ins": "D",
       "Jps": "D",
@@ -7721,6 +7721,109 @@
     ]
   },
   {
+    "playerId": "player1452",
+    "name": "Barge Sampson",
+    "url": "../players/player1452.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "SG",
+    "age": "19",
+    "ht": "6-6",
+    "wt": "184",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "C",
+    "Jps": "C-",
+    "Fts": "A-",
+    "3ps": "C+",
+    "Hnd": "C+",
+    "Pas": "C",
+    "Orb": "F-",
+    "Drb": "F+",
+    "Psd": "F+",
+    "Prd": "C",
+    "Stl": "C-",
+    "Blk": "D-",
+    "Qkn": "A-",
+    "Str": "B",
+    "Jmp": "B+",
+    "Sta": "A",
+    "overall": "92",
+    "potential": "126",
+    "greed": "48",
+    "playForWinner": "31",
+    "loyalty": "4",
+    "happiness": "8",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "B",
+      "Jps": "C",
+      "Fts": "A",
+      "3ps": "B",
+      "Hnd": "B",
+      "Pas": "B",
+      "Orb": "F",
+      "Drb": "D",
+      "Psd": "D",
+      "Prd": "B",
+      "Stl": "B",
+      "Blk": "D"
+    },
+    "potentialCurrentColor": "#EDBE30",
+    "potentialFutureColor": "#0052C3",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2018",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
     "playerId": "player565",
     "name": "Barney Gonzalez",
     "url": "../players/player565.htm",
@@ -8161,6 +8264,109 @@
         "year": "2014",
         "salary": 2685893.0,
         "salaryText": "$2,685,893"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2018",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
+    "playerId": "player1513",
+    "name": "Bart Sampson",
+    "url": "../players/player1513.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "C",
+    "age": "18",
+    "ht": "7-0",
+    "wt": "253",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "B",
+    "Jps": "C-",
+    "Fts": "C",
+    "3ps": "F",
+    "Hnd": "D+",
+    "Pas": "D-",
+    "Orb": "C+",
+    "Drb": "C",
+    "Psd": "C",
+    "Prd": "F+",
+    "Stl": "F+",
+    "Blk": "C",
+    "Qkn": "C",
+    "Str": "B",
+    "Jmp": "B+",
+    "Sta": "C+",
+    "overall": "93",
+    "potential": "126",
+    "greed": "31",
+    "playForWinner": "1",
+    "loyalty": "87",
+    "happiness": "88",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "A",
+      "Jps": "B",
+      "Fts": "C",
+      "3ps": "D",
+      "Hnd": "C",
+      "Pas": "D",
+      "Orb": "B",
+      "Drb": "B",
+      "Psd": "B",
+      "Prd": "D",
+      "Stl": "D",
+      "Blk": "B"
+    },
+    "potentialCurrentColor": "#EDBE30",
+    "potentialFutureColor": "#0052C3",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
       },
       {
         "year": "2015",
@@ -9184,7 +9390,7 @@
     "name": "Billy Bean",
     "url": "../players/player762.htm",
     "team": "roster11",
-    "teamLabel": "Tokyo",
+    "teamLabel": "Dallas",
     "pos": "SF",
     "age": "19",
     "ht": "6-7",
@@ -9200,7 +9406,7 @@
     "transactions": [
       {
         "date": "2011-06-29",
-        "action": "Drafted by Tokyo with pick #18 of round 1.",
+        "action": "Drafted by Dallas with pick #18 of round 1.",
         "rowClass": "row1"
       }
     ],
@@ -9227,7 +9433,7 @@
     "loyalty": "32",
     "happiness": "14",
     "lastTeamId": "roster11",
-    "lastTeam": "Tokyo",
+    "lastTeam": "Dallas",
     "potentials": {
       "Ins": "D",
       "Jps": "D",
@@ -9737,7 +9943,7 @@
     "name": "Bojan Moslavac",
     "url": "../players/player185.htm",
     "team": "roster9",
-    "teamLabel": "Auburn",
+    "teamLabel": "Chicago",
     "pos": "PF",
     "age": "34",
     "ht": "6-9",
@@ -9780,7 +9986,7 @@
     "loyalty": "30",
     "happiness": "21",
     "lastTeamId": "roster9",
-    "lastTeam": "Auburn",
+    "lastTeam": "Chicago",
     "potentials": {
       "Ins": "F",
       "Jps": "B",
@@ -11879,109 +12085,6 @@
     ]
   },
   {
-    "playerId": "player1452",
-    "name": "Brian Clark",
-    "url": "../players/player1452.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "SG",
-    "age": "19",
-    "ht": "6-6",
-    "wt": "184",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "D-",
-    "Jps": "C-",
-    "Fts": "A-",
-    "3ps": "F+",
-    "Hnd": "D",
-    "Pas": "D-",
-    "Orb": "F-",
-    "Drb": "F+",
-    "Psd": "F+",
-    "Prd": "C-",
-    "Stl": "C-",
-    "Blk": "D-",
-    "Qkn": "B+",
-    "Str": "C+",
-    "Jmp": "B-",
-    "Sta": "A",
-    "overall": "62",
-    "potential": "86",
-    "greed": "48",
-    "playForWinner": "31",
-    "loyalty": "4",
-    "happiness": "8",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "D",
-      "Jps": "C",
-      "Fts": "A",
-      "3ps": "D",
-      "Hnd": "D",
-      "Pas": "D",
-      "Orb": "F",
-      "Drb": "D",
-      "Psd": "D",
-      "Prd": "C",
-      "Stl": "B",
-      "Blk": "D"
-    },
-    "potentialCurrentColor": "#F2662A",
-    "potentialFutureColor": "#EDBE30",
-    "isDraftee": true,
-    "contracts": [
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2018",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
     "playerId": "player380",
     "name": "Brian Erickson",
     "url": "../players/player380.htm",
@@ -13061,12 +13164,12 @@
     "transactions": [
       {
         "date": "2011-08-01",
-        "action": "Signed with Tokyo for $760,000 over one year.",
+        "action": "Signed with Dallas for $760,000 over one year.",
         "rowClass": "row1"
       },
       {
         "date": "2011-11-01",
-        "action": "Released by Tokyo",
+        "action": "Released by Dallas",
         "rowClass": "row2"
       }
     ],
@@ -13158,7 +13261,7 @@
     "name": "Calvin Hill",
     "url": "../players/player130.htm",
     "team": "roster11",
-    "teamLabel": "Tokyo",
+    "teamLabel": "Dallas",
     "pos": "C",
     "age": "41",
     "ht": "6-11",
@@ -13179,7 +13282,7 @@
       },
       {
         "date": "2011-12-01",
-        "action": "Traded to Tokyo",
+        "action": "Traded to Dallas",
         "rowClass": "row2"
       }
     ],
@@ -13206,7 +13309,7 @@
     "loyalty": "85",
     "happiness": "20",
     "lastTeamId": "roster11",
-    "lastTeam": "Tokyo",
+    "lastTeam": "Dallas",
     "potentials": {
       "Ins": "D",
       "Jps": "C",
@@ -15357,7 +15460,7 @@
     "name": "Charles George",
     "url": "../players/player112.htm",
     "team": "roster9",
-    "teamLabel": "Auburn",
+    "teamLabel": "Chicago",
     "pos": "C",
     "age": "26",
     "ht": "7-0",
@@ -15447,7 +15550,7 @@
     "loyalty": "2",
     "happiness": "59",
     "lastTeamId": "roster9",
-    "lastTeam": "Auburn",
+    "lastTeam": "Chicago",
     "potentials": {
       "Ins": "A",
       "Jps": "D",
@@ -16555,7 +16658,7 @@
     "name": "Charlie Reinhart",
     "url": "../players/player799.htm",
     "team": "roster11",
-    "teamLabel": "Tokyo",
+    "teamLabel": "Dallas",
     "pos": "PG",
     "age": "21",
     "ht": "6-2",
@@ -16589,7 +16692,7 @@
     "transactions": [
       {
         "date": "2011-06-29",
-        "action": "Drafted by Tokyo with pick #7 of round 2.",
+        "action": "Drafted by Dallas with pick #7 of round 2.",
         "rowClass": "row1"
       }
     ],
@@ -16616,7 +16719,7 @@
     "loyalty": "24",
     "happiness": "31",
     "lastTeamId": "roster11",
-    "lastTeam": "Tokyo",
+    "lastTeam": "Dallas",
     "potentials": {
       "Ins": "B",
       "Jps": "D",
@@ -17095,109 +17198,6 @@
     },
     "potentialCurrentColor": "#F2662A",
     "potentialFutureColor": "#F2662A",
-    "contracts": [
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2018",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
-    "playerId": "player1462",
-    "name": "Chris Davis",
-    "url": "../players/player1462.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "SG",
-    "age": "17",
-    "ht": "6-6",
-    "wt": "180",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "D",
-    "Jps": "F",
-    "Fts": "C",
-    "3ps": "F+",
-    "Hnd": "F+",
-    "Pas": "F-",
-    "Orb": "F",
-    "Drb": "F-",
-    "Psd": "F-",
-    "Prd": "D",
-    "Stl": "F+",
-    "Blk": "F",
-    "Qkn": "B",
-    "Str": "C-",
-    "Jmp": "C+",
-    "Sta": "B+",
-    "overall": "43",
-    "potential": "84",
-    "greed": "47",
-    "playForWinner": "30",
-    "loyalty": "55",
-    "happiness": "76",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "B",
-      "Jps": "D",
-      "Fts": "C",
-      "3ps": "D",
-      "Hnd": "C",
-      "Pas": "F",
-      "Orb": "D",
-      "Drb": "F",
-      "Psd": "F",
-      "Prd": "B",
-      "Stl": "D",
-      "Blk": "D"
-    },
-    "potentialCurrentColor": "#B0040C",
-    "potentialFutureColor": "#EDBE30",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2011",
@@ -18100,7 +18100,7 @@
     "name": "Chuck Grays",
     "url": "../players/player529.htm",
     "team": "roster11",
-    "teamLabel": "Tokyo",
+    "teamLabel": "Dallas",
     "pos": "PG",
     "age": "35",
     "ht": "6-2",
@@ -18121,7 +18121,7 @@
       },
       {
         "date": "2011-07-31",
-        "action": "Traded to Tokyo",
+        "action": "Traded to Dallas",
         "rowClass": "row2"
       }
     ],
@@ -18148,7 +18148,7 @@
     "loyalty": "2",
     "happiness": "12",
     "lastTeamId": "roster11",
-    "lastTeam": "Tokyo",
+    "lastTeam": "Dallas",
     "potentials": {
       "Ins": "D",
       "Jps": "B",
@@ -18441,7 +18441,7 @@
     "name": "Clarence Williams",
     "url": "../players/player560.htm",
     "team": "roster9",
-    "teamLabel": "Auburn",
+    "teamLabel": "Chicago",
     "pos": "PG",
     "age": "33",
     "ht": "6-1",
@@ -18659,7 +18659,7 @@
     "loyalty": "44",
     "happiness": "75",
     "lastTeamId": "roster9",
-    "lastTeam": "Auburn",
+    "lastTeam": "Chicago",
     "potentials": {
       "Ins": "C",
       "Jps": "B",
@@ -19254,109 +19254,6 @@
     ]
   },
   {
-    "playerId": "player1432",
-    "name": "Cletus Smith",
-    "url": "../players/player1432.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "PG",
-    "age": "21",
-    "ht": "6-0",
-    "wt": "165",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "C",
-    "Jps": "C",
-    "Fts": "B+",
-    "3ps": "C",
-    "Hnd": "C+",
-    "Pas": "C",
-    "Orb": "F-",
-    "Drb": "F+",
-    "Psd": "F+",
-    "Prd": "C-",
-    "Stl": "C-",
-    "Blk": "F-",
-    "Qkn": "B",
-    "Str": "D+",
-    "Jmp": "C-",
-    "Sta": "C",
-    "overall": "65",
-    "potential": "83",
-    "greed": "95",
-    "playForWinner": "17",
-    "loyalty": "86",
-    "happiness": "58",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "C",
-      "Jps": "B",
-      "Fts": "A",
-      "3ps": "C",
-      "Hnd": "A",
-      "Pas": "C",
-      "Orb": "F",
-      "Drb": "F",
-      "Psd": "D",
-      "Prd": "C",
-      "Stl": "D",
-      "Blk": "F"
-    },
-    "potentialCurrentColor": "#F2662A",
-    "potentialFutureColor": "#EDBE30",
-    "isDraftee": true,
-    "contracts": [
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2018",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
     "playerId": "player119",
     "name": "Cliff Henderson",
     "url": "../players/player119.htm",
@@ -19570,109 +19467,6 @@
         "year": "2011",
         "salary": 6702692.0,
         "salaryText": "$6,702,692"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2018",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
-    "playerId": "player1517",
-    "name": "Clément Flameng",
-    "url": "../players/player1517.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "C",
-    "age": "25",
-    "ht": "7-0",
-    "wt": "214",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "D-",
-    "Jps": "C-",
-    "Fts": "B-",
-    "3ps": "F-",
-    "Hnd": "D+",
-    "Pas": "F",
-    "Orb": "C",
-    "Drb": "C",
-    "Psd": "B-",
-    "Prd": "D-",
-    "Stl": "F",
-    "Blk": "B-",
-    "Qkn": "F",
-    "Str": "B-",
-    "Jmp": "C-",
-    "Sta": "D+",
-    "overall": "74",
-    "potential": "83",
-    "greed": "61",
-    "playForWinner": "88",
-    "loyalty": "95",
-    "happiness": "32",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "D",
-      "Jps": "C",
-      "Fts": "B",
-      "3ps": "F",
-      "Hnd": "D",
-      "Pas": "F",
-      "Orb": "C",
-      "Drb": "C",
-      "Psd": "B",
-      "Prd": "D",
-      "Stl": "F",
-      "Blk": "B"
-    },
-    "potentialCurrentColor": "#F2662A",
-    "potentialFutureColor": "#EDBE30",
-    "isDraftee": true,
-    "contracts": [
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
       },
       {
         "year": "2012",
@@ -20717,6 +20511,109 @@
     ]
   },
   {
+    "playerId": "player1497",
+    "name": "Corey Lahey",
+    "url": "../players/player1497.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "PF",
+    "age": "20",
+    "ht": "6-7",
+    "wt": "230",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "C",
+    "Jps": "D",
+    "Fts": "C+",
+    "3ps": "C",
+    "Hnd": "D+",
+    "Pas": "F",
+    "Orb": "D",
+    "Drb": "C-",
+    "Psd": "C-",
+    "Prd": "D",
+    "Stl": "C",
+    "Blk": "C-",
+    "Qkn": "C",
+    "Str": "C+",
+    "Jmp": "A-",
+    "Sta": "C-",
+    "overall": "69",
+    "potential": "102",
+    "greed": "92",
+    "playForWinner": "63",
+    "loyalty": "64",
+    "happiness": "73",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "B",
+      "Jps": "D",
+      "Fts": "C",
+      "3ps": "C",
+      "Hnd": "C",
+      "Pas": "F",
+      "Orb": "C",
+      "Drb": "C",
+      "Psd": "C",
+      "Prd": "C",
+      "Stl": "A",
+      "Blk": "C"
+    },
+    "potentialCurrentColor": "#F2662A",
+    "potentialFutureColor": "#307B1A",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2018",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
     "playerId": "player102",
     "name": "Corey Williams",
     "url": "../players/player102.htm",
@@ -21217,6 +21114,109 @@
         "year": "2011",
         "salary": 1710000.0,
         "salaryText": "$1,710,000"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2018",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
+    "playerId": "player1459",
+    "name": "Crispin Cotechino",
+    "url": "../players/player1459.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "SG",
+    "age": "21",
+    "ht": "6-5",
+    "wt": "221",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "F-",
+    "Jps": "C",
+    "Fts": "C+",
+    "3ps": "B",
+    "Hnd": "C-",
+    "Pas": "F+",
+    "Orb": "D-",
+    "Drb": "F+",
+    "Psd": "D",
+    "Prd": "C",
+    "Stl": "C",
+    "Blk": "D-",
+    "Qkn": "A-",
+    "Str": "D-",
+    "Jmp": "C+",
+    "Sta": "A",
+    "overall": "80",
+    "potential": "108",
+    "greed": "89",
+    "playForWinner": "28",
+    "loyalty": "28",
+    "happiness": "24",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "F",
+      "Jps": "B",
+      "Fts": "B",
+      "3ps": "B",
+      "Hnd": "B",
+      "Pas": "D",
+      "Orb": "D",
+      "Drb": "D",
+      "Psd": "D",
+      "Prd": "B",
+      "Stl": "B",
+      "Blk": "D"
+    },
+    "potentialCurrentColor": "#EDBE30",
+    "potentialFutureColor": "#307B1A",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
       },
       {
         "year": "2012",
@@ -24180,7 +24180,7 @@
     "name": "Daron Tillotson",
     "url": "../players/player375.htm",
     "team": "roster9",
-    "teamLabel": "Auburn",
+    "teamLabel": "Chicago",
     "pos": "SG",
     "age": "27",
     "ht": "6-5",
@@ -24246,7 +24246,7 @@
     "loyalty": "17",
     "happiness": "82",
     "lastTeamId": "roster9",
-    "lastTeam": "Auburn",
+    "lastTeam": "Chicago",
     "potentials": {
       "Ins": "C",
       "Jps": "C",
@@ -25064,109 +25064,6 @@
     },
     "potentialCurrentColor": "#B0040C",
     "potentialFutureColor": "#B0040C",
-    "contracts": [
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2018",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
-    "playerId": "player1510",
-    "name": "David Anderson",
-    "url": "../players/player1510.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "PF",
-    "age": "19",
-    "ht": "6-10",
-    "wt": "234",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "D-",
-    "Jps": "D-",
-    "Fts": "B",
-    "3ps": "F-",
-    "Hnd": "D+",
-    "Pas": "F-",
-    "Orb": "D",
-    "Drb": "C+",
-    "Psd": "D+",
-    "Prd": "F-",
-    "Stl": "D+",
-    "Blk": "D+",
-    "Qkn": "D+",
-    "Str": "C",
-    "Jmp": "C",
-    "Sta": "B+",
-    "overall": "56",
-    "potential": "83",
-    "greed": "13",
-    "playForWinner": "51",
-    "loyalty": "57",
-    "happiness": "97",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "D",
-      "Jps": "D",
-      "Fts": "B",
-      "3ps": "F",
-      "Hnd": "C",
-      "Pas": "F",
-      "Orb": "C",
-      "Drb": "A",
-      "Psd": "C",
-      "Prd": "F",
-      "Stl": "C",
-      "Blk": "C"
-    },
-    "potentialCurrentColor": "#B0040C",
-    "potentialFutureColor": "#EDBE30",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2011",
@@ -29535,7 +29432,7 @@
     "name": "Dudley Wagstaff",
     "url": "../players/player558.htm",
     "team": "roster9",
-    "teamLabel": "Auburn",
+    "teamLabel": "Chicago",
     "pos": "PG",
     "age": "30",
     "ht": "6-2",
@@ -29596,7 +29493,7 @@
     "loyalty": "96",
     "happiness": "2",
     "lastTeamId": "roster9",
-    "lastTeam": "Auburn",
+    "lastTeam": "Chicago",
     "potentials": {
       "Ins": "C",
       "Jps": "C",
@@ -32533,7 +32430,7 @@
     "name": "Enoch Morgan",
     "url": "../players/player223.htm",
     "team": "roster9",
-    "teamLabel": "Auburn",
+    "teamLabel": "Chicago",
     "pos": "PF",
     "age": "24",
     "ht": "6-9",
@@ -32619,7 +32516,7 @@
     "loyalty": "66",
     "happiness": "56",
     "lastTeamId": "roster9",
-    "lastTeam": "Auburn",
+    "lastTeam": "Chicago",
     "potentials": {
       "Ins": "C",
       "Jps": "D",
@@ -34861,7 +34758,7 @@
     "name": "Freddy Booth",
     "url": "../players/player425.htm",
     "team": "roster11",
-    "teamLabel": "Tokyo",
+    "teamLabel": "Dallas",
     "pos": "SF",
     "age": "20",
     "ht": "6-2",
@@ -34892,7 +34789,7 @@
       },
       {
         "date": "2011-07-27",
-        "action": "Re-signed with Tokyo for $1,110,000 over one year.",
+        "action": "Re-signed with Dallas for $1,110,000 over one year.",
         "rowClass": "row2"
       }
     ],
@@ -34919,7 +34816,7 @@
     "loyalty": "49",
     "happiness": "10",
     "lastTeamId": "roster11",
-    "lastTeam": "Tokyo",
+    "lastTeam": "Dallas",
     "potentials": {
       "Ins": "D",
       "Jps": "D",
@@ -37271,7 +37168,7 @@
     "name": "George Lee",
     "url": "../players/player431.htm",
     "team": "roster9",
-    "teamLabel": "Auburn",
+    "teamLabel": "Chicago",
     "pos": "SF",
     "age": "25",
     "ht": "6-5",
@@ -37305,7 +37202,7 @@
     "transactions": [
       {
         "date": "2011-07-29",
-        "action": "Signed with Auburn for $1,350,000 over one year.",
+        "action": "Signed with Chicago for $1,350,000 over one year.",
         "rowClass": "row1"
       }
     ],
@@ -37332,7 +37229,7 @@
     "loyalty": "71",
     "happiness": "88",
     "lastTeamId": "roster9",
-    "lastTeam": "Auburn",
+    "lastTeam": "Chicago",
     "potentials": {
       "Ins": "C",
       "Jps": "A",
@@ -38785,7 +38682,7 @@
     "name": "Géraud Desmulliers",
     "url": "../players/player738.htm",
     "team": "roster11",
-    "teamLabel": "Tokyo",
+    "teamLabel": "Dallas",
     "pos": "PF",
     "age": "22",
     "ht": "6-10",
@@ -38801,7 +38698,7 @@
     "transactions": [
       {
         "date": "2011-06-29",
-        "action": "Drafted by Tokyo with pick #18 of round 2.",
+        "action": "Drafted by Dallas with pick #18 of round 2.",
         "rowClass": "row1"
       }
     ],
@@ -38828,7 +38725,7 @@
     "loyalty": "93",
     "happiness": "17",
     "lastTeamId": "roster11",
-    "lastTeam": "Tokyo",
+    "lastTeam": "Dallas",
     "potentials": {
       "Ins": "F",
       "Jps": "C",
@@ -38855,6 +38752,109 @@
         "year": "2012",
         "salary": 1110000.0,
         "salaryText": "$1,110,000"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2018",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
+    "playerId": "player1510",
+    "name": "Hank Dawes",
+    "url": "../players/player1510.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "PF",
+    "age": "19",
+    "ht": "6-10",
+    "wt": "234",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "B",
+    "Jps": "D-",
+    "Fts": "B",
+    "3ps": "F-",
+    "Hnd": "D+",
+    "Pas": "F-",
+    "Orb": "D",
+    "Drb": "C+",
+    "Psd": "D+",
+    "Prd": "F-",
+    "Stl": "D+",
+    "Blk": "D+",
+    "Qkn": "C-",
+    "Str": "C",
+    "Jmp": "A",
+    "Sta": "B+",
+    "overall": "78",
+    "potential": "109",
+    "greed": "13",
+    "playForWinner": "51",
+    "loyalty": "57",
+    "happiness": "97",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "A",
+      "Jps": "D",
+      "Fts": "B",
+      "3ps": "F",
+      "Hnd": "C",
+      "Pas": "F",
+      "Orb": "C",
+      "Drb": "A",
+      "Psd": "C",
+      "Prd": "F",
+      "Stl": "C",
+      "Blk": "C"
+    },
+    "potentialCurrentColor": "#F2662A",
+    "potentialFutureColor": "#307B1A",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
       },
       {
         "year": "2013",
@@ -39204,109 +39204,6 @@
         "year": "2013",
         "salary": 31000000.0,
         "salaryText": "$31,000,000"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2018",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
-    "playerId": "player1459",
-    "name": "Harley Weaver",
-    "url": "../players/player1459.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "SG",
-    "age": "21",
-    "ht": "6-5",
-    "wt": "221",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "F-",
-    "Jps": "D",
-    "Fts": "C+",
-    "3ps": "C-",
-    "Hnd": "D+",
-    "Pas": "F+",
-    "Orb": "D-",
-    "Drb": "F+",
-    "Psd": "D",
-    "Prd": "C",
-    "Stl": "F-",
-    "Blk": "D-",
-    "Qkn": "A-",
-    "Str": "D-",
-    "Jmp": "C+",
-    "Sta": "A",
-    "overall": "56",
-    "potential": "83",
-    "greed": "89",
-    "playForWinner": "28",
-    "loyalty": "28",
-    "happiness": "24",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "F",
-      "Jps": "D",
-      "Fts": "C",
-      "3ps": "B",
-      "Hnd": "C",
-      "Pas": "D",
-      "Orb": "D",
-      "Drb": "D",
-      "Psd": "D",
-      "Prd": "B",
-      "Stl": "F",
-      "Blk": "D"
-    },
-    "potentialCurrentColor": "#B0040C",
-    "potentialFutureColor": "#EDBE30",
-    "isDraftee": true,
-    "contracts": [
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
       },
       {
         "year": "2014",
@@ -40516,6 +40413,109 @@
     },
     "potentialCurrentColor": "#B0040C",
     "potentialFutureColor": "#B0040C",
+    "contracts": [
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2018",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
+    "playerId": "player1473",
+    "name": "Homer Sampson",
+    "url": "../players/player1473.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "SF",
+    "age": "19",
+    "ht": "6-7",
+    "wt": "206",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "F-",
+    "Jps": "B",
+    "Fts": "A-",
+    "3ps": "B",
+    "Hnd": "D-",
+    "Pas": "D-",
+    "Orb": "F+",
+    "Drb": "F+",
+    "Psd": "F",
+    "Prd": "C",
+    "Stl": "C+",
+    "Blk": "D-",
+    "Qkn": "C+",
+    "Str": "B",
+    "Jmp": "C+",
+    "Sta": "C",
+    "overall": "75",
+    "potential": "107",
+    "greed": "91",
+    "playForWinner": "41",
+    "loyalty": "56",
+    "happiness": "72",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "F",
+      "Jps": "A",
+      "Fts": "A",
+      "3ps": "A",
+      "Hnd": "C",
+      "Pas": "D",
+      "Orb": "C",
+      "Drb": "C",
+      "Psd": "F",
+      "Prd": "A",
+      "Stl": "B",
+      "Blk": "D"
+    },
+    "potentialCurrentColor": "#F2662A",
+    "potentialFutureColor": "#307B1A",
+    "isDraftee": true,
     "contracts": [
       {
         "year": "2011",
@@ -42469,7 +42469,7 @@
     "loyalty": "87",
     "happiness": "28",
     "lastTeamId": "roster11",
-    "lastTeam": "Tokyo",
+    "lastTeam": "Dallas",
     "potentials": {
       "Ins": "D",
       "Jps": "C",
@@ -44834,7 +44834,7 @@
     "name": "James Frye",
     "url": "../players/player349.htm",
     "team": "roster9",
-    "teamLabel": "Auburn",
+    "teamLabel": "Chicago",
     "pos": "PF",
     "age": "39",
     "ht": "6-10",
@@ -44877,7 +44877,7 @@
     "loyalty": "78",
     "happiness": "58",
     "lastTeamId": "roster9",
-    "lastTeam": "Auburn",
+    "lastTeam": "Chicago",
     "potentials": {
       "Ins": "D",
       "Jps": "B",
@@ -45320,109 +45320,6 @@
     },
     "potentialCurrentColor": "#B0040C",
     "potentialFutureColor": "#F2662A",
-    "isDraftee": true,
-    "contracts": [
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2018",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
-    "playerId": "player1473",
-    "name": "James Newberry",
-    "url": "../players/player1473.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "SF",
-    "age": "19",
-    "ht": "6-7",
-    "wt": "206",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "F-",
-    "Jps": "C-",
-    "Fts": "C+",
-    "3ps": "C",
-    "Hnd": "D-",
-    "Pas": "D-",
-    "Orb": "F+",
-    "Drb": "F+",
-    "Psd": "F",
-    "Prd": "C",
-    "Stl": "D-",
-    "Blk": "D-",
-    "Qkn": "C+",
-    "Str": "B",
-    "Jmp": "C+",
-    "Sta": "C",
-    "overall": "59",
-    "potential": "88",
-    "greed": "91",
-    "playForWinner": "41",
-    "loyalty": "56",
-    "happiness": "72",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "F",
-      "Jps": "B",
-      "Fts": "C",
-      "3ps": "B",
-      "Hnd": "C",
-      "Pas": "D",
-      "Orb": "D",
-      "Drb": "D",
-      "Psd": "F",
-      "Prd": "A",
-      "Stl": "D",
-      "Blk": "D"
-    },
-    "potentialCurrentColor": "#B0040C",
-    "potentialFutureColor": "#EDBE30",
     "isDraftee": true,
     "contracts": [
       {
@@ -46847,12 +46744,12 @@
       },
       {
         "date": "2011-07-29",
-        "action": "Re-signed with Tokyo for $1,110,000 over one year.",
+        "action": "Re-signed with Dallas for $1,110,000 over one year.",
         "rowClass": "row2"
       },
       {
         "date": "2011-11-01",
-        "action": "Released by Tokyo",
+        "action": "Released by Dallas",
         "rowClass": "row1"
       }
     ],
@@ -46879,7 +46776,7 @@
     "loyalty": "81",
     "happiness": "61",
     "lastTeamId": "roster11",
-    "lastTeam": "Tokyo",
+    "lastTeam": "Dallas",
     "potentials": {
       "Ins": "D",
       "Jps": "F",
@@ -47063,12 +46960,12 @@
     "transactions": [
       {
         "date": "2011-08-01",
-        "action": "Signed with Tokyo for $760,000 over one year.",
+        "action": "Signed with Dallas for $760,000 over one year.",
         "rowClass": "row1"
       },
       {
         "date": "2011-12-01",
-        "action": "Released by Tokyo",
+        "action": "Released by Dallas",
         "rowClass": "row2"
       }
     ],
@@ -47095,7 +46992,7 @@
     "loyalty": "94",
     "happiness": "46",
     "lastTeamId": "roster11",
-    "lastTeam": "Tokyo",
+    "lastTeam": "Dallas",
     "potentials": {
       "Ins": "A",
       "Jps": "C",
@@ -47637,109 +47534,6 @@
     },
     "potentialCurrentColor": "#F2662A",
     "potentialFutureColor": "#F2662A",
-    "contracts": [
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2018",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
-    "playerId": "player1497",
-    "name": "Jeffrey Malley",
-    "url": "../players/player1497.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "PF",
-    "age": "20",
-    "ht": "6-7",
-    "wt": "230",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "C-",
-    "Jps": "D",
-    "Fts": "C+",
-    "3ps": "C",
-    "Hnd": "D+",
-    "Pas": "F",
-    "Orb": "D",
-    "Drb": "C-",
-    "Psd": "D-",
-    "Prd": "F",
-    "Stl": "F+",
-    "Blk": "C-",
-    "Qkn": "C-",
-    "Str": "C+",
-    "Jmp": "C+",
-    "Sta": "C-",
-    "overall": "55",
-    "potential": "82",
-    "greed": "92",
-    "playForWinner": "63",
-    "loyalty": "64",
-    "happiness": "73",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "B",
-      "Jps": "D",
-      "Fts": "C",
-      "3ps": "C",
-      "Hnd": "C",
-      "Pas": "F",
-      "Orb": "C",
-      "Drb": "C",
-      "Psd": "D",
-      "Prd": "F",
-      "Stl": "D",
-      "Blk": "C"
-    },
-    "potentialCurrentColor": "#B0040C",
-    "potentialFutureColor": "#EDBE30",
-    "isDraftee": true,
     "contracts": [
       {
         "year": "2011",
@@ -49591,7 +49385,7 @@
     "name": "Joey Smallwood",
     "url": "../players/player719.htm",
     "team": "roster11",
-    "teamLabel": "Tokyo",
+    "teamLabel": "Dallas",
     "pos": "C",
     "age": "20",
     "ht": "6-11",
@@ -49638,7 +49432,7 @@
     "transactions": [
       {
         "date": "2011-06-29",
-        "action": "Drafted by Tokyo with pick #30 of round 1.",
+        "action": "Drafted by Dallas with pick #30 of round 1.",
         "rowClass": "row1"
       }
     ],
@@ -49665,7 +49459,7 @@
     "loyalty": "33",
     "happiness": "31",
     "lastTeamId": "roster11",
-    "lastTeam": "Tokyo",
+    "lastTeam": "Dallas",
     "potentials": {
       "Ins": "C",
       "Jps": "D",
@@ -52239,109 +52033,6 @@
     ]
   },
   {
-    "playerId": "player1505",
-    "name": "Jorge Young",
-    "url": "../players/player1505.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "PF",
-    "age": "20",
-    "ht": "6-8",
-    "wt": "215",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "D",
-    "Jps": "D+",
-    "Fts": "C",
-    "3ps": "C",
-    "Hnd": "D",
-    "Pas": "D",
-    "Orb": "C+",
-    "Drb": "C-",
-    "Psd": "C",
-    "Prd": "F+",
-    "Stl": "D+",
-    "Blk": "C-",
-    "Qkn": "C-",
-    "Str": "C+",
-    "Jmp": "C-",
-    "Sta": "C+",
-    "overall": "64",
-    "potential": "85",
-    "greed": "93",
-    "playForWinner": "72",
-    "loyalty": "30",
-    "happiness": "30",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "D",
-      "Jps": "C",
-      "Fts": "C",
-      "3ps": "B",
-      "Hnd": "D",
-      "Pas": "D",
-      "Orb": "A",
-      "Drb": "C",
-      "Psd": "C",
-      "Prd": "F",
-      "Stl": "C",
-      "Blk": "C"
-    },
-    "potentialCurrentColor": "#F2662A",
-    "potentialFutureColor": "#EDBE30",
-    "isDraftee": true,
-    "contracts": [
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2018",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
     "playerId": "player123",
     "name": "Jose Donovan",
     "url": "../players/player123.htm",
@@ -53115,7 +52806,7 @@
     "name": "Joseph Barr",
     "url": "../players/player727.htm",
     "team": "roster9",
-    "teamLabel": "Auburn",
+    "teamLabel": "Chicago",
     "pos": "C",
     "age": "20",
     "ht": "6-11",
@@ -53131,7 +52822,7 @@
     "transactions": [
       {
         "date": "2011-06-29",
-        "action": "Drafted by Auburn with pick #26 of round 1.",
+        "action": "Drafted by Chicago with pick #26 of round 1.",
         "rowClass": "row1"
       }
     ],
@@ -53158,7 +52849,7 @@
     "loyalty": "10",
     "happiness": "73",
     "lastTeamId": "roster9",
-    "lastTeam": "Auburn",
+    "lastTeam": "Chicago",
     "potentials": {
       "Ins": "D",
       "Jps": "D",
@@ -56253,109 +55944,6 @@
     ]
   },
   {
-    "playerId": "player1513",
-    "name": "Kirk Jackson",
-    "url": "../players/player1513.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "C",
-    "age": "18",
-    "ht": "7-0",
-    "wt": "253",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "D+",
-    "Jps": "C-",
-    "Fts": "C",
-    "3ps": "F",
-    "Hnd": "D+",
-    "Pas": "D-",
-    "Orb": "D+",
-    "Drb": "C-",
-    "Psd": "D",
-    "Prd": "F+",
-    "Stl": "F+",
-    "Blk": "D-",
-    "Qkn": "C",
-    "Str": "B",
-    "Jmp": "B",
-    "Sta": "C+",
-    "overall": "61",
-    "potential": "89",
-    "greed": "31",
-    "playForWinner": "1",
-    "loyalty": "87",
-    "happiness": "88",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "C",
-      "Jps": "B",
-      "Fts": "C",
-      "3ps": "D",
-      "Hnd": "C",
-      "Pas": "D",
-      "Orb": "C",
-      "Drb": "C",
-      "Psd": "C",
-      "Prd": "D",
-      "Stl": "D",
-      "Blk": "D"
-    },
-    "potentialCurrentColor": "#F2662A",
-    "potentialFutureColor": "#EDBE30",
-    "isDraftee": true,
-    "contracts": [
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2018",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
     "playerId": "player1464",
     "name": "Kraig Cantu",
     "url": "../players/player1464.htm",
@@ -57486,12 +57074,12 @@
       },
       {
         "date": "2011-07-26",
-        "action": "Re-signed with Tokyo for $1,110,000 over one year.",
+        "action": "Re-signed with Dallas for $1,110,000 over one year.",
         "rowClass": "row2"
       },
       {
         "date": "2011-11-01",
-        "action": "Released by Tokyo",
+        "action": "Released by Dallas",
         "rowClass": "row1"
       }
     ],
@@ -57518,7 +57106,7 @@
     "loyalty": "42",
     "happiness": "60",
     "lastTeamId": "roster11",
-    "lastTeam": "Tokyo",
+    "lastTeam": "Dallas",
     "potentials": {
       "Ins": "F",
       "Jps": "D",
@@ -59723,7 +59311,7 @@
     "name": "Louis NoBoat",
     "url": "../players/player716.htm",
     "team": "roster11",
-    "teamLabel": "Tokyo",
+    "teamLabel": "Dallas",
     "pos": "PG",
     "age": "18",
     "ht": "5-6",
@@ -59799,7 +59387,7 @@
       },
       {
         "date": "2011-06-29",
-        "action": "Traded to Tokyo",
+        "action": "Traded to Dallas",
         "rowClass": "row2"
       }
     ],
@@ -59826,7 +59414,7 @@
     "loyalty": "100",
     "happiness": "11",
     "lastTeamId": "roster11",
-    "lastTeam": "Tokyo",
+    "lastTeam": "Dallas",
     "potentials": {
       "Ins": "A",
       "Jps": "B",
@@ -60710,109 +60298,6 @@
     ]
   },
   {
-    "playerId": "player1457",
-    "name": "Malcom Tello",
-    "url": "../players/player1457.htm",
-    "team": "Draft",
-    "teamLabel": "Draft",
-    "pos": "SG",
-    "age": "21",
-    "ht": "6-2",
-    "wt": "218",
-    "experience": "Rookie",
-    "birdYears": 0,
-    "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
-    "awards": [],
-    "achievementTotals": [],
-    "seasonAwards": [],
-    "transactions": [],
-    "Ins": "D",
-    "Jps": "D",
-    "Fts": "C",
-    "3ps": "D+",
-    "Hnd": "D+",
-    "Pas": "F+",
-    "Orb": "D",
-    "Drb": "D+",
-    "Psd": "F",
-    "Prd": "D+",
-    "Stl": "D-",
-    "Blk": "F",
-    "Qkn": "A-",
-    "Str": "D+",
-    "Jmp": "C",
-    "Sta": "A",
-    "overall": "48",
-    "potential": "73",
-    "greed": "16",
-    "playForWinner": "47",
-    "loyalty": "36",
-    "happiness": "88",
-    "lastTeamId": "",
-    "lastTeam": "",
-    "potentials": {
-      "Ins": "C",
-      "Jps": "D",
-      "Fts": "B",
-      "3ps": "C",
-      "Hnd": "B",
-      "Pas": "F",
-      "Orb": "D",
-      "Drb": "C",
-      "Psd": "F",
-      "Prd": "C",
-      "Stl": "D",
-      "Blk": "F"
-    },
-    "potentialCurrentColor": "#B0040C",
-    "potentialFutureColor": "#F2662A",
-    "isDraftee": true,
-    "contracts": [
-      {
-        "year": "2011",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2016",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2017",
-        "salary": 0.0,
-        "salaryText": "$0"
-      },
-      {
-        "year": "2018",
-        "salary": 0.0,
-        "salaryText": "$0"
-      }
-    ]
-  },
-  {
     "playerId": "player381",
     "name": "Malik Gomez",
     "url": "../players/player381.htm",
@@ -61141,7 +60626,7 @@
     "name": "Marcos Martinez",
     "url": "../players/player363.htm",
     "team": "roster11",
-    "teamLabel": "Tokyo",
+    "teamLabel": "Dallas",
     "pos": "SG",
     "age": "36",
     "ht": "6-5",
@@ -61202,7 +60687,7 @@
     "loyalty": "100",
     "happiness": "35",
     "lastTeamId": "roster11",
-    "lastTeam": "Tokyo",
+    "lastTeam": "Dallas",
     "potentials": {
       "Ins": "C",
       "Jps": "C",
@@ -64005,7 +63490,7 @@
     "name": "Milosz Martinich",
     "url": "../players/player140.htm",
     "team": "roster9",
-    "teamLabel": "Auburn",
+    "teamLabel": "Chicago",
     "pos": "C",
     "age": "30",
     "ht": "7-0",
@@ -64048,7 +63533,7 @@
     "loyalty": "58",
     "happiness": "2",
     "lastTeamId": "roster9",
-    "lastTeam": "Auburn",
+    "lastTeam": "Chicago",
     "potentials": {
       "Ins": "C",
       "Jps": "C",
@@ -64113,7 +63598,7 @@
     "name": "Milovan Drulovic",
     "url": "../players/player154.htm",
     "team": "roster11",
-    "teamLabel": "Tokyo",
+    "teamLabel": "Dallas",
     "pos": "PF",
     "age": "26",
     "ht": "6-9",
@@ -64174,7 +63659,7 @@
     "loyalty": "3",
     "happiness": "8",
     "lastTeamId": "roster11",
-    "lastTeam": "Tokyo",
+    "lastTeam": "Dallas",
     "potentials": {
       "Ins": "C",
       "Jps": "D",
@@ -68986,7 +68471,7 @@
     "name": "Pavel Halik",
     "url": "../players/player747.htm",
     "team": "roster9",
-    "teamLabel": "Auburn",
+    "teamLabel": "Chicago",
     "pos": "PF",
     "age": "23",
     "ht": "6-8",
@@ -69002,7 +68487,7 @@
     "transactions": [
       {
         "date": "2011-06-29",
-        "action": "Drafted by Auburn with pick #26 of round 2.",
+        "action": "Drafted by Chicago with pick #26 of round 2.",
         "rowClass": "row1"
       }
     ],
@@ -69029,7 +68514,7 @@
     "loyalty": "28",
     "happiness": "86",
     "lastTeamId": "roster9",
-    "lastTeam": "Auburn",
+    "lastTeam": "Chicago",
     "potentials": {
       "Ins": "D",
       "Jps": "D",
@@ -69216,6 +68701,109 @@
     ]
   },
   {
+    "playerId": "player1505",
+    "name": "Pete Eckhart",
+    "url": "../players/player1505.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "PF",
+    "age": "20",
+    "ht": "6-8",
+    "wt": "215",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "C",
+    "Jps": "D+",
+    "Fts": "C",
+    "3ps": "C",
+    "Hnd": "D",
+    "Pas": "D",
+    "Orb": "C+",
+    "Drb": "C-",
+    "Psd": "C",
+    "Prd": "F+",
+    "Stl": "D+",
+    "Blk": "C-",
+    "Qkn": "C",
+    "Str": "B",
+    "Jmp": "A-",
+    "Sta": "C+",
+    "overall": "80",
+    "potential": "114",
+    "greed": "93",
+    "playForWinner": "72",
+    "loyalty": "30",
+    "happiness": "30",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "B",
+      "Jps": "C",
+      "Fts": "C",
+      "3ps": "B",
+      "Hnd": "D",
+      "Pas": "D",
+      "Orb": "A",
+      "Drb": "B",
+      "Psd": "B",
+      "Prd": "F",
+      "Stl": "C",
+      "Blk": "C"
+    },
+    "potentialCurrentColor": "#EDBE30",
+    "potentialFutureColor": "#307B1A",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2018",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
     "playerId": "player751",
     "name": "Peter Perk",
     "url": "../players/player751.htm",
@@ -69362,7 +68950,7 @@
     "transactions": [],
     "Ins": "C",
     "Jps": "C",
-    "Fts": "C+",
+    "Fts": "A-",
     "3ps": "C+",
     "Hnd": "C",
     "Pas": "D+",
@@ -69376,8 +68964,8 @@
     "Str": "B+",
     "Jmp": "A-",
     "Sta": "B+",
-    "overall": "100",
-    "potential": "134",
+    "overall": "101",
+    "potential": "136",
     "greed": "43",
     "playForWinner": "80",
     "loyalty": "75",
@@ -69387,7 +68975,7 @@
     "potentials": {
       "Ins": "B",
       "Jps": "B",
-      "Fts": "C",
+      "Fts": "B",
       "3ps": "B",
       "Hnd": "B",
       "Pas": "C",
@@ -69395,8 +68983,8 @@
       "Drb": "C",
       "Psd": "D",
       "Prd": "B",
-      "Stl": "D",
-      "Blk": "D"
+      "Stl": "C",
+      "Blk": "C"
     },
     "potentialCurrentColor": "#307B1A",
     "potentialFutureColor": "#0052C3",
@@ -69601,12 +69189,12 @@
       },
       {
         "date": "2011-12-01",
-        "action": "Traded to Tokyo",
+        "action": "Traded to Dallas",
         "rowClass": "row1"
       },
       {
         "date": "2011-12-01",
-        "action": "Released by Tokyo",
+        "action": "Released by Dallas",
         "rowClass": "row2"
       }
     ],
@@ -70653,7 +70241,7 @@
     "name": "Randy Horton",
     "url": "../players/player809.htm",
     "team": "roster11",
-    "teamLabel": "Tokyo",
+    "teamLabel": "Dallas",
     "pos": "SG",
     "age": "20",
     "ht": "6-3",
@@ -70669,7 +70257,7 @@
     "transactions": [
       {
         "date": "2011-06-29",
-        "action": "Drafted by Tokyo with pick #25 of round 1.",
+        "action": "Drafted by Dallas with pick #25 of round 1.",
         "rowClass": "row1"
       }
     ],
@@ -70696,7 +70284,7 @@
     "loyalty": "1",
     "happiness": "34",
     "lastTeamId": "roster11",
-    "lastTeam": "Tokyo",
+    "lastTeam": "Dallas",
     "potentials": {
       "Ins": "D",
       "Jps": "C",
@@ -72623,7 +72211,7 @@
     "name": "Richard Houck",
     "url": "../players/player138.htm",
     "team": "roster11",
-    "teamLabel": "Tokyo",
+    "teamLabel": "Dallas",
     "pos": "C",
     "age": "25",
     "ht": "7-0",
@@ -72666,7 +72254,7 @@
     "loyalty": "65",
     "happiness": "24",
     "lastTeamId": "roster11",
-    "lastTeam": "Tokyo",
+    "lastTeam": "Dallas",
     "potentials": {
       "Ins": "D",
       "Jps": "C",
@@ -73921,7 +73509,7 @@
     "Jmp": "B-",
     "Sta": "A-",
     "overall": "80",
-    "potential": "139",
+    "potential": "144",
     "greed": "81",
     "playForWinner": "6",
     "loyalty": "6",
@@ -73938,7 +73526,7 @@
       "Orb": "C",
       "Drb": "C",
       "Psd": "C",
-      "Prd": "D",
+      "Prd": "B",
       "Stl": "C",
       "Blk": "D"
     },
@@ -74191,6 +73779,109 @@
         "year": "2011",
         "salary": 4563628.0,
         "salaryText": "$4,563,628"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2018",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
+    "playerId": "player1432",
+    "name": "Rodney Ruxin",
+    "url": "../players/player1432.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "PG",
+    "age": "21",
+    "ht": "6-0",
+    "wt": "165",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "C",
+    "Jps": "C",
+    "Fts": "B+",
+    "3ps": "B-",
+    "Hnd": "C+",
+    "Pas": "B",
+    "Orb": "F-",
+    "Drb": "F+",
+    "Psd": "F+",
+    "Prd": "C",
+    "Stl": "B",
+    "Blk": "F-",
+    "Qkn": "B",
+    "Str": "D+",
+    "Jmp": "C-",
+    "Sta": "C",
+    "overall": "81",
+    "potential": "107",
+    "greed": "95",
+    "playForWinner": "17",
+    "loyalty": "86",
+    "happiness": "58",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "C",
+      "Jps": "B",
+      "Fts": "A",
+      "3ps": "A",
+      "Hnd": "A",
+      "Pas": "A",
+      "Orb": "F",
+      "Drb": "F",
+      "Psd": "D",
+      "Prd": "B",
+      "Stl": "A",
+      "Blk": "F"
+    },
+    "potentialCurrentColor": "#EDBE30",
+    "potentialFutureColor": "#307B1A",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
       },
       {
         "year": "2012",
@@ -74944,7 +74635,7 @@
     "loyalty": "8",
     "happiness": "10",
     "lastTeamId": "roster11",
-    "lastTeam": "Tokyo",
+    "lastTeam": "Dallas",
     "potentials": {
       "Ins": "D",
       "Jps": "D",
@@ -75366,12 +75057,12 @@
       },
       {
         "date": "2011-12-01",
-        "action": "Traded to Tokyo",
+        "action": "Traded to Dallas",
         "rowClass": "row1"
       },
       {
         "date": "2011-12-01",
-        "action": "Released by Tokyo",
+        "action": "Released by Dallas",
         "rowClass": "row2"
       }
     ],
@@ -75463,7 +75154,7 @@
     "name": "Roy Brown",
     "url": "../players/player397.htm",
     "team": "roster9",
-    "teamLabel": "Auburn",
+    "teamLabel": "Chicago",
     "pos": "SF",
     "age": "31",
     "ht": "6-8",
@@ -75524,7 +75215,7 @@
     "loyalty": "19",
     "happiness": "76",
     "lastTeamId": "roster9",
-    "lastTeam": "Auburn",
+    "lastTeam": "Chicago",
     "potentials": {
       "Ins": "D",
       "Jps": "C",
@@ -75844,7 +75535,7 @@
     "teamLabel": "Draft",
     "pos": "SG",
     "age": "17",
-    "ht": "6-5",
+    "ht": "6-8",
     "wt": "206",
     "experience": "Rookie",
     "birdYears": 0,
@@ -75855,24 +75546,24 @@
     "achievementTotals": [],
     "seasonAwards": [],
     "transactions": [],
-    "Ins": "F-",
+    "Ins": "D+",
     "Jps": "D+",
     "Fts": "A",
     "3ps": "F+",
     "Hnd": "D+",
     "Pas": "F+",
-    "Orb": "F-",
-    "Drb": "F",
-    "Psd": "F",
+    "Orb": "D",
+    "Drb": "D+",
+    "Psd": "D",
     "Prd": "D",
     "Stl": "F+",
-    "Blk": "F-",
+    "Blk": "C-",
     "Qkn": "A-",
     "Str": "C",
     "Jmp": "C-",
     "Sta": "C+",
-    "overall": "40",
-    "potential": "82",
+    "overall": "60",
+    "potential": "112",
     "greed": "41",
     "playForWinner": "91",
     "loyalty": "21",
@@ -75880,21 +75571,21 @@
     "lastTeamId": "",
     "lastTeam": "",
     "potentials": {
-      "Ins": "F",
+      "Ins": "C",
       "Jps": "B",
       "Fts": "A",
       "3ps": "C",
       "Hnd": "B",
       "Pas": "D",
-      "Orb": "F",
-      "Drb": "F",
-      "Psd": "D",
+      "Orb": "C",
+      "Drb": "C",
+      "Psd": "C",
       "Prd": "C",
       "Stl": "D",
-      "Blk": "F"
+      "Blk": "B"
     },
-    "potentialCurrentColor": "#B0040C",
-    "potentialFutureColor": "#EDBE30",
+    "potentialCurrentColor": "#F2662A",
+    "potentialFutureColor": "#307B1A",
     "isDraftee": true,
     "contracts": [
       {
@@ -77109,12 +76800,12 @@
       },
       {
         "date": "2011-12-01",
-        "action": "Traded to Tokyo",
+        "action": "Traded to Dallas",
         "rowClass": "row1"
       },
       {
         "date": "2011-12-01",
-        "action": "Released by Tokyo",
+        "action": "Released by Dallas",
         "rowClass": "row2"
       }
     ],
@@ -77324,7 +77015,7 @@
     "name": "Scott Barrett",
     "url": "../players/player462.htm",
     "team": "roster11",
-    "teamLabel": "Tokyo",
+    "teamLabel": "Dallas",
     "pos": "SG",
     "age": "21",
     "ht": "6-3",
@@ -77350,7 +77041,7 @@
       },
       {
         "date": "2011-07-26",
-        "action": "Re-signed with Tokyo for $1,110,000 over one year.",
+        "action": "Re-signed with Dallas for $1,110,000 over one year.",
         "rowClass": "row1"
       }
     ],
@@ -77377,7 +77068,7 @@
     "loyalty": "46",
     "happiness": "47",
     "lastTeamId": "roster11",
-    "lastTeam": "Tokyo",
+    "lastTeam": "Dallas",
     "potentials": {
       "Ins": "D",
       "Jps": "C",
@@ -77463,7 +77154,7 @@
       },
       {
         "date": "2011-11-01",
-        "action": "Released by Tokyo",
+        "action": "Released by Dallas",
         "rowClass": "row2"
       }
     ],
@@ -77490,7 +77181,7 @@
     "loyalty": "68",
     "happiness": "2",
     "lastTeamId": "roster11",
-    "lastTeam": "Tokyo",
+    "lastTeam": "Dallas",
     "potentials": {
       "Ins": "D",
       "Jps": "C",
@@ -78478,7 +78169,7 @@
     "loyalty": "1",
     "happiness": "34",
     "lastTeamId": "roster11",
-    "lastTeam": "Tokyo",
+    "lastTeam": "Dallas",
     "potentials": {
       "Ins": "D",
       "Jps": "B",
@@ -79094,7 +78785,7 @@
     "name": "Simon Pierce",
     "url": "../players/player456.htm",
     "team": "roster9",
-    "teamLabel": "Auburn",
+    "teamLabel": "Chicago",
     "pos": "SF",
     "age": "28",
     "ht": "6-5",
@@ -79155,7 +78846,7 @@
     "loyalty": "28",
     "happiness": "4",
     "lastTeamId": "roster9",
-    "lastTeam": "Auburn",
+    "lastTeam": "Chicago",
     "potentials": {
       "Ins": "C",
       "Jps": "B",
@@ -82776,7 +82467,7 @@
     "name": "Timmy Valencia",
     "url": "../players/player511.htm",
     "team": "roster9",
-    "teamLabel": "Auburn",
+    "teamLabel": "Chicago",
     "pos": "PG",
     "age": "26",
     "ht": "6-5",
@@ -82797,7 +82488,7 @@
       },
       {
         "date": "2011-11-01",
-        "action": "Signed by Auburn for $1,290,000 over one year.",
+        "action": "Signed by Chicago for $1,290,000 over one year.",
         "rowClass": "row2"
       },
       {
@@ -82829,7 +82520,7 @@
     "loyalty": "84",
     "happiness": "9",
     "lastTeamId": "roster9",
-    "lastTeam": "Auburn",
+    "lastTeam": "Chicago",
     "potentials": {
       "Ins": "D",
       "Jps": "C",
@@ -83525,6 +83216,109 @@
         "year": "2011",
         "salary": 2380000.0,
         "salaryText": "$2,380,000"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2018",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
+    "playerId": "player1517",
+    "name": "Tito Tarzana",
+    "url": "../players/player1517.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "C",
+    "age": "25",
+    "ht": "7-5",
+    "wt": "214",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "D-",
+    "Jps": "C-",
+    "Fts": "B-",
+    "3ps": "F-",
+    "Hnd": "D+",
+    "Pas": "F",
+    "Orb": "C",
+    "Drb": "C",
+    "Psd": "B-",
+    "Prd": "D-",
+    "Stl": "F",
+    "Blk": "B-",
+    "Qkn": "F-",
+    "Str": "A",
+    "Jmp": "C-",
+    "Sta": "D+",
+    "overall": "77",
+    "potential": "109",
+    "greed": "61",
+    "playForWinner": "88",
+    "loyalty": "95",
+    "happiness": "32",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "C",
+      "Jps": "C",
+      "Fts": "B",
+      "3ps": "F",
+      "Hnd": "D",
+      "Pas": "F",
+      "Orb": "B",
+      "Drb": "B",
+      "Psd": "B",
+      "Prd": "D",
+      "Stl": "F",
+      "Blk": "A"
+    },
+    "potentialCurrentColor": "#F2662A",
+    "potentialFutureColor": "#307B1A",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
       },
       {
         "year": "2012",
@@ -85816,11 +85610,114 @@
     ]
   },
   {
+    "playerId": "player1447",
+    "name": "Trevor Lahey",
+    "url": "../players/player1447.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "C",
+    "age": "19",
+    "ht": "6-7",
+    "wt": "185",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "B+",
+    "Jps": "C-",
+    "Fts": "B-",
+    "3ps": "D+",
+    "Hnd": "D+",
+    "Pas": "C-",
+    "Orb": "C",
+    "Drb": "C",
+    "Psd": "C+",
+    "Prd": "D+",
+    "Stl": "D+",
+    "Blk": "C+",
+    "Qkn": "F",
+    "Str": "A",
+    "Jmp": "B+",
+    "Sta": "B+",
+    "overall": "89",
+    "potential": "111",
+    "greed": "12",
+    "playForWinner": "8",
+    "loyalty": "58",
+    "happiness": "86",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "B",
+      "Jps": "C",
+      "Fts": "B",
+      "3ps": "C",
+      "Hnd": "C",
+      "Pas": "B",
+      "Orb": "B",
+      "Drb": "B",
+      "Psd": "B",
+      "Prd": "C",
+      "Stl": "C",
+      "Blk": "B"
+    },
+    "potentialCurrentColor": "#EDBE30",
+    "potentialFutureColor": "#307B1A",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2018",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
     "playerId": "player301",
     "name": "Trey Cogan",
     "url": "../players/player301.htm",
     "team": "roster11",
-    "teamLabel": "Tokyo",
+    "teamLabel": "Dallas",
     "pos": "PF",
     "age": "33",
     "ht": "6-5",
@@ -85859,7 +85756,7 @@
       },
       {
         "date": "2011-12-01",
-        "action": "Traded to Tokyo",
+        "action": "Traded to Dallas",
         "rowClass": "row2"
       }
     ],
@@ -85886,7 +85783,7 @@
     "loyalty": "88",
     "happiness": "15",
     "lastTeamId": "roster11",
-    "lastTeam": "Tokyo",
+    "lastTeam": "Dallas",
     "potentials": {
       "Ins": "C",
       "Jps": "B",
@@ -87296,6 +87193,109 @@
         "year": "2014",
         "salary": 9311449.0,
         "salaryText": "$9,311,449"
+      },
+      {
+        "year": "2015",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2016",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2017",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2018",
+        "salary": 0.0,
+        "salaryText": "$0"
+      }
+    ]
+  },
+  {
+    "playerId": "player1457",
+    "name": "Wayne Gretzky",
+    "url": "../players/player1457.htm",
+    "team": "Draft",
+    "teamLabel": "Draft",
+    "pos": "SF",
+    "age": "21",
+    "ht": "5-6",
+    "wt": "218",
+    "experience": "Rookie",
+    "birdYears": 0,
+    "source": "player_page",
+    "currentSalary": 0.0,
+    "currentSalaryText": "$0",
+    "awards": [],
+    "achievementTotals": [],
+    "seasonAwards": [],
+    "transactions": [],
+    "Ins": "F",
+    "Jps": "D",
+    "Fts": "C",
+    "3ps": "F+",
+    "Hnd": "D-",
+    "Pas": "F+",
+    "Orb": "D",
+    "Drb": "D+",
+    "Psd": "F",
+    "Prd": "D+",
+    "Stl": "D-",
+    "Blk": "F",
+    "Qkn": "A-",
+    "Str": "D+",
+    "Jmp": "C",
+    "Sta": "A",
+    "overall": "40",
+    "potential": "54",
+    "greed": "16",
+    "playForWinner": "47",
+    "loyalty": "36",
+    "happiness": "88",
+    "lastTeamId": "",
+    "lastTeam": "",
+    "potentials": {
+      "Ins": "F",
+      "Jps": "D",
+      "Fts": "B",
+      "3ps": "D",
+      "Hnd": "D",
+      "Pas": "F",
+      "Orb": "D",
+      "Drb": "D",
+      "Psd": "F",
+      "Prd": "C",
+      "Stl": "D",
+      "Blk": "F"
+    },
+    "potentialCurrentColor": "#B0040C",
+    "potentialFutureColor": "#B0040C",
+    "isDraftee": true,
+    "contracts": [
+      {
+        "year": "2011",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2012",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2013",
+        "salary": 0.0,
+        "salaryText": "$0"
+      },
+      {
+        "year": "2014",
+        "salary": 0.0,
+        "salaryText": "$0"
       },
       {
         "year": "2015",

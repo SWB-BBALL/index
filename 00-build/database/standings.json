@@ -63,7 +63,7 @@
           "rowClass": "row1"
         },
         {
-          "team": "Auburn",
+          "team": "Chicago",
           "rosterUrl": "./rosters/roster9.htm",
           "rosterFile": "roster9.htm",
           "wins": 34,
@@ -563,7 +563,7 @@
           "rowClass": "row2"
         },
         {
-          "team": "Tokyo",
+          "team": "Dallas",
           "rosterUrl": "./rosters/roster11.htm",
           "rosterFile": "roster11.htm",
           "wins": 9,

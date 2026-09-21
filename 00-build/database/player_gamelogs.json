@@ -8779,7 +8779,7 @@
       "name": "Albert Mallett",
       "url": "../players/player470.htm",
       "team": "roster9",
-      "teamLabel": "Auburn",
+      "teamLabel": "Chicago",
       "pos": "SG",
       "gameLogs": {
         "title": "Game Logs",
@@ -21259,6 +21259,39 @@
       }
     },
     {
+      "playerId": "player1462",
+      "name": "Andre Nowzick",
+      "url": "../players/player1462.htm",
+      "team": "Draft",
+      "teamLabel": "Draft",
+      "pos": "PG",
+      "gameLogs": {
+        "title": "Game Logs",
+        "headers": [
+          "Date",
+          "Opp",
+          "W/L",
+          "MIN",
+          "FGM",
+          "FGA",
+          "FTM",
+          "FTA",
+          "3PM",
+          "3PA",
+          "PTS",
+          "ORB",
+          "REB",
+          "AST",
+          "TO",
+          "STL",
+          "BLK",
+          "PF",
+          "+/-"
+        ],
+        "rows": []
+      }
+    },
+    {
       "playerId": "player1519",
       "name": "Andreas Zieroff",
       "url": "../players/player1519.htm",
@@ -22723,39 +22756,6 @@
       }
     },
     {
-      "playerId": "player1447",
-      "name": "Andrew Garcia",
-      "url": "../players/player1447.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
-      "pos": "PG",
-      "gameLogs": {
-        "title": "Game Logs",
-        "headers": [
-          "Date",
-          "Opp",
-          "W/L",
-          "MIN",
-          "FGM",
-          "FGA",
-          "FTM",
-          "FTA",
-          "3PM",
-          "3PA",
-          "PTS",
-          "ORB",
-          "REB",
-          "AST",
-          "TO",
-          "STL",
-          "BLK",
-          "PF",
-          "+/-"
-        ],
-        "rows": []
-      }
-    },
-    {
       "playerId": "player423",
       "name": "Andrew Griffin",
       "url": "../players/player423.htm",
@@ -24180,7 +24180,7 @@
       "name": "Andy Avelar",
       "url": "../players/player533.htm",
       "team": "roster11",
-      "teamLabel": "Tokyo",
+      "teamLabel": "Dallas",
       "pos": "PG",
       "gameLogs": {
         "title": "Game Logs",
@@ -37508,6 +37508,39 @@
       }
     },
     {
+      "playerId": "player1452",
+      "name": "Barge Sampson",
+      "url": "../players/player1452.htm",
+      "team": "Draft",
+      "teamLabel": "Draft",
+      "pos": "SG",
+      "gameLogs": {
+        "title": "Game Logs",
+        "headers": [
+          "Date",
+          "Opp",
+          "W/L",
+          "MIN",
+          "FGM",
+          "FGA",
+          "FTM",
+          "FTA",
+          "3PM",
+          "3PA",
+          "PTS",
+          "ORB",
+          "REB",
+          "AST",
+          "TO",
+          "STL",
+          "BLK",
+          "PF",
+          "+/-"
+        ],
+        "rows": []
+      }
+    },
+    {
       "playerId": "player565",
       "name": "Barney Gonzalez",
       "url": "../players/player565.htm",
@@ -42704,6 +42737,39 @@
       }
     },
     {
+      "playerId": "player1513",
+      "name": "Bart Sampson",
+      "url": "../players/player1513.htm",
+      "team": "Draft",
+      "teamLabel": "Draft",
+      "pos": "C",
+      "gameLogs": {
+        "title": "Game Logs",
+        "headers": [
+          "Date",
+          "Opp",
+          "W/L",
+          "MIN",
+          "FGM",
+          "FGA",
+          "FTM",
+          "FTA",
+          "3PM",
+          "3PA",
+          "PTS",
+          "ORB",
+          "REB",
+          "AST",
+          "TO",
+          "STL",
+          "BLK",
+          "PF",
+          "+/-"
+        ],
+        "rows": []
+      }
+    },
+    {
       "playerId": "player1525",
       "name": "Barthélémy Delecambre",
       "url": "../players/player1525.htm",
@@ -44899,7 +44965,7 @@
       "name": "Billy Bean",
       "url": "../players/player762.htm",
       "team": "roster11",
-      "teamLabel": "Tokyo",
+      "teamLabel": "Dallas",
       "pos": "SF",
       "gameLogs": {
         "title": "Game Logs",
@@ -49203,7 +49269,7 @@
       "name": "Bojan Moslavac",
       "url": "../players/player185.htm",
       "team": "roster9",
-      "teamLabel": "Auburn",
+      "teamLabel": "Chicago",
       "pos": "PF",
       "gameLogs": {
         "title": "Game Logs",
@@ -60703,39 +60769,6 @@
       }
     },
     {
-      "playerId": "player1452",
-      "name": "Brian Clark",
-      "url": "../players/player1452.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
-      "pos": "SG",
-      "gameLogs": {
-        "title": "Game Logs",
-        "headers": [
-          "Date",
-          "Opp",
-          "W/L",
-          "MIN",
-          "FGM",
-          "FGA",
-          "FTM",
-          "FTA",
-          "3PM",
-          "3PA",
-          "PTS",
-          "ORB",
-          "REB",
-          "AST",
-          "TO",
-          "STL",
-          "BLK",
-          "PF",
-          "+/-"
-        ],
-        "rows": []
-      }
-    },
-    {
       "playerId": "player380",
       "name": "Brian Erickson",
       "url": "../players/player380.htm",
@@ -67543,7 +67576,7 @@
       "name": "Calvin Hill",
       "url": "../players/player130.htm",
       "team": "roster11",
-      "teamLabel": "Tokyo",
+      "teamLabel": "Dallas",
       "pos": "C",
       "gameLogs": {
         "title": "Game Logs",
@@ -78080,7 +78113,7 @@
       "name": "Charles George",
       "url": "../players/player112.htm",
       "team": "roster9",
-      "teamLabel": "Auburn",
+      "teamLabel": "Chicago",
       "pos": "C",
       "gameLogs": {
         "title": "Game Logs",
@@ -84112,7 +84145,7 @@
       "name": "Charlie Reinhart",
       "url": "../players/player799.htm",
       "team": "roster11",
-      "teamLabel": "Tokyo",
+      "teamLabel": "Dallas",
       "pos": "PG",
       "gameLogs": {
         "title": "Game Logs",
@@ -89469,39 +89502,6 @@
       }
     },
     {
-      "playerId": "player1462",
-      "name": "Chris Davis",
-      "url": "../players/player1462.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
-      "pos": "SG",
-      "gameLogs": {
-        "title": "Game Logs",
-        "headers": [
-          "Date",
-          "Opp",
-          "W/L",
-          "MIN",
-          "FGM",
-          "FGA",
-          "FTM",
-          "FTA",
-          "3PM",
-          "3PA",
-          "PTS",
-          "ORB",
-          "REB",
-          "AST",
-          "TO",
-          "STL",
-          "BLK",
-          "PF",
-          "+/-"
-        ],
-        "rows": []
-      }
-    },
-    {
       "playerId": "player485",
       "name": "Chris Hawley",
       "url": "../players/player485.htm",
@@ -92500,7 +92500,7 @@
       "name": "Chuck Grays",
       "url": "../players/player529.htm",
       "team": "roster11",
-      "teamLabel": "Tokyo",
+      "teamLabel": "Dallas",
       "pos": "PG",
       "gameLogs": {
         "title": "Game Logs",
@@ -94119,7 +94119,7 @@
       "name": "Clarence Williams",
       "url": "../players/player560.htm",
       "team": "roster9",
-      "teamLabel": "Auburn",
+      "teamLabel": "Chicago",
       "pos": "PG",
       "gameLogs": {
         "title": "Game Logs",
@@ -97441,39 +97441,6 @@
       }
     },
     {
-      "playerId": "player1432",
-      "name": "Cletus Smith",
-      "url": "../players/player1432.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
-      "pos": "PG",
-      "gameLogs": {
-        "title": "Game Logs",
-        "headers": [
-          "Date",
-          "Opp",
-          "W/L",
-          "MIN",
-          "FGM",
-          "FGA",
-          "FTM",
-          "FTA",
-          "3PM",
-          "3PA",
-          "PTS",
-          "ORB",
-          "REB",
-          "AST",
-          "TO",
-          "STL",
-          "BLK",
-          "PF",
-          "+/-"
-        ],
-        "rows": []
-      }
-    },
-    {
       "playerId": "player119",
       "name": "Cliff Henderson",
       "url": "../players/player119.htm",
@@ -100179,39 +100146,6 @@
             "plus_minus": -1
           }
         ]
-      }
-    },
-    {
-      "playerId": "player1517",
-      "name": "Clément Flameng",
-      "url": "../players/player1517.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
-      "pos": "C",
-      "gameLogs": {
-        "title": "Game Logs",
-        "headers": [
-          "Date",
-          "Opp",
-          "W/L",
-          "MIN",
-          "FGM",
-          "FGA",
-          "FTM",
-          "FTA",
-          "3PM",
-          "3PA",
-          "PTS",
-          "ORB",
-          "REB",
-          "AST",
-          "TO",
-          "STL",
-          "BLK",
-          "PF",
-          "+/-"
-        ],
-        "rows": []
       }
     },
     {
@@ -106710,6 +106644,39 @@
       }
     },
     {
+      "playerId": "player1497",
+      "name": "Corey Lahey",
+      "url": "../players/player1497.htm",
+      "team": "Draft",
+      "teamLabel": "Draft",
+      "pos": "PF",
+      "gameLogs": {
+        "title": "Game Logs",
+        "headers": [
+          "Date",
+          "Opp",
+          "W/L",
+          "MIN",
+          "FGM",
+          "FGA",
+          "FTM",
+          "FTA",
+          "3PM",
+          "3PA",
+          "PTS",
+          "ORB",
+          "REB",
+          "AST",
+          "TO",
+          "STL",
+          "BLK",
+          "PF",
+          "+/-"
+        ],
+        "rows": []
+      }
+    },
+    {
       "playerId": "player102",
       "name": "Corey Williams",
       "url": "../players/player102.htm",
@@ -108546,6 +108513,39 @@
             "plus_minus": 7
           }
         ]
+      }
+    },
+    {
+      "playerId": "player1459",
+      "name": "Crispin Cotechino",
+      "url": "../players/player1459.htm",
+      "team": "Draft",
+      "teamLabel": "Draft",
+      "pos": "SG",
+      "gameLogs": {
+        "title": "Game Logs",
+        "headers": [
+          "Date",
+          "Opp",
+          "W/L",
+          "MIN",
+          "FGM",
+          "FGA",
+          "FTM",
+          "FTA",
+          "3PM",
+          "3PA",
+          "PTS",
+          "ORB",
+          "REB",
+          "AST",
+          "TO",
+          "STL",
+          "BLK",
+          "PF",
+          "+/-"
+        ],
+        "rows": []
       }
     },
     {
@@ -120390,7 +120390,7 @@
       "name": "Daron Tillotson",
       "url": "../players/player375.htm",
       "team": "roster9",
-      "teamLabel": "Auburn",
+      "teamLabel": "Chicago",
       "pos": "SG",
       "gameLogs": {
         "title": "Game Logs",
@@ -128318,39 +128318,6 @@
       "team": "FA",
       "teamLabel": "FA",
       "pos": "SG",
-      "gameLogs": {
-        "title": "Game Logs",
-        "headers": [
-          "Date",
-          "Opp",
-          "W/L",
-          "MIN",
-          "FGM",
-          "FGA",
-          "FTM",
-          "FTA",
-          "3PM",
-          "3PA",
-          "PTS",
-          "ORB",
-          "REB",
-          "AST",
-          "TO",
-          "STL",
-          "BLK",
-          "PF",
-          "+/-"
-        ],
-        "rows": []
-      }
-    },
-    {
-      "playerId": "player1510",
-      "name": "David Anderson",
-      "url": "../players/player1510.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
-      "pos": "PF",
       "gameLogs": {
         "title": "Game Logs",
         "headers": [
@@ -150367,7 +150334,7 @@
       "name": "Dudley Wagstaff",
       "url": "../players/player558.htm",
       "team": "roster9",
-      "teamLabel": "Auburn",
+      "teamLabel": "Chicago",
       "pos": "PG",
       "gameLogs": {
         "title": "Game Logs",
@@ -163323,7 +163290,7 @@
       "name": "Enoch Morgan",
       "url": "../players/player223.htm",
       "team": "roster9",
-      "teamLabel": "Auburn",
+      "teamLabel": "Chicago",
       "pos": "PF",
       "gameLogs": {
         "title": "Game Logs",
@@ -172208,7 +172175,7 @@
       "name": "Freddy Booth",
       "url": "../players/player425.htm",
       "team": "roster11",
-      "teamLabel": "Tokyo",
+      "teamLabel": "Dallas",
       "pos": "SF",
       "gameLogs": {
         "title": "Game Logs",
@@ -184681,7 +184648,7 @@
       "name": "George Lee",
       "url": "../players/player431.htm",
       "team": "roster9",
-      "teamLabel": "Auburn",
+      "teamLabel": "Chicago",
       "pos": "SF",
       "gameLogs": {
         "title": "Game Logs",
@@ -189437,7 +189404,7 @@
       "name": "Géraud Desmulliers",
       "url": "../players/player738.htm",
       "team": "roster11",
-      "teamLabel": "Tokyo",
+      "teamLabel": "Dallas",
       "pos": "PF",
       "gameLogs": {
         "title": "Game Logs",
@@ -190498,6 +190465,39 @@
             "plus_minus": 1
           }
         ]
+      }
+    },
+    {
+      "playerId": "player1510",
+      "name": "Hank Dawes",
+      "url": "../players/player1510.htm",
+      "team": "Draft",
+      "teamLabel": "Draft",
+      "pos": "PF",
+      "gameLogs": {
+        "title": "Game Logs",
+        "headers": [
+          "Date",
+          "Opp",
+          "W/L",
+          "MIN",
+          "FGM",
+          "FGA",
+          "FTM",
+          "FTA",
+          "3PM",
+          "3PA",
+          "PTS",
+          "ORB",
+          "REB",
+          "AST",
+          "TO",
+          "STL",
+          "BLK",
+          "PF",
+          "+/-"
+        ],
+        "rows": []
       }
     },
     {
@@ -192028,39 +192028,6 @@
             "plus_minus": 17
           }
         ]
-      }
-    },
-    {
-      "playerId": "player1459",
-      "name": "Harley Weaver",
-      "url": "../players/player1459.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
-      "pos": "SG",
-      "gameLogs": {
-        "title": "Game Logs",
-        "headers": [
-          "Date",
-          "Opp",
-          "W/L",
-          "MIN",
-          "FGM",
-          "FGA",
-          "FTM",
-          "FTA",
-          "3PM",
-          "3PA",
-          "PTS",
-          "ORB",
-          "REB",
-          "AST",
-          "TO",
-          "STL",
-          "BLK",
-          "PF",
-          "+/-"
-        ],
-        "rows": []
       }
     },
     {
@@ -197750,6 +197717,39 @@
       "team": "FA",
       "teamLabel": "FA",
       "pos": "PG",
+      "gameLogs": {
+        "title": "Game Logs",
+        "headers": [
+          "Date",
+          "Opp",
+          "W/L",
+          "MIN",
+          "FGM",
+          "FGA",
+          "FTM",
+          "FTA",
+          "3PM",
+          "3PA",
+          "PTS",
+          "ORB",
+          "REB",
+          "AST",
+          "TO",
+          "STL",
+          "BLK",
+          "PF",
+          "+/-"
+        ],
+        "rows": []
+      }
+    },
+    {
+      "playerId": "player1473",
+      "name": "Homer Sampson",
+      "url": "../players/player1473.htm",
+      "team": "Draft",
+      "teamLabel": "Draft",
+      "pos": "SF",
       "gameLogs": {
         "title": "Game Logs",
         "headers": [
@@ -218819,7 +218819,7 @@
       "name": "James Frye",
       "url": "../players/player349.htm",
       "team": "roster9",
-      "teamLabel": "Auburn",
+      "teamLabel": "Chicago",
       "pos": "PF",
       "gameLogs": {
         "title": "Game Logs",
@@ -220407,39 +220407,6 @@
       "team": "Draft",
       "teamLabel": "Draft",
       "pos": "PG",
-      "gameLogs": {
-        "title": "Game Logs",
-        "headers": [
-          "Date",
-          "Opp",
-          "W/L",
-          "MIN",
-          "FGM",
-          "FGA",
-          "FTM",
-          "FTA",
-          "3PM",
-          "3PA",
-          "PTS",
-          "ORB",
-          "REB",
-          "AST",
-          "TO",
-          "STL",
-          "BLK",
-          "PF",
-          "+/-"
-        ],
-        "rows": []
-      }
-    },
-    {
-      "playerId": "player1473",
-      "name": "James Newberry",
-      "url": "../players/player1473.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
-      "pos": "SF",
       "gameLogs": {
         "title": "Game Logs",
         "headers": [
@@ -228336,39 +228303,6 @@
       "team": "FA",
       "teamLabel": "FA",
       "pos": "C",
-      "gameLogs": {
-        "title": "Game Logs",
-        "headers": [
-          "Date",
-          "Opp",
-          "W/L",
-          "MIN",
-          "FGM",
-          "FGA",
-          "FTM",
-          "FTA",
-          "3PM",
-          "3PA",
-          "PTS",
-          "ORB",
-          "REB",
-          "AST",
-          "TO",
-          "STL",
-          "BLK",
-          "PF",
-          "+/-"
-        ],
-        "rows": []
-      }
-    },
-    {
-      "playerId": "player1497",
-      "name": "Jeffrey Malley",
-      "url": "../players/player1497.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
-      "pos": "PF",
       "gameLogs": {
         "title": "Game Logs",
         "headers": [
@@ -240322,7 +240256,7 @@
       "name": "Joey Smallwood",
       "url": "../players/player719.htm",
       "team": "roster11",
-      "teamLabel": "Tokyo",
+      "teamLabel": "Dallas",
       "pos": "C",
       "gameLogs": {
         "title": "Game Logs",
@@ -254850,39 +254784,6 @@
       }
     },
     {
-      "playerId": "player1505",
-      "name": "Jorge Young",
-      "url": "../players/player1505.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
-      "pos": "PF",
-      "gameLogs": {
-        "title": "Game Logs",
-        "headers": [
-          "Date",
-          "Opp",
-          "W/L",
-          "MIN",
-          "FGM",
-          "FGA",
-          "FTM",
-          "FTA",
-          "3PM",
-          "3PA",
-          "PTS",
-          "ORB",
-          "REB",
-          "AST",
-          "TO",
-          "STL",
-          "BLK",
-          "PF",
-          "+/-"
-        ],
-        "rows": []
-      }
-    },
-    {
       "playerId": "player123",
       "name": "Jose Donovan",
       "url": "../players/player123.htm",
@@ -259246,7 +259147,7 @@
       "name": "Joseph Barr",
       "url": "../players/player727.htm",
       "team": "roster9",
-      "teamLabel": "Auburn",
+      "teamLabel": "Chicago",
       "pos": "C",
       "gameLogs": {
         "title": "Game Logs",
@@ -272891,39 +272792,6 @@
             "plus_minus": 16
           }
         ]
-      }
-    },
-    {
-      "playerId": "player1513",
-      "name": "Kirk Jackson",
-      "url": "../players/player1513.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
-      "pos": "C",
-      "gameLogs": {
-        "title": "Game Logs",
-        "headers": [
-          "Date",
-          "Opp",
-          "W/L",
-          "MIN",
-          "FGM",
-          "FGA",
-          "FTM",
-          "FTA",
-          "3PM",
-          "3PA",
-          "PTS",
-          "ORB",
-          "REB",
-          "AST",
-          "TO",
-          "STL",
-          "BLK",
-          "PF",
-          "+/-"
-        ],
-        "rows": []
       }
     },
     {
@@ -287135,7 +287003,7 @@
       "name": "Louis NoBoat",
       "url": "../players/player716.htm",
       "team": "roster11",
-      "teamLabel": "Tokyo",
+      "teamLabel": "Dallas",
       "pos": "PG",
       "gameLogs": {
         "title": "Game Logs",
@@ -292591,39 +292459,6 @@
       }
     },
     {
-      "playerId": "player1457",
-      "name": "Malcom Tello",
-      "url": "../players/player1457.htm",
-      "team": "Draft",
-      "teamLabel": "Draft",
-      "pos": "SG",
-      "gameLogs": {
-        "title": "Game Logs",
-        "headers": [
-          "Date",
-          "Opp",
-          "W/L",
-          "MIN",
-          "FGM",
-          "FGA",
-          "FTM",
-          "FTA",
-          "3PM",
-          "3PA",
-          "PTS",
-          "ORB",
-          "REB",
-          "AST",
-          "TO",
-          "STL",
-          "BLK",
-          "PF",
-          "+/-"
-        ],
-        "rows": []
-      }
-    },
-    {
       "playerId": "player381",
       "name": "Malik Gomez",
       "url": "../players/player381.htm",
@@ -294181,7 +294016,7 @@
       "name": "Marcos Martinez",
       "url": "../players/player363.htm",
       "team": "roster11",
-      "teamLabel": "Tokyo",
+      "teamLabel": "Dallas",
       "pos": "SG",
       "gameLogs": {
         "title": "Game Logs",
@@ -310154,7 +309989,7 @@
       "name": "Milosz Martinich",
       "url": "../players/player140.htm",
       "team": "roster9",
-      "teamLabel": "Auburn",
+      "teamLabel": "Chicago",
       "pos": "C",
       "gameLogs": {
         "title": "Game Logs",
@@ -311574,7 +311409,7 @@
       "name": "Milovan Drulovic",
       "url": "../players/player154.htm",
       "team": "roster11",
-      "teamLabel": "Tokyo",
+      "teamLabel": "Dallas",
       "pos": "PF",
       "gameLogs": {
         "title": "Game Logs",
@@ -336280,7 +336115,7 @@
       "name": "Pavel Halik",
       "url": "../players/player747.htm",
       "team": "roster9",
-      "teamLabel": "Auburn",
+      "teamLabel": "Chicago",
       "pos": "PF",
       "gameLogs": {
         "title": "Game Logs",
@@ -337726,6 +337561,39 @@
             "plus_minus": 2
           }
         ]
+      }
+    },
+    {
+      "playerId": "player1505",
+      "name": "Pete Eckhart",
+      "url": "../players/player1505.htm",
+      "team": "Draft",
+      "teamLabel": "Draft",
+      "pos": "PF",
+      "gameLogs": {
+        "title": "Game Logs",
+        "headers": [
+          "Date",
+          "Opp",
+          "W/L",
+          "MIN",
+          "FGM",
+          "FGA",
+          "FTM",
+          "FTA",
+          "3PM",
+          "3PA",
+          "PTS",
+          "ORB",
+          "REB",
+          "AST",
+          "TO",
+          "STL",
+          "BLK",
+          "PF",
+          "+/-"
+        ],
+        "rows": []
       }
     },
     {
@@ -342082,7 +341950,7 @@
       "name": "Randy Horton",
       "url": "../players/player809.htm",
       "team": "roster11",
-      "teamLabel": "Tokyo",
+      "teamLabel": "Dallas",
       "pos": "SG",
       "gameLogs": {
         "title": "Game Logs",
@@ -351803,7 +351671,7 @@
       "name": "Richard Houck",
       "url": "../players/player138.htm",
       "team": "roster11",
-      "teamLabel": "Tokyo",
+      "teamLabel": "Dallas",
       "pos": "C",
       "gameLogs": {
         "title": "Game Logs",
@@ -356589,6 +356457,39 @@
       }
     },
     {
+      "playerId": "player1432",
+      "name": "Rodney Ruxin",
+      "url": "../players/player1432.htm",
+      "team": "Draft",
+      "teamLabel": "Draft",
+      "pos": "PG",
+      "gameLogs": {
+        "title": "Game Logs",
+        "headers": [
+          "Date",
+          "Opp",
+          "W/L",
+          "MIN",
+          "FGM",
+          "FGA",
+          "FTM",
+          "FTA",
+          "3PM",
+          "3PA",
+          "PTS",
+          "ORB",
+          "REB",
+          "AST",
+          "TO",
+          "STL",
+          "BLK",
+          "PF",
+          "+/-"
+        ],
+        "rows": []
+      }
+    },
+    {
       "playerId": "player188",
       "name": "Rodney Taylor",
       "url": "../players/player188.htm",
@@ -358189,7 +358090,7 @@
       "name": "Roy Brown",
       "url": "../players/player397.htm",
       "team": "roster9",
-      "teamLabel": "Auburn",
+      "teamLabel": "Chicago",
       "pos": "SF",
       "gameLogs": {
         "title": "Game Logs",
@@ -369330,7 +369231,7 @@
       "name": "Scott Barrett",
       "url": "../players/player462.htm",
       "team": "roster11",
-      "teamLabel": "Tokyo",
+      "teamLabel": "Dallas",
       "pos": "SG",
       "gameLogs": {
         "title": "Game Logs",
@@ -374616,7 +374517,7 @@
       "name": "Simon Pierce",
       "url": "../players/player456.htm",
       "team": "roster9",
-      "teamLabel": "Auburn",
+      "teamLabel": "Chicago",
       "pos": "SF",
       "gameLogs": {
         "title": "Game Logs",
@@ -391998,7 +391899,7 @@
       "name": "Timmy Valencia",
       "url": "../players/player511.htm",
       "team": "roster9",
-      "teamLabel": "Auburn",
+      "teamLabel": "Chicago",
       "pos": "PG",
       "gameLogs": {
         "title": "Game Logs",
@@ -395525,6 +395426,39 @@
             "plus_minus": 6
           }
         ]
+      }
+    },
+    {
+      "playerId": "player1517",
+      "name": "Tito Tarzana",
+      "url": "../players/player1517.htm",
+      "team": "Draft",
+      "teamLabel": "Draft",
+      "pos": "C",
+      "gameLogs": {
+        "title": "Game Logs",
+        "headers": [
+          "Date",
+          "Opp",
+          "W/L",
+          "MIN",
+          "FGM",
+          "FGA",
+          "FTM",
+          "FTA",
+          "3PM",
+          "3PA",
+          "PTS",
+          "ORB",
+          "REB",
+          "AST",
+          "TO",
+          "STL",
+          "BLK",
+          "PF",
+          "+/-"
+        ],
+        "rows": []
       }
     },
     {
@@ -408715,11 +408649,44 @@
       }
     },
     {
+      "playerId": "player1447",
+      "name": "Trevor Lahey",
+      "url": "../players/player1447.htm",
+      "team": "Draft",
+      "teamLabel": "Draft",
+      "pos": "C",
+      "gameLogs": {
+        "title": "Game Logs",
+        "headers": [
+          "Date",
+          "Opp",
+          "W/L",
+          "MIN",
+          "FGM",
+          "FGA",
+          "FTM",
+          "FTA",
+          "3PM",
+          "3PA",
+          "PTS",
+          "ORB",
+          "REB",
+          "AST",
+          "TO",
+          "STL",
+          "BLK",
+          "PF",
+          "+/-"
+        ],
+        "rows": []
+      }
+    },
+    {
       "playerId": "player301",
       "name": "Trey Cogan",
       "url": "../players/player301.htm",
       "team": "roster11",
-      "teamLabel": "Tokyo",
+      "teamLabel": "Dallas",
       "pos": "PF",
       "gameLogs": {
         "title": "Game Logs",
@@ -417068,6 +417035,39 @@
             "plus_minus": -11
           }
         ]
+      }
+    },
+    {
+      "playerId": "player1457",
+      "name": "Wayne Gretzky",
+      "url": "../players/player1457.htm",
+      "team": "Draft",
+      "teamLabel": "Draft",
+      "pos": "SF",
+      "gameLogs": {
+        "title": "Game Logs",
+        "headers": [
+          "Date",
+          "Opp",
+          "W/L",
+          "MIN",
+          "FGM",
+          "FGA",
+          "FTM",
+          "FTA",
+          "3PM",
+          "3PA",
+          "PTS",
+          "ORB",
+          "REB",
+          "AST",
+          "TO",
+          "STL",
+          "BLK",
+          "PF",
+          "+/-"
+        ],
+        "rows": []
       }
     },
     {

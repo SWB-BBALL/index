@@ -14,20 +14,6 @@
     }
   },
   {
-    "id": "roster9",
-    "name": "Auburn",
-    "file": "roster9.htm",
-    "url": "../rosters/roster9.htm",
-    "starPlayer": {
-      "name": "Charles George",
-      "url": "../players/player112.htm",
-      "pos": "C",
-      "age": "26",
-      "overall": "137",
-      "potential": "137"
-    }
-  },
-  {
     "id": "roster6",
     "name": "Boston",
     "file": "roster6.htm",
@@ -56,6 +42,20 @@
     }
   },
   {
+    "id": "roster9",
+    "name": "Chicago",
+    "file": "roster9.htm",
+    "url": "../rosters/roster9.htm",
+    "starPlayer": {
+      "name": "Charles George",
+      "url": "../players/player112.htm",
+      "pos": "C",
+      "age": "26",
+      "overall": "137",
+      "potential": "137"
+    }
+  },
+  {
     "id": "roster10",
     "name": "Cleveland",
     "file": "roster10.htm",
@@ -67,6 +67,20 @@
       "age": "26",
       "overall": "140",
       "potential": "155"
+    }
+  },
+  {
+    "id": "roster11",
+    "name": "Dallas",
+    "file": "roster11.htm",
+    "url": "../rosters/roster11.htm",
+    "starPlayer": {
+      "name": "Marcos Martinez",
+      "url": "../players/player363.htm",
+      "pos": "SG",
+      "age": "36",
+      "overall": "108",
+      "potential": "108"
     }
   },
   {
@@ -361,20 +375,6 @@
       "age": "24",
       "overall": "125",
       "potential": "125"
-    }
-  },
-  {
-    "id": "roster11",
-    "name": "Tokyo",
-    "file": "roster11.htm",
-    "url": "../rosters/roster11.htm",
-    "starPlayer": {
-      "name": "Marcos Martinez",
-      "url": "../players/player363.htm",
-      "pos": "SG",
-      "age": "36",
-      "overall": "108",
-      "potential": "108"
     }
   },
   {

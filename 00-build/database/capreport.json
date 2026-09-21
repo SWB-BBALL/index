@@ -7,7 +7,7 @@
       "entries": [
         {
           "pick": 1,
-          "team": "Tokyo",
+          "team": "Dallas",
           "rosterUrl": "./rosters/roster11.htm",
           "rosterFile": "roster11.htm",
           "salary": 73285454.0,
@@ -330,7 +330,7 @@
         },
         {
           "pick": 20,
-          "team": "Auburn",
+          "team": "Chicago",
           "rosterUrl": "./rosters/roster9.htm",
           "rosterFile": "roster9.htm",
           "salary": 101417795.0,
