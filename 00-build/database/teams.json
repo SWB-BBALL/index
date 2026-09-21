@@ -5,12 +5,26 @@
     "file": "roster5.htm",
     "url": "../rosters/roster5.htm",
     "starPlayer": {
-      "name": "Harold Barker",
-      "url": "../players/player258.htm",
-      "pos": "PF",
-      "age": "36",
-      "overall": "135",
-      "potential": "135"
+      "name": "Michael Wallace",
+      "url": "../players/player105.htm",
+      "pos": "C",
+      "age": "34",
+      "overall": "126",
+      "potential": "126"
+    }
+  },
+  {
+    "id": "roster9",
+    "name": "Auburn",
+    "file": "roster9.htm",
+    "url": "../rosters/roster9.htm",
+    "starPlayer": {
+      "name": "Charles George",
+      "url": "../players/player112.htm",
+      "pos": "C",
+      "age": "26",
+      "overall": "137",
+      "potential": "137"
     }
   },
   {
@@ -42,20 +56,6 @@
     }
   },
   {
-    "id": "roster9",
-    "name": "Chicago",
-    "file": "roster9.htm",
-    "url": "../rosters/roster9.htm",
-    "starPlayer": {
-      "name": "Charles George",
-      "url": "../players/player112.htm",
-      "pos": "C",
-      "age": "25",
-      "overall": "137",
-      "potential": "137"
-    }
-  },
-  {
     "id": "roster10",
     "name": "Cleveland",
     "file": "roster10.htm",
@@ -67,20 +67,6 @@
       "age": "26",
       "overall": "140",
       "potential": "155"
-    }
-  },
-  {
-    "id": "roster11",
-    "name": "Dallas",
-    "file": "roster11.htm",
-    "url": "../rosters/roster11.htm",
-    "starPlayer": {
-      "name": "Marcos Martinez",
-      "url": "../players/player363.htm",
-      "pos": "SG",
-      "age": "36",
-      "overall": "108",
-      "potential": "108"
     }
   },
   {
@@ -120,7 +106,7 @@
       "name": "Michael Michalski",
       "url": "../players/player74.htm",
       "pos": "C",
-      "age": "26",
+      "age": "27",
       "overall": "134",
       "potential": "134"
     }
@@ -149,8 +135,8 @@
       "url": "../players/player484.htm",
       "pos": "PG",
       "age": "33",
-      "overall": "135",
-      "potential": "135"
+      "overall": "136",
+      "potential": "136"
     }
   },
   {
@@ -162,7 +148,7 @@
       "name": "Stuart Ramirez",
       "url": "../players/player538.htm",
       "pos": "PG",
-      "age": "31",
+      "age": "32",
       "overall": "137",
       "potential": "137"
     }
@@ -316,7 +302,7 @@
       "name": "Rolando Canete",
       "url": "../players/player370.htm",
       "pos": "SG",
-      "age": "30",
+      "age": "31",
       "overall": "133",
       "potential": "133"
     }
@@ -375,6 +361,20 @@
       "age": "24",
       "overall": "125",
       "potential": "125"
+    }
+  },
+  {
+    "id": "roster11",
+    "name": "Tokyo",
+    "file": "roster11.htm",
+    "url": "../rosters/roster11.htm",
+    "starPlayer": {
+      "name": "Marcos Martinez",
+      "url": "../players/player363.htm",
+      "pos": "SG",
+      "age": "36",
+      "overall": "108",
+      "potential": "108"
     }
   },
   {
