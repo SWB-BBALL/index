@@ -45,7 +45,7 @@
       "url": "./players/player43.htm",
       "file": "player43.htm",
       "pos": "C",
-      "age": 21,
+      "age": 22,
       "ht": "7-0",
       "wt": 238,
       "currentRatingColor": "#F2662A",
@@ -1489,7 +1489,7 @@
       "url": "./players/player170.htm",
       "file": "player170.htm",
       "pos": "PF",
-      "age": 26,
+      "age": 27,
       "ht": "6-8",
       "wt": 234,
       "currentRatingColor": "#F2662A",
@@ -1565,7 +1565,7 @@
       "url": "./players/player173.htm",
       "file": "player173.htm",
       "pos": "PF",
-      "age": 29,
+      "age": 30,
       "ht": "6-9",
       "wt": 225,
       "currentRatingColor": "#F2662A",
@@ -2021,7 +2021,7 @@
       "url": "./players/player205.htm",
       "file": "player205.htm",
       "pos": "PF",
-      "age": 22,
+      "age": 23,
       "ht": "6-11",
       "wt": 250,
       "currentRatingColor": "#B0040C",
@@ -2092,44 +2092,6 @@
       "rowClass": "row1"
     },
     {
-      "number": 52,
-      "name": "Miles Anderson",
-      "url": "./players/player208.htm",
-      "file": "player208.htm",
-      "pos": "PF",
-      "age": 25,
-      "ht": "6-9",
-      "wt": 228,
-      "currentRatingColor": "#F2662A",
-      "futureRatingColor": "#F2662A",
-      "currentRating": "62",
-      "futureRating": "66",
-      "lastTeam": "",
-      "lastTeamId": "",
-      "birdYears": 0,
-      "greed": "56",
-      "playForWinner": "93",
-      "loyalty": "96",
-      "happiness": "48",
-      "Ins": "F+",
-      "Jps": "D-",
-      "Fts": "C",
-      "3ps": "D-",
-      "Hnd": "C-",
-      "Pas": "F+",
-      "Orb": "C+",
-      "Drb": "C",
-      "Psd": "C",
-      "Prd": "F+",
-      "Stl": "D-",
-      "Blk": "C",
-      "Qkn": "D",
-      "Jmp": "C",
-      "Str": "A-",
-      "Sta": "D+",
-      "rowClass": "row2"
-    },
-    {
       "number": 43,
       "name": "Steven Hutson",
       "url": "./players/player209.htm",
@@ -2165,7 +2127,7 @@
       "Jmp": "B",
       "Str": "C-",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 32,
@@ -2173,7 +2135,7 @@
       "url": "./players/player210.htm",
       "file": "player210.htm",
       "pos": "PF",
-      "age": 32,
+      "age": 33,
       "ht": "6-9",
       "wt": 223,
       "currentRatingColor": "#F2662A",
@@ -2203,7 +2165,7 @@
       "Jmp": "C",
       "Str": "C",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 44,
@@ -2241,7 +2203,7 @@
       "Jmp": "C+",
       "Str": "C+",
       "Sta": "A-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 40,
@@ -2249,7 +2211,7 @@
       "url": "./players/player212.htm",
       "file": "player212.htm",
       "pos": "PF",
-      "age": 24,
+      "age": 25,
       "ht": "6-7",
       "wt": 232,
       "currentRatingColor": "#F2662A",
@@ -2279,7 +2241,7 @@
       "Jmp": "C-",
       "Str": "A-",
       "Sta": "C+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 51,
@@ -2287,7 +2249,7 @@
       "url": "./players/player214.htm",
       "file": "player214.htm",
       "pos": "PF",
-      "age": 31,
+      "age": 32,
       "ht": "6-9",
       "wt": 251,
       "currentRatingColor": "#F2662A",
@@ -2317,7 +2279,7 @@
       "Jmp": "D",
       "Str": "C",
       "Sta": "D+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 34,
@@ -2355,7 +2317,7 @@
       "Jmp": "A-",
       "Str": "C+",
       "Sta": "D-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 30,
@@ -2393,7 +2355,7 @@
       "Jmp": "C-",
       "Str": "C+",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 53,
@@ -2431,7 +2393,7 @@
       "Jmp": "C",
       "Str": "B-",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 44,
@@ -2469,7 +2431,7 @@
       "Jmp": "C",
       "Str": "C+",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 40,
@@ -2507,7 +2469,7 @@
       "Jmp": "D+",
       "Str": "C+",
       "Sta": "C+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 45,
@@ -2545,7 +2507,7 @@
       "Jmp": "D-",
       "Str": "C",
       "Sta": "C-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 54,
@@ -2583,7 +2545,7 @@
       "Jmp": "D+",
       "Str": "C",
       "Sta": "F+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 51,
@@ -2621,7 +2583,7 @@
       "Jmp": "D",
       "Str": "B-",
       "Sta": "D",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 54,
@@ -2659,7 +2621,7 @@
       "Jmp": "C-",
       "Str": "C",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 40,
@@ -2697,7 +2659,7 @@
       "Jmp": "C-",
       "Str": "B",
       "Sta": "D+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 30,
@@ -2735,7 +2697,7 @@
       "Jmp": "C-",
       "Str": "C",
       "Sta": "C+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 54,
@@ -2773,7 +2735,7 @@
       "Jmp": "C",
       "Str": "C+",
       "Sta": "B-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 27,
@@ -2811,7 +2773,7 @@
       "Jmp": "C-",
       "Str": "B",
       "Sta": "B-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 32,
@@ -2849,7 +2811,7 @@
       "Jmp": "D",
       "Str": "C+",
       "Sta": "B-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 22,
@@ -2857,7 +2819,7 @@
       "url": "./players/player254.htm",
       "file": "player254.htm",
       "pos": "SF",
-      "age": 28,
+      "age": 29,
       "ht": "6-8",
       "wt": 243,
       "currentRatingColor": "#F2662A",
@@ -2887,7 +2849,7 @@
       "Jmp": "C",
       "Str": "B+",
       "Sta": "C-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 24,
@@ -2925,7 +2887,7 @@
       "Jmp": "C-",
       "Str": "C+",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 22,
@@ -2963,7 +2925,7 @@
       "Jmp": "C+",
       "Str": "C",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 27,
@@ -3001,7 +2963,7 @@
       "Jmp": "C+",
       "Str": "B-",
       "Sta": "B+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 16,
@@ -3009,7 +2971,7 @@
       "url": "./players/player263.htm",
       "file": "player263.htm",
       "pos": "SF",
-      "age": 33,
+      "age": 34,
       "ht": "6-8",
       "wt": 239,
       "currentRatingColor": "#F2662A",
@@ -3039,7 +3001,7 @@
       "Jmp": "D+",
       "Str": "C-",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 23,
@@ -3077,7 +3039,7 @@
       "Jmp": "C+",
       "Str": "C+",
       "Sta": "B-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 2,
@@ -3115,7 +3077,7 @@
       "Jmp": "C-",
       "Str": "B-",
       "Sta": "A-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 23,
@@ -3153,7 +3115,7 @@
       "Jmp": "D",
       "Str": "C+",
       "Sta": "B+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 27,
@@ -3191,7 +3153,7 @@
       "Jmp": "C-",
       "Str": "C+",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 5,
@@ -3229,7 +3191,7 @@
       "Jmp": "C",
       "Str": "C+",
       "Sta": "B+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 7,
@@ -3267,7 +3229,7 @@
       "Jmp": "C",
       "Str": "C+",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 26,
@@ -3305,7 +3267,7 @@
       "Jmp": "C",
       "Str": "B-",
       "Sta": "C-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 5,
@@ -3343,7 +3305,7 @@
       "Jmp": "C",
       "Str": "C",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 20,
@@ -3381,7 +3343,7 @@
       "Jmp": "C",
       "Str": "C",
       "Sta": "B",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 17,
@@ -3419,7 +3381,7 @@
       "Jmp": "C",
       "Str": "C+",
       "Sta": "B",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 30,
@@ -3427,7 +3389,7 @@
       "url": "./players/player295.htm",
       "file": "player295.htm",
       "pos": "SF",
-      "age": 20,
+      "age": 21,
       "ht": "6-7",
       "wt": 219,
       "currentRatingColor": "#B0040C",
@@ -3457,7 +3419,7 @@
       "Jmp": "C-",
       "Str": "A-",
       "Sta": "C-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 11,
@@ -3495,7 +3457,7 @@
       "Jmp": "C",
       "Str": "C",
       "Sta": "D",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 24,
@@ -3533,7 +3495,7 @@
       "Jmp": "C-",
       "Str": "C+",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 2,
@@ -3571,7 +3533,7 @@
       "Jmp": "C-",
       "Str": "C+",
       "Sta": "F",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 7,
@@ -3609,7 +3571,7 @@
       "Jmp": "C",
       "Str": "C+",
       "Sta": "C+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 20,
@@ -3647,7 +3609,7 @@
       "Jmp": "C-",
       "Str": "C+",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 33,
@@ -3655,7 +3617,7 @@
       "url": "./players/player312.htm",
       "file": "player312.htm",
       "pos": "SF",
-      "age": 27,
+      "age": 28,
       "ht": "6-7",
       "wt": 195,
       "currentRatingColor": "#F2662A",
@@ -3685,7 +3647,7 @@
       "Jmp": "C-",
       "Str": "C+",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 4,
@@ -3723,7 +3685,7 @@
       "Jmp": "C",
       "Str": "B+",
       "Sta": "B",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 22,
@@ -3761,7 +3723,7 @@
       "Jmp": "C+",
       "Str": "C+",
       "Sta": "C-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 31,
@@ -3799,7 +3761,7 @@
       "Jmp": "C-",
       "Str": "C-",
       "Sta": "C+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 23,
@@ -3837,7 +3799,7 @@
       "Jmp": "C+",
       "Str": "C+",
       "Sta": "C-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 22,
@@ -3875,7 +3837,7 @@
       "Jmp": "C-",
       "Str": "C+",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 20,
@@ -3913,7 +3875,7 @@
       "Jmp": "C-",
       "Str": "B-",
       "Sta": "B+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 3,
@@ -3951,7 +3913,7 @@
       "Jmp": "C-",
       "Str": "C+",
       "Sta": "B-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 9,
@@ -3989,7 +3951,7 @@
       "Jmp": "C-",
       "Str": "B",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 26,
@@ -3997,7 +3959,7 @@
       "url": "./players/player337.htm",
       "file": "player337.htm",
       "pos": "SF",
-      "age": 35,
+      "age": 36,
       "ht": "6-10",
       "wt": 206,
       "currentRatingColor": "#F2662A",
@@ -4027,7 +3989,7 @@
       "Jmp": "C+",
       "Str": "C",
       "Sta": "B-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 33,
@@ -4065,7 +4027,7 @@
       "Jmp": "C",
       "Str": "C-",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 20,
@@ -4073,7 +4035,7 @@
       "url": "./players/player339.htm",
       "file": "player339.htm",
       "pos": "SF",
-      "age": 29,
+      "age": 30,
       "ht": "6-7",
       "wt": 212,
       "currentRatingColor": "#F2662A",
@@ -4103,7 +4065,7 @@
       "Jmp": "B+",
       "Str": "C+",
       "Sta": "A-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 26,
@@ -4111,7 +4073,7 @@
       "url": "./players/player341.htm",
       "file": "player341.htm",
       "pos": "SF",
-      "age": 30,
+      "age": 31,
       "ht": "6-5",
       "wt": 205,
       "currentRatingColor": "#F2662A",
@@ -4141,7 +4103,7 @@
       "Jmp": "C-",
       "Str": "B",
       "Sta": "B+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 25,
@@ -4179,7 +4141,7 @@
       "Jmp": "C",
       "Str": "B",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 14,
@@ -4217,7 +4179,7 @@
       "Jmp": "C",
       "Str": "C",
       "Sta": "C-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 18,
@@ -4255,7 +4217,7 @@
       "Jmp": "C-",
       "Str": "B-",
       "Sta": "C+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 22,
@@ -4293,7 +4255,7 @@
       "Jmp": "C+",
       "Str": "C-",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 6,
@@ -4301,7 +4263,7 @@
       "url": "./players/player362.htm",
       "file": "player362.htm",
       "pos": "SG",
-      "age": 27,
+      "age": 28,
       "ht": "6-5",
       "wt": 214,
       "currentRatingColor": "#B0040C",
@@ -4331,7 +4293,7 @@
       "Jmp": "D+",
       "Str": "D+",
       "Sta": "C+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 16,
@@ -4369,7 +4331,7 @@
       "Jmp": "C+",
       "Str": "B-",
       "Sta": "C+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 1,
@@ -4407,7 +4369,7 @@
       "Jmp": "C",
       "Str": "C-",
       "Sta": "A-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 25,
@@ -4445,7 +4407,7 @@
       "Jmp": "C",
       "Str": "C-",
       "Sta": "B-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 20,
@@ -4483,7 +4445,7 @@
       "Jmp": "C+",
       "Str": "C-",
       "Sta": "A+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 8,
@@ -4521,7 +4483,7 @@
       "Jmp": "C",
       "Str": "C-",
       "Sta": "A-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 23,
@@ -4559,7 +4521,7 @@
       "Jmp": "C+",
       "Str": "C",
       "Sta": "C-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 5,
@@ -4597,7 +4559,7 @@
       "Jmp": "D",
       "Str": "D-",
       "Sta": "B-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 23,
@@ -4635,7 +4597,7 @@
       "Jmp": "C-",
       "Str": "B-",
       "Sta": "B+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 28,
@@ -4643,7 +4605,7 @@
       "url": "./players/player400.htm",
       "file": "player400.htm",
       "pos": "SG",
-      "age": 23,
+      "age": 24,
       "ht": "6-0",
       "wt": 200,
       "currentRatingColor": "#B0040C",
@@ -4673,7 +4635,7 @@
       "Jmp": "C+",
       "Str": "B-",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 31,
@@ -4711,7 +4673,7 @@
       "Jmp": "C",
       "Str": "C-",
       "Sta": "D-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 25,
@@ -4749,7 +4711,7 @@
       "Jmp": "C-",
       "Str": "B-",
       "Sta": "C+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 24,
@@ -4787,7 +4749,7 @@
       "Jmp": "D",
       "Str": "B-",
       "Sta": "B",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 16,
@@ -4825,7 +4787,7 @@
       "Jmp": "C-",
       "Str": "C",
       "Sta": "A-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 2,
@@ -4863,7 +4825,7 @@
       "Jmp": "A",
       "Str": "B-",
       "Sta": "C+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 20,
@@ -4901,7 +4863,7 @@
       "Jmp": "C",
       "Str": "C",
       "Sta": "B",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 20,
@@ -4939,7 +4901,7 @@
       "Jmp": "C",
       "Str": "C",
       "Sta": "C-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 23,
@@ -4977,7 +4939,7 @@
       "Jmp": "C-",
       "Str": "C+",
       "Sta": "C+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 16,
@@ -5015,7 +4977,7 @@
       "Jmp": "C-",
       "Str": "C",
       "Sta": "A",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 24,
@@ -5053,7 +5015,7 @@
       "Jmp": "D+",
       "Str": "D+",
       "Sta": "B-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 23,
@@ -5091,7 +5053,7 @@
       "Jmp": "D+",
       "Str": "C+",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 8,
@@ -5129,7 +5091,7 @@
       "Jmp": "C",
       "Str": "C",
       "Sta": "B+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 9,
@@ -5167,7 +5129,7 @@
       "Jmp": "D-",
       "Str": "B",
       "Sta": "C-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 15,
@@ -5175,7 +5137,7 @@
       "url": "./players/player440.htm",
       "file": "player440.htm",
       "pos": "SF",
-      "age": 25,
+      "age": 26,
       "ht": "6-1",
       "wt": 210,
       "currentRatingColor": "#F2662A",
@@ -5205,7 +5167,7 @@
       "Jmp": "C",
       "Str": "D+",
       "Sta": "B",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 28,
@@ -5243,7 +5205,7 @@
       "Jmp": "C-",
       "Str": "C+",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 32,
@@ -5281,7 +5243,7 @@
       "Jmp": "D+",
       "Str": "B-",
       "Sta": "C-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 22,
@@ -5319,7 +5281,7 @@
       "Jmp": "C-",
       "Str": "C",
       "Sta": "B-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 14,
@@ -5357,7 +5319,7 @@
       "Jmp": "D+",
       "Str": "C",
       "Sta": "B+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 26,
@@ -5395,7 +5357,7 @@
       "Jmp": "C",
       "Str": "D",
       "Sta": "A+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 10,
@@ -5433,7 +5395,7 @@
       "Jmp": "D",
       "Str": "D-",
       "Sta": "C+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 22,
@@ -5471,7 +5433,7 @@
       "Jmp": "B-",
       "Str": "F",
       "Sta": "A-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 30,
@@ -5479,7 +5441,7 @@
       "url": "./players/player473.htm",
       "file": "player473.htm",
       "pos": "PG",
-      "age": 30,
+      "age": 31,
       "ht": "5-10",
       "wt": 198,
       "currentRatingColor": "#F2662A",
@@ -5509,7 +5471,7 @@
       "Jmp": "D+",
       "Str": "F",
       "Sta": "B-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 33,
@@ -5547,7 +5509,7 @@
       "Jmp": "C",
       "Str": "D-",
       "Sta": "B-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 11,
@@ -5585,7 +5547,7 @@
       "Jmp": "D+",
       "Str": "C",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 30,
@@ -5623,7 +5585,7 @@
       "Jmp": "C-",
       "Str": "C",
       "Sta": "A",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 13,
@@ -5661,7 +5623,7 @@
       "Jmp": "D+",
       "Str": "C",
       "Sta": "C-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 25,
@@ -5699,7 +5661,7 @@
       "Jmp": "C-",
       "Str": "C+",
       "Sta": "B+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 10,
@@ -5707,7 +5669,7 @@
       "url": "./players/player517.htm",
       "file": "player517.htm",
       "pos": "PG",
-      "age": 32,
+      "age": 33,
       "ht": "6-3",
       "wt": 207,
       "currentRatingColor": "#F2662A",
@@ -5737,7 +5699,7 @@
       "Jmp": "C",
       "Str": "C",
       "Sta": "C+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 2,
@@ -5775,7 +5737,7 @@
       "Jmp": "F+",
       "Str": "C-",
       "Sta": "C+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 13,
@@ -5813,7 +5775,7 @@
       "Jmp": "D",
       "Str": "D",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 1,
@@ -5851,7 +5813,7 @@
       "Jmp": "C-",
       "Str": "D-",
       "Sta": "A-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 20,
@@ -5889,7 +5851,7 @@
       "Jmp": "D+",
       "Str": "C+",
       "Sta": "A-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 14,
@@ -5927,7 +5889,7 @@
       "Jmp": "D+",
       "Str": "D-",
       "Sta": "B",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 24,
@@ -5965,7 +5927,7 @@
       "Jmp": "C-",
       "Str": "F+",
       "Sta": "A",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 15,
@@ -6003,7 +5965,7 @@
       "Jmp": "C",
       "Str": "C",
       "Sta": "B+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 22,
@@ -6041,7 +6003,7 @@
       "Jmp": "D-",
       "Str": "C",
       "Sta": "C+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 10,
@@ -6079,7 +6041,7 @@
       "Jmp": "D",
       "Str": "C",
       "Sta": "F",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 20,
@@ -6117,7 +6079,7 @@
       "Jmp": "C-",
       "Str": "C-",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 22,
@@ -6155,7 +6117,7 @@
       "Jmp": "C",
       "Str": "D+",
       "Sta": "B-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 20,
@@ -6193,7 +6155,7 @@
       "Jmp": "D+",
       "Str": "C-",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 25,
@@ -6231,7 +6193,7 @@
       "Jmp": "B+",
       "Str": "C",
       "Sta": "B",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 4,
@@ -6269,7 +6231,7 @@
       "Jmp": "C-",
       "Str": "C",
       "Sta": "B-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 35,
@@ -6307,7 +6269,7 @@
       "Jmp": "D",
       "Str": "C+",
       "Sta": "D",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 32,
@@ -6345,7 +6307,7 @@
       "Jmp": "C+",
       "Str": "C+",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 33,
@@ -6353,7 +6315,7 @@
       "url": "./players/player568.htm",
       "file": "player568.htm",
       "pos": "SF",
-      "age": 20,
+      "age": 21,
       "ht": "6-9",
       "wt": 196,
       "currentRatingColor": "#B0040C",
@@ -6383,7 +6345,7 @@
       "Jmp": "C+",
       "Str": "C",
       "Sta": "D+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 24,
@@ -6421,7 +6383,7 @@
       "Jmp": "D-",
       "Str": "C-",
       "Sta": "A-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 54,
@@ -6459,7 +6421,7 @@
       "Jmp": "D+",
       "Str": "C",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 24,
@@ -6497,7 +6459,7 @@
       "Jmp": "D+",
       "Str": "C",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 32,
@@ -6535,7 +6497,7 @@
       "Jmp": "D",
       "Str": "F+",
       "Sta": "A-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 55,
@@ -6573,7 +6535,7 @@
       "Jmp": "C-",
       "Str": "B-",
       "Sta": "F+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 40,
@@ -6611,7 +6573,7 @@
       "Jmp": "C-",
       "Str": "B+",
       "Sta": "C-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 2,
@@ -6649,7 +6611,7 @@
       "Jmp": "C",
       "Str": "C",
       "Sta": "B+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 9,
@@ -6687,7 +6649,7 @@
       "Jmp": "D+",
       "Str": "B",
       "Sta": "A-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 31,
@@ -6725,7 +6687,7 @@
       "Jmp": "D",
       "Str": "C+",
       "Sta": "B",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 43,
@@ -6763,7 +6725,7 @@
       "Jmp": "C-",
       "Str": "B",
       "Sta": "D-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 17,
@@ -6801,7 +6763,7 @@
       "Jmp": "D-",
       "Str": "C",
       "Sta": "D+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 20,
@@ -6839,7 +6801,7 @@
       "Jmp": "D",
       "Str": "C+",
       "Sta": "B",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 23,
@@ -6877,7 +6839,7 @@
       "Jmp": "C+",
       "Str": "C",
       "Sta": "B-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 33,
@@ -6915,7 +6877,7 @@
       "Jmp": "D",
       "Str": "D",
       "Sta": "C+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 3,
@@ -6953,7 +6915,7 @@
       "Jmp": "C",
       "Str": "C",
       "Sta": "B-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 33,
@@ -6991,7 +6953,7 @@
       "Jmp": "C+",
       "Str": "C-",
       "Sta": "D",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 27,
@@ -7029,7 +6991,7 @@
       "Jmp": "D+",
       "Str": "C-",
       "Sta": "C+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 3,
@@ -7067,7 +7029,7 @@
       "Jmp": "C-",
       "Str": "D",
       "Sta": "A-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 54,
@@ -7105,7 +7067,7 @@
       "Jmp": "C+",
       "Str": "B",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 44,
@@ -7143,7 +7105,7 @@
       "Jmp": "C-",
       "Str": "C+",
       "Sta": "C+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 24,
@@ -7181,7 +7143,7 @@
       "Jmp": "C-",
       "Str": "B-",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 9,
@@ -7219,7 +7181,7 @@
       "Jmp": "D",
       "Str": "C",
       "Sta": "A-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 15,
@@ -7257,7 +7219,7 @@
       "Jmp": "D+",
       "Str": "D-",
       "Sta": "C+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 1,
@@ -7295,7 +7257,7 @@
       "Jmp": "C-",
       "Str": "C+",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 9,
@@ -7333,7 +7295,7 @@
       "Jmp": "D-",
       "Str": "C+",
       "Sta": "A-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 10,
@@ -7371,7 +7333,7 @@
       "Jmp": "D+",
       "Str": "C-",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 33,
@@ -7409,7 +7371,7 @@
       "Jmp": "D+",
       "Str": "B",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 42,
@@ -7447,7 +7409,7 @@
       "Jmp": "C-",
       "Str": "C",
       "Sta": "C+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 7,
@@ -7485,7 +7447,7 @@
       "Jmp": "C-",
       "Str": "C+",
       "Sta": "D+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 26,
@@ -7523,7 +7485,7 @@
       "Jmp": "F+",
       "Str": "C",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 13,
@@ -7531,7 +7493,7 @@
       "url": "./players/player610.htm",
       "file": "player610.htm",
       "pos": "PG",
-      "age": 31,
+      "age": 32,
       "ht": "6-0",
       "wt": 157,
       "currentRatingColor": "#B0040C",
@@ -7561,7 +7523,7 @@
       "Jmp": "C",
       "Str": "D",
       "Sta": "C+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 42,
@@ -7599,7 +7561,7 @@
       "Jmp": "D",
       "Str": "B+",
       "Sta": "D",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 5,
@@ -7607,7 +7569,7 @@
       "url": "./players/player613.htm",
       "file": "player613.htm",
       "pos": "SF",
-      "age": 23,
+      "age": 24,
       "ht": "6-7",
       "wt": 220,
       "currentRatingColor": "#B0040C",
@@ -7637,7 +7599,7 @@
       "Jmp": "D+",
       "Str": "C+",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 20,
@@ -7675,7 +7637,7 @@
       "Jmp": "C",
       "Str": "C",
       "Sta": "B+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 10,
@@ -7713,7 +7675,7 @@
       "Jmp": "D",
       "Str": "C",
       "Sta": "C-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 35,
@@ -7751,7 +7713,7 @@
       "Jmp": "C",
       "Str": "B",
       "Sta": "F",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 45,
@@ -7789,7 +7751,7 @@
       "Jmp": "C-",
       "Str": "B-",
       "Sta": "D",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 31,
@@ -7827,7 +7789,7 @@
       "Jmp": "C",
       "Str": "C",
       "Sta": "B-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 54,
@@ -7865,7 +7827,7 @@
       "Jmp": "C",
       "Str": "C-",
       "Sta": "C+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 9,
@@ -7903,7 +7865,7 @@
       "Jmp": "D-",
       "Str": "C+",
       "Sta": "A-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 40,
@@ -7941,7 +7903,7 @@
       "Jmp": "C",
       "Str": "C+",
       "Sta": "D+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 31,
@@ -7979,7 +7941,7 @@
       "Jmp": "C-",
       "Str": "A-",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 17,
@@ -8017,7 +7979,7 @@
       "Jmp": "D",
       "Str": "C-",
       "Sta": "B+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 20,
@@ -8025,7 +7987,7 @@
       "url": "./players/player630.htm",
       "file": "player630.htm",
       "pos": "PG",
-      "age": 28,
+      "age": 29,
       "ht": "6-0",
       "wt": 203,
       "currentRatingColor": "#B0040C",
@@ -8055,7 +8017,7 @@
       "Jmp": "D+",
       "Str": "B-",
       "Sta": "B-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 52,
@@ -8093,7 +8055,7 @@
       "Jmp": "B",
       "Str": "C+",
       "Sta": "C-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 4,
@@ -8131,7 +8093,7 @@
       "Jmp": "D+",
       "Str": "C+",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 13,
@@ -8169,7 +8131,7 @@
       "Jmp": "C",
       "Str": "C",
       "Sta": "B",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 52,
@@ -8207,7 +8169,7 @@
       "Jmp": "C-",
       "Str": "B",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 33,
@@ -8245,7 +8207,7 @@
       "Jmp": "C-",
       "Str": "C+",
       "Sta": "C+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 33,
@@ -8283,7 +8245,7 @@
       "Jmp": "C-",
       "Str": "B-",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 31,
@@ -8321,7 +8283,7 @@
       "Jmp": "C",
       "Str": "B",
       "Sta": "D+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 27,
@@ -8359,7 +8321,7 @@
       "Jmp": "D+",
       "Str": "C+",
       "Sta": "C+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 1,
@@ -8397,7 +8359,7 @@
       "Jmp": "C-",
       "Str": "A-",
       "Sta": "B-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 35,
@@ -8435,7 +8397,7 @@
       "Jmp": "D",
       "Str": "C",
       "Sta": "B+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 41,
@@ -8473,7 +8435,7 @@
       "Jmp": "D+",
       "Str": "B+",
       "Sta": "D",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 53,
@@ -8511,7 +8473,7 @@
       "Jmp": "D+",
       "Str": "B-",
       "Sta": "D-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 27,
@@ -8549,7 +8511,7 @@
       "Jmp": "C",
       "Str": "B-",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 6,
@@ -8587,7 +8549,7 @@
       "Jmp": "D+",
       "Str": "C",
       "Sta": "C-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 30,
@@ -8625,7 +8587,7 @@
       "Jmp": "D-",
       "Str": "C",
       "Sta": "F-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 35,
@@ -8663,7 +8625,7 @@
       "Jmp": "C-",
       "Str": "C-",
       "Sta": "C+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 21,
@@ -8701,7 +8663,7 @@
       "Jmp": "C-",
       "Str": "B",
       "Sta": "B+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 22,
@@ -8739,7 +8701,7 @@
       "Jmp": "F-",
       "Str": "C",
       "Sta": "B",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 21,
@@ -8777,7 +8739,7 @@
       "Jmp": "C",
       "Str": "C",
       "Sta": "B+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 34,
@@ -8815,7 +8777,7 @@
       "Jmp": "C-",
       "Str": "C+",
       "Sta": "D+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 45,
@@ -8853,7 +8815,7 @@
       "Jmp": "C-",
       "Str": "C",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 20,
@@ -8861,7 +8823,7 @@
       "url": "./players/player658.htm",
       "file": "player658.htm",
       "pos": "SF",
-      "age": 32,
+      "age": 33,
       "ht": "6-9",
       "wt": 224,
       "currentRatingColor": "#B0040C",
@@ -8891,7 +8853,7 @@
       "Jmp": "D+",
       "Str": "C-",
       "Sta": "C+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 10,
@@ -8929,7 +8891,7 @@
       "Jmp": "D+",
       "Str": "C+",
       "Sta": "B-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 42,
@@ -8937,7 +8899,7 @@
       "url": "./players/player661.htm",
       "file": "player661.htm",
       "pos": "C",
-      "age": 24,
+      "age": 25,
       "ht": "7-2",
       "wt": 231,
       "currentRatingColor": "#B0040C",
@@ -8967,7 +8929,7 @@
       "Jmp": "C",
       "Str": "B+",
       "Sta": "D-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 43,
@@ -9005,7 +8967,7 @@
       "Jmp": "F",
       "Str": "D+",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 14,
@@ -9043,7 +9005,7 @@
       "Jmp": "C-",
       "Str": "C",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 10,
@@ -9081,7 +9043,7 @@
       "Jmp": "D-",
       "Str": "B-",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 35,
@@ -9119,7 +9081,7 @@
       "Jmp": "C-",
       "Str": "D-",
       "Sta": "C+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 52,
@@ -9157,7 +9119,7 @@
       "Jmp": "D+",
       "Str": "C",
       "Sta": "D",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 40,
@@ -9195,7 +9157,7 @@
       "Jmp": "B-",
       "Str": "C",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 4,
@@ -9233,7 +9195,7 @@
       "Jmp": "C-",
       "Str": "C",
       "Sta": "C+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 6,
@@ -9271,7 +9233,7 @@
       "Jmp": "D+",
       "Str": "C-",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 2,
@@ -9309,7 +9271,7 @@
       "Jmp": "D-",
       "Str": "D",
       "Sta": "A",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 34,
@@ -9347,7 +9309,7 @@
       "Jmp": "C-",
       "Str": "C",
       "Sta": "C+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 9,
@@ -9385,7 +9347,7 @@
       "Jmp": "D+",
       "Str": "C+",
       "Sta": "B",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 34,
@@ -9423,7 +9385,7 @@
       "Jmp": "D",
       "Str": "F",
       "Sta": "A-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 35,
@@ -9431,7 +9393,7 @@
       "url": "./players/player676.htm",
       "file": "player676.htm",
       "pos": "C",
-      "age": 25,
+      "age": 26,
       "ht": "6-10",
       "wt": 237,
       "currentRatingColor": "#B0040C",
@@ -9461,7 +9423,7 @@
       "Jmp": "D",
       "Str": "B-",
       "Sta": "D-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 35,
@@ -9499,7 +9461,7 @@
       "Jmp": "C-",
       "Str": "C+",
       "Sta": "C+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 30,
@@ -9537,7 +9499,7 @@
       "Jmp": "C-",
       "Str": "B+",
       "Sta": "B",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 21,
@@ -9545,7 +9507,7 @@
       "url": "./players/player680.htm",
       "file": "player680.htm",
       "pos": "PG",
-      "age": 29,
+      "age": 30,
       "ht": "6-3",
       "wt": 187,
       "currentRatingColor": "#B0040C",
@@ -9575,7 +9537,7 @@
       "Jmp": "C+",
       "Str": "F-",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 41,
@@ -9613,7 +9575,7 @@
       "Jmp": "C+",
       "Str": "C",
       "Sta": "F",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 21,
@@ -9651,7 +9613,7 @@
       "Jmp": "C-",
       "Str": "B",
       "Sta": "B+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 33,
@@ -9689,7 +9651,7 @@
       "Jmp": "D+",
       "Str": "C",
       "Sta": "B",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 44,
@@ -9727,7 +9689,7 @@
       "Jmp": "D-",
       "Str": "C",
       "Sta": "C+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 3,
@@ -9765,7 +9727,7 @@
       "Jmp": "D",
       "Str": "C+",
       "Sta": "B-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 21,
@@ -9803,7 +9765,7 @@
       "Jmp": "D-",
       "Str": "C+",
       "Sta": "C+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 24,
@@ -9841,7 +9803,7 @@
       "Jmp": "D+",
       "Str": "C-",
       "Sta": "C-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 40,
@@ -9879,7 +9841,7 @@
       "Jmp": "D+",
       "Str": "C",
       "Sta": "D+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 44,
@@ -9917,7 +9879,7 @@
       "Jmp": "D-",
       "Str": "C",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 30,
@@ -9955,7 +9917,7 @@
       "Jmp": "D+",
       "Str": "B-",
       "Sta": "B",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 28,
@@ -9993,7 +9955,7 @@
       "Jmp": "F+",
       "Str": "C",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 43,
@@ -10031,7 +9993,7 @@
       "Jmp": "F",
       "Str": "C+",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 11,
@@ -10069,7 +10031,7 @@
       "Jmp": "C",
       "Str": "C",
       "Sta": "A-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 43,
@@ -10107,7 +10069,7 @@
       "Jmp": "C+",
       "Str": "C",
       "Sta": "C-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 40,
@@ -10145,7 +10107,7 @@
       "Jmp": "D+",
       "Str": "C",
       "Sta": "B-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 13,
@@ -10183,7 +10145,7 @@
       "Jmp": "F",
       "Str": "C+",
       "Sta": "C+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 2,
@@ -10191,7 +10153,7 @@
       "url": "./players/player704.htm",
       "file": "player704.htm",
       "pos": "SG",
-      "age": 29,
+      "age": 30,
       "ht": "6-8",
       "wt": 211,
       "currentRatingColor": "#B0040C",
@@ -10221,7 +10183,7 @@
       "Jmp": "C",
       "Str": "D",
       "Sta": "B+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 21,
@@ -10259,7 +10221,7 @@
       "Jmp": "C-",
       "Str": "C-",
       "Sta": "C+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 10,
@@ -10297,7 +10259,7 @@
       "Jmp": "B-",
       "Str": "B",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 17,
@@ -10335,7 +10297,7 @@
       "Jmp": "D-",
       "Str": "C",
       "Sta": "B",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 20,
@@ -10373,7 +10335,7 @@
       "Jmp": "C",
       "Str": "C",
       "Sta": "C+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 31,
@@ -10381,7 +10343,7 @@
       "url": "./players/player710.htm",
       "file": "player710.htm",
       "pos": "PG",
-      "age": 19,
+      "age": 20,
       "ht": "6-2",
       "wt": 184,
       "currentRatingColor": "#B0040C",
@@ -10411,7 +10373,7 @@
       "Jmp": "D+",
       "Str": "C",
       "Sta": "B",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 44,
@@ -10449,7 +10411,7 @@
       "Jmp": "D",
       "Str": "B+",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 51,
@@ -10487,7 +10449,7 @@
       "Jmp": "C-",
       "Str": "C+",
       "Sta": "D",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 34,
@@ -10525,7 +10487,7 @@
       "Jmp": "C",
       "Str": "C",
       "Sta": "C+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 26,
@@ -10563,7 +10525,7 @@
       "Jmp": "D+",
       "Str": "C+",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 41,
@@ -10601,7 +10563,7 @@
       "Jmp": "C-",
       "Str": "B+",
       "Sta": "C-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 44,
@@ -10639,7 +10601,7 @@
       "Jmp": "C",
       "Str": "B",
       "Sta": "F",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 33,
@@ -10677,7 +10639,7 @@
       "Jmp": "A",
       "Str": "C+",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 45,
@@ -10715,7 +10677,7 @@
       "Jmp": "C-",
       "Str": "C",
       "Sta": "D-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 45,
@@ -10753,7 +10715,7 @@
       "Jmp": "C",
       "Str": "C+",
       "Sta": "C+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 35,
@@ -10791,7 +10753,7 @@
       "Jmp": "D",
       "Str": "B",
       "Sta": "D-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 52,
@@ -10829,7 +10791,7 @@
       "Jmp": "C-",
       "Str": "C",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 51,
@@ -10867,7 +10829,7 @@
       "Jmp": "D+",
       "Str": "C+",
       "Sta": "D",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 55,
@@ -10905,7 +10867,7 @@
       "Jmp": "D+",
       "Str": "B",
       "Sta": "C+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 41,
@@ -10913,7 +10875,7 @@
       "url": "./players/player739.htm",
       "file": "player739.htm",
       "pos": "PF",
-      "age": 22,
+      "age": 23,
       "ht": "6-9",
       "wt": 240,
       "currentRatingColor": "#B0040C",
@@ -10943,7 +10905,7 @@
       "Jmp": "C-",
       "Str": "C+",
       "Sta": "D+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 55,
@@ -10981,7 +10943,7 @@
       "Jmp": "D",
       "Str": "B",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 34,
@@ -11019,7 +10981,7 @@
       "Jmp": "D+",
       "Str": "C+",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 31,
@@ -11057,7 +11019,7 @@
       "Jmp": "B",
       "Str": "B-",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 42,
@@ -11095,7 +11057,7 @@
       "Jmp": "D+",
       "Str": "C",
       "Sta": "B-",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 55,
@@ -11133,7 +11095,7 @@
       "Jmp": "C",
       "Str": "C+",
       "Sta": "C+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 42,
@@ -11141,7 +11103,7 @@
       "url": "./players/player754.htm",
       "file": "player754.htm",
       "pos": "PF",
-      "age": 22,
+      "age": 23,
       "ht": "6-8",
       "wt": 238,
       "currentRatingColor": "#B0040C",
@@ -11171,7 +11133,7 @@
       "Jmp": "C",
       "Str": "B+",
       "Sta": "C+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 43,
@@ -11209,7 +11171,7 @@
       "Jmp": "C-",
       "Str": "B+",
       "Sta": "C+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 11,
@@ -11217,7 +11179,7 @@
       "url": "./players/player758.htm",
       "file": "player758.htm",
       "pos": "SF",
-      "age": 21,
+      "age": 22,
       "ht": "6-5",
       "wt": 234,
       "currentRatingColor": "#B0040C",
@@ -11247,7 +11209,7 @@
       "Jmp": "C",
       "Str": "C",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 24,
@@ -11285,7 +11247,7 @@
       "Jmp": "C+",
       "Str": "C",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 20,
@@ -11323,7 +11285,7 @@
       "Jmp": "C-",
       "Str": "C",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 22,
@@ -11361,7 +11323,7 @@
       "Jmp": "C",
       "Str": "B-",
       "Sta": "C",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 6,
@@ -11399,7 +11361,7 @@
       "Jmp": "C",
       "Str": "B-",
       "Sta": "C+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 32,
@@ -11437,7 +11399,7 @@
       "Jmp": "C+",
       "Str": "C",
       "Sta": "A",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 26,
@@ -11475,7 +11437,7 @@
       "Jmp": "C",
       "Str": "B-",
       "Sta": "C+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 4,
@@ -11513,7 +11475,7 @@
       "Jmp": "C",
       "Str": "B-",
       "Sta": "C-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 25,
@@ -11551,7 +11513,7 @@
       "Jmp": "D+",
       "Str": "C+",
       "Sta": "B",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 23,
@@ -11589,7 +11551,7 @@
       "Jmp": "C+",
       "Str": "C",
       "Sta": "C+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 12,
@@ -11627,7 +11589,7 @@
       "Jmp": "D",
       "Str": "B",
       "Sta": "D",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 34,
@@ -11665,7 +11627,7 @@
       "Jmp": "D+",
       "Str": "C+",
       "Sta": "C-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 27,
@@ -11703,7 +11665,7 @@
       "Jmp": "C",
       "Str": "C",
       "Sta": "C+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 23,
@@ -11741,7 +11703,7 @@
       "Jmp": "D",
       "Str": "D+",
       "Sta": "B+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 9,
@@ -11749,7 +11711,7 @@
       "url": "./players/player789.htm",
       "file": "player789.htm",
       "pos": "SG",
-      "age": 21,
+      "age": 22,
       "ht": "6-0",
       "wt": 197,
       "currentRatingColor": "#B0040C",
@@ -11779,7 +11741,7 @@
       "Jmp": "C",
       "Str": "D",
       "Sta": "A",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 12,
@@ -11787,7 +11749,7 @@
       "url": "./players/player796.htm",
       "file": "player796.htm",
       "pos": "SG",
-      "age": 19,
+      "age": 20,
       "ht": "6-5",
       "wt": 217,
       "currentRatingColor": "#B0040C",
@@ -11817,7 +11779,7 @@
       "Jmp": "C-",
       "Str": "D-",
       "Sta": "B",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 12,
@@ -11855,7 +11817,7 @@
       "Jmp": "D",
       "Str": "B-",
       "Sta": "C+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 3,
@@ -11863,7 +11825,7 @@
       "url": "./players/player801.htm",
       "file": "player801.htm",
       "pos": "PG",
-      "age": 22,
+      "age": 23,
       "ht": "6-2",
       "wt": 219,
       "currentRatingColor": "#B0040C",
@@ -11893,7 +11855,7 @@
       "Jmp": "C-",
       "Str": "C",
       "Sta": "C+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 14,
@@ -11931,7 +11893,7 @@
       "Jmp": "C-",
       "Str": "C",
       "Sta": "C",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 25,
@@ -11969,7 +11931,7 @@
       "Jmp": "C+",
       "Str": "C-",
       "Sta": "B-",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 22,
@@ -12007,7 +11969,7 @@
       "Jmp": "C-",
       "Str": "C-",
       "Sta": "B",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 21,
@@ -12045,7 +12007,7 @@
       "Jmp": "C",
       "Str": "D+",
       "Sta": "A",
-      "rowClass": "row1"
+      "rowClass": "row2"
     },
     {
       "number": 21,
@@ -12083,7 +12045,7 @@
       "Jmp": "C",
       "Str": "D",
       "Sta": "B+",
-      "rowClass": "row2"
+      "rowClass": "row1"
     },
     {
       "number": 31,
@@ -12121,7 +12083,7 @@
       "Jmp": "C-",
       "Str": "F",
       "Sta": "B+",
-      "rowClass": "row1"
+      "rowClass": "row2"
     }
   ]
 }

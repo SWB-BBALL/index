@@ -8,9 +8,20 @@
       "team": "roster5",
       "teamName": "Atlanta",
       "rosterUrl": "./rosters/roster5.htm",
-      "length": "65",
+      "length": "29",
       "injury": "Broken Leg",
       "rowClass": "row1"
+    },
+    {
+      "pos": "PG",
+      "name": "Willard Weimer",
+      "url": "",
+      "team": "roster24",
+      "teamName": "New York",
+      "rosterUrl": "./rosters/roster24.htm",
+      "length": "21",
+      "injury": "Dislocated Shoulder",
+      "rowClass": "row2"
     },
     {
       "pos": "C",
@@ -19,118 +30,19 @@
       "team": "roster17",
       "teamName": "Los Angeles (LAC)",
       "rosterUrl": "./rosters/roster17.htm",
-      "length": "47",
+      "length": "11",
       "injury": "Plantar Fasciitis",
-      "rowClass": "row2"
-    },
-    {
-      "pos": "SG",
-      "name": "Daron Tillotson",
-      "url": "",
-      "team": "roster9",
-      "teamName": "Chicago",
-      "rosterUrl": "./rosters/roster9.htm",
-      "length": "33",
-      "injury": "Dislocated Knee",
       "rowClass": "row1"
     },
     {
       "pos": "PF",
-      "name": "George Parkins",
+      "name": "Timothy Hood",
       "url": "",
-      "team": "roster26",
-      "teamName": "St. John's",
-      "rosterUrl": "./rosters/roster26.htm",
-      "length": "33",
-      "injury": "Broken Foot",
-      "rowClass": "row2"
-    },
-    {
-      "pos": "C",
-      "name": "Barrett Solis",
-      "url": "",
-      "team": "roster8",
-      "teamName": "Charlotte",
-      "rosterUrl": "./rosters/roster8.htm",
-      "length": "32",
-      "injury": "Stress Fracture",
-      "rowClass": "row1"
-    },
-    {
-      "pos": "C",
-      "name": "Tony Bennett",
-      "url": "",
-      "team": "roster17",
-      "teamName": "Los Angeles (LAC)",
-      "rosterUrl": "./rosters/roster17.htm",
-      "length": "24",
-      "injury": "Torn Ligament",
-      "rowClass": "row2"
-    },
-    {
-      "pos": "C",
-      "name": "Calvin Hill",
-      "url": "",
-      "team": "roster11",
-      "teamName": "Dallas",
-      "rosterUrl": "./rosters/roster11.htm",
-      "length": "21",
-      "injury": "Broken Foot",
-      "rowClass": "row1"
-    },
-    {
-      "pos": "C",
-      "name": "Tuan Phillips",
-      "url": "",
-      "team": "roster30",
-      "teamName": "Sacramento",
-      "rosterUrl": "./rosters/roster30.htm",
-      "length": "20",
-      "injury": "Stress Fracture",
-      "rowClass": "row2"
-    },
-    {
-      "pos": "SF",
-      "name": "Bret Harris",
-      "url": "",
-      "team": "roster27",
-      "teamName": "Philadelphia",
-      "rosterUrl": "./rosters/roster27.htm",
-      "length": "8",
-      "injury": "Sprained Wrist",
-      "rowClass": "row1"
-    },
-    {
-      "pos": "SF",
-      "name": "Billie Williams",
-      "url": "",
-      "team": "roster29",
-      "teamName": "Portland",
-      "rosterUrl": "./rosters/roster29.htm",
-      "length": "6",
-      "injury": "Broken Leg",
-      "rowClass": "row2"
-    },
-    {
-      "pos": "SG",
-      "name": "Marcos Martinez",
-      "url": "",
-      "team": "roster11",
-      "teamName": "Dallas",
-      "rosterUrl": "./rosters/roster11.htm",
-      "length": "4",
-      "injury": "Stiff Neck",
-      "rowClass": "row1"
-    },
-    {
-      "pos": "C",
-      "name": "Edgard Desbouvries",
-      "url": "",
-      "team": "roster29",
-      "teamName": "Portland",
-      "rosterUrl": "./rosters/roster29.htm",
-      "length": "1",
-      "injury": "Severe Migraines",
+      "team": "roster15",
+      "teamName": "Houston",
+      "rosterUrl": "./rosters/roster15.htm",
+      "length": "2",
+      "injury": "Blurred Vision",
       "rowClass": "row2"
     }
   ]
