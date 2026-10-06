@@ -14655,9 +14655,9 @@
       "id": "player509",
       "historyKey": "",
       "name": "Chris Bernard",
-      "team": "FA",
-      "teamAbbr": "FA",
-      "status": "free_agent",
+      "team": "St. John's",
+      "teamAbbr": "SJ",
+      "status": "rostered",
       "pos": "SG",
       "age": 23,
       "href": "./unified-player.htm?id=player509",
@@ -14665,8 +14665,25 @@
       "potential": 121,
       "overallColor": "#307B1A",
       "potentialColor": "#0052C3",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 25000000,
+      "contracts": [
+        {
+          "year": "2012",
+          "salary": 25000000
+        },
+        {
+          "year": "2013",
+          "salary": 26500000
+        },
+        {
+          "year": "2014",
+          "salary": 28000000
+        },
+        {
+          "year": "2015",
+          "salary": 29500000
+        }
+      ],
       "attributes": {
         "Ins": "C-",
         "Jps": "C+",
@@ -40203,7 +40220,7 @@
       "teamAbbr": "FA",
       "status": "free_agent",
       "pos": "PF",
-      "age": 29,
+      "age": 30,
       "href": "./unified-player.htm?id=player211",
       "overall": 78,
       "potential": 79,
@@ -40604,7 +40621,7 @@
       "teamAbbr": "SJ",
       "status": "rostered",
       "pos": "SG",
-      "age": 21,
+      "age": 22,
       "href": "./unified-player.htm?id=player779",
       "overall": 93,
       "potential": 95,
@@ -45170,7 +45187,7 @@
       "teamAbbr": "FA",
       "status": "free_agent",
       "pos": "SF",
-      "age": 22,
+      "age": 23,
       "href": "./unified-player.htm?id=player773",
       "overall": 51,
       "potential": 63,
@@ -55478,9 +55495,9 @@
       "id": "player347",
       "historyKey": "",
       "name": "Norris Brown",
-      "team": "FA",
-      "teamAbbr": "FA",
-      "status": "free_agent",
+      "team": "Minnesota",
+      "teamAbbr": "MIN",
+      "status": "rostered",
       "pos": "SF",
       "age": 22,
       "href": "./unified-player.htm?id=player347",
@@ -55488,8 +55505,25 @@
       "potential": 118,
       "overallColor": "#EDBE30",
       "potentialColor": "#0052C3",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 21000000,
+      "contracts": [
+        {
+          "year": "2012",
+          "salary": 21000000
+        },
+        {
+          "year": "2013",
+          "salary": 22050000
+        },
+        {
+          "year": "2014",
+          "salary": 23100000
+        },
+        {
+          "year": "2015",
+          "salary": 24150000
+        }
+      ],
       "attributes": {
         "Ins": "C-",
         "Jps": "C",
@@ -56729,7 +56763,7 @@
       "teamAbbr": "FA",
       "status": "free_agent",
       "pos": "PF",
-      "age": 31,
+      "age": 32,
       "href": "./unified-player.htm?id=player292",
       "overall": 72,
       "potential": 72,
@@ -56813,7 +56847,7 @@
       "teamAbbr": "SAS",
       "status": "rostered",
       "pos": "SG",
-      "age": 31,
+      "age": 32,
       "href": "./unified-player.htm?id=player383",
       "overall": 138,
       "potential": 138,
@@ -65273,7 +65307,7 @@
       "teamAbbr": "FA",
       "status": "free_agent",
       "pos": "PG",
-      "age": 21,
+      "age": 22,
       "href": "./unified-player.htm?id=player808",
       "overall": 50,
       "potential": 65,

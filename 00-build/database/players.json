@@ -16816,8 +16816,8 @@
     "playerId": "player509",
     "name": "Chris Bernard",
     "url": "../players/player509.htm",
-    "team": "FA",
-    "teamLabel": "FA",
+    "team": "roster26",
+    "teamLabel": "St. John's",
     "pos": "SG",
     "age": "23",
     "ht": "6-4",
@@ -16825,8 +16825,8 @@
     "experience": "4 years",
     "birdYears": 4,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 25000000.0,
+    "currentSalaryText": "$25,000,000",
     "awards": [
       {
         "season": "Total",
@@ -16853,6 +16853,11 @@
         "date": "10/8/2011",
         "action": "Drafted by St. John's with pick #9 of round 5 of the creation draft.",
         "rowClass": "row1"
+      },
+      {
+        "date": "7/20/2012",
+        "action": "Re-signed with St. John's for $109,000,000 over 4 years.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "C-",
@@ -16876,7 +16881,7 @@
     "greed": "34",
     "playForWinner": "67",
     "loyalty": "2",
-    "happiness": "4",
+    "happiness": "65",
     "lastTeamId": "roster26",
     "lastTeam": "St. John's",
     "potentials": {
@@ -16898,23 +16903,23 @@
     "contracts": [
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 25000000.0,
+        "salaryText": "$25,000,000"
       },
       {
         "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 26500000.0,
+        "salaryText": "$26,500,000"
       },
       {
         "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 28000000.0,
+        "salaryText": "$28,000,000"
       },
       {
         "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 29500000.0,
+        "salaryText": "$29,500,000"
       },
       {
         "year": "2016",
@@ -47761,7 +47766,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "PF",
-    "age": "29",
+    "age": "30",
     "ht": "6-7",
     "wt": "234",
     "experience": "8 years",
@@ -48215,7 +48220,7 @@
     "team": "roster26",
     "teamLabel": "St. John's",
     "pos": "SG",
-    "age": "21",
+    "age": "22",
     "ht": "6-9",
     "wt": "223",
     "experience": "1 year",
@@ -53671,7 +53676,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "SF",
-    "age": "22",
+    "age": "23",
     "ht": "6-7",
     "wt": "209",
     "experience": "Rookie",
@@ -65461,17 +65466,17 @@
     "playerId": "player347",
     "name": "Norris Brown",
     "url": "../players/player347.htm",
-    "team": "FA",
-    "teamLabel": "FA",
+    "team": "roster22",
+    "teamLabel": "Minnesota",
     "pos": "SF",
     "age": "22",
     "ht": "6-8",
     "wt": "190",
     "experience": "2 years",
-    "birdYears": 2,
+    "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 21000000.0,
+    "currentSalaryText": "$21,000,000",
     "awards": [
       {
         "season": "Total",
@@ -65511,6 +65516,11 @@
         "date": "10/8/2011",
         "action": "Drafted by Detroit with pick #20 of round 4 of the creation draft.",
         "rowClass": "row1"
+      },
+      {
+        "date": "7/20/2012",
+        "action": "Signed with Minnesota for $90,300,000 over 4 years.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "C-",
@@ -65534,9 +65544,9 @@
     "greed": "69",
     "playForWinner": "22",
     "loyalty": "1",
-    "happiness": "35",
-    "lastTeamId": "roster13",
-    "lastTeam": "Detroit",
+    "happiness": "65",
+    "lastTeamId": "roster22",
+    "lastTeam": "Minnesota",
     "potentials": {
       "Ins": "C",
       "Jps": "C",
@@ -65556,23 +65566,23 @@
     "contracts": [
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 21000000.0,
+        "salaryText": "$21,000,000"
       },
       {
         "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 22050000.0,
+        "salaryText": "$22,050,000"
       },
       {
         "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 23100000.0,
+        "salaryText": "$23,100,000"
       },
       {
         "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 24150000.0,
+        "salaryText": "$24,150,000"
       },
       {
         "year": "2016",
@@ -66913,7 +66923,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "PF",
-    "age": "31",
+    "age": "32",
     "ht": "6-9",
     "wt": "232",
     "experience": "9 years",
@@ -67021,7 +67031,7 @@
     "team": "roster31",
     "teamLabel": "San Antonio",
     "pos": "SG",
-    "age": "31",
+    "age": "32",
     "ht": "6-5",
     "wt": "202",
     "experience": "11 years",
@@ -77138,7 +77148,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "PG",
-    "age": "21",
+    "age": "22",
     "ht": "5-11",
     "wt": "163",
     "experience": "Rookie",
