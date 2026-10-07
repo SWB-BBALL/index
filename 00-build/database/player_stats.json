@@ -9959,8 +9959,8 @@
       "playerId": "player286",
       "name": "Alfonso Iglesias",
       "url": "../players/player286.htm",
-      "team": "FA",
-      "teamLabel": "FA",
+      "team": "roster8",
+      "teamLabel": "Charlotte",
       "pos": "PF",
       "stats": {
         "season_averages": {
@@ -17034,8 +17034,8 @@
       "playerId": "player42",
       "name": "Andrew Galloway",
       "url": "../players/player42.htm",
-      "team": "FA",
-      "teamLabel": "FA",
+      "team": "roster12",
+      "teamLabel": "Denver",
       "pos": "C",
       "stats": {
         "season_averages": {
@@ -18940,8 +18940,8 @@
       "playerId": "player533",
       "name": "Andy Avelar",
       "url": "../players/player533.htm",
-      "team": "FA",
-      "teamLabel": "FA",
+      "team": "roster11",
+      "teamLabel": "Tokyo",
       "pos": "PG",
       "stats": {
         "season_averages": {
@@ -28429,8 +28429,8 @@
       "playerId": "player48",
       "name": "Augustas Kemzis",
       "url": "../players/player48.htm",
-      "team": "FA",
-      "teamLabel": "FA",
+      "team": "roster7",
+      "teamLabel": "New Jersey",
       "pos": "C",
       "stats": {
         "season_averages": {
@@ -46009,8 +46009,8 @@
       "playerId": "player387",
       "name": "Bret Harris",
       "url": "../players/player387.htm",
-      "team": "FA",
-      "teamLabel": "FA",
+      "team": "roster9",
+      "teamLabel": "Auburn",
       "pos": "SF",
       "stats": {
         "season_averages": {
@@ -54250,8 +54250,8 @@
       "playerId": "player480",
       "name": "Carl Miller",
       "url": "../players/player480.htm",
-      "team": "FA",
-      "teamLabel": "FA",
+      "team": "roster8",
+      "teamLabel": "Charlotte",
       "pos": "SG",
       "stats": {
         "season_averages": {
@@ -62510,8 +62510,8 @@
       "playerId": "player550",
       "name": "Charles McQuade",
       "url": "../players/player550.htm",
-      "team": "FA",
-      "teamLabel": "FA",
+      "team": "roster16",
+      "teamLabel": "Indiana",
       "pos": "PG",
       "stats": {
         "season_averages": {
@@ -65623,8 +65623,8 @@
       "playerId": "player98",
       "name": "Charlie White",
       "url": "../players/player98.htm",
-      "team": "FA",
-      "teamLabel": "FA",
+      "team": "roster16",
+      "teamLabel": "Indiana",
       "pos": "C",
       "stats": {
         "season_averages": {
@@ -75261,8 +75261,8 @@
       "playerId": "player119",
       "name": "Cliff Henderson",
       "url": "../players/player119.htm",
-      "team": "FA",
-      "teamLabel": "FA",
+      "team": "roster9",
+      "teamLabel": "Auburn",
       "pos": "C",
       "stats": {
         "season_averages": {
@@ -75875,8 +75875,8 @@
       "playerId": "player403",
       "name": "Clinton Conroy",
       "url": "../players/player403.htm",
-      "team": "FA",
-      "teamLabel": "FA",
+      "team": "roster32",
+      "teamLabel": "Toronto",
       "pos": "SF",
       "stats": {
         "season_averages": {
@@ -78142,8 +78142,8 @@
       "playerId": "player422",
       "name": "Conrad Mills",
       "url": "../players/player422.htm",
-      "team": "FA",
-      "teamLabel": "FA",
+      "team": "roster12",
+      "teamLabel": "Denver",
       "pos": "SG",
       "stats": {
         "season_averages": {
@@ -95976,8 +95976,8 @@
       "playerId": "player461",
       "name": "David Conte",
       "url": "../players/player461.htm",
-      "team": "FA",
-      "teamLabel": "FA",
+      "team": "roster8",
+      "teamLabel": "Charlotte",
       "pos": "PG",
       "stats": {
         "season_averages": {
@@ -111671,8 +111671,8 @@
       "playerId": "player558",
       "name": "Dudley Wagstaff",
       "url": "../players/player558.htm",
-      "team": "FA",
-      "teamLabel": "FA",
+      "team": "roster9",
+      "teamLabel": "Auburn",
       "pos": "PG",
       "stats": {
         "season_averages": {
@@ -115165,8 +115165,8 @@
       "playerId": "player202",
       "name": "Edmundo Sotomayor",
       "url": "../players/player202.htm",
-      "team": "FA",
-      "teamLabel": "FA",
+      "team": "roster30",
+      "teamLabel": "Sacramento",
       "pos": "PF",
       "stats": {
         "season_averages": {
@@ -137447,8 +137447,8 @@
       "playerId": "player377",
       "name": "Gary Reyes",
       "url": "../players/player377.htm",
-      "team": "FA",
-      "teamLabel": "FA",
+      "team": "roster5",
+      "teamLabel": "Atlanta",
       "pos": "SG",
       "stats": {
         "season_averages": {
@@ -165701,8 +165701,8 @@
       "playerId": "player502",
       "name": "Jake Brown",
       "url": "../players/player502.htm",
-      "team": "FA",
-      "teamLabel": "FA",
+      "team": "roster5",
+      "teamLabel": "Atlanta",
       "pos": "PG",
       "stats": {
         "season_averages": {
@@ -167693,8 +167693,8 @@
       "playerId": "player1463",
       "name": "James Conway",
       "url": "../players/player1463.htm",
-      "team": "FA",
-      "teamLabel": "FA",
+      "team": "roster11",
+      "teamLabel": "Tokyo",
       "pos": "SG",
       "stats": {
         "season_averages": {
@@ -199932,8 +199932,8 @@
       "playerId": "player216",
       "name": "Joseph Barry",
       "url": "../players/player216.htm",
-      "team": "FA",
-      "teamLabel": "FA",
+      "team": "roster11",
+      "teamLabel": "Tokyo",
       "pos": "C",
       "stats": {
         "season_averages": {
@@ -201352,8 +201352,8 @@
       "playerId": "player519",
       "name": "Joseph Kinsey",
       "url": "../players/player519.htm",
-      "team": "FA",
-      "teamLabel": "FA",
+      "team": "roster5",
+      "teamLabel": "Atlanta",
       "pos": "PG",
       "stats": {
         "season_averages": {
@@ -215714,8 +215714,8 @@
       "playerId": "player707",
       "name": "Lauren King",
       "url": "../players/player707.htm",
-      "team": "FA",
-      "teamLabel": "FA",
+      "team": "roster11",
+      "teamLabel": "Tokyo",
       "pos": "PF",
       "stats": {
         "season_averages": {
@@ -218595,8 +218595,8 @@
       "playerId": "player164",
       "name": "Leo Petty",
       "url": "../players/player164.htm",
-      "team": "FA",
-      "teamLabel": "FA",
+      "team": "roster16",
+      "teamLabel": "Indiana",
       "pos": "C",
       "stats": {
         "season_averages": {
@@ -228466,8 +228466,8 @@
       "playerId": "player242",
       "name": "Marcelino Bernaldez",
       "url": "../players/player242.htm",
-      "team": "FA",
-      "teamLabel": "FA",
+      "team": "roster11",
+      "teamLabel": "Tokyo",
       "pos": "C",
       "stats": {
         "season_averages": {
@@ -251363,8 +251363,8 @@
       "playerId": "player244",
       "name": "Nolan Davis",
       "url": "../players/player244.htm",
-      "team": "FA",
-      "teamLabel": "FA",
+      "team": "roster32",
+      "teamLabel": "Toronto",
       "pos": "PF",
       "stats": {
         "season_averages": {
@@ -261022,8 +261022,8 @@
       "playerId": "player68",
       "name": "Phil Tollefson",
       "url": "../players/player68.htm",
-      "team": "FA",
-      "teamLabel": "FA",
+      "team": "roster7",
+      "teamLabel": "New Jersey",
       "pos": "C",
       "stats": {
         "season_averages": {
@@ -270258,8 +270258,8 @@
       "playerId": "player317",
       "name": "Reynaldo Oliva",
       "url": "../players/player317.htm",
-      "team": "FA",
-      "teamLabel": "FA",
+      "team": "roster5",
+      "teamLabel": "Atlanta",
       "pos": "SF",
       "stats": {
         "season_averages": {
@@ -272122,8 +272122,8 @@
       "playerId": "player138",
       "name": "Richard Houck",
       "url": "../players/player138.htm",
-      "team": "FA",
-      "teamLabel": "FA",
+      "team": "roster11",
+      "teamLabel": "Tokyo",
       "pos": "C",
       "stats": {
         "season_averages": {
@@ -295994,8 +295994,8 @@
       "playerId": "player456",
       "name": "Simon Pierce",
       "url": "../players/player456.htm",
-      "team": "FA",
-      "teamLabel": "FA",
+      "team": "roster9",
+      "teamLabel": "Auburn",
       "pos": "SF",
       "stats": {
         "season_averages": {
@@ -298302,8 +298302,8 @@
       "playerId": "player528",
       "name": "Stephen Beery",
       "url": "../players/player528.htm",
-      "team": "FA",
-      "teamLabel": "FA",
+      "team": "roster5",
+      "teamLabel": "Atlanta",
       "pos": "PG",
       "stats": {
         "season_averages": {
@@ -312557,8 +312557,8 @@
       "playerId": "player479",
       "name": "Timothy Miller",
       "url": "../players/player479.htm",
-      "team": "FA",
-      "teamLabel": "FA",
+      "team": "roster5",
+      "teamLabel": "Atlanta",
       "pos": "PG",
       "stats": {
         "season_averages": {

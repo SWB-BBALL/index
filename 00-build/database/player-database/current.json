@@ -97,7 +97,7 @@
       "teamAbbr": "FA",
       "status": "free_agent",
       "pos": "PG",
-      "age": 20,
+      "age": 21,
       "href": "./unified-player.htm?id=player1434",
       "overall": 48,
       "potential": 58,
@@ -265,7 +265,7 @@
       "teamAbbr": "LAC",
       "status": "rostered",
       "pos": "SF",
-      "age": 20,
+      "age": 21,
       "href": "./unified-player.htm?id=player788",
       "overall": 95,
       "potential": 110,
@@ -2197,9 +2197,9 @@
       "id": "player286",
       "historyKey": "",
       "name": "Alfonso Iglesias",
-      "team": "FA",
-      "teamAbbr": "FA",
-      "status": "free_agent",
+      "team": "Charlotte",
+      "teamAbbr": "CHA",
+      "status": "rostered",
       "pos": "PF",
       "age": 24,
       "href": "./unified-player.htm?id=player286",
@@ -2207,8 +2207,25 @@
       "potential": 112,
       "overallColor": "#EDBE30",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 10000000,
+      "contracts": [
+        {
+          "year": "2012",
+          "salary": 10000000
+        },
+        {
+          "year": "2013",
+          "salary": 10250000
+        },
+        {
+          "year": "2014",
+          "salary": 10500000
+        },
+        {
+          "year": "2015",
+          "salary": 10750000
+        }
+      ],
       "attributes": {
         "Ins": "C",
         "Jps": "C-",
@@ -3052,7 +3069,7 @@
       "teamAbbr": "FA",
       "status": "free_agent",
       "pos": "PF",
-      "age": 24,
+      "age": 25,
       "href": "./unified-player.htm?id=player597",
       "overall": 21,
       "potential": 24,
@@ -3761,9 +3778,9 @@
       "id": "player42",
       "historyKey": "",
       "name": "Andrew Galloway",
-      "team": "FA",
-      "teamAbbr": "FA",
-      "status": "free_agent",
+      "team": "Denver",
+      "teamAbbr": "DEN",
+      "status": "rostered",
       "pos": "C",
       "age": 27,
       "href": "./unified-player.htm?id=player42",
@@ -3771,8 +3788,17 @@
       "potential": 108,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 9000000,
+      "contracts": [
+        {
+          "year": "2012",
+          "salary": 9000000
+        },
+        {
+          "year": "2013",
+          "salary": 9450000
+        }
+      ],
       "attributes": {
         "Ins": "C+",
         "Jps": "C",
@@ -4157,9 +4183,9 @@
       "id": "player533",
       "historyKey": "",
       "name": "Andy Avelar",
-      "team": "FA",
-      "teamAbbr": "FA",
-      "status": "free_agent",
+      "team": "Tokyo",
+      "teamAbbr": "TOK",
+      "status": "rostered",
       "pos": "PG",
       "age": 22,
       "href": "./unified-player.htm?id=player533",
@@ -4167,8 +4193,21 @@
       "potential": 110,
       "overallColor": "#F2662A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 5500000,
+      "contracts": [
+        {
+          "year": "2012",
+          "salary": 5500000
+        },
+        {
+          "year": "2013",
+          "salary": 5500000
+        },
+        {
+          "year": "2014",
+          "salary": 5500000
+        }
+      ],
       "attributes": {
         "Ins": "D-",
         "Jps": "D+",
@@ -5382,7 +5421,7 @@
       "teamAbbr": "FA",
       "status": "free_agent",
       "pos": "SG",
-      "age": 25,
+      "age": 26,
       "href": "./unified-player.htm?id=player472",
       "overall": 76,
       "potential": 82,
@@ -6170,9 +6209,9 @@
       "id": "player48",
       "historyKey": "",
       "name": "Augustas Kemzis",
-      "team": "FA",
-      "teamAbbr": "FA",
-      "status": "free_agent",
+      "team": "New Jersey",
+      "teamAbbr": "NJN",
+      "status": "rostered",
       "pos": "C",
       "age": 31,
       "href": "./unified-player.htm?id=player48",
@@ -6180,8 +6219,13 @@
       "potential": 108,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 2380000,
+      "contracts": [
+        {
+          "year": "2012",
+          "salary": 2380000
+        }
+      ],
       "attributes": {
         "Ins": "D+",
         "Jps": "B",
@@ -10133,9 +10177,9 @@
       "id": "player387",
       "historyKey": "",
       "name": "Bret Harris",
-      "team": "FA",
-      "teamAbbr": "FA",
-      "status": "free_agent",
+      "team": "Auburn",
+      "teamAbbr": "AUB",
+      "status": "rostered",
       "pos": "SF",
       "age": 28,
       "href": "./unified-player.htm?id=player387",
@@ -10143,8 +10187,17 @@
       "potential": 103,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 8000000,
+      "contracts": [
+        {
+          "year": "2012",
+          "salary": 8000000
+        },
+        {
+          "year": "2013",
+          "salary": 8400000
+        }
+      ],
       "attributes": {
         "Ins": "A-",
         "Jps": "C",
@@ -11951,9 +12004,9 @@
       "id": "player480",
       "historyKey": "",
       "name": "Carl Miller",
-      "team": "FA",
-      "teamAbbr": "FA",
-      "status": "free_agent",
+      "team": "Charlotte",
+      "teamAbbr": "CHA",
+      "status": "rostered",
       "pos": "SG",
       "age": 22,
       "href": "./unified-player.htm?id=player480",
@@ -11961,8 +12014,25 @@
       "potential": 122,
       "overallColor": "#EDBE30",
       "potentialColor": "#0052C3",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 15000000,
+      "contracts": [
+        {
+          "year": "2012",
+          "salary": 15000000
+        },
+        {
+          "year": "2013",
+          "salary": 15600000
+        },
+        {
+          "year": "2014",
+          "salary": 16200000
+        },
+        {
+          "year": "2015",
+          "salary": 16800000
+        }
+      ],
       "attributes": {
         "Ins": "C",
         "Jps": "C",
@@ -13731,9 +13801,9 @@
       "id": "player550",
       "historyKey": "",
       "name": "Charles McQuade",
-      "team": "FA",
-      "teamAbbr": "FA",
-      "status": "free_agent",
+      "team": "Indiana",
+      "teamAbbr": "IND",
+      "status": "rostered",
       "pos": "PG",
       "age": 29,
       "href": "./unified-player.htm?id=player550",
@@ -13741,8 +13811,13 @@
       "potential": 87,
       "overallColor": "#EDBE30",
       "potentialColor": "#EDBE30",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 1850000,
+      "contracts": [
+        {
+          "year": "2012",
+          "salary": 1850000
+        }
+      ],
       "attributes": {
         "Ins": "C",
         "Jps": "C",
@@ -14017,7 +14092,7 @@
       "teamAbbr": "FA",
       "status": "free_agent",
       "pos": "SF",
-      "age": 20,
+      "age": 21,
       "href": "./unified-player.htm?id=player668",
       "overall": 22,
       "potential": 23,
@@ -14414,9 +14489,9 @@
       "id": "player98",
       "historyKey": "",
       "name": "Charlie White",
-      "team": "FA",
-      "teamAbbr": "FA",
-      "status": "free_agent",
+      "team": "Indiana",
+      "teamAbbr": "IND",
+      "status": "rostered",
       "pos": "C",
       "age": 29,
       "href": "./unified-player.htm?id=player98",
@@ -14424,8 +14499,13 @@
       "potential": 91,
       "overallColor": "#EDBE30",
       "potentialColor": "#EDBE30",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 1850000,
+      "contracts": [
+        {
+          "year": "2012",
+          "salary": 1850000
+        }
+      ],
       "attributes": {
         "Ins": "C-",
         "Jps": "C-",
@@ -16532,9 +16612,9 @@
       "id": "player119",
       "historyKey": "",
       "name": "Cliff Henderson",
-      "team": "FA",
-      "teamAbbr": "FA",
-      "status": "free_agent",
+      "team": "Auburn",
+      "teamAbbr": "AUB",
+      "status": "rostered",
       "pos": "C",
       "age": 32,
       "href": "./unified-player.htm?id=player119",
@@ -16542,8 +16622,17 @@
       "potential": 104,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 5385371,
+      "contracts": [
+        {
+          "year": "2012",
+          "salary": 5385371
+        },
+        {
+          "year": "2013",
+          "salary": 5654640
+        }
+      ],
       "attributes": {
         "Ins": "C-",
         "Jps": "D",
@@ -16646,9 +16735,9 @@
       "id": "player403",
       "historyKey": "",
       "name": "Clinton Conroy",
-      "team": "FA",
-      "teamAbbr": "FA",
-      "status": "free_agent",
+      "team": "Toronto",
+      "teamAbbr": "TOR",
+      "status": "rostered",
       "pos": "SF",
       "age": 22,
       "href": "./unified-player.htm?id=player403",
@@ -16656,8 +16745,21 @@
       "potential": 111,
       "overallColor": "#EDBE30",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 8400000,
+      "contracts": [
+        {
+          "year": "2012",
+          "salary": 8400000
+        },
+        {
+          "year": "2013",
+          "salary": 8568000
+        },
+        {
+          "year": "2014",
+          "salary": 8736000
+        }
+      ],
       "attributes": {
         "Ins": "D",
         "Jps": "C",
@@ -16764,7 +16866,7 @@
       "teamAbbr": "NOH",
       "status": "rostered",
       "pos": "PG",
-      "age": 18,
+      "age": 19,
       "href": "./unified-player.htm?id=player792",
       "overall": 74,
       "potential": 98,
@@ -17187,9 +17289,9 @@
       "id": "player422",
       "historyKey": "",
       "name": "Conrad Mills",
-      "team": "FA",
-      "teamAbbr": "FA",
-      "status": "free_agent",
+      "team": "Denver",
+      "teamAbbr": "DEN",
+      "status": "rostered",
       "pos": "SG",
       "age": 29,
       "href": "./unified-player.htm?id=player422",
@@ -17197,8 +17299,17 @@
       "potential": 108,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 8000000,
+      "contracts": [
+        {
+          "year": "2012",
+          "salary": 8000000
+        },
+        {
+          "year": "2013",
+          "salary": 8400000
+        }
+      ],
       "attributes": {
         "Ins": "D+",
         "Jps": "B+",
@@ -21173,9 +21284,9 @@
       "id": "player461",
       "historyKey": "",
       "name": "David Conte",
-      "team": "FA",
-      "teamAbbr": "FA",
-      "status": "free_agent",
+      "team": "Charlotte",
+      "teamAbbr": "CHA",
+      "status": "rostered",
       "pos": "PG",
       "age": 25,
       "href": "./unified-player.htm?id=player461",
@@ -21183,8 +21294,13 @@
       "potential": 92,
       "overallColor": "#EDBE30",
       "potentialColor": "#EDBE30",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 1410000,
+      "contracts": [
+        {
+          "year": "2012",
+          "salary": 1410000
+        }
+      ],
       "attributes": {
         "Ins": "D+",
         "Jps": "C",
@@ -23780,7 +23896,7 @@
       "teamAbbr": "FA",
       "status": "free_agent",
       "pos": "SF",
-      "age": 26,
+      "age": 27,
       "href": "./unified-player.htm?id=player603",
       "overall": 24,
       "potential": 24,
@@ -24608,9 +24724,9 @@
       "id": "player558",
       "historyKey": "",
       "name": "Dudley Wagstaff",
-      "team": "FA",
-      "teamAbbr": "FA",
-      "status": "free_agent",
+      "team": "Auburn",
+      "teamAbbr": "AUB",
+      "status": "rostered",
       "pos": "PG",
       "age": 30,
       "href": "./unified-player.htm?id=player558",
@@ -24618,8 +24734,17 @@
       "potential": 97,
       "overallColor": "#EDBE30",
       "potentialColor": "#EDBE30",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 3000000,
+      "contracts": [
+        {
+          "year": "2012",
+          "salary": 3000000
+        },
+        {
+          "year": "2013",
+          "salary": 3180000
+        }
+      ],
       "attributes": {
         "Ins": "C",
         "Jps": "C",
@@ -25321,9 +25446,9 @@
       "id": "player202",
       "historyKey": "",
       "name": "Edmundo Sotomayor",
-      "team": "FA",
-      "teamAbbr": "FA",
-      "status": "free_agent",
+      "team": "Sacramento",
+      "teamAbbr": "SAC",
+      "status": "rostered",
       "pos": "PF",
       "age": 32,
       "href": "./unified-player.htm?id=player202",
@@ -25331,8 +25456,13 @@
       "potential": 97,
       "overallColor": "#EDBE30",
       "potentialColor": "#EDBE30",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 2380000,
+      "contracts": [
+        {
+          "year": "2012",
+          "salary": 2380000
+        }
+      ],
       "attributes": {
         "Ins": "F+",
         "Jps": "C",
@@ -30171,9 +30301,9 @@
       "id": "player377",
       "historyKey": "",
       "name": "Gary Reyes",
-      "team": "FA",
-      "teamAbbr": "FA",
-      "status": "free_agent",
+      "team": "Atlanta",
+      "teamAbbr": "ATL",
+      "status": "rostered",
       "pos": "SG",
       "age": 41,
       "href": "./unified-player.htm?id=player377",
@@ -30181,8 +30311,17 @@
       "potential": 104,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 6778800,
+      "contracts": [
+        {
+          "year": "2012",
+          "salary": 6778800
+        },
+        {
+          "year": "2013",
+          "salary": 6982164
+        }
+      ],
       "attributes": {
         "Ins": "C",
         "Jps": "B",
@@ -35354,7 +35493,7 @@
       "teamAbbr": "FA",
       "status": "free_agent",
       "pos": "SG",
-      "age": 31,
+      "age": 32,
       "href": "./unified-player.htm?id=player302",
       "overall": 65,
       "potential": 65,
@@ -36488,9 +36627,9 @@
       "id": "player502",
       "historyKey": "",
       "name": "Jake Brown",
-      "team": "FA",
-      "teamAbbr": "FA",
-      "status": "free_agent",
+      "team": "Atlanta",
+      "teamAbbr": "ATL",
+      "status": "rostered",
       "pos": "PG",
       "age": 31,
       "href": "./unified-player.htm?id=player502",
@@ -36498,8 +36637,13 @@
       "potential": 111,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 2000000,
+      "contracts": [
+        {
+          "year": "2012",
+          "salary": 2000000
+        }
+      ],
       "attributes": {
         "Ins": "D+",
         "Jps": "A-",
@@ -36932,9 +37076,9 @@
       "id": "player1463",
       "historyKey": "",
       "name": "James Conway",
-      "team": "FA",
-      "teamAbbr": "FA",
-      "status": "free_agent",
+      "team": "Tokyo",
+      "teamAbbr": "TOK",
+      "status": "rostered",
       "pos": "SG",
       "age": 20,
       "href": "./unified-player.htm?id=player1463",
@@ -36942,8 +37086,13 @@
       "potential": 64,
       "overallColor": "#B0040C",
       "potentialColor": "#F2662A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 760000,
+      "contracts": [
+        {
+          "year": "2012",
+          "salary": 760000
+        }
+      ],
       "attributes": {
         "Ins": "F-",
         "Jps": "C",
@@ -44060,9 +44209,9 @@
       "id": "player216",
       "historyKey": "",
       "name": "Joseph Barry",
-      "team": "FA",
-      "teamAbbr": "FA",
-      "status": "free_agent",
+      "team": "Tokyo",
+      "teamAbbr": "TOK",
+      "status": "rostered",
       "pos": "C",
       "age": 20,
       "href": "./unified-player.htm?id=player216",
@@ -44070,8 +44219,21 @@
       "potential": 96,
       "overallColor": "#F2662A",
       "potentialColor": "#EDBE30",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 5000000,
+      "contracts": [
+        {
+          "year": "2012",
+          "salary": 5000000
+        },
+        {
+          "year": "2013",
+          "salary": 5000000
+        },
+        {
+          "year": "2014",
+          "salary": 5000000
+        }
+      ],
       "attributes": {
         "Ins": "C-",
         "Jps": "D",
@@ -44377,9 +44539,9 @@
       "id": "player519",
       "historyKey": "",
       "name": "Joseph Kinsey",
-      "team": "FA",
-      "teamAbbr": "FA",
-      "status": "free_agent",
+      "team": "Atlanta",
+      "teamAbbr": "ATL",
+      "status": "rostered",
       "pos": "PG",
       "age": 27,
       "href": "./unified-player.htm?id=player519",
@@ -44387,8 +44549,21 @@
       "potential": 105,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 9720000,
+      "contracts": [
+        {
+          "year": "2012",
+          "salary": 9720000
+        },
+        {
+          "year": "2013",
+          "salary": 10011600
+        },
+        {
+          "year": "2014",
+          "salary": 10303200
+        }
+      ],
       "attributes": {
         "Ins": "C",
         "Jps": "C+",
@@ -47553,9 +47728,9 @@
       "id": "player707",
       "historyKey": "",
       "name": "Lauren King",
-      "team": "FA",
-      "teamAbbr": "FA",
-      "status": "free_agent",
+      "team": "Tokyo",
+      "teamAbbr": "TOK",
+      "status": "rostered",
       "pos": "PF",
       "age": 20,
       "href": "./unified-player.htm?id=player707",
@@ -47563,8 +47738,13 @@
       "potential": 30,
       "overallColor": "#B0040C",
       "potentialColor": "#B0040C",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 1110000,
+      "contracts": [
+        {
+          "year": "2012",
+          "salary": 1110000
+        }
+      ],
       "attributes": {
         "Ins": "F-",
         "Jps": "F+",
@@ -48157,9 +48337,9 @@
       "id": "player164",
       "historyKey": "",
       "name": "Leo Petty",
-      "team": "FA",
-      "teamAbbr": "FA",
-      "status": "free_agent",
+      "team": "Indiana",
+      "teamAbbr": "IND",
+      "status": "rostered",
       "pos": "C",
       "age": 31,
       "href": "./unified-player.htm?id=player164",
@@ -48167,8 +48347,13 @@
       "potential": 97,
       "overallColor": "#EDBE30",
       "potentialColor": "#EDBE30",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 2380000,
+      "contracts": [
+        {
+          "year": "2012",
+          "salary": 2380000
+        }
+      ],
       "attributes": {
         "Ins": "C",
         "Jps": "C",
@@ -50347,9 +50532,9 @@
       "id": "player242",
       "historyKey": "",
       "name": "Marcelino Bernaldez",
-      "team": "FA",
-      "teamAbbr": "FA",
-      "status": "free_agent",
+      "team": "Tokyo",
+      "teamAbbr": "TOK",
+      "status": "rostered",
       "pos": "C",
       "age": 21,
       "href": "./unified-player.htm?id=player242",
@@ -50357,8 +50542,13 @@
       "potential": 90,
       "overallColor": "#F2662A",
       "potentialColor": "#EDBE30",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 1290000,
+      "contracts": [
+        {
+          "year": "2012",
+          "salary": 1290000
+        }
+      ],
       "attributes": {
         "Ins": "C",
         "Jps": "D",
@@ -55381,9 +55571,9 @@
       "id": "player244",
       "historyKey": "",
       "name": "Nolan Davis",
-      "team": "FA",
-      "teamAbbr": "FA",
-      "status": "free_agent",
+      "team": "Toronto",
+      "teamAbbr": "TOR",
+      "status": "rostered",
       "pos": "PF",
       "age": 22,
       "href": "./unified-player.htm?id=player244",
@@ -55391,8 +55581,25 @@
       "potential": 114,
       "overallColor": "#EDBE30",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 11200000,
+      "contracts": [
+        {
+          "year": "2012",
+          "salary": 11200000
+        },
+        {
+          "year": "2013",
+          "salary": 11424000
+        },
+        {
+          "year": "2014",
+          "salary": 11648000
+        },
+        {
+          "year": "2015",
+          "salary": 11872000
+        }
+      ],
       "attributes": {
         "Ins": "C-",
         "Jps": "C-",
@@ -57582,9 +57789,9 @@
       "id": "player68",
       "historyKey": "",
       "name": "Phil Tollefson",
-      "team": "FA",
-      "teamAbbr": "FA",
-      "status": "free_agent",
+      "team": "New Jersey",
+      "teamAbbr": "NJN",
+      "status": "rostered",
       "pos": "C",
       "age": 31,
       "href": "./unified-player.htm?id=player68",
@@ -57592,8 +57799,13 @@
       "potential": 107,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 2380000,
+      "contracts": [
+        {
+          "year": "2012",
+          "salary": 2380000
+        }
+      ],
       "attributes": {
         "Ins": "C-",
         "Jps": "C",
@@ -59703,9 +59915,9 @@
       "id": "player317",
       "historyKey": "",
       "name": "Reynaldo Oliva",
-      "team": "FA",
-      "teamAbbr": "FA",
-      "status": "free_agent",
+      "team": "Atlanta",
+      "teamAbbr": "ATL",
+      "status": "rostered",
       "pos": "SF",
       "age": 26,
       "href": "./unified-player.htm?id=player317",
@@ -59713,8 +59925,13 @@
       "potential": 106,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 2000000,
+      "contracts": [
+        {
+          "year": "2012",
+          "salary": 2000000
+        }
+      ],
       "attributes": {
         "Ins": "C-",
         "Jps": "B+",
@@ -60112,9 +60329,9 @@
       "id": "player138",
       "historyKey": "",
       "name": "Richard Houck",
-      "team": "FA",
-      "teamAbbr": "FA",
-      "status": "free_agent",
+      "team": "Tokyo",
+      "teamAbbr": "TOK",
+      "status": "rostered",
       "pos": "C",
       "age": 25,
       "href": "./unified-player.htm?id=player138",
@@ -60122,8 +60339,17 @@
       "potential": 91,
       "overallColor": "#EDBE30",
       "potentialColor": "#EDBE30",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 3000000,
+      "contracts": [
+        {
+          "year": "2012",
+          "salary": 3000000
+        },
+        {
+          "year": "2013",
+          "salary": 3000000
+        }
+      ],
       "attributes": {
         "Ins": "D",
         "Jps": "C",
@@ -60487,7 +60713,7 @@
       "teamAbbr": "FA",
       "status": "free_agent",
       "pos": "SG",
-      "age": 27,
+      "age": 28,
       "href": "./unified-player.htm?id=player574",
       "overall": 23,
       "potential": 25,
@@ -65189,9 +65415,9 @@
       "id": "player456",
       "historyKey": "",
       "name": "Simon Pierce",
-      "team": "FA",
-      "teamAbbr": "FA",
-      "status": "free_agent",
+      "team": "Auburn",
+      "teamAbbr": "AUB",
+      "status": "rostered",
       "pos": "SF",
       "age": 28,
       "href": "./unified-player.htm?id=player456",
@@ -65199,8 +65425,13 @@
       "potential": 97,
       "overallColor": "#EDBE30",
       "potentialColor": "#EDBE30",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 1710000,
+      "contracts": [
+        {
+          "year": "2012",
+          "salary": 1710000
+        }
+      ],
       "attributes": {
         "Ins": "C",
         "Jps": "B+",
@@ -65678,18 +65909,23 @@
       "id": "player528",
       "historyKey": "",
       "name": "Stephen Beery",
-      "team": "FA",
-      "teamAbbr": "FA",
-      "status": "free_agent",
+      "team": "Atlanta",
+      "teamAbbr": "ATL",
+      "status": "rostered",
       "pos": "PG",
-      "age": 37,
+      "age": 38,
       "href": "./unified-player.htm?id=player528",
       "overall": 102,
       "potential": 102,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 2380000,
+      "contracts": [
+        {
+          "year": "2012",
+          "salary": 2380000
+        }
+      ],
       "attributes": {
         "Ins": "C-",
         "Jps": "B-",
@@ -68727,9 +68963,9 @@
       "id": "player479",
       "historyKey": "",
       "name": "Timothy Miller",
-      "team": "FA",
-      "teamAbbr": "FA",
-      "status": "free_agent",
+      "team": "Atlanta",
+      "teamAbbr": "ATL",
+      "status": "rostered",
       "pos": "PG",
       "age": 33,
       "href": "./unified-player.htm?id=player479",
@@ -68737,8 +68973,17 @@
       "potential": 100,
       "overallColor": "#307B1A",
       "potentialColor": "#307B1A",
-      "currentSalary": 0,
-      "contracts": [],
+      "currentSalary": 5000000,
+      "contracts": [
+        {
+          "year": "2012",
+          "salary": 5000000
+        },
+        {
+          "year": "2013",
+          "salary": 5100000
+        }
+      ],
       "attributes": {
         "Ins": "C",
         "Jps": "B+",

@@ -108,7 +108,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "PG",
-    "age": "20",
+    "age": "21",
     "ht": "5-9",
     "wt": "165",
     "experience": "Rookie",
@@ -312,7 +312,7 @@
     "team": "roster17",
     "teamLabel": "Los Angeles (LAC)",
     "pos": "SF",
-    "age": "20",
+    "age": "21",
     "ht": "6-5",
     "wt": "198",
     "experience": "1 year",
@@ -2499,8 +2499,8 @@
     "playerId": "player286",
     "name": "Alfonso Iglesias",
     "url": "../players/player286.htm",
-    "team": "FA",
-    "teamLabel": "FA",
+    "team": "roster8",
+    "teamLabel": "Charlotte",
     "pos": "PF",
     "age": "24",
     "ht": "6-8",
@@ -2508,8 +2508,8 @@
     "experience": "2 years",
     "birdYears": 2,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 10000000.0,
+    "currentSalaryText": "$10,000,000",
     "awards": [
       {
         "season": "Total",
@@ -2549,6 +2549,11 @@
         "date": "10/8/2011",
         "action": "Drafted by Charlotte with pick #21 of round 4 of the creation draft.",
         "rowClass": "row1"
+      },
+      {
+        "date": "2012-07-24",
+        "action": "Re-signed with Charlotte for $41,500,000 over 4 years.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "C",
@@ -2572,7 +2577,7 @@
     "greed": "73",
     "playForWinner": "66",
     "loyalty": "44",
-    "happiness": "2",
+    "happiness": "65",
     "lastTeamId": "roster8",
     "lastTeam": "Charlotte",
     "potentials": {
@@ -2594,23 +2599,23 @@
     "contracts": [
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 10000000.0,
+        "salaryText": "$10,000,000"
       },
       {
         "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 10250000.0,
+        "salaryText": "$10,250,000"
       },
       {
         "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 10500000.0,
+        "salaryText": "$10,500,000"
       },
       {
         "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 10750000.0,
+        "salaryText": "$10,750,000"
       },
       {
         "year": "2016",
@@ -3511,7 +3516,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "PF",
-    "age": "24",
+    "age": "25",
     "ht": "6-9",
     "wt": "241",
     "experience": "Rookie",
@@ -4309,17 +4314,17 @@
     "playerId": "player42",
     "name": "Andrew Galloway",
     "url": "../players/player42.htm",
-    "team": "FA",
-    "teamLabel": "FA",
+    "team": "roster12",
+    "teamLabel": "Denver",
     "pos": "C",
     "age": "27",
     "ht": "6-11",
     "wt": "222",
     "experience": "5 years",
-    "birdYears": 5,
+    "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 9000000.0,
+    "currentSalaryText": "$9,000,000",
     "awards": [
       {
         "season": "Total",
@@ -4346,6 +4351,11 @@
         "date": "10/8/2011",
         "action": "Drafted by the Legia with pick #5 of round 4 of the creation draft.",
         "rowClass": "row1"
+      },
+      {
+        "date": "2012-07-24",
+        "action": "Signed with Denver for $18,450,000 over 2 years.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "C+",
@@ -4369,9 +4379,9 @@
     "greed": "68",
     "playForWinner": "29",
     "loyalty": "12",
-    "happiness": "87",
-    "lastTeamId": "roster33",
-    "lastTeam": "Warsaw Legia",
+    "happiness": "65",
+    "lastTeamId": "roster12",
+    "lastTeam": "Denver",
     "potentials": {
       "Ins": "C",
       "Jps": "C",
@@ -4391,13 +4401,13 @@
     "contracts": [
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 9000000.0,
+        "salaryText": "$9,000,000"
       },
       {
         "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 9450000.0,
+        "salaryText": "$9,450,000"
       },
       {
         "year": "2014",
@@ -4747,8 +4757,8 @@
     "playerId": "player533",
     "name": "Andy Avelar",
     "url": "../players/player533.htm",
-    "team": "FA",
-    "teamLabel": "FA",
+    "team": "roster11",
+    "teamLabel": "Tokyo",
     "pos": "PG",
     "age": "22",
     "ht": "5-4",
@@ -4756,8 +4766,8 @@
     "experience": "2 years",
     "birdYears": 2,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 5500000.0,
+    "currentSalaryText": "$5,500,000",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
@@ -4771,6 +4781,11 @@
         "date": "2011-06-29",
         "action": "Traded to Tokyo",
         "rowClass": "row2"
+      },
+      {
+        "date": "2012-07-24",
+        "action": "Re-signed with Tokyo for $16,500,000 over 3 years.",
+        "rowClass": "row1"
       }
     ],
     "Ins": "D-",
@@ -4794,7 +4809,7 @@
     "greed": "96",
     "playForWinner": "20",
     "loyalty": "42",
-    "happiness": "30",
+    "happiness": "65",
     "lastTeamId": "roster11",
     "lastTeam": "Tokyo",
     "potentials": {
@@ -4816,18 +4831,18 @@
     "contracts": [
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 5500000.0,
+        "salaryText": "$5,500,000"
       },
       {
         "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 5500000.0,
+        "salaryText": "$5,500,000"
       },
       {
         "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 5500000.0,
+        "salaryText": "$5,500,000"
       },
       {
         "year": "2015",
@@ -6133,7 +6148,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "SG",
-    "age": "25",
+    "age": "26",
     "ht": "6-1",
     "wt": "200",
     "experience": "4 years",
@@ -7029,17 +7044,17 @@
     "playerId": "player48",
     "name": "Augustas Kemzis",
     "url": "../players/player48.htm",
-    "team": "FA",
-    "teamLabel": "FA",
+    "team": "roster7",
+    "teamLabel": "New Jersey",
     "pos": "C",
     "age": "31",
     "ht": "6-11",
     "wt": "234",
     "experience": "13 years",
-    "birdYears": 2,
+    "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 2380000.0,
+    "currentSalaryText": "$2,380,000",
     "awards": [
       {
         "season": "Total",
@@ -7066,6 +7081,11 @@
         "date": "10/8/2011",
         "action": "Drafted by Phoenix with pick #4 of round 4 of the creation draft.",
         "rowClass": "row1"
+      },
+      {
+        "date": "2012-07-25",
+        "action": "Signed with New Jersey for $2,380,000 over one year.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "D+",
@@ -7089,9 +7109,9 @@
     "greed": "31",
     "playForWinner": "95",
     "loyalty": "66",
-    "happiness": "51",
-    "lastTeamId": "roster28",
-    "lastTeam": "Phoenix",
+    "happiness": "65",
+    "lastTeamId": "roster7",
+    "lastTeam": "New Jersey",
     "potentials": {
       "Ins": "D",
       "Jps": "B",
@@ -7111,8 +7131,8 @@
     "contracts": [
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 2380000.0,
+        "salaryText": "$2,380,000"
       },
       {
         "year": "2013",
@@ -11500,17 +11520,17 @@
     "playerId": "player387",
     "name": "Bret Harris",
     "url": "../players/player387.htm",
-    "team": "FA",
-    "teamLabel": "FA",
+    "team": "roster9",
+    "teamLabel": "Auburn",
     "pos": "SF",
     "age": "28",
     "ht": "6-5",
     "wt": "212",
     "experience": "6 years",
-    "birdYears": 4,
+    "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 8000000.0,
+    "currentSalaryText": "$8,000,000",
     "awards": [
       {
         "season": "Total",
@@ -11537,6 +11557,11 @@
         "date": "10/8/2011",
         "action": "Drafted by Philadelphia with pick #22 of round 5 of the creation draft.",
         "rowClass": "row1"
+      },
+      {
+        "date": "2012-07-23",
+        "action": "Signed with Auburn for $16,400,000 over 2 years.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "A-",
@@ -11560,9 +11585,9 @@
     "greed": "83",
     "playForWinner": "90",
     "loyalty": "60",
-    "happiness": "60",
-    "lastTeamId": "roster27",
-    "lastTeam": "Philadelphia",
+    "happiness": "65",
+    "lastTeamId": "roster9",
+    "lastTeam": "Auburn",
     "potentials": {
       "Ins": "B",
       "Jps": "C",
@@ -11582,13 +11607,13 @@
     "contracts": [
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 8000000.0,
+        "salaryText": "$8,000,000"
       },
       {
         "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 8400000.0,
+        "salaryText": "$8,400,000"
       },
       {
         "year": "2014",
@@ -13652,8 +13677,8 @@
     "playerId": "player480",
     "name": "Carl Miller",
     "url": "../players/player480.htm",
-    "team": "FA",
-    "teamLabel": "FA",
+    "team": "roster8",
+    "teamLabel": "Charlotte",
     "pos": "SG",
     "age": "22",
     "ht": "6-4",
@@ -13661,8 +13686,8 @@
     "experience": "4 years",
     "birdYears": 4,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 15000000.0,
+    "currentSalaryText": "$15,000,000",
     "awards": [
       {
         "season": "Total",
@@ -13689,6 +13714,11 @@
         "date": "10/8/2011",
         "action": "Drafted by Charlotte with pick #10 of round 5 of the creation draft.",
         "rowClass": "row1"
+      },
+      {
+        "date": "2012-07-24",
+        "action": "Re-signed with Charlotte for $63,600,000 over 4 years.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "C",
@@ -13734,23 +13764,23 @@
     "contracts": [
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 15000000.0,
+        "salaryText": "$15,000,000"
       },
       {
         "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 15600000.0,
+        "salaryText": "$15,600,000"
       },
       {
         "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 16200000.0,
+        "salaryText": "$16,200,000"
       },
       {
         "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 16800000.0,
+        "salaryText": "$16,800,000"
       },
       {
         "year": "2016",
@@ -15756,17 +15786,17 @@
     "playerId": "player550",
     "name": "Charles McQuade",
     "url": "../players/player550.htm",
-    "team": "FA",
-    "teamLabel": "FA",
+    "team": "roster16",
+    "teamLabel": "Indiana",
     "pos": "PG",
     "age": "29",
     "ht": "6-3",
     "wt": "168",
     "experience": "7 years",
-    "birdYears": 2,
+    "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 1850000.0,
+    "currentSalaryText": "$1,850,000",
     "awards": [
       {
         "season": "Total",
@@ -15793,6 +15823,11 @@
         "date": "10/8/2011",
         "action": "Drafted by New Orleans with pick #10 of round 8 of the creation draft.",
         "rowClass": "row1"
+      },
+      {
+        "date": "2012-07-24",
+        "action": "Signed with Indiana for $1,850,000 over one year.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "C",
@@ -15816,9 +15851,9 @@
     "greed": "48",
     "playForWinner": "75",
     "loyalty": "4",
-    "happiness": "86",
-    "lastTeamId": "roster23",
-    "lastTeam": "New Orleans",
+    "happiness": "65",
+    "lastTeamId": "roster16",
+    "lastTeam": "Indiana",
     "potentials": {
       "Ins": "C",
       "Jps": "C",
@@ -15838,8 +15873,8 @@
     "contracts": [
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 1850000.0,
+        "salaryText": "$1,850,000"
       },
       {
         "year": "2013",
@@ -16100,7 +16135,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "SF",
-    "age": "20",
+    "age": "21",
     "ht": "6-8",
     "wt": "236",
     "experience": "Rookie",
@@ -16582,17 +16617,17 @@
     "playerId": "player98",
     "name": "Charlie White",
     "url": "../players/player98.htm",
-    "team": "FA",
-    "teamLabel": "FA",
+    "team": "roster16",
+    "teamLabel": "Indiana",
     "pos": "C",
     "age": "29",
     "ht": "6-10",
     "wt": "247",
     "experience": "7 years",
-    "birdYears": 4,
+    "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 1850000.0,
+    "currentSalaryText": "$1,850,000",
     "awards": [
       {
         "season": "Total",
@@ -16619,6 +16654,11 @@
         "date": "10/8/2011",
         "action": "Drafted by St. John's with pick #9 of round 9 of the creation draft.",
         "rowClass": "row1"
+      },
+      {
+        "date": "2012-07-23",
+        "action": "Signed with Indiana for $1,850,000 over one year.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "C-",
@@ -16642,9 +16682,9 @@
     "greed": "77",
     "playForWinner": "53",
     "loyalty": "52",
-    "happiness": "40",
-    "lastTeamId": "roster26",
-    "lastTeam": "St. John's",
+    "happiness": "65",
+    "lastTeamId": "roster16",
+    "lastTeam": "Indiana",
     "potentials": {
       "Ins": "D",
       "Jps": "D",
@@ -16664,8 +16704,8 @@
     "contracts": [
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 1850000.0,
+        "salaryText": "$1,850,000"
       },
       {
         "year": "2013",
@@ -19065,17 +19105,17 @@
     "playerId": "player119",
     "name": "Cliff Henderson",
     "url": "../players/player119.htm",
-    "team": "FA",
-    "teamLabel": "FA",
+    "team": "roster9",
+    "teamLabel": "Auburn",
     "pos": "C",
     "age": "32",
     "ht": "7-0",
     "wt": "230",
     "experience": "14 years",
-    "birdYears": 6,
+    "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 5385371.0,
+    "currentSalaryText": "$5,385,371",
     "awards": [
       {
         "season": "Total",
@@ -19102,6 +19142,11 @@
         "date": "10/8/2011",
         "action": "Drafted by Philadelphia with pick #9 of round 4 of the creation draft.",
         "rowClass": "row1"
+      },
+      {
+        "date": "2012-07-23",
+        "action": "Signed with Auburn for $11,040,011 over 2 years.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "C-",
@@ -19125,9 +19170,9 @@
     "greed": "0",
     "playForWinner": "14",
     "loyalty": "92",
-    "happiness": "69",
-    "lastTeamId": "roster27",
-    "lastTeam": "Philadelphia",
+    "happiness": "65",
+    "lastTeamId": "roster9",
+    "lastTeam": "Auburn",
     "potentials": {
       "Ins": "D",
       "Jps": "D",
@@ -19147,13 +19192,13 @@
     "contracts": [
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 5385371.0,
+        "salaryText": "$5,385,371"
       },
       {
         "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 5654640.0,
+        "salaryText": "$5,654,640"
       },
       {
         "year": "2014",
@@ -19191,17 +19236,17 @@
     "playerId": "player403",
     "name": "Clinton Conroy",
     "url": "../players/player403.htm",
-    "team": "FA",
-    "teamLabel": "FA",
+    "team": "roster32",
+    "teamLabel": "Toronto",
     "pos": "SF",
     "age": "22",
     "ht": "6-6",
     "wt": "182",
     "experience": "2 years",
-    "birdYears": 2,
+    "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 8400000.0,
+    "currentSalaryText": "$8,400,000",
     "awards": [
       {
         "season": "Total",
@@ -19228,6 +19273,11 @@
         "date": "10/8/2011",
         "action": "Drafted by Miami with pick #16 of round 4 of the creation draft.",
         "rowClass": "row1"
+      },
+      {
+        "date": "2012-07-24",
+        "action": "Signed with Toronto for $25,704,000 over 3 years.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "D",
@@ -19251,9 +19301,9 @@
     "greed": "13",
     "playForWinner": "90",
     "loyalty": "65",
-    "happiness": "34",
-    "lastTeamId": "roster20",
-    "lastTeam": "Miami",
+    "happiness": "65",
+    "lastTeamId": "roster32",
+    "lastTeam": "Toronto",
     "potentials": {
       "Ins": "D",
       "Jps": "B",
@@ -19273,18 +19323,18 @@
     "contracts": [
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 8400000.0,
+        "salaryText": "$8,400,000"
       },
       {
         "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 8568000.0,
+        "salaryText": "$8,568,000"
       },
       {
         "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 8736000.0,
+        "salaryText": "$8,736,000"
       },
       {
         "year": "2015",
@@ -19320,7 +19370,7 @@
     "team": "roster23",
     "teamLabel": "New Orleans",
     "pos": "PG",
-    "age": "18",
+    "age": "19",
     "ht": "6-5",
     "wt": "215",
     "experience": "1 year",
@@ -19806,17 +19856,17 @@
     "playerId": "player422",
     "name": "Conrad Mills",
     "url": "../players/player422.htm",
-    "team": "FA",
-    "teamLabel": "FA",
+    "team": "roster12",
+    "teamLabel": "Denver",
     "pos": "SG",
     "age": "29",
     "ht": "6-5",
     "wt": "206",
     "experience": "7 years",
-    "birdYears": 2,
+    "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 8000000.0,
+    "currentSalaryText": "$8,000,000",
     "awards": [
       {
         "season": "Total",
@@ -19856,6 +19906,11 @@
         "date": "10/8/2011",
         "action": "Drafted by New Orleans with pick #10 of round 4 of the creation draft.",
         "rowClass": "row1"
+      },
+      {
+        "date": "2012-07-25",
+        "action": "Signed with Denver for $16,400,000 over 2 years.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "D+",
@@ -19879,9 +19934,9 @@
     "greed": "44",
     "playForWinner": "3",
     "loyalty": "89",
-    "happiness": "90",
-    "lastTeamId": "roster23",
-    "lastTeam": "New Orleans",
+    "happiness": "65",
+    "lastTeamId": "roster12",
+    "lastTeam": "Denver",
     "potentials": {
       "Ins": "D",
       "Jps": "B",
@@ -19901,13 +19956,13 @@
     "contracts": [
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 8000000.0,
+        "salaryText": "$8,000,000"
       },
       {
         "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 8400000.0,
+        "salaryText": "$8,400,000"
       },
       {
         "year": "2014",
@@ -24964,8 +25019,8 @@
     "playerId": "player461",
     "name": "David Conte",
     "url": "../players/player461.htm",
-    "team": "FA",
-    "teamLabel": "FA",
+    "team": "roster8",
+    "teamLabel": "Charlotte",
     "pos": "PG",
     "age": "25",
     "ht": "5-9",
@@ -24973,8 +25028,8 @@
     "experience": "4 years",
     "birdYears": 4,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 1410000.0,
+    "currentSalaryText": "$1,410,000",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
@@ -24983,6 +25038,11 @@
         "date": "10/8/2011",
         "action": "Drafted by Charlotte with pick #21 of round 8 of the creation draft.",
         "rowClass": "row1"
+      },
+      {
+        "date": "2012-07-24",
+        "action": "Re-signed with Charlotte for $1,410,000 over one year.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "D+",
@@ -25006,7 +25066,7 @@
     "greed": "8",
     "playForWinner": "11",
     "loyalty": "99",
-    "happiness": "2",
+    "happiness": "65",
     "lastTeamId": "roster8",
     "lastTeam": "Charlotte",
     "potentials": {
@@ -25028,8 +25088,8 @@
     "contracts": [
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 1410000.0,
+        "salaryText": "$1,410,000"
       },
       {
         "year": "2013",
@@ -28052,7 +28112,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "SF",
-    "age": "26",
+    "age": "27",
     "ht": "6-6",
     "wt": "205",
     "experience": "Rookie",
@@ -28984,8 +29044,8 @@
     "playerId": "player558",
     "name": "Dudley Wagstaff",
     "url": "../players/player558.htm",
-    "team": "FA",
-    "teamLabel": "FA",
+    "team": "roster9",
+    "teamLabel": "Auburn",
     "pos": "PG",
     "age": "30",
     "ht": "6-2",
@@ -28993,8 +29053,8 @@
     "experience": "9 years",
     "birdYears": 3,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 3000000.0,
+    "currentSalaryText": "$3,000,000",
     "awards": [
       {
         "season": "Total",
@@ -29021,6 +29081,11 @@
         "date": "10/8/2011",
         "action": "Drafted by Chicago with pick #7 of round 6 of the creation draft.",
         "rowClass": "row1"
+      },
+      {
+        "date": "2012-07-26",
+        "action": "Re-signed with Auburn for $6,180,000 over 2 years.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "C",
@@ -29044,7 +29109,7 @@
     "greed": "96",
     "playForWinner": "50",
     "loyalty": "96",
-    "happiness": "2",
+    "happiness": "65",
     "lastTeamId": "roster9",
     "lastTeam": "Auburn",
     "potentials": {
@@ -29066,13 +29131,13 @@
     "contracts": [
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 3000000.0,
+        "salaryText": "$3,000,000"
       },
       {
         "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 3180000.0,
+        "salaryText": "$3,180,000"
       },
       {
         "year": "2014",
@@ -29856,17 +29921,17 @@
     "playerId": "player202",
     "name": "Edmundo Sotomayor",
     "url": "../players/player202.htm",
-    "team": "FA",
-    "teamLabel": "FA",
+    "team": "roster30",
+    "teamLabel": "Sacramento",
     "pos": "PF",
     "age": "32",
     "ht": "6-9",
     "wt": "227",
     "experience": "13 years",
-    "birdYears": 2,
+    "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 2380000.0,
+    "currentSalaryText": "$2,380,000",
     "awards": [
       {
         "season": "Total",
@@ -29922,6 +29987,11 @@
         "date": "10/8/2011",
         "action": "Drafted by Toronto with pick #8 of round 4 of the creation draft.",
         "rowClass": "row1"
+      },
+      {
+        "date": "2012-07-24",
+        "action": "Signed with Sacramento for $2,380,000 over one year.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "F+",
@@ -29945,9 +30015,9 @@
     "greed": "82",
     "playForWinner": "76",
     "loyalty": "34",
-    "happiness": "21",
-    "lastTeamId": "roster32",
-    "lastTeam": "Toronto",
+    "happiness": "65",
+    "lastTeamId": "roster30",
+    "lastTeam": "Sacramento",
     "potentials": {
       "Ins": "F",
       "Jps": "C",
@@ -29967,8 +30037,8 @@
     "contracts": [
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 2380000.0,
+        "salaryText": "$2,380,000"
       },
       {
         "year": "2013",
@@ -35617,8 +35687,8 @@
     "playerId": "player377",
     "name": "Gary Reyes",
     "url": "../players/player377.htm",
-    "team": "FA",
-    "teamLabel": "FA",
+    "team": "roster5",
+    "teamLabel": "Atlanta",
     "pos": "SG",
     "age": "41",
     "ht": "6-5",
@@ -35626,8 +35696,8 @@
     "experience": "21 years",
     "birdYears": 5,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 6778800.0,
+    "currentSalaryText": "$6,778,800",
     "awards": [
       {
         "season": "Total",
@@ -35654,6 +35724,11 @@
         "date": "10/8/2011",
         "action": "Drafted by Atlanta with pick #14 of round 4 of the creation draft.",
         "rowClass": "row1"
+      },
+      {
+        "date": "2012-07-24",
+        "action": "Re-signed with Atlanta for $13,760,964 over 2 years.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "C",
@@ -35677,7 +35752,7 @@
     "greed": "88",
     "playForWinner": "21",
     "loyalty": "33",
-    "happiness": "74",
+    "happiness": "65",
     "lastTeamId": "roster5",
     "lastTeam": "Atlanta",
     "potentials": {
@@ -35699,13 +35774,13 @@
     "contracts": [
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 6778800.0,
+        "salaryText": "$6,778,800"
       },
       {
         "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 6982164.0,
+        "salaryText": "$6,982,164"
       },
       {
         "year": "2014",
@@ -41935,7 +42010,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "SG",
-    "age": "31",
+    "age": "32",
     "ht": "6-7",
     "wt": "212",
     "experience": "12 years",
@@ -43248,17 +43323,17 @@
     "playerId": "player502",
     "name": "Jake Brown",
     "url": "../players/player502.htm",
-    "team": "FA",
-    "teamLabel": "FA",
+    "team": "roster5",
+    "teamLabel": "Atlanta",
     "pos": "PG",
     "age": "31",
     "ht": "6-2",
     "wt": "172",
     "experience": "8 years",
-    "birdYears": 2,
+    "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 2000000.0,
+    "currentSalaryText": "$2,000,000",
     "awards": [
       {
         "season": "Total",
@@ -43285,6 +43360,11 @@
         "date": "10/8/2011",
         "action": "Drafted by Washington with pick #30 of round 4 of the creation draft.",
         "rowClass": "row1"
+      },
+      {
+        "date": "2012-07-28",
+        "action": "Signed with Atlanta for $2,000,000 over one year.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "D+",
@@ -43308,9 +43388,9 @@
     "greed": "24",
     "playForWinner": "74",
     "loyalty": "8",
-    "happiness": "28",
-    "lastTeamId": "roster34",
-    "lastTeam": "Washington",
+    "happiness": "65",
+    "lastTeamId": "roster5",
+    "lastTeam": "Atlanta",
     "potentials": {
       "Ins": "D",
       "Jps": "B",
@@ -43330,8 +43410,8 @@
     "contracts": [
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 2000000.0,
+        "salaryText": "$2,000,000"
       },
       {
         "year": "2013",
@@ -43929,8 +44009,8 @@
     "playerId": "player1463",
     "name": "James Conway",
     "url": "../players/player1463.htm",
-    "team": "FA",
-    "teamLabel": "FA",
+    "team": "roster11",
+    "teamLabel": "Tokyo",
     "pos": "SG",
     "age": "20",
     "ht": "6-5",
@@ -43938,12 +44018,18 @@
     "experience": "Rookie",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 760000.0,
+    "currentSalaryText": "$760,000",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
-    "transactions": [],
+    "transactions": [
+      {
+        "date": "2012-07-24",
+        "action": "Signed with Tokyo for $760,000 over one year.",
+        "rowClass": "row1"
+      }
+    ],
     "Ins": "F-",
     "Jps": "C",
     "Fts": "C+",
@@ -43965,9 +44051,9 @@
     "greed": "67",
     "playForWinner": "22",
     "loyalty": "79",
-    "happiness": "33",
-    "lastTeamId": "",
-    "lastTeam": "",
+    "happiness": "65",
+    "lastTeamId": "roster11",
+    "lastTeam": "Tokyo",
     "potentials": {
       "Ins": "F",
       "Jps": "B",
@@ -43987,8 +44073,8 @@
     "contracts": [
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 760000.0,
+        "salaryText": "$760,000"
       },
       {
         "year": "2013",
@@ -46227,8 +46313,8 @@
     "playForWinner": "34",
     "loyalty": "81",
     "happiness": "61",
-    "lastTeamId": "",
-    "lastTeam": "DAL",
+    "lastTeamId": "roster11",
+    "lastTeam": "Tokyo",
     "potentials": {
       "Ins": "D",
       "Jps": "F",
@@ -52380,17 +52466,17 @@
     "playerId": "player216",
     "name": "Joseph Barry",
     "url": "../players/player216.htm",
-    "team": "FA",
-    "teamLabel": "FA",
+    "team": "roster11",
+    "teamLabel": "Tokyo",
     "pos": "C",
     "age": "20",
     "ht": "6-10",
     "wt": "243",
     "experience": "2 years",
-    "birdYears": 2,
+    "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 5000000.0,
+    "currentSalaryText": "$5,000,000",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
@@ -52399,6 +52485,11 @@
         "date": "10/8/2011",
         "action": "Drafted by Minnesota with pick #6 of round 4 of the creation draft.",
         "rowClass": "row1"
+      },
+      {
+        "date": "2012-07-23",
+        "action": "Signed with Tokyo for $15,000,000 over 3 years.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "C-",
@@ -52422,9 +52513,9 @@
     "greed": "73",
     "playForWinner": "98",
     "loyalty": "12",
-    "happiness": "2",
-    "lastTeamId": "roster22",
-    "lastTeam": "Minnesota",
+    "happiness": "65",
+    "lastTeamId": "roster11",
+    "lastTeam": "Tokyo",
     "potentials": {
       "Ins": "C",
       "Jps": "D",
@@ -52444,18 +52535,18 @@
     "contracts": [
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 5000000.0,
+        "salaryText": "$5,000,000"
       },
       {
         "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 5000000.0,
+        "salaryText": "$5,000,000"
       },
       {
         "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 5000000.0,
+        "salaryText": "$5,000,000"
       },
       {
         "year": "2015",
@@ -52732,17 +52823,17 @@
     "playerId": "player519",
     "name": "Joseph Kinsey",
     "url": "../players/player519.htm",
-    "team": "FA",
-    "teamLabel": "FA",
+    "team": "roster5",
+    "teamLabel": "Atlanta",
     "pos": "PG",
     "age": "27",
     "ht": "6-3",
     "wt": "184",
     "experience": "5 years",
-    "birdYears": 5,
+    "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 9720000.0,
+    "currentSalaryText": "$9,720,000",
     "awards": [
       {
         "season": "Total",
@@ -52798,6 +52889,11 @@
         "date": "10/8/2011",
         "action": "Drafted by Denver with pick #2 of round 5 of the creation draft.",
         "rowClass": "row1"
+      },
+      {
+        "date": "2012-07-24",
+        "action": "Signed with Atlanta for $30,034,800 over 3 years.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "C",
@@ -52821,9 +52917,9 @@
     "greed": "90",
     "playForWinner": "83",
     "loyalty": "79",
-    "happiness": "9",
-    "lastTeamId": "roster12",
-    "lastTeam": "Denver",
+    "happiness": "65",
+    "lastTeamId": "roster5",
+    "lastTeam": "Atlanta",
     "potentials": {
       "Ins": "C",
       "Jps": "C",
@@ -52843,18 +52939,18 @@
     "contracts": [
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 9720000.0,
+        "salaryText": "$9,720,000"
       },
       {
         "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 10011600.0,
+        "salaryText": "$10,011,600"
       },
       {
         "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 10303200.0,
+        "salaryText": "$10,303,200"
       },
       {
         "year": "2015",
@@ -56383,8 +56479,8 @@
     "playerId": "player707",
     "name": "Lauren King",
     "url": "../players/player707.htm",
-    "team": "FA",
-    "teamLabel": "FA",
+    "team": "roster11",
+    "teamLabel": "Tokyo",
     "pos": "PF",
     "age": "20",
     "ht": "6-7",
@@ -56392,8 +56488,8 @@
     "experience": "1 year",
     "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 1110000.0,
+    "currentSalaryText": "$1,110,000",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
@@ -56412,6 +56508,11 @@
         "date": "2011-11-01",
         "action": "Released by Tokyo",
         "rowClass": "row1"
+      },
+      {
+        "date": "2012-07-25",
+        "action": "Signed with Tokyo for $1,110,000 over one year.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "F-",
@@ -56435,9 +56536,9 @@
     "greed": "34",
     "playForWinner": "73",
     "loyalty": "42",
-    "happiness": "60",
-    "lastTeamId": "",
-    "lastTeam": "DAL",
+    "happiness": "65",
+    "lastTeamId": "roster11",
+    "lastTeam": "Tokyo",
     "potentials": {
       "Ins": "F",
       "Jps": "D",
@@ -56457,8 +56558,8 @@
     "contracts": [
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 1110000.0,
+        "salaryText": "$1,110,000"
       },
       {
         "year": "2013",
@@ -57084,17 +57185,17 @@
     "playerId": "player164",
     "name": "Leo Petty",
     "url": "../players/player164.htm",
-    "team": "FA",
-    "teamLabel": "FA",
+    "team": "roster16",
+    "teamLabel": "Indiana",
     "pos": "C",
     "age": "31",
     "ht": "6-9",
     "wt": "251",
     "experience": "12 years",
-    "birdYears": 4,
+    "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 2380000.0,
+    "currentSalaryText": "$2,380,000",
     "awards": [
       {
         "season": "Total",
@@ -57150,6 +57251,11 @@
         "date": "10/8/2011",
         "action": "Drafted by Denver with pick #29 of round 6 of the creation draft.",
         "rowClass": "row1"
+      },
+      {
+        "date": "2012-07-25",
+        "action": "Signed with Indiana for $2,380,000 over one year.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "C",
@@ -57173,9 +57279,9 @@
     "greed": "56",
     "playForWinner": "77",
     "loyalty": "95",
-    "happiness": "51",
-    "lastTeamId": "roster12",
-    "lastTeam": "Denver",
+    "happiness": "65",
+    "lastTeamId": "roster16",
+    "lastTeam": "Indiana",
     "potentials": {
       "Ins": "D",
       "Jps": "C",
@@ -57195,8 +57301,8 @@
     "contracts": [
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 2380000.0,
+        "salaryText": "$2,380,000"
       },
       {
         "year": "2013",
@@ -59666,17 +59772,17 @@
     "playerId": "player242",
     "name": "Marcelino Bernaldez",
     "url": "../players/player242.htm",
-    "team": "FA",
-    "teamLabel": "FA",
+    "team": "roster11",
+    "teamLabel": "Tokyo",
     "pos": "C",
     "age": "21",
     "ht": "6-9",
     "wt": "243",
     "experience": "2 years",
-    "birdYears": 2,
+    "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 1290000.0,
+    "currentSalaryText": "$1,290,000",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
@@ -59685,6 +59791,11 @@
         "date": "10/8/2011",
         "action": "Drafted by Charlotte with pick #10 of round 9 of the creation draft.",
         "rowClass": "row1"
+      },
+      {
+        "date": "2012-07-24",
+        "action": "Signed with Tokyo for $1,290,000 over one year.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "C",
@@ -59708,9 +59819,9 @@
     "greed": "66",
     "playForWinner": "79",
     "loyalty": "82",
-    "happiness": "2",
-    "lastTeamId": "roster8",
-    "lastTeam": "Charlotte",
+    "happiness": "65",
+    "lastTeamId": "roster11",
+    "lastTeam": "Tokyo",
     "potentials": {
       "Ins": "C",
       "Jps": "D",
@@ -59730,8 +59841,8 @@
     "contracts": [
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 1290000.0,
+        "salaryText": "$1,290,000"
       },
       {
         "year": "2013",
@@ -65358,17 +65469,17 @@
     "playerId": "player244",
     "name": "Nolan Davis",
     "url": "../players/player244.htm",
-    "team": "FA",
-    "teamLabel": "FA",
+    "team": "roster32",
+    "teamLabel": "Toronto",
     "pos": "PF",
     "age": "22",
     "ht": "6-9",
     "wt": "225",
     "experience": "2 years",
-    "birdYears": 2,
+    "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 11200000.0,
+    "currentSalaryText": "$11,200,000",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
@@ -65377,6 +65488,11 @@
         "date": "10/8/2011",
         "action": "Drafted by Los Angeles (LAC) with pick #25 of round 4 of the creation draft.",
         "rowClass": "row1"
+      },
+      {
+        "date": "2012-07-25",
+        "action": "Signed with Toronto for $46,144,000 over 4 years.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "C-",
@@ -65400,9 +65516,9 @@
     "greed": "13",
     "playForWinner": "85",
     "loyalty": "75",
-    "happiness": "70",
-    "lastTeamId": "roster17",
-    "lastTeam": "Los Angeles (LAC)",
+    "happiness": "65",
+    "lastTeamId": "roster32",
+    "lastTeam": "Toronto",
     "potentials": {
       "Ins": "C",
       "Jps": "C",
@@ -65422,23 +65538,23 @@
     "contracts": [
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 11200000.0,
+        "salaryText": "$11,200,000"
       },
       {
         "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 11424000.0,
+        "salaryText": "$11,424,000"
       },
       {
         "year": "2014",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 11648000.0,
+        "salaryText": "$11,648,000"
       },
       {
         "year": "2015",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 11872000.0,
+        "salaryText": "$11,872,000"
       },
       {
         "year": "2016",
@@ -67877,17 +67993,17 @@
     "playerId": "player68",
     "name": "Phil Tollefson",
     "url": "../players/player68.htm",
-    "team": "FA",
-    "teamLabel": "FA",
+    "team": "roster7",
+    "teamLabel": "New Jersey",
     "pos": "C",
     "age": "31",
     "ht": "7-2",
     "wt": "238",
     "experience": "10 years",
-    "birdYears": 8,
+    "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 2380000.0,
+    "currentSalaryText": "$2,380,000",
     "awards": [
       {
         "season": "Total",
@@ -67914,6 +68030,11 @@
         "date": "10/8/2011",
         "action": "Drafted by Miami with pick #15 of round 5 of the creation draft.",
         "rowClass": "row1"
+      },
+      {
+        "date": "2012-07-25",
+        "action": "Signed with New Jersey for $2,380,000 over one year.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "C-",
@@ -67937,9 +68058,9 @@
     "greed": "50",
     "playForWinner": "32",
     "loyalty": "28",
-    "happiness": "4",
-    "lastTeamId": "roster20",
-    "lastTeam": "Miami",
+    "happiness": "65",
+    "lastTeamId": "roster7",
+    "lastTeam": "New Jersey",
     "potentials": {
       "Ins": "D",
       "Jps": "C",
@@ -67959,8 +68080,8 @@
     "contracts": [
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 2380000.0,
+        "salaryText": "$2,380,000"
       },
       {
         "year": "2013",
@@ -70397,17 +70518,17 @@
     "playerId": "player317",
     "name": "Reynaldo Oliva",
     "url": "../players/player317.htm",
-    "team": "FA",
-    "teamLabel": "FA",
+    "team": "roster5",
+    "teamLabel": "Atlanta",
     "pos": "SF",
     "age": "26",
     "ht": "6-5",
     "wt": "234",
     "experience": "8 years",
-    "birdYears": 2,
+    "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 2000000.0,
+    "currentSalaryText": "$2,000,000",
     "awards": [
       {
         "season": "Total",
@@ -70434,6 +70555,11 @@
         "date": "10/8/2011",
         "action": "Drafted by Los Angeles (LAL) with pick #19 of round 4 of the creation draft.",
         "rowClass": "row1"
+      },
+      {
+        "date": "2012-07-25",
+        "action": "Signed with Atlanta for $2,000,000 over one year.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "C-",
@@ -70457,9 +70583,9 @@
     "greed": "52",
     "playForWinner": "96",
     "loyalty": "19",
-    "happiness": "3",
-    "lastTeamId": "roster18",
-    "lastTeam": "Los Angeles (LAL)",
+    "happiness": "65",
+    "lastTeamId": "roster5",
+    "lastTeam": "Atlanta",
     "potentials": {
       "Ins": "D",
       "Jps": "B",
@@ -70479,8 +70605,8 @@
     "contracts": [
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 2000000.0,
+        "salaryText": "$2,000,000"
       },
       {
         "year": "2013",
@@ -70841,8 +70967,8 @@
     "playerId": "player138",
     "name": "Richard Houck",
     "url": "../players/player138.htm",
-    "team": "FA",
-    "teamLabel": "FA",
+    "team": "roster11",
+    "teamLabel": "Tokyo",
     "pos": "C",
     "age": "25",
     "ht": "7-0",
@@ -70850,8 +70976,8 @@
     "experience": "3 years",
     "birdYears": 4,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 3000000.0,
+    "currentSalaryText": "$3,000,000",
     "awards": [],
     "achievementTotals": [],
     "seasonAwards": [],
@@ -70860,6 +70986,11 @@
         "date": "10/8/2011",
         "action": "Drafted by San Diego with pick #5 of round 7 of the creation draft.",
         "rowClass": "row1"
+      },
+      {
+        "date": "2012-07-23",
+        "action": "Re-signed with Tokyo for $6,000,000 over 2 years.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "D",
@@ -70883,9 +71014,9 @@
     "greed": "65",
     "playForWinner": "43",
     "loyalty": "65",
-    "happiness": "14",
-    "lastTeamId": "",
-    "lastTeam": "DAL",
+    "happiness": "65",
+    "lastTeamId": "roster11",
+    "lastTeam": "Tokyo",
     "potentials": {
       "Ins": "D",
       "Jps": "C",
@@ -70905,13 +71036,13 @@
     "contracts": [
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 3000000.0,
+        "salaryText": "$3,000,000"
       },
       {
         "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 3000000.0,
+        "salaryText": "$3,000,000"
       },
       {
         "year": "2014",
@@ -71439,7 +71570,7 @@
     "team": "FA",
     "teamLabel": "FA",
     "pos": "SG",
-    "age": "27",
+    "age": "28",
     "ht": "6-5",
     "wt": "200",
     "experience": "Rookie",
@@ -73178,8 +73309,8 @@
     "playForWinner": "37",
     "loyalty": "8",
     "happiness": "10",
-    "lastTeamId": "",
-    "lastTeam": "DAL",
+    "lastTeamId": "roster11",
+    "lastTeam": "Tokyo",
     "potentials": {
       "Ins": "D",
       "Jps": "D",
@@ -75375,8 +75506,8 @@
     "playForWinner": "6",
     "loyalty": "46",
     "happiness": "45",
-    "lastTeamId": "",
-    "lastTeam": "DAL",
+    "lastTeamId": "roster11",
+    "lastTeam": "Tokyo",
     "potentials": {
       "Ins": "D",
       "Jps": "C",
@@ -75488,8 +75619,8 @@
     "playForWinner": "11",
     "loyalty": "68",
     "happiness": "2",
-    "lastTeamId": "",
-    "lastTeam": "DAL",
+    "lastTeamId": "roster11",
+    "lastTeam": "Tokyo",
     "potentials": {
       "Ins": "D",
       "Jps": "C",
@@ -76476,8 +76607,8 @@
     "playForWinner": "94",
     "loyalty": "1",
     "happiness": "34",
-    "lastTeamId": "",
-    "lastTeam": "DAL",
+    "lastTeamId": "roster11",
+    "lastTeam": "Tokyo",
     "potentials": {
       "Ins": "D",
       "Jps": "B",
@@ -77019,8 +77150,8 @@
     "playerId": "player456",
     "name": "Simon Pierce",
     "url": "../players/player456.htm",
-    "team": "FA",
-    "teamLabel": "FA",
+    "team": "roster9",
+    "teamLabel": "Auburn",
     "pos": "SF",
     "age": "28",
     "ht": "6-5",
@@ -77028,8 +77159,8 @@
     "experience": "6 years",
     "birdYears": 2,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 1710000.0,
+    "currentSalaryText": "$1,710,000",
     "awards": [
       {
         "season": "Total",
@@ -77056,6 +77187,11 @@
         "date": "10/8/2011",
         "action": "Drafted by Chicago with pick #24 of round 5 of the creation draft.",
         "rowClass": "row1"
+      },
+      {
+        "date": "2012-07-26",
+        "action": "Re-signed with Auburn for $1,710,000 over one year.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "C",
@@ -77079,7 +77215,7 @@
     "greed": "26",
     "playForWinner": "23",
     "loyalty": "28",
-    "happiness": "2",
+    "happiness": "65",
     "lastTeamId": "roster9",
     "lastTeam": "Auburn",
     "potentials": {
@@ -77101,8 +77237,8 @@
     "contracts": [
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 1710000.0,
+        "salaryText": "$1,710,000"
       },
       {
         "year": "2013",
@@ -77583,17 +77719,17 @@
     "playerId": "player528",
     "name": "Stephen Beery",
     "url": "../players/player528.htm",
-    "team": "FA",
-    "teamLabel": "FA",
+    "team": "roster5",
+    "teamLabel": "Atlanta",
     "pos": "PG",
-    "age": "37",
+    "age": "38",
     "ht": "5-11",
     "wt": "206",
     "experience": "17 years",
     "birdYears": 8,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 2380000.0,
+    "currentSalaryText": "$2,380,000",
     "awards": [
       {
         "season": "Total",
@@ -77620,6 +77756,11 @@
         "date": "10/8/2011",
         "action": "Drafted by Atlanta with pick #17 of round 5 of the creation draft.",
         "rowClass": "row1"
+      },
+      {
+        "date": "2012-07-25",
+        "action": "Re-signed with Atlanta for $2,380,000 over one year.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "C-",
@@ -77643,7 +77784,7 @@
     "greed": "14",
     "playForWinner": "11",
     "loyalty": "6",
-    "happiness": "71",
+    "happiness": "65",
     "lastTeamId": "roster5",
     "lastTeam": "Atlanta",
     "potentials": {
@@ -77665,8 +77806,8 @@
     "contracts": [
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 2380000.0,
+        "salaryText": "$2,380,000"
       },
       {
         "year": "2013",
@@ -81344,17 +81485,17 @@
     "playerId": "player479",
     "name": "Timothy Miller",
     "url": "../players/player479.htm",
-    "team": "FA",
-    "teamLabel": "FA",
+    "team": "roster5",
+    "teamLabel": "Atlanta",
     "pos": "PG",
     "age": "33",
     "ht": "5-9",
     "wt": "211",
     "experience": "13 years",
-    "birdYears": 1,
+    "birdYears": 0,
     "source": "player_page",
-    "currentSalary": 0.0,
-    "currentSalaryText": "$0",
+    "currentSalary": 5000000.0,
+    "currentSalaryText": "$5,000,000",
     "awards": [
       {
         "season": "Total",
@@ -81381,6 +81522,11 @@
         "date": "2011-08-01",
         "action": "Signed with Sacramento for $2,380,000 over one year.",
         "rowClass": "row1"
+      },
+      {
+        "date": "2012-07-24",
+        "action": "Signed with Atlanta for $10,100,000 over 2 years.",
+        "rowClass": "row2"
       }
     ],
     "Ins": "C",
@@ -81404,9 +81550,9 @@
     "greed": "1",
     "playForWinner": "36",
     "loyalty": "96",
-    "happiness": "44",
-    "lastTeamId": "roster30",
-    "lastTeam": "Sacramento",
+    "happiness": "65",
+    "lastTeamId": "roster5",
+    "lastTeam": "Atlanta",
     "potentials": {
       "Ins": "C",
       "Jps": "B",
@@ -81426,13 +81572,13 @@
     "contracts": [
       {
         "year": "2012",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 5000000.0,
+        "salaryText": "$5,000,000"
       },
       {
         "year": "2013",
-        "salary": 0.0,
-        "salaryText": "$0"
+        "salary": 5100000.0,
+        "salaryText": "$5,100,000"
       },
       {
         "year": "2014",
