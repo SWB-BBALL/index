@@ -9,22 +9,8 @@
       "url": "../players/player258.htm",
       "pos": "PF",
       "age": "36",
-      "overall": "123",
-      "potential": "123"
-    }
-  },
-  {
-    "id": "roster9",
-    "name": "Auburn",
-    "file": "roster9.htm",
-    "url": "../rosters/roster9.htm",
-    "starPlayer": {
-      "name": "Charles George",
-      "url": "../players/player112.htm",
-      "pos": "C",
-      "age": "26",
-      "overall": "138",
-      "potential": "138"
+      "overall": "135",
+      "potential": "135"
     }
   },
   {
@@ -37,7 +23,7 @@
       "url": "../players/player207.htm",
       "pos": "PF",
       "age": "22",
-      "overall": "124",
+      "overall": "116",
       "potential": "130"
     }
   },
@@ -51,8 +37,22 @@
       "url": "../players/player556.htm",
       "pos": "PG",
       "age": "26",
-      "overall": "128",
-      "potential": "128"
+      "overall": "139",
+      "potential": "143"
+    }
+  },
+  {
+    "id": "roster9",
+    "name": "Chicago",
+    "file": "roster9.htm",
+    "url": "../rosters/roster9.htm",
+    "starPlayer": {
+      "name": "Charles George",
+      "url": "../players/player112.htm",
+      "pos": "C",
+      "age": "26",
+      "overall": "137",
+      "potential": "137"
     }
   },
   {
@@ -64,9 +64,23 @@
       "name": "Daren Williams",
       "url": "../players/player289.htm",
       "pos": "PF",
-      "age": "27",
-      "overall": "148",
+      "age": "26",
+      "overall": "140",
       "potential": "155"
+    }
+  },
+  {
+    "id": "roster11",
+    "name": "Dallas",
+    "file": "roster11.htm",
+    "url": "../rosters/roster11.htm",
+    "starPlayer": {
+      "name": "Marcos Martinez",
+      "url": "../players/player363.htm",
+      "pos": "SG",
+      "age": "36",
+      "overall": "108",
+      "potential": "108"
     }
   },
   {
@@ -78,9 +92,9 @@
       "name": "Emmett Paine",
       "url": "../players/player507.htm",
       "pos": "PG",
-      "age": "32",
-      "overall": "137",
-      "potential": "137"
+      "age": "31",
+      "overall": "146",
+      "potential": "146"
     }
   },
   {
@@ -89,12 +103,12 @@
     "file": "roster13.htm",
     "url": "../rosters/roster13.htm",
     "starPlayer": {
-      "name": "Walter White",
-      "url": "../players/player718.htm",
-      "pos": "C",
-      "age": "21",
-      "overall": "100",
-      "potential": "144"
+      "name": "Corey Harrison",
+      "url": "../players/player750.htm",
+      "pos": "PF",
+      "age": "20",
+      "overall": "103",
+      "potential": "114"
     }
   },
   {
@@ -120,9 +134,9 @@
       "name": "Jose Sorrell",
       "url": "../players/player309.htm",
       "pos": "SF",
-      "age": "29",
-      "overall": "147",
-      "potential": "147"
+      "age": "28",
+      "overall": "149",
+      "potential": "149"
     }
   },
   {
@@ -135,8 +149,8 @@
       "url": "../players/player484.htm",
       "pos": "PG",
       "age": "34",
-      "overall": "127",
-      "potential": "127"
+      "overall": "136",
+      "potential": "136"
     }
   },
   {
@@ -149,8 +163,8 @@
       "url": "../players/player538.htm",
       "pos": "PG",
       "age": "32",
-      "overall": "129",
-      "potential": "129"
+      "overall": "137",
+      "potential": "137"
     }
   },
   {
@@ -176,9 +190,9 @@
       "name": "Gbadamosi Nwapa",
       "url": "../players/player459.htm",
       "pos": "SG",
-      "age": "29",
-      "overall": "137",
-      "potential": "137"
+      "age": "28",
+      "overall": "138",
+      "potential": "138"
     }
   },
   {
@@ -191,8 +205,8 @@
       "url": "../players/player503.htm",
       "pos": "PG",
       "age": "27",
-      "overall": "126",
-      "potential": "126"
+      "overall": "124",
+      "potential": "125"
     }
   },
   {
@@ -204,8 +218,8 @@
       "name": "Dana Koehler",
       "url": "../players/player382.htm",
       "pos": "SF",
-      "age": "28",
-      "overall": "139",
+      "age": "27",
+      "overall": "136",
       "potential": "140"
     }
   },
@@ -219,8 +233,8 @@
       "url": "../players/player358.htm",
       "pos": "SG",
       "age": "25",
-      "overall": "138",
-      "potential": "151"
+      "overall": "129",
+      "potential": "137"
     }
   },
   {
@@ -233,8 +247,8 @@
       "url": "../players/player63.htm",
       "pos": "C",
       "age": "24",
-      "overall": "151",
-      "potential": "154"
+      "overall": "142",
+      "potential": "153"
     }
   },
   {
@@ -247,8 +261,8 @@
       "url": "../players/player545.htm",
       "pos": "SF",
       "age": "31",
-      "overall": "132",
-      "potential": "132"
+      "overall": "139",
+      "potential": "139"
     }
   },
   {
@@ -261,8 +275,8 @@
       "url": "../players/player282.htm",
       "pos": "SG",
       "age": "26",
-      "overall": "150",
-      "potential": "154"
+      "overall": "141",
+      "potential": "153"
     }
   },
   {
@@ -275,7 +289,7 @@
       "url": "../players/player222.htm",
       "pos": "PF",
       "age": "27",
-      "overall": "136",
+      "overall": "135",
       "potential": "136"
     }
   },
@@ -288,9 +302,9 @@
       "name": "Richard Ruvalcaba",
       "url": "../players/player419.htm",
       "pos": "SG",
-      "age": "34",
-      "overall": "130",
-      "potential": "130"
+      "age": "33",
+      "overall": "135",
+      "potential": "138"
     }
   },
   {
@@ -303,8 +317,8 @@
       "url": "../players/player370.htm",
       "pos": "SG",
       "age": "31",
-      "overall": "128",
-      "potential": "128"
+      "overall": "133",
+      "potential": "133"
     }
   },
   {
@@ -316,9 +330,9 @@
       "name": "Travis Thompson",
       "url": "../players/player134.htm",
       "pos": "C",
-      "age": "31",
-      "overall": "141",
-      "potential": "141"
+      "age": "30",
+      "overall": "148",
+      "potential": "148"
     }
   },
   {
@@ -330,9 +344,9 @@
       "name": "Don Montgomery",
       "url": "../players/player328.htm",
       "pos": "SF",
-      "age": "31",
-      "overall": "126",
-      "potential": "128"
+      "age": "30",
+      "overall": "129",
+      "potential": "139"
     }
   },
   {
@@ -344,9 +358,9 @@
       "name": "Paul Moore",
       "url": "../players/player383.htm",
       "pos": "SG",
-      "age": "32",
-      "overall": "132",
-      "potential": "132"
+      "age": "31",
+      "overall": "138",
+      "potential": "138"
     }
   },
   {
@@ -358,23 +372,9 @@
       "name": "Harley Adler",
       "url": "../players/player355.htm",
       "pos": "SF",
-      "age": "25",
-      "overall": "126",
-      "potential": "126"
-    }
-  },
-  {
-    "id": "roster11",
-    "name": "Tokyo",
-    "file": "roster11.htm",
-    "url": "../rosters/roster11.htm",
-    "starPlayer": {
-      "name": "Bart Sampson",
-      "url": "../players/player1513.htm",
-      "pos": "PG",
-      "age": "18",
-      "overall": "105",
-      "potential": "138"
+      "age": "24",
+      "overall": "125",
+      "potential": "125"
     }
   },
   {
@@ -415,8 +415,8 @@
       "url": "../players/player469.htm",
       "pos": "SG",
       "age": "31",
-      "overall": "130",
-      "potential": "130"
+      "overall": "136",
+      "potential": "138"
     }
   }
 ]
