@@ -14,6 +14,20 @@
     }
   },
   {
+    "id": "roster9",
+    "name": "Auburn",
+    "file": "roster9.htm",
+    "url": "../rosters/roster9.htm",
+    "starPlayer": {
+      "name": "Charles George",
+      "url": "../players/player112.htm",
+      "pos": "C",
+      "age": "26",
+      "overall": "138",
+      "potential": "138"
+    }
+  },
+  {
     "id": "roster6",
     "name": "Boston",
     "file": "roster6.htm",
@@ -42,20 +56,6 @@
     }
   },
   {
-    "id": "roster9",
-    "name": "Chicago",
-    "file": "roster9.htm",
-    "url": "../rosters/roster9.htm",
-    "starPlayer": {
-      "name": "Charles George",
-      "url": "../players/player112.htm",
-      "pos": "C",
-      "age": "26",
-      "overall": "138",
-      "potential": "138"
-    }
-  },
-  {
     "id": "roster10",
     "name": "Cleveland",
     "file": "roster10.htm",
@@ -67,20 +67,6 @@
       "age": "27",
       "overall": "148",
       "potential": "155"
-    }
-  },
-  {
-    "id": "roster11",
-    "name": "Dallas",
-    "file": "roster11.htm",
-    "url": "../rosters/roster11.htm",
-    "starPlayer": {
-      "name": "Bart Sampson",
-      "url": "../players/player1513.htm",
-      "pos": "C",
-      "age": "19",
-      "overall": "105",
-      "potential": "138"
     }
   },
   {
@@ -149,8 +135,8 @@
       "url": "../players/player358.htm",
       "pos": "SG",
       "age": "25",
-      "overall": "138",
-      "potential": "151"
+      "overall": "139",
+      "potential": "153"
     }
   },
   {
@@ -162,7 +148,7 @@
       "name": "Stuart Ramirez",
       "url": "../players/player538.htm",
       "pos": "PG",
-      "age": "32",
+      "age": "33",
       "overall": "129",
       "potential": "129"
     }
@@ -246,7 +232,7 @@
       "name": "Daryl Parker",
       "url": "../players/player63.htm",
       "pos": "C",
-      "age": "24",
+      "age": "25",
       "overall": "152",
       "potential": "155"
     }
@@ -378,6 +364,20 @@
     }
   },
   {
+    "id": "roster11",
+    "name": "Tokyo",
+    "file": "roster11.htm",
+    "url": "../rosters/roster11.htm",
+    "starPlayer": {
+      "name": "Bart Sampson",
+      "url": "../players/player1513.htm",
+      "pos": "C",
+      "age": "19",
+      "overall": "105",
+      "potential": "138"
+    }
+  },
+  {
     "id": "roster32",
     "name": "Toronto",
     "file": "roster32.htm",
@@ -386,7 +386,7 @@
       "name": "Hrvoje Horn",
       "url": "../players/player61.htm",
       "pos": "C",
-      "age": "29",
+      "age": "30",
       "overall": "142",
       "potential": "142"
     }
@@ -413,7 +413,7 @@
     "starPlayer": {
       "name": "Kurtis Jenkins",
       "url": "../players/player469.htm",
-      "pos": "SG",
+      "pos": "PG",
       "age": "32",
       "overall": "130",
       "potential": "130"
