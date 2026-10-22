@@ -15,6 +15,29 @@ PATH can be the export's "html" folder, a folder containing it, or the .zip
 (a zip is patched in place). Safe to run repeatedly - already-patched pages
 are skipped.
 """
+
+# ===========================================================================
+#  LEAGUE SETTINGS - edit these, save, then run the batch file again
+# ===========================================================================
+
+# --- Offseason FA ---
+SPENDING_LIMIT = 100000000        # soft cap; under it a team can bid (cap - salary) on non-Bird players,
+                                  # at or over it non-Bird bids are mins only. None = use the game's cap.
+MAX_STARTING_SALARY = 25000000    # most a bid's first-year salary can be
+FA_BID_LIMITS = {1: 3, 2: 5, 3: 10}   # bids allowed in FA 1 / FA 2 / FA 3 (previous players don't count)
+MAX_YEARS_NON_BIRD = 4
+MAX_YEARS_BIRD = 5
+MAX_RAISE_NON_BIRD = 5            # max raise or cut, in %
+MAX_RAISE_BIRD = 10
+RAISE_STEP = 0.5                  # % steps in the Raise dropdown
+
+# --- Commish Corner ---
+COMMISH_MAX_PLAYERS = 15          # flag teams with MORE players than this
+COMMISH_MIN_PLAYERS = 10          # flag teams with FEWER players than this
+COMMISH_SALARY_FLAG = 140000000   # flag teams with total salary OVER this
+
+# ===========================================================================
+
 import os
 import sys
 import zipfile
@@ -235,7 +258,7 @@ def page_foot(d):
 
 
 def build_commish(d, info):
-    LIMIT = 140000000
+    LIMIT = COMMISH_SALARY_FLAG
     def money(v):
         return "$" + format(v, ",") if v is not None else "n/a"
     def link(t):
@@ -257,22 +280,22 @@ def build_commish(d, info):
         return out + "</table>\n<br>\n"
 
     season = next((i["season"] for i in info if i["season"]), "")
-    over = [i for i in info if i["count"] > 15]
-    under = [i for i in info if i["count"] < 10]
+    over = [i for i in info if i["count"] > COMMISH_MAX_PLAYERS]
+    under = [i for i in info if i["count"] < COMMISH_MIN_PLAYERS]
     rich = sorted([i for i in info if i["salary"] is not None and i["salary"] > LIMIT], key=lambda i: -i["salary"])
     red = lambda s: "<font color=#FF0000>%s</font>" % s
     body = page_head(d, "Commish Corner") + page_title("Commish Corner")
-    body += table("Teams Over 15 Players", [("&nbsp;Team", 250), ("Players", 100)],
+    body += table("Teams Over %d Players" % COMMISH_MAX_PLAYERS, [("&nbsp;Team", 250), ("Players", 100)],
                   [["&nbsp;" + link(i["team"]), red(i["count"])] for i in over])
-    body += table("Teams Under 10 Players", [("&nbsp;Team", 250), ("Players", 100)],
+    body += table("Teams Under %d Players" % COMMISH_MIN_PLAYERS, [("&nbsp;Team", 250), ("Players", 100)],
                   [["&nbsp;" + link(i["team"]), red(i["count"])] for i in under])
-    body += table("Teams Over $140,000,000 Total Salary" + (" (%s)" % season if season else ""),
+    body += table("Teams Over $%s Total Salary" % format(COMMISH_SALARY_FLAG, ",") + (" (%s)" % season if season else ""),
                   [("&nbsp;Team", 250), ("Total Salary", 150), ("Over By", 150)],
                   [["&nbsp;" + link(i["team"]), money(i["salary"]), red(money(i["salary"] - LIMIT))] for i in rich])
     allrows = []
     for i in sorted(info, key=lambda i: i["team"]["name"]):
         c = i["count"]
-        allrows.append(["&nbsp;" + link(i["team"]), red(c) if c > 15 or c < 10 else c,
+        allrows.append(["&nbsp;" + link(i["team"]), red(c) if c > COMMISH_MAX_PLAYERS or c < COMMISH_MIN_PLAYERS else c,
                         red(money(i["salary"])) if (i["salary"] or 0) > LIMIT else money(i["salary"])])
     body += table("All Teams", [("&nbsp;Team", 250), ("Players", 100), ("Total Salary", 150)], allrows)
     body += page_foot(d)
@@ -294,7 +317,12 @@ def patch_menu(d, offseason=False):
     if add:
         i = html.lower().rfind("</table>")
         html = html[:i] + add + html[i:]
-        write(path, html)
+    if "href=CommishCorner.htm" not in html:
+        pin = ('<div style="position:fixed; bottom:10px; left:11px">'
+               '<a class=menulink target=data href=CommishCorner.htm>Commish Corner</a></div>\n')
+        i = html.lower().rfind("</body>")
+        html = html[:i] + pin + html[i:]
+    write(path, html)
 
 
 def build_depth_chart(d, teams, players):
@@ -414,6 +442,9 @@ var DATA = /*DATA*/;
   try { S = JSON.parse(localStorage.getItem(KEY)); } catch (e) { S = null; }
   if (!S || !S.slots || S.slots.length !== SLOTS.length) S = blank();
   if (!S.ch) S.ch = {};
+  // teams can be removed between exports - fall back to a valid team / filter
+  if (!DATA.teams.some(function (t) { return String(t.id) === String(S.myteam); })) S.myteam = DATA.teams.length ? String(DATA.teams[0].id) : '';
+  if (S.filter !== 'ALL' && S.filter !== 'FA' && !DATA.teams.some(function (t) { return String(t.id) === String(S.filter); })) S.filter = 'ALL';
   S.slots.forEach(function (s) { if (!Array.isArray(s.pos)) s.pos = s.pos ? [s.pos] : []; });
   function save() { try { localStorage.setItem(KEY, JSON.stringify(S)); } catch (e) {} }
 
@@ -640,12 +671,6 @@ def previous_team(d, player_id, teams):
     return last
 
 
-# Offseason FA soft cap. Teams under it can bid up to (cap - current salary) on
-# non-Bird players; teams at or over it can only make min offers to non-Bird players.
-# Set to None to use the game's salary cap from the Cap Report instead.
-SPENDING_LIMIT = 100000000
-
-
 def build_offseason_fa(d, teams, players):
     fas = []
     for p in players:
@@ -656,7 +681,9 @@ def build_offseason_fa(d, teams, players):
     if SPENDING_LIMIT:
         for t in teams:
             t["cap"] = SPENDING_LIMIT
-    data = json.dumps({"teams": teams, "fas": fas, "attrs": ATTRS}, separators=(",", ":")).replace("</", "<\\/")
+    rules = {"limits": {str(k): v for k, v in FA_BID_LIMITS.items()}, "maxSal": MAX_STARTING_SALARY,
+             "yrs": [MAX_YEARS_NON_BIRD, MAX_YEARS_BIRD], "raise": [MAX_RAISE_NON_BIRD, MAX_RAISE_BIRD], "step": RAISE_STEP}
+    data = json.dumps({"teams": teams, "fas": fas, "attrs": ATTRS, "rules": rules}, separators=(",", ":")).replace("</", "<\\/")
     sort_js = SCRIPT.replace(MARKER, "")
     body = page_head(d, "Offseason FA") + page_title("Offseason FA") + FA_HTML.replace("/*DATA*/", data) + sort_js
     body += page_foot(d)
@@ -733,8 +760,7 @@ FA_HTML = r"""
 <script>
 var DATA = /*DATA*/;
 (function () {
-  var LIMIT = { 1: 3, 2: 5, 3: 10 };
-  var MAXSAL = 25000000;
+  var R = DATA.rules, LIMIT = R.limits, MAXSAL = R.maxSal;
   var KEY = 'swbaOffseasonFA';
   var byId = {}, teamById = {};
   DATA.fas.forEach(function (p) { byId[p.id] = p; });
@@ -743,6 +769,7 @@ var DATA = /*DATA*/;
   try { S = JSON.parse(localStorage.getItem(KEY)); } catch (e) { S = null; }
   if (!S || !S.sel) S = { team: DATA.teams.length ? String(DATA.teams[0].id) : '', round: '1', sel: {} };
   if (!S.bid) S.bid = {};
+  if (!DATA.teams.some(function (t) { return String(t.id) === String(S.team); })) S.team = DATA.teams.length ? String(DATA.teams[0].id) : '';
   if (!S.bird) S.bird = {};
   if (!S.salOver) S.salOver = {};
   Object.keys(S.sel).forEach(function (k) { if (!byId[k]) { delete S.sel[k]; delete S.bid[k]; } }); // signed elsewhere since
@@ -772,7 +799,7 @@ var DATA = /*DATA*/;
     var b = S.bid[id], bird = hasBird(id);
     if (!bird && capRoom() <= 0) { if (!b.min) b.forced = true; b.min = true; } // over the soft cap: min offers only
     else if (b.forced) { b.min = false; b.forced = false; }
-    var maxY = bird ? 5 : 4, maxR = bird ? 10 : 5;
+    var maxY = R.yrs[bird ? 1 : 0], maxR = R.raise[bird ? 1 : 0];
     if (+b.yrs > maxY) b.yrs = String(maxY);
     if (Math.abs(+b.raise) > maxR) b.raise = String(+b.raise > 0 ? maxR : -maxR);
     if (b.min) { b.yrs = '1'; b.raise = '0'; b.opt = 'None'; } // min deals: 1 year, no raise, no option
@@ -843,9 +870,9 @@ var DATA = /*DATA*/;
     var ids = sortedSel(), h = '';
     ids.forEach(function (id, k) {
       var p = byId[id], b = bidOf(id), bird = hasBird(id);
-      var yrs = [], rs = [], maxY = bird ? 5 : 4, maxR = bird ? 10 : 5;
+      var yrs = [], rs = [], maxY = R.yrs[bird ? 1 : 0], maxR = R.raise[bird ? 1 : 0];
       for (var y = 1; y <= maxY; y++) yrs.push([y, y + (y === 1 ? ' year' : ' years')]);
-      for (var r = maxR; r >= -maxR; r -= 0.5) rs.push([r, raiseLabel(r)]);
+      for (var r = maxR; r >= -maxR - 1e-9; r = Math.round((r - R.step) * 1000) / 1000) rs.push([r, raiseLabel(r)]);
       h += '<tr align=center class=row' + (k % 2 + 1) + '>' +
         '<td align=left class=main>&nbsp;' + (k + 1) + '</td>' +
         '<td align=left class=main>' + esc(p.n) + '</td>' +
