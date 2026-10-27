@@ -60,26 +60,21 @@
        <td class=main>&nbsp;</td>
    </tr>
    <tr align=center class=row2>
-       <td class=main align=left>&nbsp;<a class=linkmain href=./rosters/roster19.htm>Memphis</a></td>
-       <td class=main><font color=#FF0000>8</font></td>
-       <td class=main>&nbsp;</td>
-   </tr>
-   <tr align=center class=row1>
        <td class=main align=left>&nbsp;<a class=linkmain href=./rosters/roster27.htm>Philadelphia</a></td>
        <td class=main><font color=#FF0000>9</font></td>
        <td class=main>&nbsp;</td>
    </tr>
-   <tr align=center class=row2>
+   <tr align=center class=row1>
        <td class=main align=left>&nbsp;<a class=linkmain href=./rosters/roster29.htm>Portland</a></td>
        <td class=main><font color=#FF0000>9</font></td>
        <td class=main>&nbsp;</td>
    </tr>
-   <tr align=center class=row1>
+   <tr align=center class=row2>
        <td class=main align=left>&nbsp;<a class=linkmain href=./rosters/roster31.htm>San Antonio</a></td>
        <td class=main><font color=#FF0000>9</font></td>
        <td class=main>&nbsp;</td>
    </tr>
-   <tr align=center class=row2>
+   <tr align=center class=row1>
        <td class=main align=left>&nbsp;<a class=linkmain href=./rosters/roster33.htm>Warsaw</a></td>
        <td class=main><font color=#FF0000>9</font></td>
        <td class=main>&nbsp;</td>
@@ -184,8 +179,8 @@
    </tr>
    <tr align=center class=row1>
        <td class=main align=left>&nbsp;<a class=linkmain href=./rosters/roster19.htm>Memphis</a></td>
-       <td class=main><font color=#FF0000>8</font></td>
-       <td class=main>$78,309,262</td>
+       <td class=main>12</td>
+       <td class=main>$81,349,262</td>
        <td class=main>&nbsp;</td>
    </tr>
    <tr align=center class=row2>
@@ -293,68 +288,8 @@
 </table>
 <br>
 <font size=2><a class=linkmain href="http://www.greydogsoftware.com">Grey Dog Software</a> | </font>
-<font size=2>SWBA S3 SIM 6 | Page created: October 25, 2026</font>
+<font size=2>SWBA S3 Round Conference Finals | Page created: October 26, 2026</font>
 
-<!-- sortable-columns -->
-<script>
-window.sortInit = function () {
-  function txt(td) { return (td.textContent || '').replace(/ /g, ' ').trim(); }
-  function key(td) {
-    var t = txt(td);
-    var m = t.match(/^(\d+)-(\d+)$/);            // height like 6-8
-    if (m) return +m[1] * 12 + +m[2];
-    var n = t.replace(/[$,%]/g, '');
-    if (n !== '' && !isNaN(n)) return parseFloat(n);
-    return t.toLowerCase();
-  }
-  function cells(tr) {
-    var out = [];
-    for (var i = 0; i < tr.children.length; i++)
-      if (tr.children[i].tagName === 'TD' || tr.children[i].tagName === 'TH') out.push(tr.children[i]);
-    return out;
-  }
-  function isData(tr) { return /\brow[12]\b/.test(tr.className); }
-
-  var rows = document.getElementsByTagName('tr');
-  for (var r = 0; r < rows.length; r++) {
-    var hr = rows[r], hc = cells(hr), posIdx = -1;
-    for (var i = 0; i < hc.length; i++) {
-      if (/\bheader\b/.test(hc[i].className) && txt(hc[i]) === 'Pos') { posIdx = i; break; }
-    }
-    if (posIdx < 0) continue;
-    (function (hr, hc, posIdx) {
-      for (var c = posIdx; c < hc.length; c++) {
-        if (txt(hc[c]) === '') continue;
-        (function (c) {
-          var dir = 0;
-          hc[c].style.cursor = 'pointer';
-          hc[c].title = 'Click to sort';
-          hc[c].onclick = function () {
-            var data = [], n = hr.nextElementSibling;
-            while (n && isData(n)) { data.push(n); n = n.nextElementSibling; }
-            if (!data.length) return;
-            var first = data[0].children[c];
-            if (first && first.getElementsByTagName('table').length) return; // colour-box columns
-            var numeric = typeof key(first) === 'number';
-            dir = dir === 0 ? (numeric ? -1 : 1) : -dir;   // numbers: high first; text: A-Z
-            var idx = data.map(function (tr, k) { return [tr, k]; });
-            idx.sort(function (a, b) {
-              var x = key(cells(a[0])[c] || a[0]), y = key(cells(b[0])[c] || b[0]);
-              if (typeof x !== typeof y) { x = String(x); y = String(y); }
-              return x < y ? -dir : x > y ? dir : a[1] - b[1];
-            });
-            var anchor = n, parent = hr.parentNode;
-            idx.forEach(function (p, k) {
-              p[0].className = p[0].className.replace(/\brow[12]\b/, k % 2 ? 'row2' : 'row1');
-              parent.insertBefore(p[0], anchor);
-            });
-          };
-        })(c);
-      }
-    })(hr, hc, posIdx);
-  }
-}; sortInit();
-</script>
 
 </body>
 </HTML>

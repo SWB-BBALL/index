@@ -25,11 +25,15 @@ SPENDING_LIMIT = 100000000        # soft cap; under it a team can bid (cap - sal
                                   # at or over it non-Bird bids are mins only. None = use the game's cap.
 MAX_STARTING_SALARY = 25000000    # most a bid's first-year salary can be
 FA_BID_LIMITS = {1: 3, 2: 5, 3: 10}   # bids allowed in FA 1 / FA 2 / FA 3 (previous players don't count)
+MIN_OFFER_ROUNDS = [2, 3]         # FA rounds where min offers are allowed (none in FA 1)
 MAX_YEARS_NON_BIRD = 4
 MAX_YEARS_BIRD = 5
 MAX_RAISE_NON_BIRD = 5            # max raise or cut, in %
 MAX_RAISE_BIRD = 10
 RAISE_STEP = 0.5                  # % steps in the Raise dropdown
+# Previous players = the team a player last played games for. When a franchise moves,
+# map its old abbreviation to the new one so its old players still count, e.g. {"SEA": "OKC"}
+TEAM_ABBREVIATION_ALIASES = {}
 
 # --- Commish Corner ---
 COMMISH_MAX_PLAYERS = 15          # flag teams with MORE players than this
@@ -74,10 +78,16 @@ window.sortInit = function () {
     }
     if (posIdx < 0) continue;
     (function (hr, hc, posIdx) {
-      for (var c = posIdx; c < hc.length; c++) {
-        if (txt(hc[c]) === '') continue;
-        (function (c) {
+      for (var c = 0; c < hc.length; c++) {
+        var byLast = hc[c].getAttribute && hc[c].getAttribute('data-lastname');
+        if (txt(hc[c]) === '' || (c < posIdx && !byLast)) continue;
+        (function (c, byLast) {
           var dir = 0;
+          function k(td) {
+            if (!byLast) return key(td);
+            var p = txt(td).replace(/\s+(Jr\.?|Sr\.?|II|III|IV|V)$/i, '').split(/\s+/);
+            return (p[p.length - 1] + ' ' + p.slice(0, -1).join(' ')).toLowerCase();
+          }
           hc[c].style.cursor = 'pointer';
           hc[c].title = 'Click to sort';
           hc[c].onclick = function () {
@@ -86,11 +96,11 @@ window.sortInit = function () {
             if (!data.length) return;
             var first = data[0].children[c];
             if (first && first.getElementsByTagName('table').length) return; // colour-box columns
-            var numeric = typeof key(first) === 'number';
+            var numeric = typeof k(first) === 'number';
             dir = dir === 0 ? (numeric ? -1 : 1) : -dir;   // numbers: high first; text: A-Z
             var idx = data.map(function (tr, k) { return [tr, k]; });
             idx.sort(function (a, b) {
-              var x = key(cells(a[0])[c] || a[0]), y = key(cells(b[0])[c] || b[0]);
+              var x = k(cells(a[0])[c] || a[0]), y = k(cells(b[0])[c] || b[0]);
               if (typeof x !== typeof y) { x = String(x); y = String(y); }
               return x < y ? -dir : x > y ? dir : a[1] - b[1];
             });
@@ -100,7 +110,7 @@ window.sortInit = function () {
               parent.insertBefore(p[0], anchor);
             });
           };
-        })(c);
+        })(c, byLast);
       }
     })(hr, hc, posIdx);
   }
@@ -254,7 +264,9 @@ def page_title(title):
 def page_foot(d):
     html = read(os.path.join(d, "freeagents.htm"))
     m = re.search(r"(<font size=2><a class=linkmain href=\"http://www.greydogsoftware.com\".*?)</body>", html, re.S | re.I)
-    return (m.group(1) if m else "") + "\n</body>\n</HTML>\n"
+    foot = m.group(1) if m else ""
+    foot = re.sub(re.escape(MARKER) + r"\s*<script>.*?</script>\s*", "", foot, flags=re.S)  # don't copy the page's sort script
+    return foot + "\n</body>\n</HTML>\n"
 
 
 def build_commish(d, info):
@@ -651,38 +663,106 @@ var DATA = /*DATA*/;
 """
 
 
-def previous_team(d, player_id, teams):
-    """Most recent team the player was signed by or traded to (releases are ignored)."""
+def last_played(d, player_id):
+    """(season, team abbreviation) of the most recent league season the player has stats for."""
     path = os.path.join(d, "players", "player%d.htm" % player_id)
     if not os.path.isfile(path):
         return None
-    seg = section(read(path), "Transactions")
+    best = None
+    for c in rows(section(read(path), "Season Averages")):
+        if len(c) < 4:
+            continue
+        yr, abbr, games = clean(c[0]), clean(c[2]), clean(c[3])
+        if not yr.isdigit() or not abbr or not games.isdigit() or int(games) == 0:
+            continue
+        if best is None or int(yr) > best[0]:
+            best = (int(yr), abbr)
+    return best
+
+
+def team_abbreviations(d, teams, players):
+    """Work out each team's abbreviation (BOS, POR...) from what its current players' pages show."""
+    from collections import Counter
+    votes = {}
+    for p in players:
+        if p["t"] == "FA":
+            continue
+        lp = last_played(d, p["id"])
+        if lp:
+            votes.setdefault(lp[1], Counter())[p["t"]] += 1
+    return {abbr: c.most_common(1)[0][0] for abbr, c in votes.items()}
+
+
+def parse_date(t):
+    """Transaction dates come as 7/25/2007, 2007-10-16 or 1.02.2005. Returns (y, m, d) or None."""
+    t = t.strip()
+    m = re.match(r"^(\d{4})-(\d{1,2})-(\d{1,2})$", t)
+    if m:
+        return (int(m.group(1)), int(m.group(2)), int(m.group(3)))
+    m = re.match(r"^(\d{1,2})/(\d{1,2})/(\d{4})$", t)
+    if m:
+        return (int(m.group(3)), int(m.group(1)), int(m.group(2)))
+    m = re.match(r"^(\d{1,2})\.(\d{1,2})\.(\d{4})$", t)
+    if m:
+        return (int(m.group(3)), int(m.group(2)), int(m.group(1)))
+    return None
+
+
+def previous_team(d, player_id, abbr_map, teams):
+    """Who a free agent counts as a previous player for:
+       - start with the team he last played games for;
+       - then, for moves after that season ended (in order):
+           drafted / signed / re-signed  -> that team (even with no games played)
+           traded to a team              -> nobody, unless he went on to play for them that season
+           released / waived             -> nobody"""
+    lp = last_played(d, player_id)
+    path = os.path.join(d, "players", "player%d.htm" % player_id)
+    state = None
+    season = None
+    if lp:
+        season = lp[0]
+        abbr = lp[1] if lp[1] in abbr_map else TEAM_ABBREVIATION_ALIASES.get(lp[1], lp[1])
+        state = abbr_map.get(abbr)
+    played_for = state
     names = sorted(teams, key=lambda t: -len(t["name"]))
-    last = None
-    for c in rows(seg):
-        for cell in c:
-            txt = clean(cell)
-            if not re.match(r"(Signed with|Re-signed with|Signed by|Traded to)\b", txt, re.I):
+
+    def team_in(txt):
+        for t in names:
+            if t["name"] in txt:
+                return t["id"]
+        return None
+
+    if os.path.isfile(path):
+        for c in rows(section(read(path), "Transactions")):
+            if len(c) < 2:
                 continue
-            for t in names:
-                if t["name"] in txt:
-                    last = t["id"]
-                    break
-    return last
+            when, what = parse_date(clean(c[0])), clean(c[1])
+            if season is not None and when is not None and when < (season + 1, 7, 1):
+                continue                       # up to the end of his last season - already reflected above
+            in_last_season = season is not None and when is not None and when <= (season + 1, 6, 30)
+            if re.match(r"(Signed|Re-signed|Drafted)\b", what, re.I) and "extension" not in what.lower():
+                state = team_in(what)
+            elif re.match(r"Traded to\b", what, re.I):
+                to = team_in(what)
+                state = to if (in_last_season and to is not None and to == played_for) else None
+            elif re.match(r"(Released|Waived)\b", what, re.I):
+                state = None
+    return state
 
 
 def build_offseason_fa(d, teams, players):
+    abbr_map = team_abbreviations(d, teams, players)
     fas = []
     for p in players:
         if p["t"] == "FA":
             q = dict(p)
-            q["prev"] = previous_team(d, p["id"], teams)
+            q["prev"] = previous_team(d, p["id"], abbr_map, teams)
             fas.append(q)
     if SPENDING_LIMIT:
         for t in teams:
             t["cap"] = SPENDING_LIMIT
     rules = {"limits": {str(k): v for k, v in FA_BID_LIMITS.items()}, "maxSal": MAX_STARTING_SALARY,
-             "yrs": [MAX_YEARS_NON_BIRD, MAX_YEARS_BIRD], "raise": [MAX_RAISE_NON_BIRD, MAX_RAISE_BIRD], "step": RAISE_STEP}
+             "yrs": [MAX_YEARS_NON_BIRD, MAX_YEARS_BIRD], "raise": [MAX_RAISE_NON_BIRD, MAX_RAISE_BIRD], "step": RAISE_STEP, "minRounds": MIN_OFFER_ROUNDS}
     data = json.dumps({"teams": teams, "fas": fas, "attrs": ATTRS, "rules": rules}, separators=(",", ":")).replace("</", "<\\/")
     sort_js = SCRIPT.replace(MARKER, "")
     body = page_head(d, "Offseason FA") + page_title("Offseason FA") + FA_HTML.replace("/*DATA*/", data) + sort_js
@@ -797,7 +877,8 @@ var DATA = /*DATA*/;
   function bidOf(id) {
     if (!S.bid[id]) S.bid[id] = { min: false, sal: '', yrs: '1', raise: '0', opt: 'None' };
     var b = S.bid[id], bird = hasBird(id);
-    if (!bird && capRoom() <= 0) { if (!b.min) b.forced = true; b.min = true; } // over the soft cap: min offers only
+    if (!minsAllowed()) { b.min = false; b.forced = false; }              // no min offers this round
+    else if (!bird && capRoom() <= 0) { if (!b.min) b.forced = true; b.min = true; } // over the soft cap: min offers only
     else if (b.forced) { b.min = false; b.forced = false; }
     var maxY = R.yrs[bird ? 1 : 0], maxR = R.raise[bird ? 1 : 0];
     if (+b.yrs > maxY) b.yrs = String(maxY);
@@ -806,6 +887,9 @@ var DATA = /*DATA*/;
     return b;
   }
   function team() { return teamById[S.team] || {}; }
+  function minsAllowed() { return R.minRounds.indexOf(+S.round) >= 0; }
+  // over the soft cap in a round with no mins: a non-Bird player can't be offered anything
+  function blocked(id) { return !minsAllowed() && !hasBird(id) && capRoom() <= 0; }
   function curSalary() {
     var o = S.salOver[S.team];
     return (o !== undefined && o !== '') ? parseMoney(o) : (team().sal || 0);
@@ -817,7 +901,7 @@ var DATA = /*DATA*/;
   $('team').innerHTML = o;
   $('round').value = S.round;
   $('team').onchange = function () { S.team = this.value; save(); showSalary(); render(); };
-  $('round').onchange = function () { S.round = this.value; save(); update(); };
+  $('round').onchange = function () { S.round = this.value; save(); renderBids(); };
   function showSalary() { $('salover').value = money(curSalary()); }
   $('salover').onchange = function () { S.salOver[S.team] = String(parseMoney(this.value)); this.value = money(curSalary()); save(); renderBids(); };
   $('salreset').onclick = function () { delete S.salOver[S.team]; save(); showSalary(); renderBids(); };
@@ -825,7 +909,7 @@ var DATA = /*DATA*/;
 
   function header(prev) {
     var h = '<tr align=center><td align=left class=header width=25>&nbsp;</td>' +
-      '<td align=left class=header width=150>Name</td><td class=header width=50>Pos</td><td class=header width=50>Age</td>' +
+      '<td align=left class=header width=150 data-lastname=1>Name</td><td class=header width=50>Pos</td><td class=header width=50>Age</td>' +
       '<td class=header width=50>Ht</td><td class=header width=50>Wt</td><td class=header width=40>Cur</td><td class=header width=40>Fut</td>';
     DATA.attrs.forEach(function (a) { h += '<td class=header width=40>' + a + '</td>'; });
     return h + '<td class=header width=*>&nbsp;</td></tr>';
@@ -879,12 +963,14 @@ var DATA = /*DATA*/;
         '<td class=main>' + (isPrev(p) ? '<input type=checkbox class=bbird data-id="' + id + '"' + (bird ? ' checked' : '') +
           ' title="Tick if you hold Bird rights on this player">' : '&nbsp;') + '</td>' +
         '<td class=main><input type=checkbox class=bmin data-id="' + id + '"' + (b.min ? ' checked' : '') +
-          (!bird && capRoom() <= 0 ? ' disabled title="Over the soft cap - min offers only for non-Bird players"' : '') + '></td>' +
+          (!minsAllowed() ? ' disabled title="No min offers in FA ' + S.round + '"' :
+           (!bird && capRoom() <= 0 ? ' disabled title="Over the soft cap - min offers only for non-Bird players"' : '')) + '></td>' +
+        (blocked(id) ? '<td class=main><font color=#FF0000>Over cap - no mins in FA ' + S.round + '</font></td>' :
         '<td class=main><input class=bsal data-id="' + id + '" size=13 value="' + esc(b.min ? '' : (b.sal ? money(parseMoney(b.sal)) : '')) + '"' +
-          (b.min ? ' disabled placeholder="Min offer" style="background:#C0C0C0"' : ' placeholder="$0"') + '></td>' +
-        '<td class=main>' + sel('byrs', id, yrs, b.yrs, b.min) + '</td>' +
-        '<td class=main>' + sel('braise', id, rs, b.raise, b.min) + '</td>' +
-        '<td class=main>' + sel('bopt', id, [['None', 'None'], ['Team Option', 'Team Option'], ['Player Option', 'Player Option']], b.opt, b.min) + '</td>' +
+          (b.min ? ' disabled placeholder="Min offer" style="background:#C0C0C0"' : ' placeholder="$0"') + '></td>') +
+        '<td class=main>' + sel('byrs', id, yrs, b.yrs, b.min || blocked(id)) + '</td>' +
+        '<td class=main>' + sel('braise', id, rs, b.raise, b.min || blocked(id)) + '</td>' +
+        '<td class=main>' + sel('bopt', id, [['None', 'None'], ['Team Option', 'Team Option'], ['Player Option', 'Player Option']], b.opt, b.min || blocked(id)) + '</td>' +
         '<td class=main>&nbsp;</td></tr>';
     });
     $('bidtbl').innerHTML = h || '<tr class=row1><td class=main colspan=9>&nbsp;Tick players below to add them to your bids</td></tr>';
@@ -918,11 +1004,12 @@ var DATA = /*DATA*/;
     $('bidcount').innerHTML = (used > lim ? '<font color=#FF0000>' + used + '</font>' : used) + ' / ' + lim +
       (prevCount ? ' &nbsp;+ ' + prevCount + ' prev' : '');
     var room = capRoom(), total = 0, ids = sortedSel();
-    ids.forEach(function (id) { var b = bidOf(id); if (!b.min && !hasBird(id)) total += Math.min(parseMoney(b.sal), MAXSAL); });
+    ids.forEach(function (id) { var b = bidOf(id); if (!b.min && !hasBird(id) && !blocked(id)) total += Math.min(parseMoney(b.sal), MAXSAL); });
+    var valid = ids.filter(function (id) { return !blocked(id); });
     $('caproom').innerHTML = room <= 0 ? '<font color=#FF0000>Over cap - mins only</font>' : money(room);
     $('bidtotal').innerHTML = total > Math.max(room, 0) ? '<font color=#FF8080>' + money(total) + ' (over cap room)</font>' : money(total);
     var t = '**' + (team().name || '') + ' - FA ' + S.round + '**\n';
-    t += ids.length ? ids.map(function (id, i) {
+    t += valid.length ? valid.map(function (id, i) {
       var b = bidOf(id);
       var sal = b.min ? 'Min' : money(Math.min(parseMoney(b.sal), MAXSAL));
       return (i + 1) + '. ' + byId[id].n + ' - ' + sal + ' - ' + b.yrs + (+b.yrs === 1 ? ' year' : ' years') +

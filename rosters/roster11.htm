@@ -618,7 +618,7 @@
        <td class=main>&nbsp;23</font></td>
        <td class=main align=left><a class=linkmain href=../players/player1463.htm>James Conway</a></font></td>
        <td class=main>SG</font></td>
-       <td class=main>20</font></td>
+       <td class=main>21</font></td>
        <td class=main>6-5</font></td>
        <td class=main>198</font></td>
        <td class=main>0</font></td>
@@ -974,7 +974,7 @@
        <td align=left class=main>&nbsp;23</font></td>
        <td align=left class=main><a class=linkmain href=../players/player1463.htm>James Conway</a></font></td>
        <td class=main>SG</font></td>
-       <td class=main>20</font></td>
+       <td class=main>21</font></td>
        <td class=main>6-5</font></td>
        <td class=main>198</font></td>
        <td class=main><table border=1 cellpadding=0 cellspacing=0><td bgcolor=#B0040C width=10 height=10></td></tr></table></td>
@@ -1366,7 +1366,7 @@
        <td align=left class=main>&nbsp;23</font></td>
        <td align=left class=main><a class=linkmain href=../players/player1463.htm>James Conway</a></font></td>
        <td class=main>SG</font></td>
-       <td class=main>20</font></td>
+       <td class=main>21</font></td>
        <td class=main>6-5</font></td>
        <td class=main>198</font></td>
        <td class=main><table border=1 cellpadding=0 cellspacing=0><td bgcolor=#B0040C width=10 height=10></td></tr></table></td>
@@ -4223,7 +4223,7 @@
 <hr width=800 align=left>
 <font size=2><a class=linkmain href="http://www.fbbgames.com/fbpb3/">Fast Break Pro Basketball 3</a> | </font>
 <font size=2><a class=linkmain href="http://www.greydogsoftware.com">Grey Dog Software</a> | </font>
-<font size=2>SWBA S3 SIM 6 | Page created: October 25, 2026</font>
+<font size=2>SWBA S3 Round Conference Finals | Page created: October 26, 2026</font>
 <!-- sortable-columns -->
 <script>
 window.sortInit = function () {
@@ -4252,10 +4252,16 @@ window.sortInit = function () {
     }
     if (posIdx < 0) continue;
     (function (hr, hc, posIdx) {
-      for (var c = posIdx; c < hc.length; c++) {
-        if (txt(hc[c]) === '') continue;
-        (function (c) {
+      for (var c = 0; c < hc.length; c++) {
+        var byLast = hc[c].getAttribute && hc[c].getAttribute('data-lastname');
+        if (txt(hc[c]) === '' || (c < posIdx && !byLast)) continue;
+        (function (c, byLast) {
           var dir = 0;
+          function k(td) {
+            if (!byLast) return key(td);
+            var p = txt(td).replace(/\s+(Jr\.?|Sr\.?|II|III|IV|V)$/i, '').split(/\s+/);
+            return (p[p.length - 1] + ' ' + p.slice(0, -1).join(' ')).toLowerCase();
+          }
           hc[c].style.cursor = 'pointer';
           hc[c].title = 'Click to sort';
           hc[c].onclick = function () {
@@ -4264,11 +4270,11 @@ window.sortInit = function () {
             if (!data.length) return;
             var first = data[0].children[c];
             if (first && first.getElementsByTagName('table').length) return; // colour-box columns
-            var numeric = typeof key(first) === 'number';
+            var numeric = typeof k(first) === 'number';
             dir = dir === 0 ? (numeric ? -1 : 1) : -dir;   // numbers: high first; text: A-Z
             var idx = data.map(function (tr, k) { return [tr, k]; });
             idx.sort(function (a, b) {
-              var x = key(cells(a[0])[c] || a[0]), y = key(cells(b[0])[c] || b[0]);
+              var x = k(cells(a[0])[c] || a[0]), y = k(cells(b[0])[c] || b[0]);
               if (typeof x !== typeof y) { x = String(x); y = String(y); }
               return x < y ? -dir : x > y ? dir : a[1] - b[1];
             });
@@ -4278,7 +4284,7 @@ window.sortInit = function () {
               parent.insertBefore(p[0], anchor);
             });
           };
-        })(c);
+        })(c, byLast);
       }
     })(hr, hc, posIdx);
   }
