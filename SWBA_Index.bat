@@ -5,5 +5,5 @@ choice /C YN /M "Is this sim for Offseason FA"
 if errorlevel 2 goto run
 set "OFFSEASON=--offseason"
 :run
-where py >nul 2>nul && (py "%~dp0SWBA_Index.py" "%~dp0." %OFFSEASON%) || (python "%~dp0SWBA_Index.py" "%~dp0." %OFFSEASON%)
+where py >nul 2>nul && (py "%~dp0SWBA_Index.py" %OFFSEASON%) || (python "%~dp0SWBA_Index.py" %OFFSEASON%)
 pause

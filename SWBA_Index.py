@@ -25,11 +25,25 @@ SPENDING_LIMIT = 100000000        # soft cap; under it a team can bid (cap - sal
                                   # at or over it non-Bird bids are mins only. None = use the game's cap.
 MAX_STARTING_SALARY = 25000000    # most a bid's first-year salary can be
 FA_BID_LIMITS = {1: 3, 2: 5, 3: 10}   # bids allowed in FA 1 / FA 2 / FA 3 (previous players don't count)
+MIN_OFFER_ROUNDS = [1, 2, 3]         # FA rounds where min offers are allowed
 MAX_YEARS_NON_BIRD = 4
 MAX_YEARS_BIRD = 5
 MAX_RAISE_NON_BIRD = 5            # max raise or cut, in %
-MAX_RAISE_BIRD = 10
+MAX_RAISE_BIRD = 8
 RAISE_STEP = 0.5                  # % steps in the Raise dropdown
+# Team abbreviations in the Training Camp CSVs: when a franchise moves, map its old
+# abbreviation to the new one, e.g. {"SEA": "OKC"}
+TEAM_ABBREVIATION_ALIASES = {}
+
+# --- Folders ---
+# Both are relative to the folder this script is in (or give a full path).
+# Now:            SITE_FOLDER = "."   and SITE_FILES_FOLDER = ""
+# GitHub layout:  SITE_FOLDER = ".."  and SITE_FILES_FOLDER = "site files"
+SITE_FOLDER = "../"                 # the folder with the site's .htm files (the game's export)
+SITE_FILES_FOLDER = "."            # permanent site files, copied into SITE_FOLDER on every run ("" = off)
+
+# --- Training Camp ---
+TC_REVERSAL_MAX_AGE = 31          # players this age or older can't have training camp reversed
 
 # --- Commish Corner ---
 COMMISH_MAX_PLAYERS = 15          # flag teams with MORE players than this
@@ -43,6 +57,34 @@ import sys
 import zipfile
 import shutil
 import tempfile
+
+
+def script_dir():
+    return os.path.dirname(os.path.abspath(__file__))
+
+
+def resolve(p):
+    return p if os.path.isabs(p) else os.path.normpath(os.path.join(script_dir(), p))
+
+
+def copy_site_files(site):
+    """Copy everything in SITE_FILES_FOLDER into the site folder, overwriting."""
+    if not SITE_FILES_FOLDER:
+        return
+    src = resolve(SITE_FILES_FOLDER)
+    if not os.path.isdir(src):
+        print("Site files folder not found: " + src)
+        return
+    n = 0
+    for dp, dirs, files in os.walk(src):
+        rel = os.path.relpath(dp, src)
+        dst = os.path.normpath(os.path.join(site, rel))
+        os.makedirs(dst, exist_ok=True)
+        for f in files:
+            shutil.copy2(os.path.join(dp, f), os.path.join(dst, f))
+            n += 1
+    print("Copied %d site file(s) from %s" % (n, src))
+
 
 MARKER = "<!-- sortable-columns -->"
 
@@ -74,10 +116,16 @@ window.sortInit = function () {
     }
     if (posIdx < 0) continue;
     (function (hr, hc, posIdx) {
-      for (var c = posIdx; c < hc.length; c++) {
-        if (txt(hc[c]) === '') continue;
-        (function (c) {
+      for (var c = 0; c < hc.length; c++) {
+        var byLast = hc[c].getAttribute && hc[c].getAttribute('data-lastname');
+        if (txt(hc[c]) === '' || (c < posIdx && !byLast)) continue;
+        (function (c, byLast) {
           var dir = 0;
+          function k(td) {
+            if (!byLast) return key(td);
+            var p = txt(td).replace(/\s+(Jr\.?|Sr\.?|II|III|IV|V)$/i, '').split(/\s+/);
+            return (p[p.length - 1] + ' ' + p.slice(0, -1).join(' ')).toLowerCase();
+          }
           hc[c].style.cursor = 'pointer';
           hc[c].title = 'Click to sort';
           hc[c].onclick = function () {
@@ -86,11 +134,11 @@ window.sortInit = function () {
             if (!data.length) return;
             var first = data[0].children[c];
             if (first && first.getElementsByTagName('table').length) return; // colour-box columns
-            var numeric = typeof key(first) === 'number';
+            var numeric = typeof k(first) === 'number';
             dir = dir === 0 ? (numeric ? -1 : 1) : -dir;   // numbers: high first; text: A-Z
             var idx = data.map(function (tr, k) { return [tr, k]; });
             idx.sort(function (a, b) {
-              var x = key(cells(a[0])[c] || a[0]), y = key(cells(b[0])[c] || b[0]);
+              var x = k(cells(a[0])[c] || a[0]), y = k(cells(b[0])[c] || b[0]);
               if (typeof x !== typeof y) { x = String(x); y = String(y); }
               return x < y ? -dir : x > y ? dir : a[1] - b[1];
             });
@@ -100,7 +148,7 @@ window.sortInit = function () {
               parent.insertBefore(p[0], anchor);
             });
           };
-        })(c);
+        })(c, byLast);
       }
     })(hr, hc, posIdx);
   }
@@ -254,7 +302,9 @@ def page_title(title):
 def page_foot(d):
     html = read(os.path.join(d, "freeagents.htm"))
     m = re.search(r"(<font size=2><a class=linkmain href=\"http://www.greydogsoftware.com\".*?)</body>", html, re.S | re.I)
-    return (m.group(1) if m else "") + "\n</body>\n</HTML>\n"
+    foot = m.group(1) if m else ""
+    foot = re.sub(re.escape(MARKER) + r"\s*<script>.*?</script>\s*", "", foot, flags=re.S)  # don't copy the page's sort script
+    return foot + "\n</body>\n</HTML>\n"
 
 
 def build_commish(d, info):
@@ -302,16 +352,17 @@ def build_commish(d, info):
     write(os.path.join(d, "CommishCorner.htm"), body)
 
 
-def patch_menu(d, offseason=False):
+def patch_menu(d, offseason=False, training_camp=False):
     path = os.path.join(d, "menu.htm")
     if not os.path.isfile(path):
         return
     html = read(path)
     if not offseason:
         html = re.sub(r"<tr valign=top><td><a class=menulink target=data href=offseasonfa.htm>.*?</tr>\n?", "", html)
-        write(path, html)
+    # Training Camp always goes last in the list, so take it out and re-add it below
+    html = re.sub(r"<tr valign=top><td><a class=menulink target=data href=trainingcamp.htm>.*?</tr>\n?", "", html)
     add = ""
-    for href, label in (("capreport.htm", "Cap Report"), ("depthchart.htm", "Depth Chart")) + ((("offseasonfa.htm", "Offseason FA"),) if offseason else ()):
+    for href, label in (("capreport.htm", "Cap Report"), ("depthchart.htm", "Depth Chart")) + ((("offseasonfa.htm", "Offseason FA"),) if offseason else ()) + ((("trainingcamp.htm", "Training Camp"),) if training_camp else ()):
         if ("href=" + href) not in html:
             add += "<tr valign=top><td><a class=menulink target=data href=%s>%s</a></td></tr>\n" % (href, label)
     if add:
@@ -651,38 +702,130 @@ var DATA = /*DATA*/;
 """
 
 
-def previous_team(d, player_id, teams):
-    """Most recent team the player was signed by or traded to (releases are ignored)."""
+def last_played(d, player_id):
+    """(season, team abbreviation) of the most recent league season the player has stats for."""
     path = os.path.join(d, "players", "player%d.htm" % player_id)
     if not os.path.isfile(path):
         return None
-    seg = section(read(path), "Transactions")
-    names = sorted(teams, key=lambda t: -len(t["name"]))
-    last = None
-    for c in rows(seg):
-        for cell in c:
-            txt = clean(cell)
-            if not re.match(r"(Signed with|Re-signed with|Signed by|Traded to)\b", txt, re.I):
-                continue
-            for t in names:
-                if t["name"] in txt:
-                    last = t["id"]
-                    break
-    return last
+    best = None
+    for c in rows(section(read(path), "Season Averages")):
+        if len(c) < 4:
+            continue
+        yr, abbr, games = clean(c[0]), clean(c[2]), clean(c[3])
+        if not yr.isdigit() or not abbr or not games.isdigit() or int(games) == 0:
+            continue
+        if best is None or int(yr) > best[0]:
+            best = (int(yr), abbr)
+    return best
 
 
-def build_offseason_fa(d, teams, players):
-    fas = []
+def team_abbreviations(d, teams, players):
+    """Work out each team's abbreviation (BOS, POR...) from what its current players' pages show."""
+    from collections import Counter
+    votes = {}
     for p in players:
         if p["t"] == "FA":
-            q = dict(p)
-            q["prev"] = previous_team(d, p["id"], teams)
-            fas.append(q)
+            continue
+        lp = last_played(d, p["id"])
+        if lp:
+            votes.setdefault(lp[1], Counter())[p["t"]] += 1
+    # one abbreviation per team: hand them out strongest match first, so a team whose
+    # roster is full of another team's former players (common in the offseason) can't steal it
+    pairs = sorted(((n, abbr, tid) for abbr, c in votes.items() for tid, n in c.items()), reverse=True)
+    out, used = {}, set()
+    for n, abbr, tid in pairs:
+        if abbr not in out and tid not in used:
+            out[abbr] = tid
+            used.add(tid)
+    # anything left over: match the abbreviation to a team name (ORL -> Orlando, NYK -> New York)
+    for abbr in votes:
+        if abbr in out:
+            continue
+        for t in teams:
+            if t["id"] in used:
+                continue
+            words = re.sub(r"[^A-Za-z ]", "", t["name"]).upper().split()
+            if t["name"].upper().replace(" ", "").startswith(abbr) or "".join(w[0] for w in words) == abbr[:len(words)]:
+                out[abbr] = t["id"]
+                used.add(t["id"])
+                break
+    return out
+
+
+def parse_date(t):
+    """Transaction dates come as 7/25/2007, 2007-10-16 or 1.02.2005. Returns (y, m, d) or None."""
+    t = t.strip()
+    m = re.match(r"^(\d{4})-(\d{1,2})-(\d{1,2})$", t)
+    if m:
+        return (int(m.group(1)), int(m.group(2)), int(m.group(3)))
+    m = re.match(r"^(\d{1,2})/(\d{1,2})/(\d{4})$", t)
+    if m:
+        return (int(m.group(3)), int(m.group(1)), int(m.group(2)))
+    m = re.match(r"^(\d{1,2})\.(\d{1,2})\.(\d{4})$", t)
+    if m:
+        return (int(m.group(3)), int(m.group(2)), int(m.group(1)))
+    return None
+
+
+def previous_team(d, player_id, abbr_map, teams):
+    """Who a free agent counts as a previous player for:
+       - start with the team he last played games for;
+       - then, for moves after that season ended (in order):
+           drafted / signed / re-signed / traded to a team -> that team (even with no games played)
+           released / waived                               -> nobody
+       - during his last season, only a release by the team he played for counts."""
+    lp = last_played(d, player_id)
+    path = os.path.join(d, "players", "player%d.htm" % player_id)
+    state = None
+    season = None
+    if lp:
+        season = lp[0]
+        abbr = lp[1] if lp[1] in abbr_map else TEAM_ABBREVIATION_ALIASES.get(lp[1], lp[1])
+        state = abbr_map.get(abbr)
+    played_for = state
+    names = sorted(teams, key=lambda t: -len(t["name"]))
+
+    def team_in(txt):
+        for t in names:
+            if t["name"] in txt:
+                return t["id"]
+        return None
+
+    if os.path.isfile(path):
+        for c in rows(section(read(path), "Transactions")):
+            if len(c) < 2:
+                continue
+            when, what = parse_date(clean(c[0])), clean(c[1])
+            if season is not None and when is not None and when < (season, 10, 1):
+                continue                       # before his last season - already reflected above
+            in_last_season = season is not None and (when is None or when < (season + 1, 7, 1))
+            if in_last_season:
+                # during the season he last played: only a release by that team changes anything
+                # (the game sometimes logs moves with other teams that never took effect)
+                if re.match(r"(Released|Waived)\b", what, re.I) and played_for is not None and team_in(what) == played_for:
+                    state = None
+                continue
+            if re.match(r"(Signed|Re-signed|Drafted|Traded to)\b", what, re.I) and "extension" not in what.lower():
+                state = team_in(what)
+            elif re.match(r"(Released|Waived)\b", what, re.I):
+                state = None
+    return state
+
+
+def build_offseason_fa(d, teams, players, info=None):
+    fas = [p for p in players if p["t"] == "FA"]
+    # salary on the books = "Total Salary" for the first contract year on each team page
+    # (the Cap Report can include more than the signed contracts in the offseason)
+    for i in info or []:
+        if i.get("salary") is not None:
+            for t in teams:
+                if t["id"] == i["team"]["id"]:
+                    t["sal"] = i["salary"]
     if SPENDING_LIMIT:
         for t in teams:
             t["cap"] = SPENDING_LIMIT
     rules = {"limits": {str(k): v for k, v in FA_BID_LIMITS.items()}, "maxSal": MAX_STARTING_SALARY,
-             "yrs": [MAX_YEARS_NON_BIRD, MAX_YEARS_BIRD], "raise": [MAX_RAISE_NON_BIRD, MAX_RAISE_BIRD], "step": RAISE_STEP}
+             "yrs": [MAX_YEARS_NON_BIRD, MAX_YEARS_BIRD], "raise": [MAX_RAISE_NON_BIRD, MAX_RAISE_BIRD], "step": RAISE_STEP, "minRounds": MIN_OFFER_ROUNDS}
     data = json.dumps({"teams": teams, "fas": fas, "attrs": ATTRS, "rules": rules}, separators=(",", ":")).replace("</", "<\\/")
     sort_js = SCRIPT.replace(MARKER, "")
     body = page_head(d, "Offseason FA") + page_title("Offseason FA") + FA_HTML.replace("/*DATA*/", data) + sort_js
@@ -719,6 +862,7 @@ FA_HTML = r"""
    <tr align=center>
        <td align=left class=header width=25>&nbsp;#</td>
        <td align=left class=header width=170>Name</td>
+       <td class=header width=45>Prev</td>
        <td class=header width=45>Bird</td>
        <td class=header width=45>Min</td>
        <td class=header width=140>Starting Salary</td>
@@ -729,15 +873,10 @@ FA_HTML = r"""
    </tr>
    <tbody id=bidtbl></tbody>
    <tr align=center>
-       <td align=left class=header colspan=4>&nbsp;Non-Bird Total (excludes min offers)</td>
+       <td align=left class=header colspan=5>&nbsp;Non-Bird Total (excludes min offers)</td>
        <td class=header id=bidtotal>$0</td>
        <td class=header colspan=4>&nbsp;</td>
    </tr>
-</table>
-<br>
-<table width=800 border= 0  cellspacing= 0  cellpadding= 0 >
-   <tr><td class=tableheader colspan=8>&nbsp;Previous Players</td></tr>
-   <tbody id=prevtbl></tbody>
 </table>
 <br>
 <table width=800 border= 0  cellspacing= 0  cellpadding= 0 >
@@ -771,6 +910,7 @@ var DATA = /*DATA*/;
   if (!S.bid) S.bid = {};
   if (!DATA.teams.some(function (t) { return String(t.id) === String(S.team); })) S.team = DATA.teams.length ? String(DATA.teams[0].id) : '';
   if (!S.bird) S.bird = {};
+  if (!S.prev) S.prev = {};
   if (!S.salOver) S.salOver = {};
   Object.keys(S.sel).forEach(function (k) { if (!byId[k]) { delete S.sel[k]; delete S.bid[k]; } }); // signed elsewhere since
   function save() { try { localStorage.setItem(KEY, JSON.stringify(S)); } catch (e) {} }
@@ -781,8 +921,9 @@ var DATA = /*DATA*/;
   function boxCell(c) {
     return c ? '<table border=1 cellpadding=0 cellspacing=0><td bgcolor=' + c + ' width=10 height=10></td></tr></table>' : '&nbsp;';
   }
-  function isPrev(p) { return String(p.prev) === String(S.team); }
-  function hasBird(id) { return !!(S.bird[S.team] && S.bird[S.team][id]) && isPrev(byId[id]); }
+  function hasBird(id) { return !!(S.bird[S.team] && S.bird[S.team][id]); }
+  function isPrevId(id) { return hasBird(id) || !!(S.prev[S.team] && S.prev[S.team][id]); }  // Bird rights => previous player
+  function isPrev(p) { return isPrevId(p.id); }
   function bidsUsed() {
     return Object.keys(S.sel).filter(function (k) { return byId[k] && !isPrev(byId[k]); }).length;
   }
@@ -797,7 +938,8 @@ var DATA = /*DATA*/;
   function bidOf(id) {
     if (!S.bid[id]) S.bid[id] = { min: false, sal: '', yrs: '1', raise: '0', opt: 'None' };
     var b = S.bid[id], bird = hasBird(id);
-    if (!bird && capRoom() <= 0) { if (!b.min) b.forced = true; b.min = true; } // over the soft cap: min offers only
+    if (!minsAllowed()) { b.min = false; b.forced = false; }              // no min offers this round
+    else if (!bird && capRoom() <= 0) { if (!b.min) b.forced = true; b.min = true; } // over the soft cap: min offers only
     else if (b.forced) { b.min = false; b.forced = false; }
     var maxY = R.yrs[bird ? 1 : 0], maxR = R.raise[bird ? 1 : 0];
     if (+b.yrs > maxY) b.yrs = String(maxY);
@@ -806,9 +948,13 @@ var DATA = /*DATA*/;
     return b;
   }
   function team() { return teamById[S.team] || {}; }
+  function minsAllowed() { return R.minRounds.indexOf(+S.round) >= 0; }
+  // over the soft cap in a round with no mins: a non-Bird player can't be offered anything
+  function blocked(id) { return !minsAllowed() && !hasBird(id) && capRoom() <= 0; }
   function curSalary() {
     var o = S.salOver[S.team];
-    return (o !== undefined && o !== '') ? parseMoney(o) : (team().sal || 0);
+    if (o && typeof o === 'object' && o.base === (team().sal || 0)) return parseMoney(o.v);
+    return team().sal || 0;
   }
   function capRoom() { var t = team(); return (t.cap || 0) - curSalary(); }
 
@@ -817,15 +963,15 @@ var DATA = /*DATA*/;
   $('team').innerHTML = o;
   $('round').value = S.round;
   $('team').onchange = function () { S.team = this.value; save(); showSalary(); render(); };
-  $('round').onchange = function () { S.round = this.value; save(); update(); };
+  $('round').onchange = function () { S.round = this.value; save(); renderBids(); };
   function showSalary() { $('salover').value = money(curSalary()); }
-  $('salover').onchange = function () { S.salOver[S.team] = String(parseMoney(this.value)); this.value = money(curSalary()); save(); renderBids(); };
+  $('salover').onchange = function () { S.salOver[S.team] = { v: String(parseMoney(this.value)), base: team().sal || 0 }; this.value = money(curSalary()); save(); renderBids(); };
   $('salreset').onclick = function () { delete S.salOver[S.team]; save(); showSalary(); renderBids(); };
   showSalary();
 
   function header(prev) {
     var h = '<tr align=center><td align=left class=header width=25>&nbsp;</td>' +
-      '<td align=left class=header width=150>Name</td><td class=header width=50>Pos</td><td class=header width=50>Age</td>' +
+      '<td align=left class=header width=150 data-lastname=1>Name</td><td class=header width=50>Pos</td><td class=header width=50>Age</td>' +
       '<td class=header width=50>Ht</td><td class=header width=50>Wt</td><td class=header width=40>Cur</td><td class=header width=40>Fut</td>';
     DATA.attrs.forEach(function (a) { h += '<td class=header width=40>' + a + '</td>'; });
     return h + '<td class=header width=*>&nbsp;</td></tr>';
@@ -840,17 +986,15 @@ var DATA = /*DATA*/;
     return r + '<td class=main>&nbsp;</td></tr>';
   }
   function render() {
-    var prev = '', rest = '', i = 0, j = 0;
-    DATA.fas.forEach(function (p) { if (isPrev(p)) prev += row(p, i++, true); else rest += row(p, j++, false); });
-    $('prevtbl').innerHTML = header(true) + (prev || '<tr class=row1><td class=main colspan=25>&nbsp;None</td></tr>');
+    var rest = '', j = 0;
+    DATA.fas.forEach(function (p) { rest += row(p, j++, false); });
     $('fatbl').innerHTML = header(false) + (rest || '<tr class=row1><td class=main colspan=25>&nbsp;None</td></tr>');
     Array.prototype.forEach.call(document.querySelectorAll('input.pick'), function (c) {
       c.onclick = function () {
         var id = this.getAttribute('data-id'), p = byId[id];
-        if (this.checked && !isPrev(p) && bidsUsed() >= LIMIT[S.round]) {
-          this.checked = false;
-          alert('FA ' + S.round + ' allows ' + LIMIT[S.round] + ' bids (plus previous players).');
-          return;
+        if (this.checked && bidsUsed() >= LIMIT[S.round]) {
+          alert('That is more than the ' + LIMIT[S.round] + ' bids allowed in FA ' + S.round +
+                '. It is fine if one of them is a previous player - tick Prev for them in the Bids list.');
         }
         if (this.checked) S.sel[id] = 1; else delete S.sel[id];
         save(); renderBids();
@@ -876,18 +1020,22 @@ var DATA = /*DATA*/;
       h += '<tr align=center class=row' + (k % 2 + 1) + '>' +
         '<td align=left class=main>&nbsp;' + (k + 1) + '</td>' +
         '<td align=left class=main>' + esc(p.n) + '</td>' +
-        '<td class=main>' + (isPrev(p) ? '<input type=checkbox class=bbird data-id="' + id + '"' + (bird ? ' checked' : '') +
-          ' title="Tick if you hold Bird rights on this player">' : '&nbsp;') + '</td>' +
+        '<td class=main><input type=checkbox class=bprev data-id="' + id + '"' + (isPrevId(id) ? ' checked' : '') +
+          (bird ? ' disabled title="Bird rights - always a previous player"' : ' title="Tick if this is one of your previous players"') + '></td>' +
+        '<td class=main><input type=checkbox class=bbird data-id="' + id + '"' + (bird ? ' checked' : '') +
+          ' title="Tick if you hold Bird rights on this player"></td>' +
         '<td class=main><input type=checkbox class=bmin data-id="' + id + '"' + (b.min ? ' checked' : '') +
-          (!bird && capRoom() <= 0 ? ' disabled title="Over the soft cap - min offers only for non-Bird players"' : '') + '></td>' +
+          (!minsAllowed() ? ' disabled title="No min offers in FA ' + S.round + '"' :
+           (!bird && capRoom() <= 0 ? ' disabled title="Over the soft cap - min offers only for non-Bird players"' : '')) + '></td>' +
+        (blocked(id) ? '<td class=main><font color=#FF0000>Over cap - no mins in FA ' + S.round + '</font></td>' :
         '<td class=main><input class=bsal data-id="' + id + '" size=13 value="' + esc(b.min ? '' : (b.sal ? money(parseMoney(b.sal)) : '')) + '"' +
-          (b.min ? ' disabled placeholder="Min offer" style="background:#C0C0C0"' : ' placeholder="$0"') + '></td>' +
-        '<td class=main>' + sel('byrs', id, yrs, b.yrs, b.min) + '</td>' +
-        '<td class=main>' + sel('braise', id, rs, b.raise, b.min) + '</td>' +
-        '<td class=main>' + sel('bopt', id, [['None', 'None'], ['Team Option', 'Team Option'], ['Player Option', 'Player Option']], b.opt, b.min) + '</td>' +
+          (b.min ? ' disabled placeholder="Min offer" style="background:#C0C0C0"' : ' placeholder="$0"') + '></td>') +
+        '<td class=main>' + sel('byrs', id, yrs, b.yrs, b.min || blocked(id)) + '</td>' +
+        '<td class=main>' + sel('braise', id, rs, b.raise, b.min || blocked(id)) + '</td>' +
+        '<td class=main>' + sel('bopt', id, [['None', 'None'], ['Team Option', 'Team Option'], ['Player Option', 'Player Option']], b.opt, b.min || blocked(id)) + '</td>' +
         '<td class=main>&nbsp;</td></tr>';
     });
-    $('bidtbl').innerHTML = h || '<tr class=row1><td class=main colspan=9>&nbsp;Tick players below to add them to your bids</td></tr>';
+    $('bidtbl').innerHTML = h || '<tr class=row1><td class=main colspan=10>&nbsp;Tick players below to add them to your bids</td></tr>';
     function wire(cls, ev, fn) {
       Array.prototype.forEach.call(document.querySelectorAll('#bidtbl .' + cls), function (el) {
         el[ev] = function () { fn(this, S.bid[this.getAttribute('data-id')]); save(); update(); };
@@ -897,6 +1045,12 @@ var DATA = /*DATA*/;
       var id = el.getAttribute('data-id');
       if (!S.bird[S.team]) S.bird[S.team] = {};
       if (el.checked) S.bird[S.team][id] = 1; else delete S.bird[S.team][id];
+      save(); renderBids();
+    });
+    wire('bprev', 'onclick', function (el) {
+      var id = el.getAttribute('data-id');
+      if (!S.prev[S.team]) S.prev[S.team] = {};
+      if (el.checked) S.prev[S.team][id] = 1; else delete S.prev[S.team][id];
       save(); renderBids();
     });
     wire('bmin', 'onclick', function (el, b) { b.min = el.checked; b.forced = false; save(); renderBids(); });
@@ -916,13 +1070,14 @@ var DATA = /*DATA*/;
     var used = bidsUsed(), lim = LIMIT[S.round];
     var prevCount = Object.keys(S.sel).filter(function (k) { return byId[k] && isPrev(byId[k]); }).length;
     $('bidcount').innerHTML = (used > lim ? '<font color=#FF0000>' + used + '</font>' : used) + ' / ' + lim +
-      (prevCount ? ' &nbsp;+ ' + prevCount + ' prev' : '');
+      (prevCount ? ' &nbsp;+ ' + prevCount + ' prev' : '') + (used > lim ? ' <font color=#FF0000>over limit</font>' : '');
     var room = capRoom(), total = 0, ids = sortedSel();
-    ids.forEach(function (id) { var b = bidOf(id); if (!b.min && !hasBird(id)) total += Math.min(parseMoney(b.sal), MAXSAL); });
+    ids.forEach(function (id) { var b = bidOf(id); if (!b.min && !hasBird(id) && !blocked(id)) total += Math.min(parseMoney(b.sal), MAXSAL); });
+    var valid = ids.filter(function (id) { return !blocked(id); });
     $('caproom').innerHTML = room <= 0 ? '<font color=#FF0000>Over cap - mins only</font>' : money(room);
     $('bidtotal').innerHTML = total > Math.max(room, 0) ? '<font color=#FF8080>' + money(total) + ' (over cap room)</font>' : money(total);
     var t = '**' + (team().name || '') + ' - FA ' + S.round + '**\n';
-    t += ids.length ? ids.map(function (id, i) {
+    t += valid.length ? valid.map(function (id, i) {
       var b = bidOf(id);
       var sal = b.min ? 'Min' : money(Math.min(parseMoney(b.sal), MAXSAL));
       return (i + 1) + '. ' + byId[id].n + ' - ' + sal + ' - ' + b.yrs + (+b.yrs === 1 ? ' year' : ' years') +
@@ -948,6 +1103,258 @@ var DATA = /*DATA*/;
 """
 
 
+# ---------------------------------------------------------------------------
+# Training Camp: compare PRE-TC.csv and POST-TC.csv player exports
+# ---------------------------------------------------------------------------
+import csv
+
+TC_CUR = [("Ins", "InsideScoring"), ("Jps", "JumpShot"), ("Fts", "FtShot"), ("3ps", "3pShot"),
+          ("Hnd", "Handling"), ("Pas", "Passing"), ("Orb", "OReb"), ("Drb", "DReb"),
+          ("Psd", "PostDefense"), ("Prd", "PerimeterDefense"), ("Stl", "Stealing"), ("Blk", "Blocking"),
+          ("Qkn", "Quickness"), ("Jmp", "Jumping"), ("Str", "Strength"), ("Sta", "Stamina")]
+TC_POT = [("Ins", "PotInside"), ("Jps", "PotJumpShot"), ("Fts", "PotFtShot"), ("3ps", "Pot3pShot"),
+          ("Hnd", "PotHandling"), ("Pas", "PotPassing"), ("Orb", "PotOReb"), ("Drb", "PotDReb"),
+          ("Psd", "PotPostDefense"), ("Prd", "PotPerimeterDefense"), ("Stl", "PotStealing"), ("Blk", "PotBlocking")]
+
+
+def find_csv(dirs, name):
+    for d in dirs:
+        if not os.path.isdir(d):
+            continue
+        for f in os.listdir(d):
+            if f.lower() == name.lower():
+                return os.path.join(d, f)
+    return None
+
+
+def read_players_csv(path):
+    with open(path, "r", encoding="latin-1", newline="") as f:
+        out = {}
+        for r in csv.DictReader(f):
+            r = {(k or "").strip(): (v or "").strip() for k, v in r.items()}
+            if not r.get("LastName") and not r.get("FirstName"):
+                continue
+            out[(r.get("FirstName", "").lower(), r.get("LastName", "").lower(), r.get("DOB", ""))] = r
+        return out
+
+
+def num(v):
+    try:
+        return int(float(v))
+    except (TypeError, ValueError):
+        return None
+
+
+def csv_team_map(d, teams, players, csv_rows):
+    """Abbreviation -> team, read from the CSV itself: the team its players are on in the index.
+    Handles moved teams (e.g. OKC) without any settings. Falls back to the stats-page mapping."""
+    from collections import Counter
+    by_name = {}
+    for p in players:
+        by_name.setdefault(p["n"].lower(), []).append(p)
+    votes = {}
+    for r in csv_rows:
+        team = (r.get("Team", "") or "").upper()
+        if not team or team == "FA":
+            continue
+        c = by_name.get((r.get("FirstName", "") + " " + r.get("LastName", "")).strip().lower(), [])
+        if len(c) == 1 and c[0]["t"] != "FA":
+            votes.setdefault(team, Counter())[c[0]["t"]] += 1
+    out, used = {}, set()
+    for n, abbr, tid in sorted(((n, a, t) for a, cnt in votes.items() for t, n in cnt.items()), reverse=True):
+        if abbr not in out and tid not in used:
+            out[abbr] = tid
+            used.add(tid)
+    for abbr, tid in team_abbreviations(d, teams, players).items():
+        if abbr not in out and tid not in used:
+            out[abbr] = tid
+            used.add(tid)
+    for old, new in TEAM_ABBREVIATION_ALIASES.items():
+        if old not in out and new in out:
+            out[old] = out[new]
+    return out
+
+
+def build_training_camp(d, csv_dirs, teams, players):
+    pre_p, post_p = find_csv(csv_dirs, "PRE-TC.csv"), find_csv(csv_dirs, "POST-TC.csv")
+    if not (pre_p and post_p):
+        old = os.path.join(d, "trainingcamp.htm")   # no PRE-TC.csv / POST-TC.csv: hide the tool
+        if os.path.isfile(old):
+            os.remove(old)
+        return False
+    pre, post = read_players_csv(pre_p), read_players_csv(post_p)
+    abbr_map = csv_team_map(d, teams, players, post.values())
+    by_name = {}
+    for p in players:
+        by_name.setdefault(p["n"].lower(), []).append(p)
+    rows_out = []
+    for key, b in post.items():
+        team = b.get("Team", "").upper()
+        if not team or team == "FA":
+            continue
+        a = pre.get(key)
+        if a is None:
+            continue
+        tid = abbr_map.get(team) or abbr_map.get(TEAM_ABBREVIATION_ALIASES.get(team, ""))
+        if tid is None:
+            continue
+        name = (b.get("FirstName", "") + " " + b.get("LastName", "")).strip()
+        cands = by_name.get(name.lower(), [])
+        idx = next((p for p in cands if p["t"] == tid), cands[0] if cands else None)
+        cur = [[num(b.get(col)), (num(b.get(col)) or 0) - (num(a.get(col)) or 0)] for _, col in TC_CUR]
+        pot = [[num(b.get(col)), (num(b.get(col)) or 0) - (num(a.get(col)) or 0)] for _, col in TC_POT]
+        rows_out.append({"n": name, "t": tid, "pos": b.get("Position", ""),
+                         "age": idx["age"] if idx else "", "id": idx["id"] if idx else None,
+                         "cur": cur, "pot": pot})
+    data = {"teams": [{"id": t["id"], "name": t["name"]} for t in teams], "rows": rows_out,
+            "cur": [c for c, _ in TC_CUR], "pot": [c for c, _ in TC_POT], "maxAge": TC_REVERSAL_MAX_AGE}
+    js = json.dumps(data, separators=(",", ":")).replace("</", "<\\/")
+    body = page_head(d, "Training Camp") + page_title("Training Camp") + TC_HTML.replace("/*DATA*/", js)
+    body += SCRIPT.replace(MARKER, "") + page_foot(d)
+    write(os.path.join(d, "trainingcamp.htm"), body)
+    print("Built trainingcamp.htm (%d players compared)" % len(rows_out))
+    return True
+
+
+TC_HTML = r"""
+<table width=800 border= 0  cellspacing= 0  cellpadding= 0 >
+   <tr><td class=tableheader colspan=8>&nbsp;Setup</td></tr>
+   <tr align=center>
+       <td align=left class=header width=200>&nbsp;Team</td>
+       <td align=left class=header width=200>&nbsp;View</td>
+       <td align=left class=header width=200>&nbsp;Sort Players By</td>
+       <td class=header width=*>&nbsp;</td>
+   </tr>
+   <tr class=row1>
+       <td class=main align=left>&nbsp;<select id=tcteam></select></td>
+       <td class=main align=left>&nbsp;<label><input type=checkbox id=vteam>Team</label> &nbsp; <label><input type=checkbox id=vplayer>Player</label></td>
+       <td class=main align=left>&nbsp;<select id=tcsort>
+           <option value=last>Last Name</option>
+           <option value=curup>Biggest Current Gain</option>
+           <option value=curdown>Biggest Current Drop</option>
+           <option value=potup>Biggest Potential Gain</option>
+           <option value=potdown>Biggest Potential Drop</option>
+           <option value=age>Age</option>
+       </select></td>
+       <td class=main>&nbsp;</td>
+   </tr>
+</table>
+<br>
+<div id=tcout></div>
+
+<script>
+var DATA = /*DATA*/;
+(function () {
+  var KEY = 'tcView';
+  var S;
+  try { S = JSON.parse(localStorage.getItem(KEY)); } catch (e) { S = null; }
+  if (!S) S = { team: 'ALL', view: 'team', sort: 'last' };
+  if (S.team !== 'ALL' && !DATA.teams.some(function (t) { return String(t.id) === String(S.team); })) S.team = 'ALL';
+  function save() { try { localStorage.setItem(KEY, JSON.stringify(S)); } catch (e) {} }
+  function $(id) { return document.getElementById(id); }
+  function esc(s) { return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/"/g, '&quot;'); }
+  var teamName = {};
+  DATA.teams.forEach(function (t) { teamName[t.id] = t.name; });
+
+  var o = '<option value="ALL">All Teams</option>';
+  DATA.teams.forEach(function (t) { o += '<option value="' + t.id + '">' + esc(t.name) + '</option>'; });
+  $('tcteam').innerHTML = o;
+  $('tcteam').value = S.team;
+  $('tcsort').value = S.sort;
+  $('tcteam').onchange = function () { S.team = this.value; save(); render(); };
+  $('tcsort').onchange = function () { S.sort = this.value; save(); render(); };
+  function setView(v) { S.view = v; $('vteam').checked = v === 'team'; $('vplayer').checked = v === 'player'; save(); render(); }
+  $('vteam').onclick = function () { setView('team'); };      // only one view at a time
+  $('vplayer').onclick = function () { setView('player'); };
+
+  function lastName(n) {
+    var p = n.replace(/\s+(Jr\.?|Sr\.?|II|III|IV|V)$/i, '').split(/\s+/);
+    return (p[p.length - 1] + ' ' + p.slice(0, -1).join(' ')).toLowerCase();
+  }
+  function sum(a) { var s = 0; a.forEach(function (x) { s += x[1]; }); return s; }
+  function eligible(r) { var a = parseInt(r.age, 10); return isNaN(a) ? null : a < DATA.maxAge; }
+  function cell(x) {
+    if (x[0] === null) return '&nbsp;';
+    if (x[1] > 0) return x[0] + ' <font color=#008000><b>+' + x[1] + '</b></font>';
+    if (x[1] < 0) return x[0] + ' <font color=#FF0000><b>' + x[1] + '</b></font>';
+    return String(x[0]);
+  }
+  function nameLink(r, big) {
+    var st = big ? ' style="font-size:14pt; font-weight:bold"' : '';
+    return r.id ? '<a class=linkmain' + st + ' href=./players/player' + r.id + '.htm>' + esc(r.n) + '</a>' : esc(r.n);
+  }
+  function revText(r, long) {
+    var e = eligible(r);
+    if (e === null) return long ? 'Age unknown' : '?';
+    if (long) return e ? 'Eligible for reversal' : '<font color=#FF0000>Not eligible for reversal</font>';
+    return e ? 'Yes' : '<font color=#FF0000>No</font>';
+  }
+  function sorted() {
+    var rows = DATA.rows.filter(function (r) { return S.team === 'ALL' || String(r.t) === String(S.team); });
+    var f = {
+      last: function (a, b) { var x = lastName(a.n), y = lastName(b.n); return x < y ? -1 : x > y ? 1 : 0; },
+      curup: function (a, b) { return sum(b.cur) - sum(a.cur); },
+      curdown: function (a, b) { return sum(a.cur) - sum(b.cur); },
+      potup: function (a, b) { return sum(b.pot) - sum(a.pot); },
+      potdown: function (a, b) { return sum(a.pot) - sum(b.pot); },
+      age: function (a, b) { return (parseInt(b.age, 10) || 0) - (parseInt(a.age, 10) || 0); }
+    }[S.sort] || function () { return 0; };
+    return rows.sort(function (a, b) { return f(a, b) || (lastName(a.n) < lastName(b.n) ? -1 : 1); });
+  }
+
+  function teamTable(title, rows, which, cols) {
+    var all = S.team === 'ALL';
+    var h = '<table border= 0  cellspacing= 0  cellpadding= 0 >' +
+      '<tr><td class=tableheader colspan=8>&nbsp;' + title + '</td></tr><tr align=center>' +
+      '<td align=left class=header width=150 data-lastname=1>&nbsp;Name</td>' +
+      (all ? '<td align=left class=header width=110>Team</td>' : '') +
+      '<td class=header width=35>Pos</td><td class=header width=35>Age</td><td class=header width=60>Reversal</td>';
+    cols.forEach(function (c) { h += '<td class=header width=48>' + c + '</td>'; });
+    h += '<td class=header width=*>&nbsp;</td></tr>';
+    rows.forEach(function (r, k) {
+      h += '<tr align=center class=row' + (k % 2 + 1) + '><td align=left class=main nowrap>&nbsp;' + nameLink(r) + '</td>' +
+        (all ? '<td align=left class=main nowrap>' + esc(teamName[r.t] || '') + '</td>' : '') +
+        '<td class=main>' + esc(r.pos) + '</td><td class=main>' + esc(r.age) + '</td><td class=main>' + revText(r) + '</td>';
+      r[which].forEach(function (x) { h += '<td class=main nowrap>' + cell(x) + '</td>'; });
+      h += '<td class=main>&nbsp;</td></tr>';
+    });
+    if (!rows.length) h += '<tr class=row1><td class=main colspan=22>&nbsp;No players</td></tr>';
+    return h + '</table><br>';
+  }
+  function playerTable(r) {
+    var h = '<table width=800 border= 0  cellspacing= 0  cellpadding= 0 >' +
+      '<tr><td class=tableheader colspan=18>&nbsp;' + nameLink(r, true) + ' <font size=2 color=#000000>&nbsp;' +
+      esc(r.pos) + (S.team === 'ALL' ? ' &middot; ' + esc(teamName[r.t] || '') : '') +
+      ' &middot; Age ' + esc(r.age || '?') + ' &middot; ' + revText(r, true) + '</font></td></tr>' +
+      '<tr align=center><td align=left class=header width=70>&nbsp;</td>';
+    DATA.cur.forEach(function (c) { h += '<td class=header width=45>' + c + '</td>'; });
+    h += '<td class=header width=*>&nbsp;</td></tr>';
+    [['Current', r.cur], ['Potential', r.pot]].forEach(function (x, k) {
+      h += '<tr align=center class=row' + (k + 1) + '><td align=left class=main>&nbsp;' + x[0] + ':</td>';
+      for (var i = 0; i < DATA.cur.length; i++) h += '<td class=main nowrap>' + (x[1][i] ? cell(x[1][i]) : '&nbsp;') + '</td>';
+      h += '<td class=main>&nbsp;</td></tr>';
+    });
+    return h + '</table><br>';
+  }
+  function render() {
+    var rows = sorted();
+    if (S.view === 'player') {
+      $('tcout').innerHTML = rows.map(playerTable).join('') ||
+        '<table width=800 border=0 cellspacing=0 cellpadding=0><tr class=row1><td class=main>&nbsp;No players</td></tr></table>';
+    } else {
+      $('tcout').innerHTML = teamTable('Current Rating Changes', rows, 'cur', DATA.cur) +
+        teamTable('Potential Rating Changes', rows, 'pot', DATA.pot);
+      if (window.sortInit) sortInit();
+    }
+  }
+  $('vteam').checked = S.view !== 'player';
+  $('vplayer').checked = S.view === 'player';
+  render();
+})();
+</script>
+"""
+
+
 def build_extras(d, offseason=False):
     if not os.path.isfile(os.path.join(d, "capreport.htm")):
         print("capreport.htm not found - skipping Depth Chart / Commish Corner")
@@ -956,12 +1363,13 @@ def build_extras(d, offseason=False):
     build_depth_chart(d, teams, players)
     build_commish(d, info)
     if offseason:
-        build_offseason_fa(d, teams, players)
+        build_offseason_fa(d, teams, players, info)
     else:
         old = os.path.join(d, "offseasonfa.htm")
         if os.path.isfile(old):
             os.remove(old)
-    patch_menu(d, offseason)
+    tc = build_training_camp(d, [script_dir(), d, os.path.dirname(os.path.abspath(d))], teams, players)
+    patch_menu(d, offseason, tc)
     print("Built depthchart.htm (%d players), CommishCorner.htm%s; sidebar updated" % (len(players), " and offseasonfa.htm" if offseason else ""))
 
 
@@ -1027,13 +1435,15 @@ def preview(root, port=8200):
 def main():
     if "--preview" in sys.argv[1:]:
         rest = [a for a in sys.argv[1:] if a != "--preview"]
-        preview(find_html_dir(os.path.abspath(rest[0] if rest else ".")))
+        preview(find_html_dir(os.path.abspath(rest[0]) if rest else resolve(SITE_FOLDER)))
         return
     args = [a for a in sys.argv[1:] if a != "--offseason"]
     offseason = "--offseason" in sys.argv[1:]
-    if len(args) != 1:
+    if len(args) > 1:
         sys.exit(__doc__)
-    p = args[0]
+    p = args[0] if args else resolve(SITE_FOLDER)
+    if not zipfile.is_zipfile(p):
+        copy_site_files(find_html_dir(p))
     if zipfile.is_zipfile(p):
         tmp = tempfile.mkdtemp()
         with zipfile.ZipFile(p) as z:
